@@ -152,15 +152,6 @@ function rh_rewrite_external_urls(string $html, string $currentRoute = ''): stri
         $html
     ) ?? $html;
 
-    $html = preg_replace_callback(
-        '~__RH_BASE__/<"]*)?~i',
-        static function (array $m) use ($currentRoute): string {
-            $path = $m[1] ?? '/';
-            return rh_map_external_url('__RH_BASE__/' . $path, $currentRoute);
-        },
-        $html
-    ) ?? $html;
-
     // Visible URL text in body (spans, paragraphs) — skip w3.org namespaces in SVG
     $html = preg_replace_callback(
         '~https?://[^\s"\'<>]+~i',

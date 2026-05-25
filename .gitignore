@@ -1,0 +1,4 @@
+.DS_Store
+includes/contact-mail.local.php
+/vendor/
+composer.lock
