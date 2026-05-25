@@ -112,6 +112,10 @@ function rh_send_security_headers(): void
     header('X-Content-Type-Options: nosniff');
     header('X-Frame-Options: SAMEORIGIN');
     header('Referrer-Policy: strict-origin-when-cross-origin');
+    $frameSrc = "'self'";
+    if (defined('RH_BASE_URL')) {
+        $frameSrc .= ' ' . RH_BASE_URL . '/';
+    }
     header(
         'Content-Security-Policy: ' .
         "default-src 'self'; " .
@@ -120,7 +124,7 @@ function rh_send_security_headers(): void
         "img-src 'self' data: blob:; " .
         "font-src 'self' data:; " .
         "connect-src 'self'; " .
-        "frame-src 'self' __RH_BASE__/ " .
+        "frame-src {$frameSrc}; " .
         "object-src 'none'; " .
         "base-uri 'self'; " .
         "form-action 'self'"

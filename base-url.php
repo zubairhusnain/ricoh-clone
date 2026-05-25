@@ -13,7 +13,12 @@ function rh_install_base_path(): string
         return $path;
     }
 
-    $override = getenv('RH_BASE_PATH');
+    if (array_key_exists('RH_BASE_PATH', $_SERVER)) {
+        $override = (string)$_SERVER['RH_BASE_PATH'];
+    } else {
+        $env = getenv('RH_BASE_PATH');
+        $override = is_string($env) ? $env : null;
+    }
     if (is_string($override)) {
         $path = ($override === '' || $override === '/') ? '' : (str_starts_with($override, '/') ? $override : '/' . $override);
         return $path;
@@ -35,12 +40,22 @@ function rh_install_base_path(): string
                 if ($path !== '' && !str_starts_with($path, '/')) {
                     $path = '/' . $path;
                 }
+                // cPanel: PHP app in a subfolder (e.g. public_html/.pk) but /assets at docroot
+                if ($path !== '' && !is_dir($here . '/assets') && is_dir($root . '/assets')) {
+                    $path = '';
+                }
                 return $path;
             }
         }
     }
 
     $path = '/' . basename(__DIR__);
+    if (!is_dir(__DIR__ . '/assets')) {
+        $parent = dirname(__DIR__);
+        if (is_dir($parent . '/assets')) {
+            $path = '';
+        }
+    }
     return $path;
 }
 

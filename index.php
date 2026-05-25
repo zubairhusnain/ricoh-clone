@@ -12,7 +12,7 @@ rh_start_output_rewrite();
             <meta property="og:title" content="Ricoh Global">
             <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/img/og-image.webp">
                 <meta property="og:description" content="[Ricoh Global Official Website] At Ricoh, we empower individuals to find Fulfillment through Work by understanding and transforming how people work so we can unleash their potential and creativity to realize a sustainable future">
-            <meta property="og:url" content="__RH_BASE__//">
+            <meta property="og:url" content="__RH_BASE__/">
                 <meta property="og:country-name" content="Global">
                     <link rel="canonical" href="./">
     <!-- START ICONFILE -->

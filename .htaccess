@@ -1,6 +1,12 @@
 RewriteEngine On
 DirectoryIndex router.php
 
+# public_html root deploy (ricoh.com.pk): force asset URLs to /assets/ not /.pk/assets/
+<IfModule mod_setenvif.c>
+    SetEnvIf Host ^ricoh\.com\.pk$ RH_BASE_PATH=
+</IfModule>
+# Local XAMPP subfolder: comment the block above, or set e.g. RH_BASE_PATH /ricoh-clone/ricoh_offline
+
 # Block direct access to internal PHP tree
 RewriteRule ^pages/ - [F,L]
 
