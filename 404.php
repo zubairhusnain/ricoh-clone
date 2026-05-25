@@ -122,6 +122,7 @@ $pathDisplay = $showPath ? htmlspecialchars('/' . $requestedPath, ENT_QUOTES, 'U
                         <li><a href="__RH_BASE__/technology/" class="gl-menu_link fn-menu_main"><span>Technology</span></a></li>
                         <li><a href="__RH_BASE__/support/" class="gl-menu_link fn-menu_main"><span>Support &amp; Downloads</span></a></li>
                         <li><a href="__RH_BASE__/news/" class="gl-menu_link fn-menu_main"><span>News</span></a></li>
+                        <li><a href="__RH_BASE__/contact/" class="gl-menu_link fn-menu_main"><span>Contact</span></a></li>
                     </ul>
                 </div>
                 <template class="fn-menu_tpl-hamburger">

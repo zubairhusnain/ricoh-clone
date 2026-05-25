@@ -172,6 +172,9 @@ dl.c-linkCard--col2 dd.c-linkCard__item {
 </li><li>
 <a href="../../news/" class="{0D2ED999-CA97-40DF-A541-17D96E4A0DF5} gl-menu_link  fn-menu_main"><span>News</span></a>
 
+</li><li>
+<a href="../../contact/" class="gl-menu_link  fn-menu_main"><span>Contact</span></a>
+
 </li>
                     </ul>
                 </div>
