@@ -10,7 +10,9 @@ Broken (404) when HTML adds an extra `/.pk/` segment:
 
 `https://ricoh.com.pk/.pk/assets/...`
 
-That happens when PHP runs from a subfolder named `.pk` but `assets/` was uploaded to **public_html** root.
+That happened when a regex treated `ricoh.com` inside **`ricoh.com.pk`** as an external URL and injected `/.pk/` into asset paths (fixed in `includes/rh-external-urls.php`).
+
+It can also happen when PHP runs from a subfolder named `.pk` but `assets/` was uploaded to **public_html** root.
 
 ## Recommended layout (your setup)
 
@@ -25,6 +27,12 @@ Upload the **contents** of `ricoh_offline/` into `public_html/`:
 Do **not** put the site inside a `.pk` folder.
 
 The included `.htaccess` sets `RH_BASE_PATH` empty on `ricoh.com.pk` so CSS/JS use `/assets/...`.
+
+Upload at minimum:
+
+- `base-url.php`
+- `includes/rh-external-urls.php`
+- `.htaccess`
 
 After upload, view source and confirm:
 

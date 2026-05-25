@@ -6,10 +6,21 @@ require_once __DIR__ . '/includes/rh-sanitize-tracking.php';
 require_once __DIR__ . '/includes/rh-external-urls.php';
 require_once __DIR__ . '/includes/rh-404.php';
 
+function rh_is_production_host(): bool
+{
+    $host = strtolower((string)($_SERVER['HTTP_HOST'] ?? ''));
+    return $host === 'ricoh.com.pk' || $host === 'www.ricoh.com.pk';
+}
+
 function rh_install_base_path(): string
 {
     static $path = null;
     if ($path !== null) {
+        return $path;
+    }
+
+    if (rh_is_production_host()) {
+        $path = '';
         return $path;
     }
 
@@ -100,10 +111,6 @@ function rh_legacy_asset_prefixes(): array
     $override = getenv('RH_LEGACY_BAKE_PATH');
     if (is_string($override) && $override !== '') {
         $prefixes[] = rtrim($override, '/');
-    }
-    $base = rh_install_base_path();
-    if ($base !== '' && !in_array($base, $prefixes, true)) {
-        $prefixes[] = $base;
     }
 
     return $prefixes;
@@ -248,11 +255,31 @@ function rh_resolve_internal_href(string $currentRoute, string $href): ?string
 function rh_rewrite_baked_asset_urls(string $html): string
 {
     $base = RH_BASE_URL;
-    foreach (rh_legacy_asset_prefixes() as $prefix) {
-        if ($prefix !== '') {
-            $html = str_replace($prefix . '/assets/', $base . '/assets/', $html);
+    $target = $base . '/assets/';
+
+    $prefixes = rh_legacy_asset_prefixes();
+    usort($prefixes, static fn(string $a, string $b): int => strlen($b) <=> strlen($a));
+
+    foreach ($prefixes as $prefix) {
+        if ($prefix === '' || !str_starts_with($prefix, '/ricoh-clone')) {
+            continue;
         }
+        $html = str_replace($prefix . '/assets/', $target, $html);
     }
+
+    if (rh_is_production_host()) {
+        $html = preg_replace(
+            '~https?://ricoh\.com\.pk(?:/\d+)?(?:/\.pk)?(?:https?://ricoh\.com\.pk)?(?:/\d+)?(?:/\.pk)?(?:/\d+)?/assets/~i',
+            'https://ricoh.com.pk/assets/',
+            $html
+        ) ?? $html;
+        $html = preg_replace(
+            '~https?://[^"\'\s]+?https?://(ricoh\.com\.pk/assets/)~i',
+            'https://$1',
+            $html
+        ) ?? $html;
+    }
+
     return $html;
 }
 

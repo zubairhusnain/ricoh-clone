@@ -16,7 +16,7 @@ function rh_encode_attr_url(string $url): string
 
 function rh_ricoh_global_hosts(): array
 {
-    return ['www.ricoh.com', 'ricoh.com'];
+    return ['www.ricoh.com', 'ricoh.com', 'ricoh.com.pk', 'www.ricoh.com.pk'];
 }
 
 function rh_map_external_url(string $url, string $currentRoute = ''): string
@@ -142,9 +142,9 @@ function rh_rewrite_external_urls(string $html, string $currentRoute = ''): stri
         $html
     ) ?? $html;
 
-    // Plain-text www.ricoh.com URLs in copy
+    // Plain-text www.ricoh.com URLs in copy (do not match ricoh.com.pk — TLD continues after .com)
     $html = preg_replace_callback(
-        '~https?://(?:www\.)?ricoh\.com(/[^\s<"]*)?~i',
+        '~https?://(?:www\.)?ricoh\.com(?!\.[a-z0-9-])(/[^\s<"]*)?~i',
         static function (array $m) use ($currentRoute): string {
             $path = $m[1] ?? '/';
             return rh_map_external_url('__RH_BASE__/' . $path, $currentRoute);
@@ -157,7 +157,11 @@ function rh_rewrite_external_urls(string $html, string $currentRoute = ''): stri
         '~https?://[^\s"\'<>]+~i',
         static function (array $m) use ($base, $currentRoute): string {
             $raw = $m[0];
-            if (str_starts_with($raw, $base) || str_contains($raw, '__RH_BASE__')) {
+            if (
+                str_starts_with($raw, $base)
+                || str_contains($raw, '__RH_BASE__')
+                || preg_match('~^https?://(?:www\.)?ricoh\.com\.pk~i', $raw)
+            ) {
                 return $raw;
             }
             if (preg_match('~^https?://www\.w3\.org/~i', $raw)) {
