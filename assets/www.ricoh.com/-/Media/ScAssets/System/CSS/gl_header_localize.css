@@ -31,9 +31,9 @@ Media Queries
 	#gl_header #gl_nv .gl_nv_lst li.gl_nv_src.dsp_normal { display: none; }
 	#gl_header #gl_nv .gl_nv_lst li.gl_nv_src.dsp_middle { display: block; }
 	#gl_header #gl_nv .gl_nv_lst li.gl_nv_src.dsp_middle .gl_nv_lst_mn { padding: 8px 8px 3px; }
-	#gl_header #gl_nv .gl_nv_lst li.gl_nv_src.dsp_middle .gl_nv_lst_mn .gl_nv_src_mn { display: block; width: 24px; height: 24px; background: none; background: url("/-/Media/Ricoh/Common/cmn_v2/img/gl_header/gl_nv_src_btn_w.png) 50% 50% no-repeat; text-indent: -9999px; }
+	#gl_header #gl_nv .gl_nv_lst li.gl_nv_src.dsp_middle .gl_nv_lst_mn .gl_nv_src_mn { display: block; width: 24px; height: 24px; background: none; background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/img/gl_header/gl_nv_src_btn_w.png") 50% 50% no-repeat; text-indent: -9999px; }
 	#gl_header #gl_nv .gl_nv_lst li.gl_nv_src.dsp_middle .gl_nv_lst_mn:hover .gl_nv_src_mn,
-	#gl_header #gl_nv .gl_nv_lst li.gl_nv_src.dsp_middle .gl_nv_lst_mn.open .gl_nv_src_mn { background-image: url("/-/Media/Ricoh/Common/cmn_v2/img/gl_header/gl_nv_src_btn.png); }
+	#gl_header #gl_nv .gl_nv_lst li.gl_nv_src.dsp_middle .gl_nv_lst_mn.open .gl_nv_src_mn { background-image: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/img/gl_header/gl_nv_src_btn.png"); }
 
 	#gl_header #gl_nv .gl_nv_lst li a.gl_nv_lst_mn:hover:after,
 	#gl_header #gl_nv .gl_nv_lst li a.gl_nv_lst_mn.open:after,

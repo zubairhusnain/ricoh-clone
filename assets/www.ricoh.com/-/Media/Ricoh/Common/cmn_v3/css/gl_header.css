@@ -85,7 +85,7 @@ Media Queries
   display: block;
   width: 140px;
   height: 48px;
-  background: url("/-/Media/Ricoh/Common/cmn_v3/img/hd_logo.png) 0 0 no-repeat;
+  background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/hd_logo.png") 0 0 no-repeat;
   text-indent: -9999px;
 }
 
@@ -129,14 +129,14 @@ Media Queries
 #gl_header .hd_ut .hd_ut_lang_select .hd_ut_lang {
   display: inline-block;
   padding: 2px 0 3px 11px;
-  background: url("/-/Media/Ricoh/Common/cmn_v3/img/hd_ut_lang.png) 0 50% no-repeat;
+  background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/hd_ut_lang.png") 0 50% no-repeat;
   border-right: 1px solid #dedede;
 }
 
 #gl_header .hd_ut .hd_ut_lang_select .hd_ut_lang .txt {
   display: inline-block;
   padding-right: 21px;
-  background: url("/-/Media/Ricoh/Common/cmn_v3/img/hd_ut_lang_arrowdown.png) 100% 50% no-repeat;
+  background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/hd_ut_lang_arrowdown.png") 100% 50% no-repeat;
   color: #666;
   font-size: 14px;
 }
@@ -208,7 +208,7 @@ Media Queries
 }
 
 #gl_header .hd_ut .hd_ut_lang_select .hd_ut_lang.open .txt {
-  background-image: url("/-/Media/Ricoh/Common/cmn_v3/img/hd_ut_lang_arrowup.png);
+  background-image: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/hd_ut_lang_arrowup.png");
 }
 
 #gl_header .hd_ut .hd_ut_lang_select .hd_ut_lang_lst ul.open {
@@ -218,7 +218,7 @@ Media Queries
 #gl_header .hd_ut .hd_ut_change {
   display: inline-block;
   padding: 2px 24px 3px 8px;
-  background: url("/-/Media/Ricoh/Common/cmn_v3/img/hd_ut_change.png) 100% 50% no-repeat;
+  background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/hd_ut_change.png") 100% 50% no-repeat;
   color: #666;
   font-size: 12px;
   font-weight: bold;
@@ -316,7 +316,7 @@ Media Queries
 #gl_header #gl_nv .gl_nv_lst li a.gl_nv_lst_mn:hover:after,
 #gl_header #gl_nv .gl_nv_lst li a.gl_nv_lst_mn.open:after,
 #gl_header #gl_nv .gl_nv_lst li a.gl_nv_lst_mn.act:hover:after {
-  content: url("/-/Media/Ricoh/Common/cmn_v3/img/hd_gl_nv_arr_02.png);
+  content: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/hd_gl_nv_arr_02.png");
   position: absolute;
   top: 100%;
   left: 50%;
@@ -363,7 +363,7 @@ Media Queries
   height: 24px;
   margin: 0;
   border: none;
-  background: url("/-/Media/Ricoh/Common/cmn_v3/img/gl_nv_src_btn.png) 50% 50% no-repeat #fff;
+  background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/gl_nv_src_btn.png") 50% 50% no-repeat #fff;
   text-indent: -9999px;
   line-height: 1px;
   -webkit-border-radius: 0 4px 4px 0;
@@ -635,7 +635,7 @@ Media Queries
   #gl_header .hd_lg a {
     width: 75px;
     height: 26px;
-    background: url("/-/Media/Ricoh/Common/cmn_v3/img/hd_logo_s.png) 0 0 no-repeat;
+    background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/hd_logo_s.png") 0 0 no-repeat;
     -webkit-background-size: 75px 26px;
     background-size: 75px 26px;
   }
@@ -670,12 +670,12 @@ Media Queries
     width: 44px;
     height: 44px;
     text-indent: -9999px;
-    background: url("/-/Media/Ricoh/Common/cmn_v3/img/hd_gl_nv_btn.png) 0 0 no-repeat;
+    background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/hd_gl_nv_btn.png") 0 0 no-repeat;
     -webkit-background-size: 44px 44px;
     background-size: 44px 44px;
   }
   #gl_header .gl_nv_btn.open {
-    background: url("/-/Media/Ricoh/Common/cmn_v3/img/hd_gl_nv_btn_on.png) 0 0 no-repeat #303233;
+    background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/hd_gl_nv_btn_on.png") 0 0 no-repeat #303233;
     -webkit-background-size: 44px 44px;
     background-size: 44px 44px;
   }
@@ -711,7 +711,7 @@ Media Queries
     border-right: 1px solid #6c7074;
     color: #666;
     font-size: 12px;
-    background: url("/-/Media/Ricoh/Common/cmn_v3/img/hd_ut_lang_s.png) 100% 50% no-repeat;
+    background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/hd_ut_lang_s.png") 100% 50% no-repeat;
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
@@ -731,7 +731,7 @@ Media Queries
     padding: 16px 40px 16px 8px;
     color: #666;
     font-size: 12px;
-    background: url("/-/Media/Ricoh/Common/cmn_v3/img/hd_ut_change_s.png) 100% 50% no-repeat;
+    background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/hd_ut_change_s.png") 100% 50% no-repeat;
     -webkit-background-size: 32px 32px;
     background-size: 32px 32px;
     -webkit-box-sizing: border-box;
@@ -743,7 +743,7 @@ Media Queries
     border-top: 1px solid #6c7074;
     color: #666;
     font-size: 12px;
-    background: url("/-/Media/Ricoh/Common/cmn_v3/img/icon_l_newwindow_01.png) 100% 50% no-repeat #f3f3f3;
+    background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/icon_l_newwindow_01.png") 100% 50% no-repeat #f3f3f3;
     -webkit-background-size: 32px 32px;
     background-size: 32px 32px;
   }
@@ -757,7 +757,7 @@ Media Queries
     border-top: 1px solid #6c7074;
     color: #666;
     font-size: 12px;
-    background: url("/-/Media/Ricoh/Common/cmn_v3/img/hd_gl_nv_arr_01.png) 100% 50% no-repeat #f3f3f3;
+    background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/hd_gl_nv_arr_01.png") 100% 50% no-repeat #f3f3f3;
     -webkit-background-size: 32px 32px;
     background-size: 32px 32px;
   }
@@ -784,7 +784,7 @@ Media Queries
     right: 8px;
     width: 32px;
     height: 32px;
-    background-image: url("/-/Media/Ricoh/Common/cmn_v3/img/gl_nv_src_btn_s.png);
+    background-image: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/gl_nv_src_btn_s.png");
     -webkit-background-size: 32px 32px;
     background-size: 32px 32px;
   }
@@ -801,7 +801,7 @@ Media Queries
     color: #fff;
     font-size: 16px;
     border: none;
-    background: url("/-/Media/Ricoh/Common/cmn_v3/img/hd_gl_nv_arr_01_w.png) 100% 50% no-repeat;
+    background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/hd_gl_nv_arr_01_w.png") 100% 50% no-repeat;
     -webkit-background-size: 32px 32px;
     background-size: 32px 32px;
   }

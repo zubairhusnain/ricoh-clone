@@ -23,7 +23,7 @@ $(function () {
   // ストーリーズ記事データの取得・出力
 $.ajax({
   type: 'GET',
-  url: '/-/Media/Ricoh/Sites/com/news/stories/articles/article.json?',
+  url: '/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/news/stories/articles/article.json?',
   dataType: 'json'
 })
 .then(

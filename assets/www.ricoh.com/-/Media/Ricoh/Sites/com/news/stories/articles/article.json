@@ -1,0 +1,381 @@
+[
+    [
+      {
+        "url": "/news/stories/articles/ricoh-equity",
+        "title": "Ricoh Integrates Equity into Its Diversity and Inclusion Framework to Build Collaboration and Deliver Fulfillment through Work",
+        "image": "/-/Media/Ricoh/Sites/com/news/stories/articles/ricoh-equity/img/ricoh-equity_img_thumb.jpg",
+        "tag": [2,9,11],
+        "date": "2024.10.8",
+        "category": "Ricoh's Initiatives",
+        "type": "1",
+        "genre": "feature"
+      },
+      {
+        "url": "/news/stories/articles/column-work-efficiency",
+        "title": "Why It Is Vital to Streamline Operations: Basic Procedures, Reference Successes, and Procedural Ideas",
+        "image": "/-/Media/Ricoh/Sites/com/news/stories/articles/column-work-efficiency/img/thumbnail.png",
+        "tag": [1],
+        "date": "2024.9.13",
+        "category": "Column",
+        "type": "1",
+        "genre": "useful"
+      },
+      {
+        "url": "/news/stories/articles/column-artificial-intelligence",
+        "title": "New Case Studies and Projections Illustrate How AI will Transform Business Landscapes",
+        "image": "/-/Media/Ricoh/Sites/com/news/stories/articles/column-artificial-intelligence/img/img_thumbnail.jpg",
+        "tag": [4],
+        "date": "2024.8.8",
+        "category": "Column",
+        "type": "1",
+        "genre": "useful"
+      },
+      {
+        "url": "/news/stories/articles/dialogue-creativity-2024",
+        "title": "Making Full Use of AI for Intellectual Creativity | Future of Work",
+        "image": "/-/Media/Ricoh/Sites/com/news/stories/articles/dialogue-creativity-2024/img/img_thumb.jpg",
+        "tag": [1,4,9],
+        "date": "2024.7.24",
+        "category": "Special Dialogue",
+        "type": "2",
+        "genre": "feature"
+      },
+      {
+        "url": "https://project.nikkeibp.co.jp/ESG/atcl/eng/sdgf/70/",
+        "title": "Ricoh’s Societal Contributions Focus on Productivity Improvement, SDG Activities",
+        "image": "/-/Media/Ricoh/Sites/com/news/stories/articles/external-nikkei-dx/img/external-nikkei-dx_img_thumb.jpg",
+        "tag": [1, 2, 3],
+        "date": "2024.7.8",
+        "category": "External articles",
+        "type": "2",
+        "genre": "feature",
+        "blank": "true"
+      },
+      {
+        "url": "/news/stories/articles/products-ricoh-kintone-plus",
+        "title": "How Ricoh and Cybozu Joined Forces to Revolutionize Work through Cloud-Based Business Improvement Solutions",
+        "image": "/-/Media/Ricoh/Sites/com/news/stories/articles/products-ricoh-kintone-plus/img/products-ricoh-kintone-plus_img_thumb.jpg",
+        "tag": [1,9],
+        "date": "2024.5.30",
+        "category": "Products / Services",
+        "type": "2",
+        "genre": "feature"
+      },
+      {
+        "url": "/news/stories/articles/new-employee-workshop",
+        "title": "Exploring Novel Paradigms for Work Creativity: Inside Ricoh’s Innovative New Employee Workshop Approach",
+        "image": "/-/Media/Ricoh/Sites/com/news/stories/articles/new-employee-workshop/img/new-employee-workshop_img_thumb.jpg",
+        "tag": [9],
+        "date": "2024.3.29",
+        "category": "Products / Services",
+        "type": "2",
+        "genre": "feature"
+      },
+      {
+        "url": "/news/stories/articles/external-seeking-fulfillment-through-work",
+        "title": "Ricoh becoming a digital services firm, seeking \"Fulfillment through Work\"",
+        "image": "/-/Media/Ricoh/Sites/com/news/stories/articles/external-seeking-fulfillment-through-work/img/external-seeking-fulfillment-through-work_img_thumb.jpg",
+        "tag": [9],
+        "date": "2024.3.22",
+        "category": "External articles",
+        "type": "2",
+        "genre": "feature"
+      },
+      {
+        "url": "/news/stories/articles/sustainable-world-through-business",
+        "title": "Ricoh creating a more sustainable world through business",
+        "image": "/-/Media/Ricoh/Sites/com/news/stories/articles/sustainable-world-through-business/img/sustainable-world-through-business_img_thumb.jpg",
+        "tag": [2,3,9],
+        "date": "2024.1.23",
+        "category": "Special",
+        "type": "1",
+        "genre": "feature"
+      },
+      {
+        "url": "/news/stories/articles/reuters-next-2023",
+        "title": "Ricoh Chairperson takes the stage at Reuters NEXT 2023 \"Empowering Colleagues to be ESG Advocates\"",
+        "image": "/-/Media/Ricoh/Sites/com/news/stories/articles/reuters-next-2023/img/reuters-next-2023_img_mv.jpg",
+        "tag": [2,3,9],
+        "date": "2023.11.10",
+        "category": "Event Report",
+        "type": "1",
+        "genre": "feature"
+      },
+      {
+        "url": "/news/stories/articles/ricoh-prism",
+        "title": "Ricoh’s Next-generation Meeting Space RICOH PRISM Exemplifies a New Vision for Workplaces by Drawing Creativity through Fun Working",
+        "image": "/-/Media/Ricoh/Sites/com/news/stories/articles/ricoh-prism/img/ricoh-prism_img_thumb.jpg",
+        "tag": [5,8,9],
+        "date": "2023.9.14",
+        "category": "Products / Services",
+        "type": "2",
+        "genre": "feature"
+      },
+      {
+        "url": "/news/stories/articles/products-handy-plastic-sensor",
+        "title": "Portable Plastic Identification Sensor Embodies Ricoh’s Circular Economy Vision by Helping Resolve Plastic Waste Issue",
+        "image": "/-/Media/Ricoh/Sites/com/news/stories/articles/products-handy-plastic-sensor/img/products-handy-plastic-sensor_img_thumb.jpg",
+        "tag": [2,3,7],
+        "date": "2023.5.19",
+        "category": "Products / Services",
+        "type": "1",
+        "genre": "feature"
+      },
+      {
+        "url": "/news/stories/articles/products-mfp-using-recycled-plastic",
+        "title": "How Ricoh Unleashed its Professionals to Innovate an A3 Color MFP Series with 50% Recycled Materials Content that Delivers Top-Notch Environmental Performance",
+        "image": "/-/Media/Ricoh/Sites/com/news/stories/articles/products-mfp-using-recycled-plastic/img/products-mfp-using-recycled-plastic_img_ph00.jpg",
+        "tag": [2,3,5,7],
+        "date": "2023.4.28",
+        "category": "Products / Services",
+        "type": "1",
+        "genre": "feature"
+      },
+      {
+        "url": "/news/stories/articles/dialogue-esg-advocates",
+        "title": "Empowering Employees to be ESG Advocates",
+        "image": "/-/Media/Ricoh/Sites/com/about/empowering-digital-workplaces/articles/dialogue-esg-advocates/img/dialogue-esg-advocates_img_thumb.jpg",
+        "tag": [2,3,9],
+        "date": "2023.3.24",
+        "category": "Thought Leadership",
+        "type": "1",
+        "genre": "feature"
+      },
+      {
+        "url": "/news/stories/articles/dialogue-creativity",
+        "title": "Ricoh's vision of \"WORK\" innovation",
+        "image": "/-/Media/Ricoh/Sites/com/about/empowering-digital-workplaces/articles/dialogue-creativity/img/dialogue-creativity_img_thumb.jpg",
+        "tag": [8,9,11],
+        "date": "2023.3.15",
+        "category": "Special Dialogue",
+        "type": "2",
+        "genre": "feature"
+      },
+      {
+        "url": "/news/stories/articles/how_to_make_a_game_that_changes_the_future",
+        "title": "Women's Professional Shogi Champion and Ricoh In-House Entrepreneur Discuss the Importance of Tackling Challenges One Step at a Time",
+        "image": "/-/Media/Ricoh/Sites/com/about/empowering-digital-workplaces/articles/how_to_make_a_game_that_changes_the_future/img/how_to_make_a_game_that_changes_the_future_img_thumb.jpg",
+        "tag": [5,9],
+        "date": "2023.3.10",
+        "category": "External articles",
+        "type": "1",
+        "genre": "feature"
+      },
+      {
+        "url": "/news/stories/articles/external-climate-control",
+        "title": "Implementation and Disclosure Enhance Corporate Value —Ambitious climate action puts Ricoh ahead globally—",
+        "image": "/-/Media/Ricoh/Sites/com/about/empowering-digital-workplaces/articles/external-climate-control/img/external-climate-control_img_thumb.jpg",
+        "tag": [2,3],
+        "date": "2023.2.10",
+        "category": "External articles",
+        "type": "1",
+        "genre": "feature"
+      },
+      {
+        "url": "/news/stories/articles/reuters-impact-2022",
+        "title": "Ricoh President and CEO takes the stage at Reuters IMPACT 2022 ~“Empowering employees to be ESG Advocates”~",
+        "image": "/-/Media/Ricoh/Sites/com/about/empowering-digital-workplaces/articles/reuters-impact-2022/img/reuters-impact-2022_img_thumb.jpg",
+        "tag": [2,3,9],
+        "date": "2022.10.05",
+        "category": "Event Report",
+        "type": "1",
+        "genre": "feature"
+      },
+      {
+        "url": "/news/stories/articles/products-solar-cell",
+        "title": "Ricoh’s contribution towards an Eco-Friendly Future through Energy Harvesting Devices.What does \"A World Without Charging\" created by Ricoh look like?",
+        "image": "/-/Media/Ricoh/Sites/com/about/empowering-digital-workplaces/articles/products-solar-cell/img/products-solar-cell_img_thumb.jpg",
+        "tag": [2,3,7],
+        "date": "2022.07.25",
+        "category": "Products / Services",
+        "type": "1",
+        "genre": "feature"
+      },
+      {
+        "url": "/news/stories/articles/dialogue-big-company-small-organization",
+        "title": "Why Small Units within Big Companies Must Step Up to the Plate to Resolve Social Issues",
+        "image": "/-/Media/Ricoh/Sites/com/about/empowering-digital-workplaces/articles/dialogue-big-company-small-organization/img/dialogue-big-company-small-organization_img_thumb.jpg",
+        "tag": [2,5],
+        "date": "2022.05.10",
+        "category": "Special Dialogue",
+        "type": "1",
+        "genre": "feature"
+      },
+      {
+        "url": "/news/stories/articles/dialogue-evolution-thinking",
+        "title": "A Conversation about Connections between Individuals and Companies",
+        "image": "/-/Media/Ricoh/Sites/com/about/empowering-digital-workplaces/articles/dialogue-evolution-thinking/img/dialogue-evolution-thinking_img_thumb.jpg",
+        "tag": [9,11],
+        "date": "2022.04.25",
+        "category": "Special Dialogue",
+        "type": "1",
+        "genre": "feature"
+      },
+      {
+        "url": "/news/stories/articles/external-decarbonization",
+        "title": "The Challenge of Decarbonization Leads to Enhancing Corporate Value —Ricoh’s management strategy for sustainable growth—",
+        "image": "/-/Media/Ricoh/Sites/com/about/empowering-digital-workplaces/articles/external-decarbonization/img/external-decarbonization_img_thumb.jpg",
+        "tag": [2,3],
+        "date": "2022.03.25",
+        "category": "External articles",
+        "type": "1",
+        "genre": "feature"
+      },
+      {
+        "url": "/news/stories/articles/dialogue-new-value",
+        "title": "Masamichi Toyama Says Business Ideas Originate in Far-Off Places, Explains How to Predict Value",
+        "image": "/-/Media/Ricoh/Sites/com/about/empowering-digital-workplaces/articles/dialogue-new-value/img/dialogue-new-value_img_thumb.jpg",
+        "tag": [8,9],
+        "date": "2022.03.18",
+        "category": "Special Dialogue",
+        "type": "1",
+        "genre": "feature"
+      },
+      {
+        "url": "/news/stories/articles/dialogue-diversity-and-inclusion",
+        "title": "Diversity Fortifies People and Organizations",
+        "image": "/-/Media/Ricoh/Sites/com/about/empowering-digital-workplaces/articles/dialogue-diversity-and-inclusion/img/dialogue-diversity-and-inclusion_img_thumb.jpg",
+        "tag": [8,9,11],
+        "date": "2022.03.04",
+        "category": "Special Dialogue",
+        "type": "1",
+        "genre": "feature"
+      },
+      {
+        "url": "/news/stories/articles/ricoh_AI_shogi_game_score_capturing_system",
+        "title": "Shogi Master Yoshiharu Habu Reveals How Deep Learning Is Transforming the Game",
+        "image": "/-/Media/Ricoh/Sites/com/about/empowering-digital-workplaces/articles/ricoh_AI_shogi_game_score_capturing_system/img/ricoh_AI_shogi_game_score_capturing_system_img_thumb.jpg",
+        "tag": [4],
+        "date": "2020.07.28",
+        "category": "External articles",
+        "type": "2",
+        "genre": "feature"
+      },
+      {
+        "url": "/news/stories/articles/ricoh-business-innovation-lounge-tokyo",
+        "title": "Entering the Future through the New Ricoh Business Innovation Lounge Tokyo",
+        "image": "/-/Media/Ricoh/Sites/com/about/empowering-digital-workplaces/articles/ricoh-business-innovation-lounge-tokyo/img/ricoh-business-innovation-lounge-tokyo_img_thumb.jpg",
+        "tag": [5],
+        "date": "2020.03.30",
+        "category": "External articles",
+        "type": "2",
+        "genre": "feature"
+      },
+      {
+        "url": "/news/stories/articles/ignite-a-revolution-in-manufacturing-with-printing-technology",
+        "title": "Ignite a revolution in manufacturing with printing technology",
+        "image": "/-/Media/Ricoh/Sites/com/about/empowering-digital-workplaces/articles/ignite-a-revolution-in-manufacturing-with-printing-technology/img/ignite-a-revolution-in-manufacturing-with-printing-technology_img_thumb.jpg",
+        "tag": [2,3,6],
+        "date": "2019.06.20",
+        "category": "External articles",
+        "type": "1",
+        "genre": "feature"
+      },
+      {
+        "url": "/news/stories/articles/explore-an-ancient-japanese-artificial-cavern-in-360",
+        "title": "Explore an ancient Japanese artificial cavern in 360",
+        "image": "/-/Media/Ricoh/Sites/com/about/empowering-digital-workplaces/articles/explore-an-ancient-japanese-artificial-cavern-in-360/img/explore-an-ancient-japanese-artificial-cavern-in-360_img_thumb.jpg",
+        "tag": [1],
+        "date": "2019.06.20",
+        "category": "External articles",
+        "type": "2",
+        "genre": "feature"
+      },
+      {
+        "url": "/news/stories/articles/are-t-shirts-draining-our-world",
+        "title": "Are T-shirts draining our world?",
+        "image": "/-/Media/Ricoh/Sites/com/about/empowering-digital-workplaces/articles/are-t-shirts-draining-our-world/img/are-t-shirts-draining-our-world_img_thumb.jpg",
+        "tag": [2,3],
+        "date": "2019.06.20",
+        "category": "External articles",
+        "type": "1",
+        "genre": "feature"
+      },
+      {
+        "url": "/news/stories/articles/diagnosing-autism-as-early-as-age-3",
+        "title": "Diagnosing autism as early as age 3",
+        "image": "/-/Media/Ricoh/Sites/com/about/empowering-digital-workplaces/articles/diagnosing-autism-as-early-as-age-3/img/diagnosing-autism-as-early-as-age-3_img_thumb.jpg",
+        "tag": [5,6],
+        "date": "2019.06.20",
+        "category": "External articles",
+        "type": "2",
+        "genre": "feature"
+      },
+      {
+        "url": "/news/stories/articles/innovations-vital-to-enhancing-long-term-care",
+        "title": "Innovations vital to enhancing long-term care",
+        "image": "/-/Media/Ricoh/Sites/com/about/empowering-digital-workplaces/articles/innovations-vital-to-enhancing-long-term-care/img/innovations-vital-to-enhancing-long-term-care_img_thumb.jpg",
+        "tag": [5,6],
+        "date": "2019.06.20",
+        "category": "External articles",
+        "type": "2",
+        "genre": "feature"
+      },
+      {
+        "url": "/news/stories/articles/ricoh-ignite-group-growth-strategy",
+        "title": "RICOH Ignite, group growth strategy",
+        "image": "/-/Media/Ricoh/Sites/com/about/empowering-digital-workplaces/articles/ricoh-ignite-group-growth-strategy/img/ricoh-ignite-group-growth-strategy_img_thumb.jpg",
+        "tag": [3,2],
+        "date": "2019.06.20",
+        "category": "External articles",
+        "type": "1",
+        "genre": "feature"
+      },
+      {
+        "url": "/news/stories/articles/changing-the-face-of-japanese-manufacturing",
+        "title": "Changing the face of Japanese manufacturing",
+        "image": "/-/Media/Ricoh/Sites/com/about/empowering-digital-workplaces/articles/changing-the-face-of-japanese-manufacturing/img/changing-the-face-of-japanese-manufacturing_img_thumb.jpg",
+        "tag": [7],
+        "date": "2019.06.20",
+        "category": "External articles",
+        "type": "2",
+        "genre": "feature"
+      }
+    ],
+    [
+      {
+        "num": "1",
+        "name": "DX"
+      },
+      {
+        "num": "2",
+        "name": "Sustainability"
+      },
+      {
+        "num": "3",
+        "name": "SDGs"
+      },
+      {
+        "num": "4",
+        "name": "AI"
+      },
+      {
+        "num": "5",
+        "name": "Innovation"
+      },
+      {
+        "num": "6",
+        "name": "Healthcare and eldercare"
+      },
+      {
+        "num": "7",
+        "name": "Industry"
+      },
+      {
+        "num": "8",
+        "name": "Work practice reforms"
+      },
+      {
+        "num": "9",
+        "name": "Fulfillment through Work"
+      },
+      {
+        "num": "10",
+        "name": "RPA"
+      },
+      {
+        "num": "11",
+        "name": "Diversity"
+      }
+    ]
+]

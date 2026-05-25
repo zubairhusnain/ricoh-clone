@@ -1,15 +1,13 @@
 ((win, doc) => {
-  var loader = doc.querySelector('script[src*="cmn_g_header_footer/js/template.js"]');
-  var template = doc.createElement('script');
-  template.type = 'module';
-  if (loader && loader.getAttribute('src')) {
-    template.src = loader.getAttribute('src').replace(/template\.js(\?.*)?$/, 'templateBase.js');
-  } else {
-    template.src = '/-/Media/Ricoh/Common/cmn_g_header_footer/js/templateBase';
+  function loadTemplateBase() {
+    var loader = doc.querySelector('script[src*="cmn_g_header_footer/js/template.js"]');
+    var s = doc.createElement('script');
+    s.type = 'module';
+    s.src = loader && loader.getAttribute('src')
+      ? loader.getAttribute('src').replace(/template\.js(\?.*)?$/, 'templateBase.js')
+      : '/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/js/templateBase.js';
+    doc.body.appendChild(s);
   }
-  function append() {
-    doc.body.appendChild(template);
-  }
-  if (doc.body) append();
-  else doc.addEventListener('DOMContentLoaded', append);
+  if (doc.body) loadTemplateBase();
+  else doc.addEventListener('DOMContentLoaded', loadTemplateBase);
 })(window, document);

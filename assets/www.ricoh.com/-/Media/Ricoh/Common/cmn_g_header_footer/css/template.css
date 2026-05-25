@@ -1455,7 +1455,7 @@ html:not(.js-on) .gl-modal .gl-searchbox_form {
   outline: auto;
 }
 .mf_finder_header .mf-search-box .mf-search-bar .mf-search-bar_button {
-  background-image: url("/-/Media/Ricoh/Common/cmn_g_header_footer/img/icon/search.svg);
+  background-image: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/img/icon/search.svg");
   background-size: cover;
   width: 1.5rem;
   height: 1.5rem;
@@ -1798,7 +1798,7 @@ a:link.breadcrumb__link {
   width: 15px;
   height: 15px;
   background-color: transparent;
-  background-image: url("/-/Media/Ricoh/Common/cmn_g_header_footer/img/icon/blank-white.svg);
+  background-image: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/img/icon/blank-white.svg");
   mask-image: none;
 }
 
