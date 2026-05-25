@@ -4,6 +4,7 @@ declare(strict_types=1);
 require_once __DIR__ . '/includes/rh-php-polyfill.php';
 require_once __DIR__ . '/includes/rh-sanitize-tracking.php';
 require_once __DIR__ . '/includes/rh-external-urls.php';
+require_once __DIR__ . '/includes/rh-404.php';
 
 function rh_install_base_path(): string
 {

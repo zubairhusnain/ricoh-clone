@@ -73,12 +73,7 @@ if ($route === '') {
 }
 
 if (!is_file($target)) {
-    http_response_code(404);
-    header('Content-Type: text/html; charset=utf-8');
-    echo '<!DOCTYPE html><html><head><title>Not found</title></head><body><h1>404</h1><p><a href="' .
-        htmlspecialchars(RH_BASE_URL . '/', ENT_QUOTES, 'UTF-8') .
-        '">Home</a></p></body></html>';
-    exit;
+    rh_render_404_page($route);
 }
 
 rh_start_output_rewrite();
