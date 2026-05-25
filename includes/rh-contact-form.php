@@ -32,14 +32,6 @@ function rh_contact_form_handle(array $post): array
         return ['ok' => true, 'message' => 'Thank you. Your message has been sent.', 'values' => []];
     }
 
-    if (!rh_contact_form_enabled()) {
-        return [
-            'ok' => false,
-            'message' => 'Email is not configured yet. Add includes/contact-mail.local.php (see CONTACT-EMAIL-SETUP.md).',
-            'values' => $values,
-        ];
-    }
-
     $result = rh_contact_send_mail(
         $values['username'],
         $values['email'],
@@ -64,11 +56,6 @@ function rh_contact_form_render(array $state): string
 
     $disabledAttr = '';
     $disabledNotice = '';
-    if (!rh_contact_form_enabled()) {
-        $disabledNotice = '<div class="rh-contact-alert rh-contact-alert--info" role="status">'
-            . 'Submissions require SMTP setup in <code>includes/contact-mail.local.php</code> (see CONTACT-EMAIL-SETUP.md).'
-            . '</div>';
-    }
 
     $u = htmlspecialchars((string)($v['username'] ?? ''), ENT_QUOTES, 'UTF-8');
     $e = htmlspecialchars((string)($v['email'] ?? ''), ENT_QUOTES, 'UTF-8');

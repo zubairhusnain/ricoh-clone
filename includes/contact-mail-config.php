@@ -12,6 +12,9 @@ return [
     'from_email' => 'your.email@gmail.com',
     'from_name' => 'Ricoh Contact Form',
 
+    /** Always show an active form (submissions still need SMTP or mail() below). */
+    'form_enabled' => true,
+
     'smtp' => [
         'enabled' => true,
         'host' => 'smtp.gmail.com',

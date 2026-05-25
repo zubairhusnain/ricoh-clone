@@ -72,10 +72,19 @@ function rh_contact_smtp_ready(array $config): bool
 function rh_contact_form_enabled(): bool
 {
     $config = rh_contact_mail_config();
-    if (!rh_contact_smtp_ready($config)) {
-        return false;
+    if (!empty($config['form_enabled'])) {
+        return true;
     }
 
+    if (rh_contact_smtp_ready($config) && rh_contact_smtp_credentials_valid($config)) {
+        return true;
+    }
+
+    return !empty($config['fallback_mail']);
+}
+
+function rh_contact_smtp_credentials_valid(array $config): bool
+{
     $from = trim((string)($config['from_email'] ?? ''));
     $user = trim((string)($config['smtp']['username'] ?? ''));
     if (!filter_var($from, FILTER_VALIDATE_EMAIL) || !filter_var($user, FILTER_VALIDATE_EMAIL)) {
