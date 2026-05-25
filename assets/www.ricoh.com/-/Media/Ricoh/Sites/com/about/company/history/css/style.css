@@ -193,7 +193,7 @@ $bp-xxl-min: 1410; // 1440px screen resolution minus scrollbars
       .c-timeline__parent:hover .c-timeline__parent__title a {
         color: #ffffff; }
       .c-timeline__parent:hover::after {
-        background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-down-w.svg") no-repeat left top; }
+        background: url("/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-down-w.svg") no-repeat left top; }
     .c-timeline__parent::before {
       content: "";
       width: 1px;
@@ -210,7 +210,7 @@ $bp-xxl-min: 1410; // 1440px screen resolution minus scrollbars
           bottom: -21px; } }
     .c-timeline__parent::after {
       content: "";
-      background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-down.svg") no-repeat left top;
+      background: url("/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-down.svg") no-repeat left top;
       width: 25px;
       height: 25px;
       position: absolute;
@@ -253,7 +253,7 @@ $bp-xxl-min: 1410; // 1440px screen resolution minus scrollbars
     .c-timeline__parent.active {
       background: #111; }
       .c-timeline__parent.active::after {
-        background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-up-w.svg") no-repeat left top; }
+        background: url("/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-up-w.svg") no-repeat left top; }
       .c-timeline__parent.active .c-timeline__parent__period {
         color: #ffffff; }
       .c-timeline__parent.active .c-timeline__parent__title a {
@@ -310,7 +310,7 @@ $bp-xxl-min: 1410; // 1440px screen resolution minus scrollbars
             content: none; }
           .c-timeline__child__header__label--left span::after {
             content: "";
-            background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-left.svg") no-repeat left top;
+            background: url("/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-left.svg") no-repeat left top;
             background-size: cover;
             width: 9px;
             height: 12px;
@@ -321,7 +321,7 @@ $bp-xxl-min: 1410; // 1440px screen resolution minus scrollbars
           padding: 20px 0 40px 60px; }
           .c-timeline__child__header__label--right span::before {
             content: "";
-            background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-right.svg") no-repeat left top;
+            background: url("/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-right.svg") no-repeat left top;
             background-size: cover;
             width: 9px;
             height: 12px;
@@ -388,7 +388,7 @@ $bp-xxl-min: 1410; // 1440px screen resolution minus scrollbars
                 display: none; } }
           .c-timeline__child__footer .btn--detail a::after {
             content: "";
-            background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-link-w.svg") no-repeat left top;
+            background: url("/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-link-w.svg") no-repeat left top;
             width: 25px;
             height: 25px;
             position: absolute;
@@ -413,7 +413,7 @@ $bp-xxl-min: 1410; // 1440px screen resolution minus scrollbars
                 display: none; } }
       .c-timeline__child__footer .btn--close {
         font-family: "Frutiger LT W01_55 Roma1475738";
-        background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-close-window.svg") no-repeat left top;
+        background: url("/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-close-window.svg") no-repeat left top;
         width: 25px;
         height: 25px;
         display: block;
@@ -445,7 +445,7 @@ $bp-xxl-min: 1410; // 1440px screen resolution minus scrollbars
         .c-timeline__child__footer .btn--pagetop::before {
           content: "";
           display: inline-block;
-          background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/img/icon_s_up_01.png") 0 50% no-repeat;
+          background: url("/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/img/icon_s_up_01.png") 0 50% no-repeat;
           width: 25px;
           vertical-align: middle;
           height: 25px; }
@@ -615,7 +615,7 @@ $bp-xxl-min: 1410; // 1440px screen resolution minus scrollbars
           color: #0000CC;
           display: block;
           padding: 0 0 0 24px;
-          background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/img/icon_s_right_01.png") no-repeat left center; }
+          background: url("/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/img/icon_s_right_01.png") no-repeat left center; }
   .c-timeline-window--wrapper.init {
     overflow: hidden;
     height: 0; }
@@ -739,7 +739,7 @@ $bp-xxl-min: 1410; // 1440px screen resolution minus scrollbars
             color: #0000CC;
             display: block;
             padding: 0 0 0 24px;
-            background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/img/icon_s_right_01.png") no-repeat left center; }
+            background: url("/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/img/icon_s_right_01.png") no-repeat left center; }
         .c-timeline-window__content .window-content__txt__pdfs {
           font-family: "Frutiger LT W01_55 Roma1475738";
           border-top: 3px solid #111;
@@ -756,7 +756,7 @@ $bp-xxl-min: 1410; // 1440px screen resolution minus scrollbars
             border-right: 3px solid #111; }
             .c-timeline-window__content .window-content__txt__pdfs .pdf-single::before {
               content: "";
-              background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-pdf-single.svg") no-repeat left top;
+              background: url("/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-pdf-single.svg") no-repeat left top;
               background-size: cover;
               display: inline-block;
               vertical-align: middle;
@@ -765,7 +765,7 @@ $bp-xxl-min: 1410; // 1440px screen resolution minus scrollbars
               margin: 0 10px; }
           .c-timeline-window__content .window-content__txt__pdfs .pdf-all::before {
             content: "";
-            background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/img/icon_m_right_01.png") no-repeat left top;
+            background: url("/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/img/icon_m_right_01.png") no-repeat left top;
             background-size: cover;
             display: inline-block;
             vertical-align: middle;
@@ -784,7 +784,7 @@ $bp-xxl-min: 1410; // 1440px screen resolution minus scrollbars
             padding: 10px 12px 10px 10px; } }
         .c-timeline-window__footer .window-close::after {
           content: "";
-          background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-close-window.svg") no-repeat top left;
+          background: url("/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-close-window.svg") no-repeat top left;
           background-size: cover;
           display: inline-block;
           vertical-align: middle;
@@ -831,7 +831,7 @@ $bp-xxl-min: 1410; // 1440px screen resolution minus scrollbars
           padding: 10px 30px; } }
       .c-footnav__btn--allhistory a::after {
         content: "";
-        background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-down.svg") no-repeat left top;
+        background: url("/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-down.svg") no-repeat left top;
         width: 25px;
         height: 25px;
         position: absolute;
@@ -849,15 +849,15 @@ $bp-xxl-min: 1410; // 1440px screen resolution minus scrollbars
         top: 10px; }
         .c-footnav__btn--allhistory a.active::after {
           top: 10px;
-          background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-up.svg") no-repeat left top; }
+          background: url("/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-up.svg") no-repeat left top; }
         .c-footnav__btn--allhistory a.active:hover a::after {
-          background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-up-w.svg") no-repeat left top; }
+          background: url("/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-up-w.svg") no-repeat left top; }
     .c-footnav__btn--allhistory:hover {
       background: #666666; }
       .c-footnav__btn--allhistory:hover a {
         color: #ffffff; }
         .c-footnav__btn--allhistory:hover a::after {
-          background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-down-w.svg") no-repeat left top; }
+          background: url("/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-down-w.svg") no-repeat left top; }
   .c-footnav__btn--logo, .c-footnav__btn--topics {
     width: 320px;
     position: absolute;
@@ -888,7 +888,7 @@ $bp-xxl-min: 1410; // 1440px screen resolution minus scrollbars
         background: #666666; }
       .c-footnav__btn--logo a::after, .c-footnav__btn--topics a::after {
         content: "";
-        background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-right.svg") no-repeat left top;
+        background: url("/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-right.svg") no-repeat left top;
         background-size: cover;
         width: 9px;
         height: 12px;
@@ -998,7 +998,7 @@ $bp-xxl-min: 1410; // 1440px screen resolution minus scrollbars
           content: "";
           width: 48px;
           height: 30px;
-          background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/img/icon_m_pdf_01.png") no-repeat right center;
+          background: url("/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/img/icon_m_pdf_01.png") no-repeat right center;
           position: absolute;
           top: 50%;
           right: 0;
@@ -1019,12 +1019,12 @@ $bp-xxl-min: 1410; // 1440px screen resolution minus scrollbars
               right: 10px;
               width: 20px;
               height: 20px;
-              background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/img/icon_s_pdf_01.png") no-repeat right center;
+              background: url("/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/img/icon_s_pdf_01.png") no-repeat right center;
               margin-top: -10px; } }
     .c-topiclist__hgroup.active {
       background: #111; }
       .c-topiclist__hgroup.active::after {
-        background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-up-w.svg") no-repeat left top; }
+        background: url("/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-up-w.svg") no-repeat left top; }
       .c-topiclist__hgroup.active .c-timeline__parent__period {
         color: #FFF; }
       .c-topiclist__hgroup.active .c-timeline__parent__title a {
@@ -1077,7 +1077,7 @@ $bp-xxl-min: 1410; // 1440px screen resolution minus scrollbars
           content: "";
           width: 48px;
           height: 30px;
-          background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/img/icon_m_pdf_01.png") no-repeat right center;
+          background: url("/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/img/icon_m_pdf_01.png") no-repeat right center;
           position: absolute;
           top: 50%;
           right: 0;
@@ -1096,7 +1096,7 @@ $bp-xxl-min: 1410; // 1440px screen resolution minus scrollbars
               content: "";
               width: 20px;
               height: 20px;
-              background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/img/icon_s_pdf_01.png") no-repeat right center;
+              background: url("/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/img/icon_s_pdf_01.png") no-repeat right center;
               position: absolute;
               top: 50%;
               right: 0;
@@ -1116,7 +1116,7 @@ $bp-xxl-min: 1410; // 1440px screen resolution minus scrollbars
         width: 100%; } }
     .c-topiclist__footer::after {
       content: "";
-      background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-topiclist-down.svg") no-repeat left top;
+      background: url("/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-topiclist-down.svg") no-repeat left top;
       display: block;
       width: 16px;
       height: 12px;
@@ -1135,7 +1135,7 @@ $bp-xxl-min: 1410; // 1440px screen resolution minus scrollbars
       .c-topiclist__footer .btn--pagetop::before {
         content: "";
         display: inline-block;
-        background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/img/icon_s_up_01.png") 0 50% no-repeat;
+        background: url("/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/img/icon_s_up_01.png") 0 50% no-repeat;
         width: 25px;
         vertical-align: middle;
         height: 25px; }
@@ -1175,7 +1175,7 @@ $bp-xxl-min: 1410; // 1440px screen resolution minus scrollbars
       font-size: 24px; }
     .p-under--hgroup__title::before {
       content: "";
-      background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-title.svg") no-repeat left top;
+      background: url("/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-title.svg") no-repeat left top;
       width: 100px;
       height: 100px;
       display: block;
@@ -1228,7 +1228,7 @@ $bp-xxl-min: 1410; // 1440px screen resolution minus scrollbars
     position: relative; }
     .p-logo__main__group::after {
       content: "";
-      background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-topiclist-down.svg") no-repeat left top;
+      background: url("/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-topiclist-down.svg") no-repeat left top;
       display: block;
       width: 16px;
       height: 12px;
@@ -1364,7 +1364,7 @@ $bp-xxl-min: 1410; // 1440px screen resolution minus scrollbars
         position: relative; }
         .p-detail__header__label--left span::after {
           content: "";
-          background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-left.svg") no-repeat left top;
+          background: url("/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-left.svg") no-repeat left top;
           background-size: cover;
           width: 9px;
           height: 12px;
@@ -1386,7 +1386,7 @@ $bp-xxl-min: 1410; // 1440px screen resolution minus scrollbars
         position: relative; }
         .p-detail__header__label--right span::before {
           content: "";
-          background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-right.svg") no-repeat left top;
+          background: url("/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-right.svg") no-repeat left top;
           background-size: cover;
           width: 9px;
           height: 12px;
@@ -1439,7 +1439,7 @@ $bp-xxl-min: 1410; // 1440px screen resolution minus scrollbars
           padding: 15px 20px; } }
       .p-detail__list__footer .btn--detail a::after {
         content: "";
-        background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-link-w.svg") no-repeat left top;
+        background: url("/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-link-w.svg") no-repeat left top;
         width: 25px;
         height: 25px;
         position: absolute;
@@ -1464,7 +1464,7 @@ $bp-xxl-min: 1410; // 1440px screen resolution minus scrollbars
             display: none; } }
   .p-detail__list__footer .btn--close {
     font-family: "Frutiger LT W01_55 Roma1475738";
-    background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-close-window.svg") no-repeat left top;
+    background: url("/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-close-window.svg") no-repeat left top;
     width: 25px;
     height: 25px;
     display: block;
@@ -1496,7 +1496,7 @@ $bp-xxl-min: 1410; // 1440px screen resolution minus scrollbars
     .p-detail__list__footer .btn--pagetop::before {
       content: "";
       display: inline-block;
-      background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/img/icon_s_up_01.png") 0 50% no-repeat;
+      background: url("/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/img/icon_s_up_01.png") 0 50% no-repeat;
       width: 25px;
       vertical-align: middle;
       height: 25px; }

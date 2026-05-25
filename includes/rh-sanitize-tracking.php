@@ -119,7 +119,7 @@ function rh_send_security_headers(): void
     header(
         'Content-Security-Policy: ' .
         "default-src 'self'; " .
-        "script-src 'self' 'unsafe-inline'; " .
+        "script-src 'self' 'unsafe-inline' https://cdn.fonts.net; " .
         "style-src 'self' 'unsafe-inline'; " .
         "img-src 'self' data: blob:; " .
         "font-src 'self' data:; " .

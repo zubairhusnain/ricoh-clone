@@ -31,8 +31,15 @@ The included `.htaccess` sets `RH_BASE_PATH` empty on `ricoh.com.pk` so CSS/JS u
 Upload at minimum:
 
 - `base-url.php`
+- `router.php`
 - `includes/rh-external-urls.php`
+- `includes/rh-sanitize-tracking.php`
 - `.htaccess`
+- `assets/` (re-upload or run `node scripts/fix-static-asset-paths.js` before upload)
+- `assets/www.ricoh.com/-/Media/Ricoh/Sites/com/top/js/top.js`
+- `assets/www.ricoh.com/-/Media/ScAssets/System/CSS/sc_common_us.css`
+
+**Linux is case-sensitive:** URLs must use `/-/Media/` (capital M), not `/-/media/`.
 
 After upload, view source and confirm:
 

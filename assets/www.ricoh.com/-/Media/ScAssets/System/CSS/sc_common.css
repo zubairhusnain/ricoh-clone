@@ -885,7 +885,7 @@ Media Queries
   display: block;
   width: 140px;
   height: 48px;
-  background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/img/gl_header/hd_logo.png") 0 0 no-repeat;
+  background: url("/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/img/gl_header/hd_logo.png") 0 0 no-repeat;
   text-indent: -9999px;
 }
 
@@ -928,14 +928,14 @@ Media Queries
 #gl_header .hd_ut .hd_ut_lang_select .hd_ut_lang {
   display: inline-block;
   padding: 2px 0 3px 11px;
-  background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/img/gl_header/hd_ut_lang.png") 0 50% no-repeat;
+  background: url("/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/img/gl_header/hd_ut_lang.png") 0 50% no-repeat;
   border-right: 1px solid #dedede;
 }
 
 #gl_header .hd_ut .hd_ut_lang_select .hd_ut_lang .txt {
   display: inline-block;
   padding-right: 21px;
-  background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/img/gl_header/hd_ut_lang_arrowdown.png") 100% 50% no-repeat;
+  background: url("/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/img/gl_header/hd_ut_lang_arrowdown.png") 100% 50% no-repeat;
   color: #666;
   font-size: 14px;
 }
@@ -1007,7 +1007,7 @@ Media Queries
 }
 
 #gl_header .hd_ut .hd_ut_lang_select .hd_ut_lang.open .txt {
-  background-image: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/img/gl_header/hd_ut_lang_arrowup.png");
+  background-image: url("/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/img/gl_header/hd_ut_lang_arrowup.png");
 }
 
 #gl_header .hd_ut .hd_ut_lang_select .hd_ut_lang_lst ul.open {
@@ -1017,7 +1017,7 @@ Media Queries
 #gl_header .hd_ut .hd_ut_change {
   display: inline-block;
   padding: 2px 24px 3px 8px;
-  background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/img/gl_header/hd_ut_change.png") 100% 50% no-repeat;
+  background: url("/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/img/gl_header/hd_ut_change.png") 100% 50% no-repeat;
   color: #666;
   font-size: 12px;
   font-weight: bold;
@@ -1114,7 +1114,7 @@ Media Queries
 #gl_header #gl_nv .gl_nv_lst li a.gl_nv_lst_mn:hover:after,
 #gl_header #gl_nv .gl_nv_lst li a.gl_nv_lst_mn.open:after,
 #gl_header #gl_nv .gl_nv_lst li a.gl_nv_lst_mn.act:hover:after {
-  content: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/img/gl_header/hd_gl_nv_arr_02.png");
+  content: url("/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/img/gl_header/hd_gl_nv_arr_02.png");
   position: absolute;
   top: 100%;
   left: 50%;
@@ -1160,7 +1160,7 @@ Media Queries
   height: 24px;
   margin: 0;
   border: none;
-  background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/img/gl_header/gl_nv_src_btn.png") 50% 50% no-repeat #fff;
+  background: url("/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/img/gl_header/gl_nv_src_btn.png") 50% 50% no-repeat #fff;
   text-indent: -9999px;
   line-height: 1px;
   -webkit-border-radius: 0 4px 4px 0;
@@ -1430,7 +1430,7 @@ Media Queries
   #gl_header .hd_lg a {
     width: 75px;
     height: 26px;
-    background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/img/gl_header/hd_logo_s.png") 0 0 no-repeat;
+    background: url("/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/img/gl_header/hd_logo_s.png") 0 0 no-repeat;
     -webkit-background-size: 75px 26px;
             background-size: 75px 26px;
   }
@@ -1465,12 +1465,12 @@ Media Queries
     width: 44px;
     height: 44px;
     text-indent: -9999px;
-    background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/img/gl_header/hd_gl_nv_btn.png") 0 0 no-repeat;
+    background: url("/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/img/gl_header/hd_gl_nv_btn.png") 0 0 no-repeat;
     -webkit-background-size: 44px 44px;
             background-size: 44px 44px;
   }
   #gl_header .gl_nv_btn.open {
-    background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/img/gl_header/hd_gl_nv_btn_on.png") 0 0 no-repeat #303233;
+    background: url("/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/img/gl_header/hd_gl_nv_btn_on.png") 0 0 no-repeat #303233;
     -webkit-background-size: 44px 44px;
             background-size: 44px 44px;
   }
@@ -1506,7 +1506,7 @@ Media Queries
     border-right: 1px solid #6c7074;
     color: #666;
     font-size: 12px;
-    background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/img/gl_header/hd_ut_lang_s.png") 100% 50% no-repeat;
+    background: url("/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/img/gl_header/hd_ut_lang_s.png") 100% 50% no-repeat;
     -webkit-appearance: none;
        -moz-appearance: none;
             appearance: none;
@@ -1526,7 +1526,7 @@ Media Queries
     padding: 16px 40px 16px 8px;
     color: #666;
     font-size: 12px;
-    background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/img/gl_header/hd_ut_change_s.png") 100% 50% no-repeat;
+    background: url("/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/img/gl_header/hd_ut_change_s.png") 100% 50% no-repeat;
     -webkit-background-size: 32px 32px;
             background-size: 32px 32px;
     -webkit-box-sizing: border-box;
@@ -1538,7 +1538,7 @@ Media Queries
     border-top: 1px solid #6c7074;
     color: #666;
     font-size: 12px;
-    background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/img/icon_l_newwindow_01.png") 100% 50% no-repeat #f3f3f3;
+    background: url("/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/img/icon_l_newwindow_01.png") 100% 50% no-repeat #f3f3f3;
     -webkit-background-size: 32px 32px;
             background-size: 32px 32px;
   }
@@ -1552,7 +1552,7 @@ Media Queries
     border-top: 1px solid #6c7074;
     color: #666;
     font-size: 12px;
-    background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/img/gl_header/hd_gl_nv_arr_01.png") 100% 50% no-repeat #f3f3f3;
+    background: url("/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/img/gl_header/hd_gl_nv_arr_01.png") 100% 50% no-repeat #f3f3f3;
     -webkit-background-size: 32px 32px;
             background-size: 32px 32px;
   }
@@ -1579,7 +1579,7 @@ Media Queries
     right: 8px;
     width: 32px;
     height: 32px;
-    background-image: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/img/gl_header/gl_nv_src_btn_s.png");
+    background-image: url("/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/img/gl_header/gl_nv_src_btn_s.png");
     -webkit-background-size: 32px 32px;
             background-size: 32px 32px;
   }
@@ -1596,7 +1596,7 @@ Media Queries
     color: #fff;
     font-size: 16px;
     border: none;
-    background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/img/gl_header/hd_gl_nv_arr_01_w.png") 100% 50% no-repeat;
+    background: url("/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/img/gl_header/hd_gl_nv_arr_01_w.png") 100% 50% no-repeat;
     -webkit-background-size: 32px 32px;
             background-size: 32px 32px;
   }
@@ -4778,7 +4778,7 @@ Sitecore Components
   max-width: 180px;
   background-color: #666;
   color: #fff;
-  background-image: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Images/icon_m_right_04.png");
+  background-image: url("/assets/www.ricoh.com/-/Media/ScAssets/System/Images/icon_m_right_04.png");
   background-size: 16px;
 }
 
@@ -4789,7 +4789,7 @@ Sitecore Components
 .cp-HeroImage .mv_device_txt_btn.mv_device_txt_btn_de {
   background-color: #dedede;
   color: #333;
-  background-image: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Images/icon_m_right_03.png");
+  background-image: url("/assets/www.ricoh.com/-/Media/ScAssets/System/Images/icon_m_right_03.png");
 }
 
 .cp-HeroImage .mv_device_txt_btn.mv_device_txt_btn_de:hover {
@@ -4799,7 +4799,7 @@ Sitecore Components
 .cp-HeroImage .mv_device_txt_btn.mv_device_txt_btn_ff {
   background-color: #fff;
   color: #333;
-  background-image: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Images/icon_m_right_03.png");
+  background-image: url("/assets/www.ricoh.com/-/Media/ScAssets/System/Images/icon_m_right_03.png");
 }
 
 .cp-HeroImage .mv_device_txt_btn.mv_device_txt_btn_ff:hover {
@@ -4807,25 +4807,25 @@ Sitecore Components
 }
 
 .cp-HeroImage .mv_device_txt_btn.mv_device_ico_newwindow {
-  background-image: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Images/icon_m_newwindow_04.png");
+  background-image: url("/assets/www.ricoh.com/-/Media/ScAssets/System/Images/icon_m_newwindow_04.png");
 }
 
 .cp-HeroImage .mv_device_txt_btn.mv_device_txt_btn_de.mv_device_ico_newwindow {
-  background-image: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Images/icon_m_newwindow_03.png");
+  background-image: url("/assets/www.ricoh.com/-/Media/ScAssets/System/Images/icon_m_newwindow_03.png");
 }
 
 .cp-HeroImage .mv_device_txt_btn.mv_device_txt_btn_ff.mv_device_ico_newwindow {
-  background-image: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Images/icon_m_newwindow_03.png");
+  background-image: url("/assets/www.ricoh.com/-/Media/ScAssets/System/Images/icon_m_newwindow_03.png");
 }
 
 @media (max-width: 640px) {
   .cp-HeroImage .mv_device_txt_bgcolor_n .mv_device_txt_btn {
     background-color: #666;
     color: #fff;
-    background-image: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Images/icon_m_right_04.png");
+    background-image: url("/assets/www.ricoh.com/-/Media/ScAssets/System/Images/icon_m_right_04.png");
   }
   .cp-HeroImage .mv_device_txt_bgcolor_n .mv_device_txt_btn.mv_device_ico_newwindow {
-    background-image: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Images/icon_m_newwindow_04.png");
+    background-image: url("/assets/www.ricoh.com/-/Media/ScAssets/System/Images/icon_m_newwindow_04.png");
   }
   .cp-HeroImage .mv_device_txt_btn:hover {
     background-color: #666;
@@ -5139,7 +5139,7 @@ Sitecore Components
   max-width: 180px;
   background-color: #666;
   color: #fff;
-  background-image: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Images/icon_m_right_04.png");
+  background-image: url("/assets/www.ricoh.com/-/Media/ScAssets/System/Images/icon_m_right_04.png");
   background-size: 16px;
 }
 
@@ -5150,7 +5150,7 @@ Sitecore Components
 .cp-MainVisualTextOverlay .mv_device_txt_btn.mv_device_txt_btn_de {
   background-color: #dedede;
   color: #333;
-  background-image: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Images/icon_m_right_03.png");
+  background-image: url("/assets/www.ricoh.com/-/Media/ScAssets/System/Images/icon_m_right_03.png");
 }
 
 .cp-MainVisualTextOverlay .mv_device_txt_btn.mv_device_txt_btn_de:hover {
@@ -5160,7 +5160,7 @@ Sitecore Components
 .cp-MainVisualTextOverlay .mv_device_txt_btn.mv_device_txt_btn_ff {
   background-color: #fff;
   color: #333;
-  background-image: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Images/icon_m_right_03.png");
+  background-image: url("/assets/www.ricoh.com/-/Media/ScAssets/System/Images/icon_m_right_03.png");
 }
 
 .cp-MainVisualTextOverlay .mv_device_txt_btn.mv_device_txt_btn_ff:hover {
@@ -5168,25 +5168,25 @@ Sitecore Components
 }
 
 .cp-MainVisualTextOverlay .mv_device_txt_btn.mv_device_ico_newwindow {
-  background-image: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Images/icon_m_newwindow_04.png");
+  background-image: url("/assets/www.ricoh.com/-/Media/ScAssets/System/Images/icon_m_newwindow_04.png");
 }
 
 .cp-MainVisualTextOverlay .mv_device_txt_btn.mv_device_txt_btn_de.mv_device_ico_newwindow {
-  background-image: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Images/icon_m_newwindow_03.png");
+  background-image: url("/assets/www.ricoh.com/-/Media/ScAssets/System/Images/icon_m_newwindow_03.png");
 }
 
 .cp-MainVisualTextOverlay .mv_device_txt_btn.mv_device_txt_btn_ff.mv_device_ico_newwindow {
-  background-image: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Images/icon_m_newwindow_03.png");
+  background-image: url("/assets/www.ricoh.com/-/Media/ScAssets/System/Images/icon_m_newwindow_03.png");
 }
 
 @media (max-width: 640px) {
   .cp-MainVisualTextOverlay .mv_device_txt_bgcolor_n .mv_device_txt_btn {
     background-color: #666;
     color: #fff;
-    background-image: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Images/icon_m_right_04.png");
+    background-image: url("/assets/www.ricoh.com/-/Media/ScAssets/System/Images/icon_m_right_04.png");
   }
   .cp-MainVisualTextOverlay .mv_device_txt_bgcolor_n .mv_device_txt_btn.mv_device_ico_newwindow {
-    background-image: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Images/icon_m_newwindow_04.png");
+    background-image: url("/assets/www.ricoh.com/-/Media/ScAssets/System/Images/icon_m_newwindow_04.png");
   }
   .cp-MainVisualTextOverlay .mv_device_txt_btn:hover {
     background-color: #666;
@@ -7541,7 +7541,7 @@ Sitecore Components
   width: 12px;
   height: 16px;
   content: "";
-  background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Images/cmn_v1/icon_s_right_01.png") center center no-repeat;
+  background: url("/assets/www.ricoh.com/-/Media/ScAssets/System/Images/cmn_v1/icon_s_right_01.png") center center no-repeat;
   background-size: cover;
 }
 
@@ -7666,7 +7666,7 @@ Sitecore Components
   box-sizing: border-box;
   margin: 0 20px 13px -5px;
   padding-left: 20px;
-  background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Images/cmn_v1/icon_s_right_01.png") left 1px no-repeat;
+  background: url("/assets/www.ricoh.com/-/Media/ScAssets/System/Images/cmn_v1/icon_s_right_01.png") left 1px no-repeat;
   background-size: 14px !important;
 }
 
@@ -7675,7 +7675,7 @@ Sitecore Components
     margin: 0 0 13px 0;
     padding: 15px;
     border-bottom: 1px solid #dedede;
-    background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Images/cmn_v1/icon_m_right_01.png") right center no-repeat;
+    background: url("/assets/www.ricoh.com/-/Media/ScAssets/System/Images/cmn_v1/icon_m_right_01.png") right center no-repeat;
     background-size: 24px !important;
   }
 }
@@ -7703,7 +7703,7 @@ Sitecore Components
   width: 12px;
   height: 16px;
   content: "";
-  background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Images/cmn_v1/icon_s_right_01.png") center center no-repeat;
+  background: url("/assets/www.ricoh.com/-/Media/ScAssets/System/Images/cmn_v1/icon_s_right_01.png") center center no-repeat;
   background-size: cover;
 }
 
@@ -8840,14 +8840,14 @@ Sitecore Components
   }
   .cp-OfficeDetail .map_root_ttl {
     vertical-align: baseline;
-    background-image: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Images/icon_s_accordiondown_03.png");
+    background-image: url("/assets/www.ricoh.com/-/Media/ScAssets/System/Images/icon_s_accordiondown_03.png");
     background-position: 100% 0.15em;
   }
   .cp-OfficeDetail .map_root_ttl:hover {
     text-decoration: none;
   }
   .cp-OfficeDetail .map_root_ttl.open {
-    background-image: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Images/icon_s_accordionup_03.png");
+    background-image: url("/assets/www.ricoh.com/-/Media/ScAssets/System/Images/icon_s_accordionup_03.png");
   }
   .cp-OfficeDetail .map_root_detail {
     display: none;
@@ -9451,7 +9451,7 @@ Sitecore Components
 .cp-ProductsList .accordion_sct .acd_ttl02 {
   position: relative;
   border: 1px solid #c9c9c9;
-  background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Images/cmn_v1/icon_s_accordiondown_03.png") 1% 50% no-repeat #fff;
+  background: url("/assets/www.ricoh.com/-/Media/ScAssets/System/Images/cmn_v1/icon_s_accordiondown_03.png") 1% 50% no-repeat #fff;
   border-radius: 4px 4px 4px 4px;
   padding-left: 25px;
 }
@@ -9462,7 +9462,7 @@ Sitecore Components
 
 .cp-ProductsList .accordion_sct .acd_ttl02.open {
   border: 1px solid #c9c9c9;
-  background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Images/cmn_v1/icon_s_accordionup_03.png") 1% 50% no-repeat #fff;
+  background: url("/assets/www.ricoh.com/-/Media/ScAssets/System/Images/cmn_v1/icon_s_accordionup_03.png") 1% 50% no-repeat #fff;
   border-radius: 4px 4px 0 0;
 }
 
@@ -9597,7 +9597,7 @@ Sitecore Components
 .cp-ProductsList .accordion_sct .acd_ttl02 {
   position: relative;
   border: 1px solid #c9c9c9;
-  background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Images/cmn_v1/icon_m_accordiondown_03.png") 2.25% 50% no-repeat #fff;
+  background: url("/assets/www.ricoh.com/-/Media/ScAssets/System/Images/cmn_v1/icon_m_accordiondown_03.png") 2.25% 50% no-repeat #fff;
   background-size: 20px auto;
   -webkit-border-radius: 4px 4px 4px 4px;
           border-radius: 4px 4px 4px 4px;
@@ -9606,7 +9606,7 @@ Sitecore Components
 
 .cp-ProductsList .accordion_sct .acd_ttl02.open {
   border: 1px solid #c9c9c9;
-  background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Images/cmn_v1/icon_m_accordionup_03.png") 2.25% 50% no-repeat #fff;
+  background: url("/assets/www.ricoh.com/-/Media/ScAssets/System/Images/cmn_v1/icon_m_accordionup_03.png") 2.25% 50% no-repeat #fff;
   background-size: 20px auto;
   -webkit-border-radius: 4px 4px 0 0;
           border-radius: 4px 4px 0 0;
@@ -9614,12 +9614,12 @@ Sitecore Components
 
 @media (max-width: 640px) {
   .cp-ProductsList .accordion_sct .acd_ttl02 {
-    background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Images/cmn_v1/icon_m_accordiondown_03.png") 4% 50% no-repeat #fff;
+    background: url("/assets/www.ricoh.com/-/Media/ScAssets/System/Images/cmn_v1/icon_m_accordiondown_03.png") 4% 50% no-repeat #fff;
     background-size: 20px auto;
     padding: 8px 10px 7px 6.0%;
   }
   .cp-ProductsList .accordion_sct .acd_ttl02.open {
-    background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Images/cmn_v1/icon_m_accordionup_03.png") 4% 50% no-repeat #fff;
+    background: url("/assets/www.ricoh.com/-/Media/ScAssets/System/Images/cmn_v1/icon_m_accordionup_03.png") 4% 50% no-repeat #fff;
     background-size: 20px auto;
     padding: 8px 10px 7px 6.0%;
   }
@@ -9649,11 +9649,11 @@ Sitecore Components
 }
 
 .cp-ProductsList .searchDetail_speed-value-icon_color {
-  background: transparent url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Images/icon-speed-color.png") left center no-repeat;
+  background: transparent url("/assets/www.ricoh.com/-/Media/ScAssets/System/Images/icon-speed-color.png") left center no-repeat;
 }
 
 .cp-ProductsList .searchDetail_speed-value-icon_mono {
-  background: transparent url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Images/icon-speed-black.png") left center no-repeat;
+  background: transparent url("/assets/www.ricoh.com/-/Media/ScAssets/System/Images/icon-speed-black.png") left center no-repeat;
 }
 
 .cp-ProductsList .searchDetail_speed-value-icon {
@@ -9881,7 +9881,7 @@ Sitecore Components
 }
 
 .cp-DeviceInfo .iconPR-tr_new {
-  background-image: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Images/cmn_jp_v1/icon-thumb_mn-new_r.png");
+  background-image: url("/assets/www.ricoh.com/-/Media/ScAssets/System/Images/cmn_jp_v1/icon-thumb_mn-new_r.png");
 }
 
 .cp-DeviceInfo .ttl_balloon {
@@ -9894,7 +9894,7 @@ Sitecore Components
 .cp-DeviceInfo .ttl_balloon .ico_ball {
   width: 48px;
   height: 48px;
-  background-image: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Images/cmn_jp_v1/ttl_balloon.png");
+  background-image: url("/assets/www.ricoh.com/-/Media/ScAssets/System/Images/cmn_jp_v1/ttl_balloon.png");
   background-repeat: no-repeat;
   display: block;
   float: left;
@@ -12789,7 +12789,7 @@ Sitecore Components
 
 .cp-SubContentsNavigation .jp_sub_contents_nv.contents_nv .clm a {
   padding: 0 8px 0 24px;
-  background-image: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Images/cmn_v1/icon_s_right_03.png");
+  background-image: url("/assets/www.ricoh.com/-/Media/ScAssets/System/Images/cmn_v1/icon_s_right_03.png");
   background-repeat: no-repeat;
   background-size: 16px;
   background-position: 0 center;
@@ -12994,7 +12994,7 @@ Sitecore Components
   width: 12px;
   height: 16px;
   content: "";
-  background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Images/cmn_v1/icon_s_right_01.png") center center no-repeat;
+  background: url("/assets/www.ricoh.com/-/Media/ScAssets/System/Images/cmn_v1/icon_s_right_01.png") center center no-repeat;
   background-size: cover;
 }
 
@@ -13119,7 +13119,7 @@ Sitecore Components
   box-sizing: border-box;
   margin: 0 20px 13px -5px;
   padding-left: 20px;
-  background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Images/cmn_v1/icon_s_right_01.png") left 1px no-repeat;
+  background: url("/assets/www.ricoh.com/-/Media/ScAssets/System/Images/cmn_v1/icon_s_right_01.png") left 1px no-repeat;
   background-size: 14px !important;
 }
 
@@ -13128,7 +13128,7 @@ Sitecore Components
     margin: 0 0 13px 0;
     padding: 15px;
     border-bottom: 1px solid #dedede;
-    background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Images/cmn_v1/icon_m_right_01.png") right center no-repeat;
+    background: url("/assets/www.ricoh.com/-/Media/ScAssets/System/Images/cmn_v1/icon_m_right_01.png") right center no-repeat;
     background-size: 24px !important;
   }
 }
@@ -13156,7 +13156,7 @@ Sitecore Components
   width: 12px;
   height: 16px;
   content: "";
-  background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Images/cmn_v1/icon_s_right_01.png") center center no-repeat;
+  background: url("/assets/www.ricoh.com/-/Media/ScAssets/System/Images/cmn_v1/icon_s_right_01.png") center center no-repeat;
   background-size: cover;
 }
 
@@ -16161,4 +16161,4 @@ a.txt_dc_u:hover {
 .cp-Tab .tab_sct.a11y_tab_sct .tab_ttl li.act a { color: #333; }
 
 
-@import "/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cookie-management/css/common.css";
+@import "/assets/www.ricoh.com/-/Media/Ricoh/Common/cookie-management/css/common.css";

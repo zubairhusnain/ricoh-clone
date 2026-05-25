@@ -283,6 +283,16 @@ function rh_rewrite_baked_asset_urls(string $html): string
     return $html;
 }
 
+/** Linux servers are case-sensitive: scraped HTML uses /-/media/ but files live under /-/Media/. */
+function rh_fix_asset_media_case(string $html): string
+{
+    return preg_replace(
+        '#(/assets/www\.ricoh\.com/-/)media/#i',
+        '$1Media/',
+        $html
+    ) ?? $html;
+}
+
 function rh_rewrite_html_urls(string $html): string
 {
     $base = RH_BASE_URL;
@@ -354,8 +364,36 @@ function rh_rewrite_html_urls(string $html): string
     ) ?? $html;
 
     $html = rh_strip_tracking_html($html);
+    $html = rh_fix_asset_media_case($html);
+
+    // Any remaining baked dev paths in HTML attributes
+    $html = preg_replace(
+        '~/(ricoh-clone/ricoh_offline)(?=/assets/)~',
+        rh_is_production_host() ? '' : '/' . trim(rh_install_base_path(), '/'),
+        $html
+    ) ?? $html;
 
     return $html;
+}
+
+function rh_resolve_asset_fs_path(string $localFs): ?string
+{
+    if (is_file($localFs)) {
+        return $localFs;
+    }
+
+    $candidates = [
+        preg_replace('#/-/?media/#i', '/-/Media/', $localFs) ?? $localFs,
+        preg_replace('#/-/?Media/#i', '/-/media/', $localFs) ?? $localFs,
+    ];
+
+    foreach ($candidates as $candidate) {
+        if (is_string($candidate) && $candidate !== $localFs && is_file($candidate)) {
+            return $candidate;
+        }
+    }
+
+    return null;
 }
 
 function rh_detect_asset_mime_type(string $localFs): string

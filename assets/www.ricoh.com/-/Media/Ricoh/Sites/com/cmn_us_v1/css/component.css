@@ -44,7 +44,7 @@ Data
 .us_news_sct { margin-top: 16px; border-top: 1px solid #c9c9c9; }
 .us_news_sct .us_news_lst { display: block; padding: 8px 0; border-bottom: 1px solid #c9c9c9; }
 .us_news_sct .us_news_lst:hover { text-decoration: none; }
-.us_news_sct a.us_news_lst { padding: 8px 32px 8px 0; background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/img/icon_s_right_01.png") 100% 50% no-repeat; }
+.us_news_sct a.us_news_lst { padding: 8px 32px 8px 0; background: url("/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/img/icon_s_right_01.png") 100% 50% no-repeat; }
 .us_news_sct dl { overflow: hidden; }
 .us_news_sct dl dt { float: left; }
 .us_news_sct dl dt .day { display: inline-block; width: 7em; font-weight: bold; }
@@ -56,7 +56,7 @@ Data
 
 /* @media */
 @media (max-width: 640px) {
-	.us_news_sct a.us_news_lst { background-image: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/img/icon_m_right_01.png");
+	.us_news_sct a.us_news_lst { background-image: url("/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/img/icon_m_right_01.png");
 		-webkit-background-size: 24px 24px;
 		background-size: 24px 24px;
 	}

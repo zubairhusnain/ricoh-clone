@@ -20,8 +20,8 @@ $rootReal = realpath(__DIR__);
 $pagesReal = realpath(__DIR__ . '/pages');
 
 if (str_starts_with($path, '/assets/')) {
-    $localFs = __DIR__ . $path;
-    if (!is_file($localFs)) {
+    $localFs = rh_resolve_asset_fs_path(__DIR__ . $path);
+    if ($localFs === null) {
         http_response_code(404);
         exit;
     }

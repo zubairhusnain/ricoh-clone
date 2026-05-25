@@ -21,9 +21,21 @@ $(function () {
   });
 
   // ストーリーズ記事データの取得・出力
+  var rhAssetRoot = (function () {
+    var scripts = document.getElementsByTagName('script');
+    for (var i = 0; i < scripts.length; i++) {
+      var src = scripts[i].src || '';
+      var match = src.match(/^(.*)\/assets\/www\.ricoh\.com\//);
+      if (match) {
+        return match[1];
+      }
+    }
+    return '';
+  })();
+
 $.ajax({
   type: 'GET',
-  url: '/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/news/stories/articles/article.json?',
+  url: rhAssetRoot + '/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/news/stories/articles/article.json?',
   dataType: 'json'
 })
 .then(

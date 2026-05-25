@@ -106,7 +106,7 @@
   right: 18px;
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
-  background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/support/img/icon_arrow.png") no-repeat;
+  background: url("/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/support/img/icon_arrow.png") no-repeat;
 }
 .mainVisual__body__text__dep:hover p,
 .mainVisual__body__text__cty:hover p {
@@ -259,7 +259,7 @@ select::-ms-expand {
   }
   .mainVisual__body__text__dep:hover:after,
   .mainVisual__body__text__cty:hover:after {
-    background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/support/img/icon_arrow.png") no-repeat;
+    background: url("/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/support/img/icon_arrow.png") no-repeat;
   }
 }
 
@@ -328,7 +328,7 @@ select::-ms-expand {
   display: block;
   width: 12px;
   height: 12px;
-  background-image: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/support/img/icon_blank.png");
+  background-image: url("/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/support/img/icon_blank.png");
   position: absolute;
   top: 50%;
   right: 10px;

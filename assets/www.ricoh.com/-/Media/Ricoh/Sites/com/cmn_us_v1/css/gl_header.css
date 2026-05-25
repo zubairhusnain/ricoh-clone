@@ -45,12 +45,12 @@ Media Queries
 		width: 24px;
 		height: 24px;
 		background: none;
-		background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/img/gl_header/gl_nv_src_btn_w.png") 50% 50% no-repeat;
+		background: url("/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/img/gl_header/gl_nv_src_btn_w.png") 50% 50% no-repeat;
 		text-indent: -9999px;
 	}
 	#gl_header #gl_nv .gl_nv_lst li.gl_nv_src.dsp_middle .gl_nv_lst_mn:hover .gl_nv_src_mn,
 	#gl_header #gl_nv .gl_nv_lst li.gl_nv_src.dsp_middle .gl_nv_lst_mn.open .gl_nv_src_mn {
-		background-image: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/img/gl_header/gl_nv_src_btn.png");
+		background-image: url("/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/img/gl_header/gl_nv_src_btn.png");
 	}
 
 	#gl_header #gl_nv .gl_nv_lst li a.gl_nv_lst_mn:hover:after,

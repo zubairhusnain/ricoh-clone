@@ -69,7 +69,7 @@
         top: 50%;
         right: 8px;
         margin-top: -8px;
-        background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/img/icon_m_right_03.png") 0 0 no-repeat;
+        background: url("/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/img/icon_m_right_03.png") 0 0 no-repeat;
         background-size: contain;
     }
 }
@@ -92,7 +92,7 @@
 }
 .thumb_mn {
     display: block;
-    background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/img/icon_s_right_01.png") 100% 50% no-repeat #ffffff;
+    background: url("/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/img/icon_s_right_01.png") 100% 50% no-repeat #ffffff;
 }
 .thumb_mn .inner {
     padding: 16px 24px 16px 16px;
@@ -673,7 +673,7 @@ dl.c-linkCard__text dt {
 .index_section_linkcontent-list-wrap-btn {
     position: relative;
     width: 100%;
-    background: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/jp_ricoh/top/img/index/arrow_w.png") 98% center no-repeat rgba(0,0,0, 0.7);
+    background: url("/assets/www.ricoh.com/-/Media/Ricoh/Sites/jp_ricoh/top/img/index/arrow_w.png") 98% center no-repeat rgba(0,0,0, 0.7);
     color: #fff;
     font-size: 14px;
     line-height: 1.4;
@@ -857,8 +857,8 @@ dl.c-linkCard__text dt {
     top: 50%;
     transform: translateY(-50%);
     background-color: #D20029;
-    -webkit-mask-image: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/jp_ricoh/top/img/index/arrow_right.svg");
-    mask-image: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/jp_ricoh/top/img/index/arrow_right.svg");
+    -webkit-mask-image: url("/assets/www.ricoh.com/-/Media/Ricoh/Sites/jp_ricoh/top/img/index/arrow_right.svg");
+    mask-image: url("/assets/www.ricoh.com/-/Media/Ricoh/Sites/jp_ricoh/top/img/index/arrow_right.svg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -872,8 +872,8 @@ dl.c-linkCard__text dt {
     background-image: none !important;
 }
 .cp-NewsList .news_sct a.news_lst[target="_blank"]::after {
-    -webkit-mask-image: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/jp_ricoh/top/img/index/icon_window.svg");
-    mask-image: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/jp_ricoh/top/img/index/icon_window.svg");
+    -webkit-mask-image: url("/assets/www.ricoh.com/-/Media/Ricoh/Sites/jp_ricoh/top/img/index/icon_window.svg");
+    mask-image: url("/assets/www.ricoh.com/-/Media/Ricoh/Sites/jp_ricoh/top/img/index/icon_window.svg");
 }
 .cp-NewsList .news_sct dl {
     display: flex;
@@ -976,11 +976,11 @@ dl.c-linkCard__text dt {
     background-position: left center;
   }
   .ico_youtube{
-    background-image: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/jp_ricoh/top/img/index/ico_youtube.png");
+    background-image: url("/assets/www.ricoh.com/-/Media/Ricoh/Sites/jp_ricoh/top/img/index/ico_youtube.png");
     padding-left: 115px;
   }
   .ico_fb{
-    background-image: url("/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/jp_ricoh/top/img/index/ico_fb.png");
+    background-image: url("/assets/www.ricoh.com/-/Media/Ricoh/Sites/jp_ricoh/top/img/index/ico_fb.png");
     padding-left: 50px;
   }
   /*Sns Results*/
