@@ -4,8 +4,12 @@ DirectoryIndex router.php
 # Block direct access to internal PHP tree
 RewriteRule ^pages/ - [F,L]
 
-# Static assets
-RewriteRule ^assets/ - [L]
+# Static assets with known extensions (served directly by Apache)
+RewriteCond %{REQUEST_FILENAME} -f
+RewriteRule ^assets/.*\.(css|js|mjs|map|svg|png|jpe?g|gif|webp|woff2?|ttf|eot|ico|avif|pdf)$ - [L,NC]
+
+# Other assets (.ashx, extensionless images, etc.) — MIME via router.php
+RewriteRule ^assets/ router.php [L,QSA]
 
 # Other static file types
 RewriteCond %{REQUEST_FILENAME} -f

@@ -21,27 +21,15 @@ $pagesReal = realpath(__DIR__ . '/pages');
 
 if (str_starts_with($path, '/assets/')) {
     $localFs = __DIR__ . $path;
-    if (is_file($localFs)) {
-        $contentType = 'application/octet-stream';
-        if (function_exists('mime_content_type')) {
-            $mt = mime_content_type($localFs);
-            if (is_string($mt) && $mt !== '') {
-                $contentType = $mt;
-            }
-        }
-        if (str_ends_with($localFs, '.css')) {
-            $contentType = 'text/css; charset=utf-8';
-        } elseif (str_ends_with($localFs, '.js')) {
-            $contentType = 'application/javascript; charset=utf-8';
-        } elseif (str_ends_with($localFs, '.svg')) {
-            $contentType = 'image/svg+xml';
-        }
-        header('Content-Type: ' . $contentType);
-        header('Cache-Control: public, max-age=86400');
-        readfile($localFs);
+    if (!is_file($localFs)) {
+        http_response_code(404);
         exit;
     }
-    http_response_code(404);
+
+    $contentType = rh_detect_asset_mime_type($localFs);
+    header('Content-Type: ' . $contentType);
+    header('Cache-Control: public, max-age=86400');
+    readfile($localFs);
     exit;
 }
 

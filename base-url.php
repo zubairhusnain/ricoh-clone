@@ -316,6 +316,47 @@ function rh_rewrite_html_urls(string $html): string
     return $html;
 }
 
+function rh_detect_asset_mime_type(string $localFs): string
+{
+    $ext = strtolower(pathinfo($localFs, PATHINFO_EXTENSION));
+
+    if ($ext === 'css') {
+        return 'text/css; charset=utf-8';
+    }
+    if ($ext === 'js' || $ext === 'mjs') {
+        return 'application/javascript; charset=utf-8';
+    }
+    if ($ext === 'svg') {
+        return 'image/svg+xml';
+    }
+    if ($ext === 'webp') {
+        return 'image/webp';
+    }
+    if ($ext === 'woff2') {
+        return 'font/woff2';
+    }
+    if ($ext === 'woff') {
+        return 'font/woff';
+    }
+
+    if (function_exists('mime_content_type')) {
+        $mt = mime_content_type($localFs);
+        if (is_string($mt) && $mt !== '' && $mt !== 'application/octet-stream') {
+            return $mt;
+        }
+    }
+
+    if (class_exists('finfo')) {
+        $finfo = new finfo(FILEINFO_MIME_TYPE);
+        $mt = $finfo->file($localFs);
+        if (is_string($mt) && $mt !== '' && $mt !== 'application/octet-stream') {
+            return $mt;
+        }
+    }
+
+    return 'application/octet-stream';
+}
+
 function rh_start_output_rewrite(): void
 {
     static $started = false;

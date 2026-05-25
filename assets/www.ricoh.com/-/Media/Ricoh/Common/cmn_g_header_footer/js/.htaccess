@@ -1,9 +1,0 @@
-<IfModule mod_mime.c>
-  AddType application/javascript .js
-</IfModule>
-<Files "templateBase">
-  ForceType application/javascript
-</Files>
-<Files "initBase">
-  ForceType application/javascript
-</Files>
