@@ -28,10 +28,10 @@ rh_start_output_rewrite();
 <title>The Expansion of Ricoh's Inkjet Technology | Global | Ricoh</title>
     <meta name="Description" content="[Ricoh Global Official Website] Pushing the boundaries of inkjet to open new worlds">
 <meta property="og:title" content="The Expansion of Ricoh's Inkjet Technology | Global | Ricoh">
-    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&amp;hash=9DB561AD22E96D26590C1574F15A7B50">
+    <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&hash=9DB561AD22E96D26590C1574F15A7B50">
     <meta property="og:type" content="website">
     <meta property="og:description" content="Pushing the boundaries of inkjet to open new worlds">
-<meta property="og:url" content="https://www.ricoh.com/technology/inkjet">
+<meta property="og:url" content="__RH_BASE__/technology/inkjet">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 
@@ -660,7 +660,7 @@ to deliver new value to society.</p>
                                     <div class="c-carousel__item c-carousel__item--movie splide__slide splide__slide--clone" id="splide01-clone01" role="tabpanel" aria-roledescription="slide" aria-label="5 of 6" style="width: calc(100%);" aria-hidden="true">
                                         
                                             <figure>
-                                                <a href="https://www.youtube.com/watch?v=gJ9nj6SVEgQ" class="c-carousel__link youtube_modal_video_temp icon-hidden" tabindex="-1">
+                                                <a href="__RH_BASE__/" class="c-carousel__link youtube_modal_video_temp icon-hidden" tabindex="-1">
                                                     <img alt="" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/technology/inkjet/img/thumb05.webp">
                                                     <img class="c-carousel__iconImage" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/icon_play.png" alt="Play Video">
                                                 </a>
@@ -673,7 +673,7 @@ to deliver new value to society.</p>
                                     </div><div class="c-carousel__item c-carousel__item--movie splide__slide splide__slide--clone is-prev" id="splide01-clone02" role="tabpanel" aria-roledescription="slide" aria-label="6 of 6" style="width: calc(100%);" aria-hidden="true">
                                         
                                             <figure>
-                                                <a href="https://www.youtube.com/watch?v=6iuIlhf4ebQ" class="c-carousel__link youtube_modal_video_temp icon-hidden" tabindex="-1">
+                                                <a href="__RH_BASE__/" class="c-carousel__link youtube_modal_video_temp icon-hidden" tabindex="-1">
                                                     <img alt="" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/technology/inkjet/img/thumb06.webp">
                                                     <img class="c-carousel__iconImage" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/icon_play.png" alt="Play Video">
                                                 </a>
@@ -686,7 +686,7 @@ to deliver new value to society.</p>
                                     </div><div class="c-carousel__item c-carousel__item--movie splide__slide is-active is-visible" id="splide01-slide01" role="tabpanel" aria-roledescription="slide" aria-label="1 of 6" style="width: calc(100%);">
                                         
                                             <figure>
-                                                <a href="https://www.youtube.com/watch?v=d2BUiZKnqjA" class="c-carousel__link youtube_modal_video_temp icon-hidden">
+                                                <a href="__RH_BASE__/" class="c-carousel__link youtube_modal_video_temp icon-hidden">
                                                     <img alt="" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/technology/inkjet/img/thumb01.webp">
                                                     <img class="c-carousel__iconImage" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/icon_play.png" alt="Play Video">
                                                 </a>
@@ -700,7 +700,7 @@ to deliver new value to society.</p>
                                     <div class="c-carousel__item c-carousel__item--movie splide__slide is-next" id="splide01-slide02" role="tabpanel" aria-roledescription="slide" aria-label="2 of 6" style="width: calc(100%);" aria-hidden="true">
                                         
                                             <figure>
-                                                <a href="https://www.youtube.com/watch?v=4L3hkEMLJz0" class="c-carousel__link youtube_modal_video_temp icon-hidden" tabindex="-1">
+                                                <a href="__RH_BASE__/" class="c-carousel__link youtube_modal_video_temp icon-hidden" tabindex="-1">
                                                     <img alt="" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/technology/inkjet/img/thumb02.webp">
                                                     <img class="c-carousel__iconImage" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/icon_play.png" alt="Play Video">
                                                 </a>
@@ -714,7 +714,7 @@ to deliver new value to society.</p>
                                     <div class="c-carousel__item c-carousel__item--movie splide__slide" id="splide01-slide03" role="tabpanel" aria-roledescription="slide" aria-label="3 of 6" style="width: calc(100%);" aria-hidden="true">
                                         
                                             <figure>
-                                                <a href="https://www.youtube.com/watch?v=OxaVlIwoguQ" class="c-carousel__link youtube_modal_video_temp icon-hidden" tabindex="-1">
+                                                <a href="__RH_BASE__/" class="c-carousel__link youtube_modal_video_temp icon-hidden" tabindex="-1">
                                                     <img alt="" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/technology/inkjet/img/thumb03.webp">
                                                     <img class="c-carousel__iconImage" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/icon_play.png" alt="Play Video">
                                                 </a>
@@ -728,7 +728,7 @@ to deliver new value to society.</p>
                                     <div class="c-carousel__item c-carousel__item--movie splide__slide" id="splide01-slide04" role="tabpanel" aria-roledescription="slide" aria-label="4 of 6" style="width: calc(100%);" aria-hidden="true">
                                         
                                             <figure>
-                                                <a href="https://www.youtube.com/watch?v=aQymEoUrSEo" class="c-carousel__link youtube_modal_video_temp icon-hidden" tabindex="-1">
+                                                <a href="__RH_BASE__/" class="c-carousel__link youtube_modal_video_temp icon-hidden" tabindex="-1">
                                                     <img alt="" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/technology/inkjet/img/thumb04.webp">
                                                     <img class="c-carousel__iconImage" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/icon_play.png" alt="Play Video">
                                                 </a>
@@ -742,7 +742,7 @@ to deliver new value to society.</p>
                                     <div class="c-carousel__item c-carousel__item--movie splide__slide" id="splide01-slide05" role="tabpanel" aria-roledescription="slide" aria-label="5 of 6" style="width: calc(100%);" aria-hidden="true">
                                         
                                             <figure>
-                                                <a href="https://www.youtube.com/watch?v=gJ9nj6SVEgQ" class="c-carousel__link youtube_modal_video_temp icon-hidden" tabindex="-1">
+                                                <a href="__RH_BASE__/" class="c-carousel__link youtube_modal_video_temp icon-hidden" tabindex="-1">
                                                     <img alt="" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/technology/inkjet/img/thumb05.webp">
                                                     <img class="c-carousel__iconImage" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/icon_play.png" alt="Play Video">
                                                 </a>
@@ -756,7 +756,7 @@ to deliver new value to society.</p>
                                     <div class="c-carousel__item c-carousel__item--movie splide__slide" id="splide01-slide06" role="tabpanel" aria-roledescription="slide" aria-label="6 of 6" style="width: calc(100%);" aria-hidden="true">
                                         
                                             <figure>
-                                                <a href="https://www.youtube.com/watch?v=6iuIlhf4ebQ" class="c-carousel__link youtube_modal_video_temp icon-hidden" tabindex="-1">
+                                                <a href="__RH_BASE__/" class="c-carousel__link youtube_modal_video_temp icon-hidden" tabindex="-1">
                                                     <img alt="" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/technology/inkjet/img/thumb06.webp">
                                                     <img class="c-carousel__iconImage" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/icon_play.png" alt="Play Video">
                                                 </a>
@@ -770,7 +770,7 @@ to deliver new value to society.</p>
                     <div class="c-carousel__item c-carousel__item--movie splide__slide splide__slide--clone is-active" id="splide01-clone03" role="tabpanel" aria-roledescription="slide" aria-label="1 of 6" style="width: calc(100%);" aria-hidden="true">
                                         
                                             <figure>
-                                                <a href="https://www.youtube.com/watch?v=d2BUiZKnqjA" class="c-carousel__link youtube_modal_video_temp icon-hidden" tabindex="-1">
+                                                <a href="__RH_BASE__/" class="c-carousel__link youtube_modal_video_temp icon-hidden" tabindex="-1">
                                                     <img alt="" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/technology/inkjet/img/thumb01.webp">
                                                     <img class="c-carousel__iconImage" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/icon_play.png" alt="Play Video">
                                                 </a>
@@ -783,7 +783,7 @@ to deliver new value to society.</p>
                                     </div><div class="c-carousel__item c-carousel__item--movie splide__slide splide__slide--clone" id="splide01-clone04" role="tabpanel" aria-roledescription="slide" aria-label="2 of 6" style="width: calc(100%);" aria-hidden="true">
                                         
                                             <figure>
-                                                <a href="https://www.youtube.com/watch?v=4L3hkEMLJz0" class="c-carousel__link youtube_modal_video_temp icon-hidden" tabindex="-1">
+                                                <a href="__RH_BASE__/" class="c-carousel__link youtube_modal_video_temp icon-hidden" tabindex="-1">
                                                     <img alt="" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/technology/inkjet/img/thumb02.webp">
                                                     <img class="c-carousel__iconImage" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/icon_play.png" alt="Play Video">
                                                 </a>
@@ -817,7 +817,7 @@ to deliver new value to society.</p>
                                 <div class="c-multiCol">
   <div class="c-linkCard c-linkCard--col3">
     <div class="c-linkCard__item">
-      <a href="http://rpp.ricoh-usa.com/products/production-printers/continuous-feed/ricoh-pro-vc60000" class="c-linkCard__link c-linkCard__link--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-linkCard__link c-linkCard__link--blank" target="_blank">
         <div class="c-linkCard__text">
           <div class="c-h4-a">
             <div class="c-h4-a__text c-linkCard__hoverRed">Explore Next-Gen Continuous Feed Inkjet</div>
@@ -836,7 +836,7 @@ to deliver new value to society.</p>
       </a>
     </div>
     <div class="c-linkCard__item">
-      <a href="https://industry.ricoh.com/en/industrialinkjet/" class="c-linkCard__link c-linkCard__link--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-linkCard__link c-linkCard__link--blank" target="_blank">
         <div class="c-linkCard__text">
           <div class="c-h4-a">
             <div class="c-h4-a__text c-linkCard__hoverRed">Industrial Inkjet</div>
@@ -855,7 +855,7 @@ to deliver new value to society.</p>
       </a>
     </div>
     <div class="c-linkCard__item">
-      <a href="http://www.ricoh-digitalpainting.com/en/products/" class="c-linkCard__link c-linkCard__link--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-linkCard__link c-linkCard__link--blank" target="_blank">
         <div class="c-linkCard__text">
           <div class="c-h4-a">
             <div class="c-h4-a__text c-linkCard__hoverRed">Digital Painting</div>

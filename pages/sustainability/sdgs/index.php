@@ -30,10 +30,10 @@ rh_start_output_rewrite();
 <title>Concept of sustainability | Global | Ricoh</title>
     <meta name="Description" content="[Ricoh Global Official Website] Ricoh has delivered customer value over the years by innovating. The transformation of society is making it vital for corporate activities to address emerging social issues. Ricoh seeks to make a real difference by embracing the challenges of change遯ｶ謚較eating new value in fields where it can help resolve social issues.">
 <meta property="og:title" content="Concept of sustainability | Global | Ricoh">
-    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&amp;hash=9DB561AD22E96D26590C1574F15A7B50">
+    <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&hash=9DB561AD22E96D26590C1574F15A7B50">
     <meta property="og:type" content="website">
     <meta property="og:description" content="Ricoh has delivered customer value over the years by innovating. The transformation of society is making it vital for corporate activities to address emerging social issues. Ricoh seeks to make a real difference by embracing the challenges of change遯ｶ謚較eating new value in fields where it can help resolve social issues.">
-<meta property="og:url" content="https://www.ricoh.com/sustainability/sdgs">
+<meta property="og:url" content="__RH_BASE__/sustainability/sdgs">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 

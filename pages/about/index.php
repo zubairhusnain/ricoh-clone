@@ -30,10 +30,10 @@ rh_start_output_rewrite();
 <title>About Ricoh | Global | Ricoh</title>
     <meta name="Description" content="[Ricoh Global Official Website] You can find our company profile and vision, brand message, company information, office location(in Japan and overseas) and history.">
 <meta property="og:title" content="About Ricoh | Global | Ricoh">
-    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&amp;hash=9DB561AD22E96D26590C1574F15A7B50">
+    <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&hash=9DB561AD22E96D26590C1574F15A7B50">
     <meta property="og:type" content="website">
     <meta property="og:description" content="You can find our company profile and vision, brand message, company information, office location(in Japan and overseas) and history.">
-<meta property="og:url" content="https://www.ricoh.com/about">
+<meta property="og:url" content="__RH_BASE__/about">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 
@@ -385,7 +385,7 @@ rh_start_output_rewrite();
       </div>
 
       <div class="c-linkCard__item">
-        <a href="https://www.youtube.com/watch?v=w7hW8LROhHk" class="c-linkCard__link youtube_modal_video_temp icon-hidden" data-modal-bound="true">
+        <a href="__RH_BASE__/" class="c-linkCard__link youtube_modal_video_temp icon-hidden" data-modal-bound="true">
           <div class="c-linkCard__text">
             <div class="c-h4-a">
               <h3 class="c-h4-a__text c-linkCard__hoverRed">Corporate Video: The Ricoh Journey [3:27]</h3>

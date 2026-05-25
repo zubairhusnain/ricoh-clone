@@ -28,10 +28,10 @@ rh_start_output_rewrite();
 <title>Commitment and Recognition | Global | Ricoh</title>
     <meta name="Description" content="[Ricoh Global Official Website] To effectively communicate its corporate stance and business activities, the Ricoh Group introduces a combined report covering on economy, society, and the environment.">
 <meta property="og:title" content="Commitment and Recognition | Global | Ricoh">
-    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&amp;hash=9DB561AD22E96D26590C1574F15A7B50">
+    <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&hash=9DB561AD22E96D26590C1574F15A7B50">
     <meta property="og:type" content="website">
     <meta property="og:description" content="To effectively communicate its corporate stance and business activities, the Ricoh Group introduces a combined report covering on economy, society, and the environment.">
-<meta property="og:url" content="https://www.ricoh.com/about/integrated-report/data/commitment">
+<meta property="og:url" content="__RH_BASE__/about/integrated-report/data/commitment">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 
@@ -561,7 +561,7 @@ rh_start_output_rewrite();
       </div>
       <div class="c-link-a-list u-mt-8">
         <div class="c-link-a-list__inner">
-          <a href="https://www.lseg.com/en/ftse-russell/indices/ftse4good" target="ricoh" class="c-link-a c-link-a--blank icon-hidden">
+          <a href="__RH_BASE__/" target="ricoh" class="c-link-a c-link-a--blank icon-hidden">
             <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
             <span class="c-link-a__text">FTSE4Good Index Series</span>
           </a>
@@ -586,7 +586,7 @@ rh_start_output_rewrite();
       </div>
       <div class="c-link-a-list u-mt-8">
         <div class="c-link-a-list__inner">
-          <a href="https://www.lseg.com/en/ftse-russell/indices/blossom-japan" target="ricoh" class="c-link-a c-link-a--blank icon-hidden">
+          <a href="__RH_BASE__/" target="ricoh" class="c-link-a c-link-a--blank icon-hidden">
             <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
             <span class="c-link-a__text">FTSE JPX Blossom Japan Index</span>
           </a>
@@ -611,7 +611,7 @@ rh_start_output_rewrite();
       </div>
       <div class="c-link-a-list u-mt-8">
         <div class="c-link-a-list__inner">
-          <a href="https://www.lseg.com/en/ftse-russell/indices/blossom-japan" target="ricoh" class="c-link-a c-link-a--blank icon-hidden">
+          <a href="__RH_BASE__/" target="ricoh" class="c-link-a c-link-a--blank icon-hidden">
             <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
             <span class="c-link-a__text">FTSE JPX Blossom Japan Sector Relative Index</span>
           </a>
@@ -738,7 +738,7 @@ rh_start_output_rewrite();
       </div>
       <div class="c-link-a-list u-mt-8">
         <div class="c-link-a-list__inner">
-          <a href="https://recognition.ecovadis.com/eCUosG8gaEONnfUvLWBcSg" target="ricoh" class="c-link-a c-link-a--blank icon-hidden">
+          <a href="__RH_BASE__/" target="ricoh" class="c-link-a c-link-a--blank icon-hidden">
             <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
             <span class="c-link-a__text">EcoVadis recognition page</span>
           </a>

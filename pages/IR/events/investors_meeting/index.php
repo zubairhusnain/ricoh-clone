@@ -28,10 +28,10 @@ rh_start_output_rewrite();
 <title>Corporate Strategy Meeting (Mid-term Strategy) | Global | Ricoh</title>
     <meta name="Description" content="[Ricoh Global Official Website] Ricoh Investor Relations - Corporate Strategy Meeting (Mid-term Strategy)">
 <meta property="og:title" content="Corporate Strategy Meeting (Mid-term Strategy) | Global | Ricoh">
-    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&amp;hash=9DB561AD22E96D26590C1574F15A7B50">
+    <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&hash=9DB561AD22E96D26590C1574F15A7B50">
     <meta property="og:type" content="website">
     <meta property="og:description" content="Ricoh Investor Relations - Corporate Strategy Meeting (Mid-term Strategy)">
-<meta property="og:url" content="https://www.ricoh.com/IR/events/investors-meeting">
+<meta property="og:url" content="__RH_BASE__/IR/events/investors-meeting">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 
@@ -501,7 +501,7 @@ rh_start_output_rewrite();
           </div>
           <div class="c-link-a-list c-link-a-list--column">
             <div class="c-link-a-list__inner">
-              <a href="https://www.irwebcasting.com/20200327/4/33819b84d3/mov/main/index.html" target="_blank" class="c-link-a c-link-a--blank icon-hidden">
+              <a href="__RH_BASE__/" target="_blank" class="c-link-a c-link-a--blank icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
                 <span class="c-link-a__text">Presentation audio [Flash][HTML5]</span>
               </a>

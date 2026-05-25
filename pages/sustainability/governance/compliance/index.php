@@ -30,10 +30,10 @@ rh_start_output_rewrite();
 <title>Compliance | Global | Ricoh</title>
     <meta name="Description" content="[Ricoh Global Official Website] [Ricoh Global Official Website] The Ricoh Group considers that “compliance” includes observance of not only laws and regulations, but also company rules and social ethics. Therefore, the Ricoh Group provides thorough instruction of “Ricoh Group Code of Conduct”, which indicates behavioral principle of directors and employees of the Ricoh Group. Every member of the Group is concerned to ensure all employees observe the principles in their daily activities.">
 <meta property="og:title" content="Compliance | Global | Ricoh">
-    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&amp;hash=9DB561AD22E96D26590C1574F15A7B50">
+    <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&hash=9DB561AD22E96D26590C1574F15A7B50">
     <meta property="og:type" content="website">
     <meta property="og:description" content="[Ricoh Global Official Website] The Ricoh Group considers that “compliance” includes observance of not only laws and regulations, but also company rules and social ethics. Therefore, the Ricoh Group provides thorough instruction of “Ricoh Group Code of Conduct”, which indicates behavioral principle of directors and employees of the Ricoh Group. Every member of the Group is concerned to ensure all employees observe the principles in their daily activities.">
-<meta property="og:url" content="https://www.ricoh.com/sustainability/governance/compliance">
+<meta property="og:url" content="__RH_BASE__/sustainability/governance/compliance">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 
@@ -648,7 +648,7 @@ rh_start_output_rewrite();
   <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/governance/img/compliance_2506_02.jpg" alt="image:internal_control_structure" width="1008" height="314" loading="lazy" style="width:100%; max-width: 1008px; margin-inline: auto;">
 </figure>
 <p>
-  <a class="c-link-a icon-hidden" target="_blank" href="https://jacer-bhr.org/en/application/index.html"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window"><span class="c-link-a__text">Japan Center for Engagement and Remedy on Business and Human
+  <a class="c-link-a icon-hidden" target="_blank" href="__RH_BASE__/"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window"><span class="c-link-a__text">Japan Center for Engagement and Remedy on Business and Human
       Rights (JaCER) “Engagement and Remedy Platform</span>
   </a>(Multilingual support)
 </p>
@@ -679,7 +679,7 @@ rh_start_output_rewrite();
     [Responsible Business Conduct (RBC) Hotline]
   </p>
   <p>
-    <a class="c-link-a icon-hidden" target="_blank" href="https://secure.ethicspoint.eu/domain/media/ja/gui/113060/index.html"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window"><span class="c-link-a__text">Responsible Business Conduct Hotline</span>
+    <a class="c-link-a icon-hidden" target="_blank" href="__RH_BASE__/"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window"><span class="c-link-a__text">Responsible Business Conduct Hotline</span>
     </a>(Multilingual
     support)
   </p>
@@ -698,7 +698,7 @@ rh_start_output_rewrite();
   </figcaption>
   <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/governance/img/compliance_2506_04.jpg" alt="image:internal_control_structure" width="1008" height="292" loading="lazy" style="width:100%; max-width: 1008px; margin-inline: auto;">
 </figure>
-<a href="https://jp.ricoh.com/csr/fair" class="c-link-a c-link-a--in-page icon-hidden" style="display: block;margin-left: auto;">
+<a href="__RH_BASE__/" class="c-link-a c-link-a--in-page icon-hidden" style="display: block;margin-left: auto;">
   <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-bottom-primary-color.svg" alt="" style="rotate: 180deg;">
   <span class="c-link-a__text">Page Top</span>
 </a>
@@ -1062,7 +1062,7 @@ rh_start_output_rewrite();
       <tbody>
         <tr>
           <td>
-            <a class="c-link-a icon-hidden" target="_blank" href="https://www.jbmia.or.jp/english/index.php"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window"><span class="c-link-a__text">
+            <a class="c-link-a icon-hidden" target="_blank" href="__RH_BASE__/"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window"><span class="c-link-a__text">
                 Japan Business Machine and Information System Industries Association<br>
                 ＜JBMIA＞
               </span>
@@ -1082,7 +1082,7 @@ rh_start_output_rewrite();
         </tr>
         <tr>
           <td>
-            <a class="c-link-a icon-hidden" target="_blank" href="https://www.jeita.or.jp/english/"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window"><span class="c-link-a__text">
+            <a class="c-link-a icon-hidden" target="_blank" href="__RH_BASE__/"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window"><span class="c-link-a__text">
                 Japan Electronics and Information Technology Industries Association<br>＜JEITA＞
               </span>
             </a>
@@ -1103,7 +1103,7 @@ rh_start_output_rewrite();
         </tr>
         <tr>
           <td>
-            <a class="c-link-a icon-hidden" target="_blank" href="https://www.keidanren.or.jp/en/"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window"><span class="c-link-a__text">
+            <a class="c-link-a icon-hidden" target="_blank" href="__RH_BASE__/"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window"><span class="c-link-a__text">
                 Japan Business Federation<br>＜KEIDANREN＞
               </span>
             </a>
@@ -1123,7 +1123,7 @@ rh_start_output_rewrite();
         </tr>
         <tr>
           <td>
-            <a class="c-link-a icon-hidden" target="_blank" href="https://www.doyukai.or.jp/en/"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window"><span class="c-link-a__text">
+            <a class="c-link-a icon-hidden" target="_blank" href="__RH_BASE__/"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window"><span class="c-link-a__text">
                 Japan Association of Corporate Executives<br>＜KEIZAI DOYUKAI＞
               </span>
             </a>
@@ -1143,7 +1143,7 @@ rh_start_output_rewrite();
         </tr>
         <tr>
           <td>
-            <a class="c-link-a icon-hidden" target="_blank" href="http://www.jmcti.org/jmchomepage/english/index.htm"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window"><span class="c-link-a__text">
+            <a class="c-link-a icon-hidden" target="_blank" href="__RH_BASE__/"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window"><span class="c-link-a__text">
                 Japan Machinery for Center for Trade and Investment<br>
                 ＜JMC＞
               </span>

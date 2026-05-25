@@ -30,10 +30,10 @@ rh_start_output_rewrite();
 <title>Third-party verification of environmental and social data | Global | Ricoh</title>
     <meta name="Description" content="[Ricoh Global Official Website] [Ricoh Global Official Website] The Ricoh Group's major environmental performance data, including greenhouse gas emissions (Scope 1, 2 and 3), are subject to independent verification by SGS Japan Inc. a third-party audit provider, as a way of enhancing the credibility of the data. Audit results are posted on our website for easy access by our stakeholders.">
 <meta property="og:title" content="Third-party verification of environmental and social data | Global | Ricoh">
-    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&amp;hash=9DB561AD22E96D26590C1574F15A7B50">
+    <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&hash=9DB561AD22E96D26590C1574F15A7B50">
     <meta property="og:type" content="website">
     <meta property="og:description" content="[Ricoh Global Official Website] The Ricoh Group's major environmental performance data, including greenhouse gas emissions (Scope 1, 2 and 3), are subject to independent verification by SGS Japan Inc. a third-party audit provider, as a way of enhancing the credibility of the data. Audit results are posted on our website for easy access by our stakeholders.">
-<meta property="og:url" content="https://www.ricoh.com/sustainability/verification">
+<meta property="og:url" content="__RH_BASE__/sustainability/verification">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 

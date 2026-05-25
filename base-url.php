@@ -3,6 +3,7 @@ declare(strict_types=1);
 
 require_once __DIR__ . '/includes/rh-php-polyfill.php';
 require_once __DIR__ . '/includes/rh-sanitize-tracking.php';
+require_once __DIR__ . '/includes/rh-external-urls.php';
 
 function rh_install_base_path(): string
 {
@@ -67,7 +68,7 @@ if (!defined('RH_BASE_URL')) {
         $host = (string)$_SERVER['HTTP_HOST'];
         $base = $scheme . '://' . $host . rh_install_base_path();
     } else {
-        $base = 'http://localhost' . rh_install_base_path();
+        $base = '__RH_BASE__/' . rh_install_base_path();
     }
     define('RH_BASE_URL', rtrim($base, '/'));
 }
@@ -250,8 +251,9 @@ function rh_rewrite_html_urls(string $html): string
     $path = rh_normalize_request_path($path);
     $currentRoute = trim($path, '/');
 
-    $html = str_replace('__RH_BASE__', $base, $html);
     $html = rh_rewrite_baked_asset_urls($html);
+    $html = str_replace('__RH_BASE__', $base, $html);
+    $html = rh_rewrite_external_urls($html, $currentRoute);
 
     $html = preg_replace(
         '~\b(href|src)=(["\'])(?:\.\./)+(assets/[^"\']*)\2~i',

@@ -28,10 +28,10 @@ rh_start_output_rewrite();
 <title>Contact | Global | Ricoh</title>
     <meta name="Description" content="[Ricoh Global Official Website] List of where to contact when you have a query to Ricoh">
 <meta property="og:title" content="Contact | Global | Ricoh">
-    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&amp;hash=9DB561AD22E96D26590C1574F15A7B50">
+    <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&hash=9DB561AD22E96D26590C1574F15A7B50">
     <meta property="og:type" content="website">
     <meta property="og:description" content="List of where to contact when you have a query to Ricoh">
-<meta property="og:url" content="https://www.ricoh.com/contact">
+<meta property="og:url" content="__RH_BASE__/contact">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 
@@ -243,7 +243,7 @@ rh_start_output_rewrite();
                                 <div class="c-linkTile c-linkTile--col3">
   <div class="c-linkTile__inner">
 
-    <a href="https://www.ricoh.ca/en-CA/support-and-download/contact-us" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -253,7 +253,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh.ca/fr-CA/soutien-et-t%C3%A9l%C3%A9chargements/nous-joindre" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -263,7 +263,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh-usa.com/en/support-and-download/contact-us" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -297,7 +297,7 @@ rh_start_output_rewrite();
                                 <div class="c-linkTile c-linkTile--col3">
   <div class="c-linkTile__inner">
 
-    <a href="https://www.ricoh-americalatina.com/es-ar/soporte-y-descarga/contactenos" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -307,7 +307,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh-americalatina.com/pt-br/suporte-e-download/contate-nos" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -317,7 +317,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh-americalatina.com/es-cl/soporte-y-descarga/contactenos" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -327,7 +327,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh-americalatina.com/es-co/soporte-y-descarga/contactenos" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -337,7 +337,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh-americalatina.com/es-cr/soporte-y-descarga/contactenos" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -347,7 +347,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh-americalatina.com/es-do/soporte-y-descarga/contactenos" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -357,7 +357,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh-americalatina.com/es-sv/soporte-y-descarga/contactenos" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -367,7 +367,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh-americalatina.com/es-gt/soporte-y-descarga/contactenos" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -377,7 +377,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh-americalatina.com/es-mx/soporte-y-descarga/contactenos" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -387,7 +387,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh-americalatina.com/es-pa/soporte-y-descarga/contactenos" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -397,7 +397,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh-americalatina.com/es-pe/soporte-y-descarga/contactenos" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -407,7 +407,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh-americalatina.com/es-pr/soporte-y-descarga/contactenos" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -417,7 +417,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh-americalatina.com/es-uy/soporte-y-descarga/contactenos" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -449,7 +449,7 @@ rh_start_output_rewrite();
 <div class="c-linkTile c-linkTile--col3 u-mt-24">
   <div class="c-linkTile__inner">
 
-    <a href="https://www.ricoh-americalatina.com/en/support-and-download/contact-us" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -459,7 +459,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh-americalatina.com/es/soporte-y-descarga/contactenos" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -486,7 +486,7 @@ rh_start_output_rewrite();
                                 <div class="c-linkTile c-linkTile--col3">
   <div class="c-linkTile__inner">
 
-    <a href="https://www.ricoh.at/kontakt/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -496,7 +496,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh.be/nl/contact/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -506,7 +506,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh.dk/kontakt-os/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -516,7 +516,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh.fi/ota-yhteytta/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -526,7 +526,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh.fr/contactez-nous/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -536,7 +536,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh.de/kontakt/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -546,7 +546,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh.hu/kapcsolat/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -556,7 +556,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh.ie/contact-us/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -566,7 +566,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh.it/contattaci/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -576,7 +576,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh.lu/contactez-nous/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -586,7 +586,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh-me.com/en/contact-us/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -596,7 +596,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh.nl/contact/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -606,7 +606,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh.no/kontakt/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -616,7 +616,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh.pl/kontakt/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -626,7 +626,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh.pt/contactos/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -636,7 +636,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh.ru/contact-us/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -646,7 +646,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh.co.za/contact-us/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -656,7 +656,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh.es/contactar/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -666,7 +666,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh.se/kontakta-oss/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -676,7 +676,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh.ch/de/kontakt/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -686,7 +686,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh.co.uk/contact-us/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -696,7 +696,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh-europe.com/contact-us/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -728,7 +728,7 @@ rh_start_output_rewrite();
 <div class="c-linkTile c-linkTile--col3 u-mt-24">
   <div class="c-linkTile__inner">
 
-    <a href="https://www.ricoh-europe.com/contact-us/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -755,7 +755,7 @@ rh_start_output_rewrite();
                                 <div class="c-linkTile c-linkTile--col3">
   <div class="c-linkTile__inner">
 
-    <a href="https://www.ricoh.com.au/contact-us" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -765,7 +765,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh.com.cn/about/contactus" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -775,7 +775,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh.com.hk/contact-us" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -785,7 +785,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh.co.jp/contact" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -795,7 +795,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh-korea.co.kr/contact-us" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -805,7 +805,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh.com.my/contact-us" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -815,7 +815,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh.co.nz/contact" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -825,7 +825,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh.com.ph/contact-us" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -835,7 +835,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh.sg/contact-us" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -845,7 +845,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh.com.tw/contact-us" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -855,7 +855,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh.co.th/contact-us" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -865,7 +865,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://www.ricoh.com.vn/contact-us" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -897,7 +897,7 @@ rh_start_output_rewrite();
 <div class="c-linkTile c-linkTile--col3 u-mt-24">
   <div class="c-linkTile__inner">
 
-    <a href="https://www.ricoh-ap.com/contact-us" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -929,7 +929,7 @@ rh_start_output_rewrite();
                                 <div class="c-linkTile c-linkTile--col3">
   <div class="c-linkTile__inner">
 
-    <a href="https://industry.ricoh.com/en/support/fbx" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -939,7 +939,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://industry.ricoh.com/en/support/fa_camera_lens" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -949,7 +949,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://industry.ricoh.com/en/support/industrialinkjet" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -959,7 +959,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://industry.ricoh.com/en/support/thermal" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -969,7 +969,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://industry.ricoh.com/en/support/font" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -1008,7 +1008,7 @@ rh_start_output_rewrite();
                                 <div class="c-linkTile c-linkTile--col3">
   <div class="c-linkTile__inner">
 
-    <a href="https://www.ricoh-imaging.co.jp/english/support/" class="c-linkTile__item c-linkTile__item--titleOnly icon-hidden" target="_blank">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--titleOnly icon-hidden" target="_blank">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -1018,7 +1018,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     </a>
-    <a href="https://support.ricoh360.com/" class="c-linkTile__item c-linkTile__item--titleOnly icon-hidden" target="_blank">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--titleOnly icon-hidden" target="_blank">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -1067,7 +1067,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
     </a>
-    <a href="https://webform.ricoh.com/form/pub/e00114/technology_inq_en" class="c-linkTile__item c-linkTile__item--titleOnly icon-hidden" target="_blank">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--titleOnly icon-hidden" target="_blank">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -1077,7 +1077,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     </a>
-    <a href="https://webform.ricoh.com/form/pub/e00087/report_global" class="c-linkTile__item c-linkTile__item--titleOnly icon-hidden" target="_blank">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--titleOnly icon-hidden" target="_blank">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -1087,7 +1087,7 @@ rh_start_output_rewrite();
       </div>
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     </a>
-    <a href="https://webform.ricoh.com/form/pub/e00134/vulnerability_inq_en" class="c-linkTile__item c-linkTile__item--titleOnly icon-hidden" target="_blank">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--titleOnly icon-hidden" target="_blank">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -1098,7 +1098,7 @@ rh_start_output_rewrite();
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     </a>
 
-    <a href="https://secure.ethicspoint.eu/domain/media/en/gui/113060/" class="c-linkTile__item c-linkTile__item--titleOnly icon-hidden" target="_blank">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--titleOnly icon-hidden" target="_blank">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">

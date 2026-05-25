@@ -28,10 +28,10 @@ rh_start_output_rewrite();
 <title>Resolving social issues through business | Global | Ricoh</title>
     <meta name="Description" content="[Ricoh Global Official Website] [Ricoh Global Official Website] The Ricoh Group's policy is to “Align ESG with business growth.” We position ESG initiatives as future financial targets because we look for them to bear financial fruit three to five years hence. We would like to introduce our activities">
 <meta property="og:title" content="Resolving social issues through business | Global | Ricoh">
-    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&amp;hash=9DB561AD22E96D26590C1574F15A7B50">
+    <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&hash=9DB561AD22E96D26590C1574F15A7B50">
     <meta property="og:type" content="website">
     <meta property="og:description" content="[Ricoh Global Official Website] The Ricoh Group's policy is to “Align ESG with business growth.” We position ESG initiatives as future financial targets because we look for them to bear financial fruit three to five years hence. We would like to introduce our activities">
-<meta property="og:url" content="https://www.ricoh.com/sustainability/solve-social-issues">
+<meta property="og:url" content="__RH_BASE__/sustainability/solve-social-issues">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 
@@ -612,7 +612,7 @@ rh_start_output_rewrite();
     <h4 class="c-h4-a__text">Related information</h4>
   </div>
   <div class="c-link-a-list__inner">
-    <a href="https://blog.ricoh360.com/en/ai-image-enhancement" class="c-link-a">
+    <a href="__RH_BASE__/" class="c-link-a">
         <span class="c-link-a__text">AI-Powered Image Processing Technology in a Separate Window</span>
     </a>
   </div>            </div>
@@ -733,7 +733,7 @@ rh_start_output_rewrite();
   <div class="c-link-a-list c-link-a-list--column">
     <div class="c-link-a-list__inner">
       <!-- item1 ここから -->
-      <a href="https://www.ricoh-europe.com/business-services/all-services/service-advantage/smart-lockers/" class="c-link-a c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a c-link-a--blank" target="_blank">
         <span class="c-link-a__text">Smart Locker</span>
       </a>
       <!-- item1 ここまで -->
@@ -1442,17 +1442,17 @@ rh_start_output_rewrite();
   <div class="c-link-a-list c-link-a-list--column">
     <div class="c-link-a-list__inner">
       <!-- item1 ここから -->
-      <a href="https://industry.ricoh.com/en/thermal/labelless" class="c-link-a">
+      <a href="__RH_BASE__/" class="c-link-a">
         <span class="c-link-a__text">On-demand Direct Printing Thermal Media</span>
       </a>
       <!-- item1 ここまで -->
       <!-- item2 ここから -->
-      <a href="https://industry.ricoh.com/en/thermal/labelless/case-lawson" class="c-link-a">
+      <a href="__RH_BASE__/" class="c-link-a">
         <span class="c-link-a__text">LAWSON Adopts Ricoh's On-Demand Direct Printing Thermal Media for Its Food Packaging</span>
       </a>
       <!-- item2 ここまで -->
       <!-- item3 ここから -->
-      <a href="https://industry.ricoh.com/en/thermal/labelless/case-seven-eleven" class="c-link-a">
+      <a href="__RH_BASE__/" class="c-link-a">
         <span class="c-link-a__text">SEVEN-ELEVEN Adopts Ricoh's On-Demand Direct Printing Thermal Media for Its food packaging</span>
       </a>
       <!-- item3 ここまで -->
@@ -1570,7 +1570,7 @@ rh_start_output_rewrite();
   <div class="c-link-a-list c-link-a-list--column">
     <div class="c-link-a-list__inner">
       <!-- item1 ここから -->
-      <a href="https://industry.ricoh.com/en/thermal" class="c-link-a">
+      <a href="__RH_BASE__/" class="c-link-a">
         <span class="c-link-a__text">Thermal Media</span>
       </a>
       <!-- item1 ここまで -->

@@ -29,10 +29,10 @@ rh_start_output_rewrite();
     <meta name="Description" content="[Ricoh Global Official Website] To effectively communicate its corporate stance and business activities, the Ricoh Group introduces a combined report covering on economy, society, and the environment.">
     <meta name="Keywords" content="ricoh,RICOH,Ricoh,Company Profile,sustainability,IR,Environmental Management,CSR,integrated report,richo">
 <meta property="og:title" content="Ricoh Group Integrated Report 2025 | Global | Ricoh">
-    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&amp;hash=9DB561AD22E96D26590C1574F15A7B50">
+    <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&hash=9DB561AD22E96D26590C1574F15A7B50">
     <meta property="og:type" content="website">
     <meta property="og:description" content="To effectively communicate its corporate stance and business activities, the Ricoh Group introduces a combined report covering on economy, society, and the environment.">
-<meta property="og:url" content="https://www.ricoh.com/about/integrated-report/2025">
+<meta property="og:url" content="__RH_BASE__/about/integrated-report/2025">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 
@@ -982,7 +982,7 @@ Integrated Report
         </div>
       </div>
     </a>
-    <a href="https://webform.ricoh.com/form/pub/e00088/integrated-report_en" class="c-linkTile__item c-linkTile__item--titleOnly">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--titleOnly">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">
@@ -991,7 +991,7 @@ Integrated Report
         </div>
       </div>
     </a>
-    <a href="https://webform.ricoh.com/form/pub/e00087/questionnaire_en" class="c-linkTile__item c-linkTile__item--titleOnly">
+    <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--titleOnly">
       <div class="c-linkTile__content">
         <div class="c-linkTile__heading">
           <div class="c-text-a c-text-a--thin">

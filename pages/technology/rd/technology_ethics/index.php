@@ -27,9 +27,9 @@ rh_start_output_rewrite();
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>Ricoh Group Technology Ethics | Global | Ricoh</title>
 <meta property="og:title" content="Ricoh Group Technology Ethics | Global | Ricoh">
-    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&amp;hash=9DB561AD22E96D26590C1574F15A7B50">
+    <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&hash=9DB561AD22E96D26590C1574F15A7B50">
     <meta property="og:type" content="website">
-<meta property="og:url" content="https://www.ricoh.com/technology/rd/technology_ethics">
+<meta property="og:url" content="__RH_BASE__/technology/rd/technology_ethics">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 
@@ -696,7 +696,7 @@ rh_start_output_rewrite();
 </div>
 <div class="c-link-a-list">
   <div class="c-link-a-list__inner">
-    <a href="https://jp.ricoh.com/technology/rd/technology_ethics#section02" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+    <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
       <span class="c-link-a__text">Click here for the Japanese version of the Ricoh Group Technology Ethics Charter</span>
     </a>
@@ -836,7 +836,7 @@ rh_start_output_rewrite();
 </div>
 <div class="c-link-a-list u-mt-0">
   <div class="c-link-a-list__inner">
-    <a href="https://jp.ricoh.com/technology/rd/ethics" class="c-link-a c-link-a--blank icon-hidden" target="ricoh">
+    <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="ricoh">
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
       <span class="c-link-a__text">Ricoh Ethics Review Committee (Japanese only)</span>
     </a>
@@ -850,7 +850,7 @@ rh_start_output_rewrite();
 </div>
 <div class="c-link-a-list u-mt-0">
   <div class="c-link-a-list__inner">
-    <a href="https://jp.ricoh.com/-/Media/Ricoh/Sites/jp_ricoh/technology/techreport/46/pdf/RTR46a08.pdf" class="c-link-a c-link-a--pdf icon-hidden" target="_blank">
+    <a href="__RH_BASE__/" class="c-link-a c-link-a--pdf icon-hidden" target="_blank">
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/icon_pdf.png" alt="Pdf download">
       <span class="c-link-a__text"> References: ELSI Risk Management Process for Data Use Involving Human Subjects (Ricoh Technical Report No.46)</span>
     </a>

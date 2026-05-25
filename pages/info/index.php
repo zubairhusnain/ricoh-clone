@@ -28,10 +28,10 @@ rh_start_output_rewrite();
 <title>Information | Global | Ricoh</title>
     <meta name="Description" content="[Ricoh Global Official Website] View Ricoh's latest information.">
 <meta property="og:title" content="Information | Global | Ricoh">
-    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v1/img/og-image.webp?rev=c86a5feac97f4039a1835f7fdccdf55d&amp;hash=2614E5DB10F61F53B11F6B55EDD9BA4C">
+    <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/img/og-image.webp?rev=c86a5feac97f4039a1835f7fdccdf55d&hash=2614E5DB10F61F53B11F6B55EDD9BA4C">
     <meta property="og:type" content="website">
     <meta property="og:description" content="View Ricoh's latest information.">
-<meta property="og:url" content="https://www.ricoh.com/info">
+<meta property="og:url" content="__RH_BASE__/info">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 
@@ -219,7 +219,7 @@ rh_start_output_rewrite();
 						</a>
 					</div>
 					<div class="c-linkCard__item">
-						<a href="https://news.ricoh-imaging.co.jp/rim_info2/2026/20260515_041987.html" target="_blank" class="c-linkCard__link icon-hidden">
+						<a href="__RH_BASE__/" target="_blank" class="c-linkCard__link icon-hidden">
 								<div class="c-linkCard__text">
 									<div class="c-h4-a">
 										<div class="c-h4-a__text c-linkCard__hoverRed">【Ricoh Imaging】RICOH GR IV Monochrome wins Camera GP 2026 Editors Choice TECHNOLOGY Award</div>
@@ -238,7 +238,7 @@ rh_start_output_rewrite();
 						</a>
 					</div>
 					<div class="c-linkCard__item">
-						<a href="https://news.ricoh-imaging.co.jp/rim_info2/2026/20260417_041906.html" target="_blank" class="c-linkCard__link icon-hidden">
+						<a href="__RH_BASE__/" target="_blank" class="c-linkCard__link icon-hidden">
 								<div class="c-linkCard__text">
 									<div class="c-h4-a">
 										<div class="c-h4-a__text c-linkCard__hoverRed">【Ricoh Imaging】RICOH GR IV Wins “BEST APS-C COMPACT CAMERA” at 2026 TIPA Photo &amp; Imaging Awards</div>
@@ -257,7 +257,7 @@ rh_start_output_rewrite();
 						</a>
 					</div>
 					<div class="c-linkCard__item">
-						<a href="https://news.ricoh-imaging.co.jp/rim_info2/2026/20260417_041911.html" target="_blank" class="c-linkCard__link icon-hidden">
+						<a href="__RH_BASE__/" target="_blank" class="c-linkCard__link icon-hidden">
 								<div class="c-linkCard__text">
 									<div class="c-h4-a">
 										<div class="c-h4-a__text c-linkCard__hoverRed">【Ricoh Imaging】Announcement Regarding the 30th Anniversary of the RICOH GR Series — Commemorative message and anniversary logo marking the 30th anniversary —</div>

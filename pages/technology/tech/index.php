@@ -28,10 +28,10 @@ rh_start_output_rewrite();
 <title>Ricoh's Technology | Global | Ricoh</title>
     <meta name="Description" content="[Ricoh Global Official Website] Innovations and technologies at Ricoh by 6 fields (Printing, Optics / Image Processing, Software, Environment, Production / Analysis / Control, Materials / Devices) and by 6 product types (Office Printing, Office Services, Commercial Printing, Industrial Printing, Industrial Products, Solutions for Society)">
 <meta property="og:title" content="Ricoh's Technology | Global | Ricoh">
-    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&amp;hash=9DB561AD22E96D26590C1574F15A7B50">
+    <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&hash=9DB561AD22E96D26590C1574F15A7B50">
     <meta property="og:type" content="website">
     <meta property="og:description" content="Innovations and technologies at Ricoh by 6 fields (Printing, Optics / Image Processing, Software, Environment, Production / Analysis / Control, Materials / Devices) and by 6 product types (Office Printing, Office Services, Commercial Printing, Industrial Printing, Industrial Products, Solutions for Society)">
-<meta property="og:url" content="https://www.ricoh.com/technology/tech">
+<meta property="og:url" content="__RH_BASE__/technology/tech">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 

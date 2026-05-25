@@ -30,10 +30,10 @@ rh_start_output_rewrite();
 <title>Sitemap | Global | Ricoh</title>
     <meta name="Description" content="[Ricoh Global Official Website] [Ricoh Global Official Website] Site Map">
 <meta property="og:title" content="Sitemap | Global | Ricoh">
-    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&amp;hash=9DB561AD22E96D26590C1574F15A7B50">
+    <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&hash=9DB561AD22E96D26590C1574F15A7B50">
     <meta property="og:type" content="website">
     <meta property="og:description" content="[Ricoh Global Official Website] Site Map">
-<meta property="og:url" content="https://www.ricoh.com/sitemap">
+<meta property="og:url" content="__RH_BASE__/sitemap">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 
@@ -695,7 +695,7 @@ rh_start_output_rewrite();
   </li>
   <li class="c-list-border-b__item u-sp-pt-24 u-sp-pb-24">
     <div class="c-2column-sitemap">
-      <div><a href="https://design.ricoh.com/" class="c-link-e c-link-e--arrowCenter u-fz-20">RICOH Design</a></div>
+      <div><a href="__RH_BASE__/" class="c-link-e c-link-e--arrowCenter u-fz-20">RICOH Design</a></div>
     </div>
   </li>
 </ul>

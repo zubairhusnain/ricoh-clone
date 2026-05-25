@@ -3,7 +3,7 @@ declare(strict_types=1);
 require_once __DIR__ . '/../../../../base-url.php';
 rh_start_output_rewrite();
 ?>
-<!DOCTYPE html><html lang="EN" class="js-on"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+<!DOCTYPE html><html lang="EN" class="js-on"><head>
 
 <link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/css/template-global-addition2024.css">
 
@@ -14,7 +14,7 @@ rh_start_output_rewrite();
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">    <meta charset="utf-8">
 <meta name="copyright" content="Copyright Ricoh Company Ltd.">                <meta name="description" content="[Ricoh Global Official Website] The Ricoh Group does an appropriate security and trade management to prevent terrorists or countries who don't follow international social rules from getting military weapons and general products that can be converted into weapons, or the technology required to develop them.">
             <meta property="og:title" content="Governance | Global | Ricoh">
-            <meta property="og:image" content="https://www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/img/og-image.webp">
+            <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/img/og-image.webp">
             <meta property="og:type" content="website">
             <meta property="og:description" content="[Ricoh Global Official Website] The Ricoh Group does an appropriate security and trade management to prevent terrorists or countries who don't follow international social rules from getting military weapons and general products that can be converted into weapons, or the technology required to develop them.">
                     <meta property="og:country-name" content="Global">
@@ -246,7 +246,7 @@ rh_start_output_rewrite();
           </p>
 
           <p class="mt16">
-            <a href="https://www.meti.go.jp/policy/anpo/englishpage.html" target="_blank" class="ico_nml right">（Ministry of Economy, Trade and Industry）Security Export Control System in Japan</a>
+            <a href="__RH_BASE__/" target="_blank" class="ico_nml right">（Ministry of Economy, Trade and Industry）Security Export Control System in Japan</a>
           </p>
         </div>
 
@@ -299,7 +299,7 @@ rh_start_output_rewrite();
           </table>
 
           <p class="mt16">
-            <a href="https://www.mofa.go.jp/policy/un/disarmament/arms/index.html" target="_blank" class="ico_nml right">（Ministry of Foreign Affairs）Nuclear Disarmament and Non-Proliferation</a>
+            <a href="__RH_BASE__/" target="_blank" class="ico_nml right">（Ministry of Foreign Affairs）Nuclear Disarmament and Non-Proliferation</a>
           </p>
 
         </div>

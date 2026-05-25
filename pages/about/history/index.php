@@ -3,7 +3,7 @@ declare(strict_types=1);
 require_once __DIR__ . '/../../../base-url.php';
 rh_start_output_rewrite();
 ?>
-<!DOCTYPE html><html lang="EN" class="js-on"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+<!DOCTYPE html><html lang="EN" class="js-on"><head>
 
 <link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/css/template-global-addition2024.css">
 
@@ -15,10 +15,10 @@ rh_start_output_rewrite();
 <meta name="copyright" content="Copyright RICOH Co., Ltd.">            <meta name="”keywords”" content="Ricoh,RICOH,group" profile,company="" data,brand="" message,business,the="" board,global="" network,company="" history,company="" history,sustainability="" report,promotions,career="" opportunities,news="" release,information”="">
             <meta name="description" content="[Ricoh Global Official Website] You can find various Ricoh Group information such as corporate, IR, environment, CSR and technology.">
             <meta property="og:title" content="Company History | About Ricoh | Global | Ricoh">
-            <meta property="og:image" content="https://www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/img/og-image.webp">
+            <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/img/og-image.webp">
             <meta property="og:type" content="website">
             <meta property="og:description" content="[Ricoh Global Official Website] You can find various Ricoh Group information such as corporate, IR, environment, CSR and technology.">
-            <meta property="og:url" content="http://www.ricoh.com/company/history">
+            <meta property="og:url" content="__RH_BASE__/company/history">
                 <meta property="og:country-name" content="Global">
                     <link rel="canonical" href="">
     <!-- START ICONFILE -->
@@ -1215,7 +1215,7 @@ $(function(){
               <div class="window-content__txt">
                 <p>In the 1980s, Ricoh proactively pursued global business development. Export sales grew to account for 34.1% of the total for fiscal 1978, and operation bases were set up in new locations around the globe. Major subsidiaries established at that time included Ricoh Electronics Inc., a manufacturing company for office automation equipment founded in California, USA, in 1979; and Ricoh UK Products Ltd., a manufacturing firm established in Telford, UK, that went on line in December 1983 to produce office automation equipment. Following expansion in North America, an earlier target region for advancement, we began to focus on Europe to build the foundations for future growth.</p>
                 <p>
-                  <a class="more" href="http://www.ricoh.co.uk/" target="_blank">Ricoh UK Ltd</a>
+                  <a class="more" href="__RH_BASE__/" target="_blank">Ricoh UK Ltd</a>
                 </p>
                 <div class="window-content__txt__pdfs">
                   <a class="pdf-single" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/pdf/1970_1984/198312.pdf/" target="_blank">PDF</a>
@@ -2376,7 +2376,7 @@ $(function(){
                 </p>
                 <p>
                   <a class="more" href="../../release/2011/1001_1.html/" target="_blank" news="" release<="" a="">
-                    </a><a class="more" href="http://www.ricoh-imaging.co.jp/english/index.html" target="_blank">Official Site</a>
+                    </a><a class="more" href="__RH_BASE__/" target="_blank">Official Site</a>
                 </p>
                 <div class="window-content__txt__pdfs">
                   <a class="pdf-single" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/pdf/2010_/201110.pdf/" target="_blank">PDF</a>
@@ -2442,7 +2442,7 @@ $(function(){
                     images with a single shutter release (based on Ricoh Imaging research, as of October 2013)</small>
                 </p>
                 <p>
-                  <a class="more" href="http://news.ricoh-imaging.co.jp/rim_info2/2013/20131025_004260.html" target="_blank">Official Site</a>
+                  <a class="more" href="__RH_BASE__/" target="_blank">Official Site</a>
                 </p>
                 <div class="window-content__txt__pdfs">
                   <a class="pdf-single" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/pdf/2010_/201310.pdf/" target="_blank">PDF</a>
@@ -2854,7 +2854,7 @@ $(function(){
         <span>May 2022</span>
         <div class="circle btn--windowopen"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/company/history/img/timeline/2010_/202205-thumb.png" alt="" style="cursor: default"></div>
       </dt>
-      <dd><p><a href="https://industry.ricoh.com/en/thermal/labelless" target="ricoh">SEVEN-ELEVEN Adopts Ricoh's on-demand direct printing thermal media for its food packaging</a></p></dd>
+      <dd><p><a href="__RH_BASE__/" target="ricoh">SEVEN-ELEVEN Adopts Ricoh's on-demand direct printing thermal media for its food packaging</a></p></dd>
     </dl>
   </div>
 </div>
@@ -2946,7 +2946,7 @@ $(function(){
   <div class="c-timeline-item c-timeline-item--right c-timeline-item--text">
     <dl>
       <dt><span>Jun. 2024</span></dt>
-      <dd><p>RICOH IMAGING COMPANY, LTD. announced the launch of the <a href="https://news.ricoh-imaging.co.jp/rim_info2/2024/20240618_040028.html" target="ricoh">PENTAX 17</a> Fixed-Focal length compact film camera</p></dd>
+      <dd><p>RICOH IMAGING COMPANY, LTD. announced the launch of the <a href="__RH_BASE__/" target="ricoh">PENTAX 17</a> Fixed-Focal length compact film camera</p></dd>
     </dl>
   </div>
 </div>
@@ -3164,7 +3164,7 @@ $(function(){
     </div>
     <div class="clm1 clm2 rsp_break_clm1 tileSame">
       <div class="clm">
-        <a href="https://www.youtube.com/watch?v=w7hW8LROhHk&amp;t=3s" class="image_mn cmp_mtc01 jp_movie_box youtube_modal_video_temp">
+        <a href="__RH_BASE__/" class="image_mn cmp_mtc01 jp_movie_box youtube_modal_video_temp">
           <div class="img"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/img/index/pic_info_corporate-video" alt=""></div>
           <div class="dtl video tlSame01">
             <p class="ttl">Corporate Video: The Ricoh Journey [3:27]</p>

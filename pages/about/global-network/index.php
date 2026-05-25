@@ -29,10 +29,10 @@ rh_start_output_rewrite();
     <meta name="Description" content="[Ricoh Global Official Website] With 75,000 employees and offices in over 150 countries, Ricoh has built one of the industry's most extensive sales and service network.">
     <meta name="Keywords" content="Ricoh, PPC, Plain, Paper, copier, north, American, European, networking, digital, office, solution, USA, Canada, Mexico, Latin Americas, Europe, Africa, Middle East, Singapore, Australia, New Zealand, Mainland China">
 <meta property="og:title" content="Global Network | Global | Ricoh">
-    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&amp;hash=9DB561AD22E96D26590C1574F15A7B50">
+    <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&hash=9DB561AD22E96D26590C1574F15A7B50">
     <meta property="og:type" content="website">
     <meta property="og:description" content="With 75,000 employees and offices in over 150 countries, Ricoh has built one of the industry's most extensive sales and service network.">
-<meta property="og:url" content="https://www.ricoh.com/about/global-network">
+<meta property="og:url" content="__RH_BASE__/about/global-network">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 
@@ -353,11 +353,11 @@ rh_start_output_rewrite();
 </div>
 <div class="c-link-a-list c-link-a-list--column u-mt-32">
   <div class="c-link-a-list__inner">
-    <a href="https://www.ricoh-usa.com/en/about-us/customer-experience-center" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+    <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
       <span class="c-link-a__text">The United States</span>
     </a>
-    <a href="https://www.ricoh-europe.com/business-services/all-services/production-printing-services/customer-experience-centre" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+    <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
       <span class="c-link-a__text">The United Kingdom</span>
     </a>

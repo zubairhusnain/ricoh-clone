@@ -28,10 +28,10 @@ rh_start_output_rewrite();
 <title>Cookie Policy | Global | Ricoh</title>
     <meta name="Description" content="[Ricoh Global Official Website] Ricoh Company, Ltd. Cookie Policy">
 <meta property="og:title" content="Cookie Policy | Global | Ricoh">
-    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/og-image-ricoh-1300.webp?rev=ff04530da840421690b856489416c335&amp;hash=F5264CBCD0C18162145DC778B9A01D2F">
+    <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/og-image-ricoh-1300.webp?rev=ff04530da840421690b856489416c335&hash=F5264CBCD0C18162145DC778B9A01D2F">
     <meta property="og:type" content="website">
     <meta property="og:description" content="Ricoh Company, Ltd. Cookie Policy">
-<meta property="og:url" content="https://www.ricoh.com/privacy/cookie-policy">
+<meta property="og:url" content="__RH_BASE__/privacy/cookie-policy">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 

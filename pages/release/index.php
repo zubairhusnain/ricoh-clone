@@ -30,7 +30,7 @@ rh_start_output_rewrite();
 <meta property="og:title" content="News Releases | Global | Ricoh">
     <meta property="og:type" content="website">
     <meta property="og:description" content="View Ricoh's latest news releases.">
-<meta property="og:url" content="https://www.ricoh.com/release">
+<meta property="og:url" content="__RH_BASE__/release">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 
@@ -427,7 +427,7 @@ rh_start_output_rewrite();
 						</a>
 					</div>
 					<div class="c-linkCard__item" style="display: none;">
-						<a href="https://news.ricoh-imaging.co.jp/rim_info2/2026/20260115_041600.html" target="_blank" class="c-linkCard__link icon-hidden">
+						<a href="__RH_BASE__/" target="_blank" class="c-linkCard__link icon-hidden">
 								<div class="c-linkCard__text">
 									<div class="c-h4-a">
 										<div class="c-h4-a__text c-linkCard__hoverRed">【Ricoh Imaging】RICOH GR Ⅳ Monochrome: Launch of the New High-End Compact Digital Camera Dedicated to Monochrome Photography</div>
@@ -465,7 +465,7 @@ rh_start_output_rewrite();
 						</a>
 					</div>
 					<div class="c-linkCard__item" style="display: none;">
-						<a href="https://news.ricoh-imaging.co.jp/rim_info2/2025/20251217_041528.html" target="_blank" class="c-linkCard__link icon-hidden">
+						<a href="__RH_BASE__/" target="_blank" class="c-linkCard__link icon-hidden">
 								<div class="c-linkCard__text">
 									<div class="c-h4-a">
 										<div class="c-h4-a__text c-linkCard__hoverRed">【Ricoh Imaging】RICOH GR Ⅳ HDF: Launched to create mellow, diffused expression in highlighted areas</div>

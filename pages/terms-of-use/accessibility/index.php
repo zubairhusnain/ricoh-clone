@@ -3,7 +3,7 @@ declare(strict_types=1);
 require_once __DIR__ . '/../../../base-url.php';
 rh_start_output_rewrite();
 ?>
-<!DOCTYPE html><html lang="EN" class="js-on"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+<!DOCTYPE html><html lang="EN" class="js-on"><head>
 
 <link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/css/template-global-addition2024.css">
 
@@ -151,7 +151,7 @@ rh_start_output_rewrite();
         <div class="clm1">
             <div class="clm">
                                     <p><strong>Conformance status</strong></p>
-                                    <p>The <a href="https://www.w3.org/WAI/standards-guidelines/wcag/" target="_blank">Web Content Accessibility Guidelines (WCAG)</a> defines requirements for designers and developers to improve accessibility for people with disabilities. It defines three levels of conformance: Level A, Level AA, and Level AAA. Ricoh Group Websites are partially conformant with WCAG 2.2 Level AA. Partially conformant means that some parts of the content do not fully conform to the accessibility standard.</p>
+                                    <p>The <a href="__RH_BASE__/" target="_blank">Web Content Accessibility Guidelines (WCAG)</a> defines requirements for designers and developers to improve accessibility for people with disabilities. It defines three levels of conformance: Level A, Level AA, and Level AAA. Ricoh Group Websites are partially conformant with WCAG 2.2 Level AA. Partially conformant means that some parts of the content do not fully conform to the accessibility standard.</p>
             </div>
         </div>
     </div>

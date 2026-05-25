@@ -30,10 +30,10 @@ rh_start_output_rewrite();
 <title>Technology | Global | Ricoh</title>
     <meta name="Description" content="[Ricoh Global Official Website] You can find how our technology and design is innovating the office, workplace and society.">
 <meta property="og:title" content="Technology | Global | Ricoh">
-    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&amp;hash=9DB561AD22E96D26590C1574F15A7B50">
+    <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&hash=9DB561AD22E96D26590C1574F15A7B50">
     <meta property="og:type" content="website">
     <meta property="og:description" content="You can find how our technology and design is innovating the office, workplace and society.">
-<meta property="og:url" content="https://www.ricoh.com/technology">
+<meta property="og:url" content="__RH_BASE__/technology">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 
@@ -521,7 +521,7 @@ rh_start_output_rewrite();
                                             </div>
     </div>
 <div class="c-buttonWrap-b"><div class="c-buttonWrap-b__content u-align-center">
-<a href="https://design.ricoh.com/" class="c-button-a c-button-a--blue c-button-a--blank c-button-a--iconWhite icon-hidden" target="_blank">
+<a href="__RH_BASE__/" class="c-button-a c-button-a--blue c-button-a--blank c-button-a--iconWhite icon-hidden" target="_blank">
   <span class="c-button-a__text">Learn more</span>
 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-white-color.svg" alt="">
 </a>

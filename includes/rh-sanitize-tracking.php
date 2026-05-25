@@ -120,7 +120,7 @@ function rh_send_security_headers(): void
         "img-src 'self' data: blob:; " .
         "font-src 'self' data:; " .
         "connect-src 'self'; " .
-        "frame-src 'self' https://www.youtube.com; " .
+        "frame-src 'self' __RH_BASE__/ " .
         "object-src 'none'; " .
         "base-uri 'self'; " .
         "form-action 'self'"

@@ -29,9 +29,9 @@ rh_start_output_rewrite();
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>Participation in Initiatives and Advocacy Activities | Global | Ricoh</title>
 <meta property="og:title" content="Participation in Initiatives and Advocacy Activities | Global | Ricoh">
-    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&amp;hash=9DB561AD22E96D26590C1574F15A7B50">
+    <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&hash=9DB561AD22E96D26590C1574F15A7B50">
     <meta property="og:type" content="website">
-<meta property="og:url" content="https://www.ricoh.com/sustainability/initiative">
+<meta property="og:url" content="__RH_BASE__/sustainability/initiative">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 
@@ -257,7 +257,7 @@ rh_start_output_rewrite();
     the InfluenceMap Report on “Global Leaders in Climate Policy Engagement” which was amended on 25 September 2024.
     Ricoh was highly rated as a global leader in the category of strategic engagement in the Asia-Pacific
     region.<br><br>
-    <a href="https://lobbymap.org/briefing/Global-Leaders-in-Climate-Policy-Engagement-2024-29339" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+    <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
       <span class="c-link-a__text">InfluenceMap Website, “Corporate Climate Policy Engagement Leaders, 2024”</span>
     </a>
@@ -275,7 +275,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 
-<a href="https://japan-clp.jp/archives/19216" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+<a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
   <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
   <span class="c-link-a__text">
     JCLP Website: “[Video Available] Digest of the August 8 Press Conference on Establishing the ‘Day to End Overheated
@@ -292,14 +292,14 @@ rh_start_output_rewrite();
   </p>
 </div>
 
-<a href="https://www.env.go.jp/page_00198.html" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+<a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
   <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
   <span class="c-link-a__text">
     Ministry of the Environment Website: “Central Environment Council - Sound Material-Cycle Society Subcommittee”
   </span>
 </a>
 
-<a href="https://www.kankyo.metro.tokyo.lg.jp/climate/renewable_energy/200100a20230614231953660" class="c-link-a c-link-a--blank icon-hidden" style="margin-top: 1em;" target="_blank">
+<a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" style="margin-top: 1em;" target="_blank">
   <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
   <span class="c-link-a__text">
     Tokyo Metropolitan Government Website: “Tokyo Renewable Energy Implementation Expert Board”
@@ -328,14 +328,14 @@ rh_start_output_rewrite();
   </p>
 </div>
 
-<a href="https://japanclimate.org/english/news-topics/jcas2025/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+<a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
   <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
   <span class="c-link-a__text">
     JCI Website: “Japan Climate Action Summit 2025 (held on November 7)”
   </span>
 </a>
 
-<a href="https://japanclimate.org/english/news-topics/jcas2025-declaration-release/" class="c-link-a c-link-a--blank icon-hidden" style="margin-top: 1em;" target="_blank">
+<a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" style="margin-top: 1em;" target="_blank">
   <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
   <span class="c-link-a__text">
     JCI Website: “Declaration of the Japan Climate Action Summit 2025: ‘Leading the Transition to a Decarbonized Society
@@ -354,7 +354,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 
-<a href="https://japan-clp.jp/archives/19874" class="c-link-a c-link-a--blank icon-hidden" style="margin-top: 1em;" target="_blank">
+<a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" style="margin-top: 1em;" target="_blank">
   <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
   <span class="c-link-a__text">
     JCLP Website: “Announcement of Award Winners for JCLP Decarbonization Solution Pitch 2025”
@@ -376,7 +376,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 
-<a href="https://www.keidanren.or.jp/journal/times/2026/0305_01.html" class="c-link-a c-link-a--blank icon-hidden" style="margin-top: 1em;" target="_blank">
+<a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" style="margin-top: 1em;" target="_blank">
   <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
   <span class="c-link-a__text">
     Keidanren Website: “Symposium on the Charter of Corporate Behavior”
@@ -393,7 +393,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 
-<a href="https://japan-clp.jp/archives/20323" class="c-link-a c-link-a--blank icon-hidden" style="margin-top: 1em;" target="_blank">
+<a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" style="margin-top: 1em;" target="_blank">
   <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
   <span class="c-link-a__text">
     JCLP Website: “JCLP 4th Executives Meeting”
@@ -447,7 +447,7 @@ rh_start_output_rewrite();
     Pricing." Ricoh expressed its support for this message, with Ms. Mikako Suzuki, the corporate officer in charge of
     ESG, conveying a video message through JCI, expressing the hope for further leadership from the G7 to avoid the
     climate crisis.<br><br>
-    <a href="https://japanclimate.org/news-topics/jci-message-g7-press/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+    <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
       <span class="c-link-a__text">JCI Website, "Press Conference Held in Sapporo: Announcement of JCI Message Supported
         by 303 Organizations"</span>
@@ -459,7 +459,7 @@ rh_start_output_rewrite();
     enhancement of its preliminary report, comprehensiveness, and dissemination capabilities.<br>
     (*) Event attribution: A method to reproduce extreme weather events using a supercomputer to elucidate whether or
     not global warming is the cause.<br><br>
-    <a href="https://jp.ricoh.com/info/2023/0622_1" class="c-link-a icon-hidden">
+    <a href="__RH_BASE__/" class="c-link-a icon-hidden">
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
       <span class="c-link-a__text">Ricoh Website, "Chairman of Ricoh Proposes Activation of Scientific Analysis on
         Climate Change to the Ministry of the Environment as Co-Chair of JCLP"</span>
@@ -481,11 +481,11 @@ rh_start_output_rewrite();
   </ul>
   For more detailed recommendations, please refer to the following link on the JCLP website: "Recommendations for
   Accelerating Decarbonization by GX."<br><br>
-  <a href="https://japan-clp.jp/wp-content/uploads/2023/11/20231120_JCLP_GX%E3%81%AB%E3%82%88%E3%82%8B%E8%84%B1%E7%82%AD%E7%B4%A0%E5%8C%96%E3%81%AE%E5%8A%A0%E9%80%9F%E3%81%AB%E5%90%91%E3%81%91%E3%81%9F%E6%8F%90%E8%A8%80.pdf" class="c-link-a c-link-a--pdf icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--pdf icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/icon_pdf.png" alt="PDFを開く">
     <span class="c-link-a__text">JCLP Website, "Recommendations for Accelerating Decarbonization by GX"</span>
   </a>
-  <a href="https://jp.ricoh.com/info/2023/1122_1" class="c-link-a c-link-a--blank icon-hidden" style="margin-top: 1em;" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" style="margin-top: 1em;" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh Website, "Ricoh Chairman Advocates for Accelerating Decarbonization through GX to
       the Ministry of Economy, Trade and Industry as Co-Representative of JCLP"</span>
@@ -497,7 +497,7 @@ rh_start_output_rewrite();
   sharing this roadmap, companies can confidently invest in decarbonization, leading to the creation of new business
   opportunities and a positive cycle.<br>
   <br>
-  <a href="http://copjapan.env.go.jp/cop/cop28/exhibition/details/japan-climate-leaders-partnership/" class="c-link-a c-link-a--pdf icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--pdf icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/icon_pdf.png" alt="PDFを開く">
     <span class="c-link-a__text">JAPAN PAVILION Website, "Business Transformation Plan Towards a Future Envisioned by
       the 1.5°C Roadmap"</span>
@@ -521,7 +521,7 @@ rh_start_output_rewrite();
   </ul><br>
   These recommendations were also presented in the Government's "Task Force for Comprehensive Review of Regulations on
   Renewable Energy, etc."<br><br>
-  <a href="https://japanclimate.org/news-topics/cp-proposal/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">JCI Website, "JCI Carbon Pricing Recommendations: Towards Achieving Both the 2030 GHG
       Emission Reduction Target and Strengthening International Competitiveness Simultaneously"</span>
@@ -533,7 +533,7 @@ rh_start_output_rewrite();
   actions to support policies for the examination of Japan's future greenhouse gas emission reduction targets and Basic
   Energy Plan.<br>
   <br>
-  <a href="https://japan-clp.jp/archives/15219" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">JCLP Website, "COP28 Inspection Report Meeting and Social Gathering (3rd Climate Crisis
       Exchange Meeting between Parliamentarians and Corporations)"</span>
@@ -573,18 +573,18 @@ rh_start_output_rewrite();
                 <div class="img_65p u-w-100p u-dsp-f u-sp-fl-dire-col" style="justify-content: center;">
   <div class="u-align-center u-w-30p u-sp-w-100p">
     <p class="fs18"><strong>United Nations Global Compact</strong></p>
-    <a href="https://www.unglobalcompact.org/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+    <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
-      <span class="c-link-a__text">https://www.unglobalcompact.org/</span>
+      <span class="c-link-a__text">__RH_BASE__/</span>
     </a>
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/sustainability/initiative/img/initiative-UNGC.jpg" class="u-w-70p u-sp-w-100p" alt="United Nations Global Compact">
   </div>
 
   <div class="u-align-center u-w-30p u-sp-w-100p">
     <p class="fs18"><strong>Responsible Business Alliance (RBA)</strong></p>
-    <a href="https://www.responsiblebusiness.org/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+    <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
-      <span class="c-link-a__text">https://www.responsiblebusiness.org/</span>
+      <span class="c-link-a__text">__RH_BASE__/</span>
     </a>
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/sustainability/initiative/img/initiative-RBA.webp" class="u-w-70p u-sp-w-100p" alt="Responsible Business Alliance (RBA)">
   </div>
@@ -597,25 +597,25 @@ rh_start_output_rewrite();
 <div class="img_65p u-w-100p u-dsp-f u-sp-fl-dire-col u-mt-24" style="justify-content: center;">
   <div class="u-align-center u-w-30p u-sp-w-100p">
     <p class="fs18"><strong>RE100</strong></p>
-    <a href="https://www.there100.org/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+    <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
-      <span class="c-link-a__text">https://www.there100.org/</span>
+      <span class="c-link-a__text">__RH_BASE__/</span>
     </a>
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/sustainability/initiative/img/RE100---RGB-Colour.jpg" class="u-w-70p u-sp-w-100p" alt="RE100">
   </div>
   <div class="u-align-center u-w-30p u-sp-w-100p">
     <p class="fs18"><strong>Science Based Targets (SBT)</strong></p>
-    <a href="https://sciencebasedtargets.org/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+    <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
-      <span class="c-link-a__text">https://sciencebasedtargets.org/</span>
+      <span class="c-link-a__text">__RH_BASE__/</span>
     </a>
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/sustainability/initiative/img/initiative-SBT.jpg" class="u-w-70p u-sp-w-100p" alt="Science Based Targets (SBT)">
   </div>
   <div class="u-align-center u-w-30p u-sp-w-100p" style="float: left; padding: 8px;">
     <p class="fs18"><strong>Task Force on Climate-related Financial Disclosure (TCFD)</strong></p>
-    <a href="https://www.fsb-tcfd.org/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+    <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
-      <span class="c-link-a__text">https://www.fsb-tcfd.org/</span>
+      <span class="c-link-a__text">__RH_BASE__/</span>
     </a>
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/sustainability/initiative/img/initiative-TCFD.png" class="u-w-70p u-sp-w-100p" alt="Task Force on Climate Related Financial Disclosure (TCFD)">
   </div>
@@ -624,17 +624,17 @@ rh_start_output_rewrite();
 <div class="u-dsp-f img_65p u-w-100p u-sp-fl-dire-col u-mt-24" style="justify-content: center;">
   <div class="u-align-center u-w-30p u-sp-w-100p">
     <p class="fs18"><strong>Japan Climate Leader's Partnership（JCLP）</strong></p>
-    <a href="https://japan-clp.jp/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+    <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
-      <span class="c-link-a__text">https://japan-clp.jp/</span>
+      <span class="c-link-a__text">__RH_BASE__/</span>
     </a>
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/sustainability/initiative/img/initiative-JCLP.png" class="u-w-70p u-sp-w-100p" alt="Japan Climate Leader's Partnership（JCLP）">
   </div>
   <div class="u-align-center u-w-30p u-sp-w-100p">
     <p class="fs18"><strong>Japan Climate Initiative（JCI）</strong></p>
-    <a href="https://japanclimate.org/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+    <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
-      <span class="c-link-a__text">https://japanclimate.org/</span>
+      <span class="c-link-a__text">__RH_BASE__/</span>
     </a>
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/sustainability/initiative/img/initiative-JCI.jpg" class="u-w-70p u-sp-w-100p" alt="Japan Climate Initiative（JCI）">
   </div>
@@ -647,17 +647,17 @@ rh_start_output_rewrite();
 <div class="u-dsp-f img_65p u-w-100p u-sp-fl-dire-col" style="justify-content: center;">
   <div class="u-align-center u-w-30p u-sp-w-100p">
     <p class="fs18"><strong>Japan Partnership for Circular Economy</strong></p>
-    <a href="https://j4ce.env.go.jp/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+    <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
-      <span class="c-link-a__text">https://j4ce.env.go.jp/</span>
+      <span class="c-link-a__text">__RH_BASE__/</span>
     </a>
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/sustainability/initiative/img/J4CE_logo_color_rectangle.png" class="u-w-70p u-sp-w-100p" alt="Japan Partnership for Circular Economy">
   </div>
   <div class="u-align-center u-w-30p u-sp-w-100p">
     <p class="fs18"><strong>Circular Partners</strong></p>
-    <a href="https://www.cps.go.jp/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+    <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
-      <span class="c-link-a__text">https://www.cps.go.jp/</span>
+      <span class="c-link-a__text">__RH_BASE__/</span>
     </a>
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/sustainability/initiative/img/CPs_logo_square_posi_siro.png" class="u-w-70p u-sp-w-100p" alt="Circular Partners">
   </div>
@@ -670,25 +670,25 @@ rh_start_output_rewrite();
 <div class="u-dsp-f img_65p u-w-100p u-sp-fl-dire-col" style="justify-content: center;">
   <div class="u-align-center u-w-30p u-sp-w-100p">
     <p class="fs18"><strong>Business for Nature</strong></p>
-    <a href="https://www.businessfornature.org/" class="c-link-a c-link-a--blank icon-hidden">
+    <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden">
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
-      <span class="c-link-a__text">https://www.businessfornature.org/</span>
+      <span class="c-link-a__text">__RH_BASE__/</span>
     </a>
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/sustainability/initiative/img/initiative-BFN.jpg" class="u-w-70p u-sp-w-100p" alt="Business for Nature">
   </div>
   <div class="u-align-center u-w-30p u-sp-w-100p">
     <p class="fs18"><strong>Japan Business Initiative for Biodiversity（JBIB）</strong></p>
-    <a href="https://jbib.org/" class="c-link-a c-link-a--blank icon-hidden">
+    <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden">
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
-      <span class="c-link-a__text">https://jbib.org/</span>
+      <span class="c-link-a__text">__RH_BASE__/</span>
     </a>
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/sustainability/initiative/img/initiative-JBIB.png" class="u-w-70p u-sp-w-100p" alt="Japan Business Initiative for Biodiversity（JBIB）">
   </div>
   <div class="u-align-center u-w-30p u-sp-w-100p" style="float: left; padding: 8px;">
     <p class="fs18"><strong>30by30 Alliance for Biodiversity</strong></p>
-    <a href="https://policies.env.go.jp/nature/biodiversity/30by30alliance/" class="c-link-a c-link-a--blank icon-hidden">
+    <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden">
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
-      <span class="c-link-a__text">https://policies.env.go.jp/nature/biodiversity/30by30alliance/</span>
+      <span class="c-link-a__text">__RH_BASE__/</span>
     </a>
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/sustainability/initiative/img/initiative-30by30.png" class="u-w-70p u-sp-w-100p" alt="30by30 Alliance for Biodiversity">
   </div>
@@ -697,9 +697,9 @@ rh_start_output_rewrite();
 <div class="u-dsp-f img_65p u-w-100p u-sp-fl-dire-col u-mt-24" style="justify-content: center;">
   <div class="u-align-center u-w-30p u-sp-w-100p">
     <p class="fs18"><strong>Taskforce on Nature-related Financial Disclosures (TNFD)</strong></p>
-    <a href="https://tnfd.global/" class="c-link-a c-link-a--blank icon-hidden">
+    <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden">
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
-      <span class="c-link-a__text">https://tnfd.global/</span>
+      <span class="c-link-a__text">__RH_BASE__/</span>
     </a>
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/sustainability/initiative/img/TNFD%20Logo%20Grey.jpg" class="u-w-70p u-sp-w-100p" alt="Taskforce on Nature-related Financial Disclosures (TNFD)">
   </div>
@@ -856,7 +856,7 @@ rh_start_output_rewrite();
       </tr>
       <tr>
         <th>April 2022</th>
-        <td><a href="https://japan-clp.jp/archives/10504" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+        <td><a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
           <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="別ウィンドウで開く">
           <span class="c-link-a__text">On behalf of Ricoh as a Japan Climate Initiative member, Jake Yamashita, Ricoh President &amp; CEO, urges Prime Minister Kishida to accelerate the expansion of renewable energy and introduce carbon pricing to overcome climate crisis</span>
         </a></td>

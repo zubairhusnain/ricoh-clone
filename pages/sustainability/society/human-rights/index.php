@@ -29,9 +29,9 @@ rh_start_output_rewrite();
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>Respect for Human Rights​ | Global | Ricoh</title>
 <meta property="og:title" content="Respect for Human Rights​ | Global | Ricoh">
-    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&amp;hash=9DB561AD22E96D26590C1574F15A7B50">
+    <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&hash=9DB561AD22E96D26590C1574F15A7B50">
     <meta property="og:type" content="website">
-<meta property="og:url" content="https://www.ricoh.com/sustainability/society/human-rights">
+<meta property="og:url" content="__RH_BASE__/sustainability/society/human-rights">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 
@@ -908,7 +908,7 @@ rh_start_output_rewrite();
     we reaffirmed the importance of business activities that take human rights into consideration, and deepened our
     understanding of the relationship between our business activities and human rights by identifying important human
     rights issues in our industry(manufacturing (electricity/information)).<br>
-    <a href="https://crt-japan.jp/files2024/2024%20Human%20Rights%20Due%20Diligence%20Workshop_en.pdf" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+    <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="別ウィンドウで開く">
       <span class="c-link-a__text">Final Report ”Human Rights Issues by Sector v.13“</span>
     </a>
@@ -1127,7 +1127,7 @@ rh_start_output_rewrite();
               -Research ethics review system<br>
               -Risk management process<br>
               -Technology assessment<br>
-              （Details:&nbsp;<a href="https://jp.ricoh.com/technology/rd/technology_ethics" class="c-link-a icon-hidden u-pl-0 u-dsp-l"><span class="c-link-a__text">Ricoh Group Technology
+              （Details:&nbsp;<a href="__RH_BASE__/" class="c-link-a icon-hidden u-pl-0 u-dsp-l"><span class="c-link-a__text">Ricoh Group Technology
                   Ethics</span></a>）​
             </li>
           </ul>
@@ -1162,7 +1162,7 @@ rh_start_output_rewrite();
               on Information Security, as well as the operation and management of personal information based on these
               rules.</li>
             <li class="c-list-disc-a__item c-list-disc-a__item--black">
-              （Details:&nbsp;<a href="https://jp.ricoh.com/privacy" class="c-link-a icon-hidden u-pl-0 u-dsp-l"><span class="c-link-a__text">Basic Policy for the
+              （Details:&nbsp;<a href="__RH_BASE__/" class="c-link-a icon-hidden u-pl-0 u-dsp-l"><span class="c-link-a__text">Basic Policy for the
                   Protection of Personal Information</span></a>,<a href="../../../security/management/" class="c-link-a icon-hidden u-pl-0 u-dsp-l"><span class="c-link-a__text">Information Security of the
                   Ricoh Group</span></a>）
             </li>
@@ -1418,7 +1418,7 @@ rh_start_output_rewrite();
     </tbody>
   </table>
 
-  <a href="https://www.responsiblebusiness.org/vap/about-vap/" class="c-link-a c-link-a--blank icon-hidden u-mt-16" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden u-mt-16" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="別ウィンドウで開く">
     <span class="c-link-a__text">RBA Validated Assessment Program (VAP)</span>
   </a>
@@ -1594,7 +1594,7 @@ rh_start_output_rewrite();
   
   <div class="c-text-a">
     <p class="c-text-a__text">[Reporting system for other external stakeholders]<br>
-      <a href="https://jacer-bhr.org/en/application/index.html" class="c-link-a icon-hidden" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="別ウィンドウで開く">  
         <span class="c-link-a__text">Engagement and Remedy Platform (JaCER)（External website）(Available in multiple languages)</span>
       </a><br>
@@ -1607,7 +1607,7 @@ rh_start_output_rewrite();
     </p>
 
     <p class="c-text-a__text" style="margin-top: 1em;">
-      <a href="https://secure.ethicspoint.eu/domain/media/en/gui/113060/index.html" class="c-link-a icon-hidden" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="別ウィンドウで開く">  
         <span class="c-link-a__text">Responsible business conduct hotline （External website ）(Available in multiple languages)</span>
       </a><br>
@@ -1833,12 +1833,12 @@ rh_start_output_rewrite();
 </div>
 
 <div class="u-dsp-f u-fl-dire-col">
-  <a href="https://www.ricoh-europe.com/modern-slavery-act/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="別ウィンドウで開く">
     <span class="c-link-a__text">Ricoh Europe Holdings PLC "Modern Slavery Act Transparency Statement"</span>
   </a>
 
-  <a href="https://www.ricoh.com.au/modern-slavery-act/?_gl=1*14d2hjx*_ga*MTIxNTcyMjk1OC4xNzEyODg0MjU4*_ga_1W7QW96RNV*MTcyODMwNjQ0OC4zMy4xLjE3MjgzMDg5OTcuMC4wLjA.*_ga_NQ01T89XSX*MTcyODMwNjQ0OC4zMy4xLjE3MjgzMDg5OTcuMC4wLjA.&amp;_ga=2.153618552.190016691.1728269911-1215722958.1712884258" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="別ウィンドウで開く">
     <span class="c-link-a__text">Ricoh Australia "Modern Slavery Statement"</span>
   </a>
@@ -1852,7 +1852,7 @@ rh_start_output_rewrite();
   <p class="c-text-a__text">On August Ricoh South Africa was verified for compliance with B-BBEE Amendment Act of 2013 and the ICT Sector Code 40407 of 7 November and received Broad-Based Bee Verification Certificate.</p><!-- テキストはここを編集 -->
 </div>
 
-<a href="https://www.ricoh.co.za/media/1%202021%20Ricoh%20SA%20BBBEE%20Certificate_tcm99-57745.pdf" class="c-link-a c-link-a--pdf icon-hidden" target="_blank">
+<a href="__RH_BASE__/" class="c-link-a c-link-a--pdf icon-hidden" target="_blank">
   <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/icon_pdf.png" alt="PDFを開く">
   <span class="c-link-a__text">Broad-Based Bee Verification Certificate</span>
 </a>

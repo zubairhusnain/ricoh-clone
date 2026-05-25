@@ -29,9 +29,9 @@ rh_start_output_rewrite();
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>Terms of Use | Global | Ricoh</title>
 <meta property="og:title" content="Terms of Use | Global | Ricoh">
-    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&amp;hash=9DB561AD22E96D26590C1574F15A7B50">
+    <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&hash=9DB561AD22E96D26590C1574F15A7B50">
     <meta property="og:type" content="website">
-<meta property="og:url" content="https://www.ricoh.com/terms-of-use">
+<meta property="og:url" content="__RH_BASE__/terms-of-use">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 
@@ -177,7 +177,7 @@ rh_start_output_rewrite();
         <div class="c-margin-b">
             <div class="c-margin-b__inner">
                     <div class="c-text-a">
-        This web site http://www.ricoh.com ("The RICOH Web Site") is created, owned, operated and maintained by or for RICOH Company, Ltd. ("RICOH"). Please read these terms and conditions of use ("Terms of Use") carefully before accessing and navigating The RICOH Web Site. You may use The RICOH Web Site only if you agree to and accept these Terms of Use without limitation or reservation.<br>
+        This web site __RH_BASE__// ("The RICOH Web Site") is created, owned, operated and maintained by or for RICOH Company, Ltd. ("RICOH"). Please read these terms and conditions of use ("Terms of Use") carefully before accessing and navigating The RICOH Web Site. You may use The RICOH Web Site only if you agree to and accept these Terms of Use without limitation or reservation.<br>
 RICOH may, at its sole and exclusive discretion, change, alter, modify, add, and/or remove portions of Terms of Use at any time by updating the contents of this page. You are advised to periodically visit this page and review the current revisions to our Terms of Use. RICOH at its sole and exclusive discretion, reserves the right to alter or discontinue The RICOH Web Site without prior notice.
     </div>
 

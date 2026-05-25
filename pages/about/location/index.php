@@ -28,10 +28,10 @@ rh_start_output_rewrite();
 <title>Directory | Global | Ricoh</title>
     <meta name="Description" content="[Ricoh Global Official Website] Ricoh business directory, listing sales and services offices in Americas, Europe and Asia Pacific/China.">
 <meta property="og:title" content="Directory | Global | Ricoh">
-    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&amp;hash=9DB561AD22E96D26590C1574F15A7B50">
+    <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&hash=9DB561AD22E96D26590C1574F15A7B50">
     <meta property="og:type" content="website">
     <meta property="og:description" content="Ricoh business directory, listing sales and services offices in Americas, Europe and Asia Pacific/China.">
-<meta property="og:url" content="https://www.ricoh.com/about/location">
+<meta property="og:url" content="__RH_BASE__/about/location">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 
@@ -359,7 +359,7 @@ rh_start_output_rewrite();
 <div class="c-text-a">
   <div class="c-linkCard__item u-mt-32">
     <div class="c-linkCard__inner">
-      <a href="https://maps.app.goo.gl/eYkxni2ibHMAuc3F9" class="c-button-a c-button-a--red c-button-a--arrow c-button-a--map c-button-a--iconWhite icon-hidden" target="_blank">
+      <a href="__RH_BASE__/" class="c-button-a c-button-a--red c-button-a--arrow c-button-a--map c-button-a--iconWhite icon-hidden" target="_blank">
         <span class="c-button-a__text">Google Map</span>
       </a>
     </div>
@@ -393,7 +393,7 @@ rh_start_output_rewrite();
 <div class="c-text-a">
   <div class="c-linkCard__item u-mt-32">
     <div class="c-linkCard__inner">
-      <a href="https://maps.app.goo.gl/7QGaL7ii9Jns2SXt5" class="c-button-a c-button-a--red c-button-a--arrow c-button-a--map c-button-a--iconWhite icon-hidden" target="_blank">
+      <a href="__RH_BASE__/" class="c-button-a c-button-a--red c-button-a--arrow c-button-a--map c-button-a--iconWhite icon-hidden" target="_blank">
         <span class="c-button-a__text">Google Map</span>
       </a>
     </div>
@@ -494,7 +494,7 @@ rh_start_output_rewrite();
 <div class="c-text-a">
   <div class="c-linkCard__item u-mt-32">
     <div class="c-linkCard__inner">
-      <a href="https://maps.app.goo.gl/4tKFXbaZbjWYiMRo7" class="c-button-a c-button-a--red c-button-a--arrow c-button-a--map c-button-a--iconWhite icon-hidden" target="_blank">
+      <a href="__RH_BASE__/" class="c-button-a c-button-a--red c-button-a--arrow c-button-a--map c-button-a--iconWhite icon-hidden" target="_blank">
         <span class="c-button-a__text">Google Map</span>
       </a>
     </div>
@@ -564,7 +564,7 @@ rh_start_output_rewrite();
 <div class="c-text-a">
   <div class="c-linkCard__item u-mt-32">
     <div class="c-linkCard__inner">
-      <a href="https://www.google.com/maps/search/%E3%83%AA%E3%82%B3%E3%83%BC+%E5%8E%9A%E6%9C%A8%E4%BA%8B%E6%A5%AD%E6%89%80" class="c-button-a c-button-a--red c-button-a--arrow c-button-a--map c-button-a--iconWhite icon-hidden" target="_blank">
+      <a href="__RH_BASE__/" class="c-button-a c-button-a--red c-button-a--arrow c-button-a--map c-button-a--iconWhite icon-hidden" target="_blank">
         <span class="c-button-a__text">Google Map</span>
       </a>
     </div>
@@ -620,7 +620,7 @@ rh_start_output_rewrite();
 <div class="c-text-a">
   <div class="c-linkCard__item u-mt-32">
     <div class="c-linkCard__inner">
-      <a href="https://maps.app.goo.gl/tUoPgUmukmtft5T39" class="c-button-a c-button-a--red c-button-a--arrow c-button-a--map c-button-a--iconWhite icon-hidden" target="_blank">
+      <a href="__RH_BASE__/" class="c-button-a c-button-a--red c-button-a--arrow c-button-a--map c-button-a--iconWhite icon-hidden" target="_blank">
         <span class="c-button-a__text">Google Map</span>
       </a>
     </div>
@@ -702,7 +702,7 @@ rh_start_output_rewrite();
 <div class="c-text-a">
   <div class="c-linkCard__item u-mt-32">
     <div class="c-linkCard__inner">
-      <a href="https://maps.app.goo.gl/de4ThU6fE3nrHtKA9" class="c-button-a c-button-a--red c-button-a--arrow c-button-a--map c-button-a--iconWhite icon-hidden" target="_blank">
+      <a href="__RH_BASE__/" class="c-button-a c-button-a--red c-button-a--arrow c-button-a--map c-button-a--iconWhite icon-hidden" target="_blank">
         <span class="c-button-a__text">Google Map</span>
       </a>
     </div>
@@ -736,7 +736,7 @@ rh_start_output_rewrite();
 <div class="c-text-a">
   <div class="c-linkCard__item u-mt-32">
     <div class="c-linkCard__inner">
-      <a href="https://maps.app.goo.gl/tUh9TV6GC2nk7LdC6" class="c-button-a c-button-a--red c-button-a--arrow c-button-a--map c-button-a--iconWhite icon-hidden" target="_blank">
+      <a href="__RH_BASE__/" class="c-button-a c-button-a--red c-button-a--arrow c-button-a--map c-button-a--iconWhite icon-hidden" target="_blank">
         <span class="c-button-a__text">Google Map</span>
       </a>
     </div>
@@ -812,7 +812,7 @@ rh_start_output_rewrite();
 <div class="c-text-a">
   <div class="c-linkCard__item u-mt-32">
     <div class="c-linkCard__inner">
-      <a href="https://maps.app.goo.gl/wfrkzNYgrctZJDMp8" class="c-button-a c-button-a--red c-button-a--arrow c-button-a--map c-button-a--iconWhite icon-hidden" target="_blank">
+      <a href="__RH_BASE__/" class="c-button-a c-button-a--red c-button-a--arrow c-button-a--map c-button-a--iconWhite icon-hidden" target="_blank">
         <span class="c-button-a__text">Google Map</span>
       </a>
     </div>
@@ -846,7 +846,7 @@ rh_start_output_rewrite();
 <div class="c-text-a">
   <div class="c-linkCard__item u-mt-32">
     <div class="c-linkCard__inner">
-      <a href="https://maps.app.goo.gl/3uUDfPnFXZsgfM6F6" class="c-button-a c-button-a--red c-button-a--arrow c-button-a--map c-button-a--iconWhite icon-hidden" target="_blank">
+      <a href="__RH_BASE__/" class="c-button-a c-button-a--red c-button-a--arrow c-button-a--map c-button-a--iconWhite icon-hidden" target="_blank">
         <span class="c-button-a__text">Google Map</span>
       </a>
     </div>
@@ -894,7 +894,7 @@ rh_start_output_rewrite();
 <div class="c-text-a">
   <div class="c-linkCard__item u-mt-32">
     <div class="c-linkCard__inner">
-      <a href="https://maps.app.goo.gl/cdaMLgfVtTRDTj7Q7" class="c-button-a c-button-a--red c-button-a--arrow c-button-a--map c-button-a--iconWhite icon-hidden" target="_blank">
+      <a href="__RH_BASE__/" class="c-button-a c-button-a--red c-button-a--arrow c-button-a--map c-button-a--iconWhite icon-hidden" target="_blank">
         <span class="c-button-a__text">Google Map</span>
       </a>
     </div>
@@ -936,7 +936,7 @@ rh_start_output_rewrite();
 <div class="c-text-a">
   <div class="c-linkCard__item u-mt-32">
     <div class="c-linkCard__inner">
-      <a href="https://www.google.com/maps/search/%E3%83%AA%E3%82%B3%E3%83%BC%E5%B7%9D%E5%B4%8E%E3%83%A9%E3%82%A4%E3%83%95%E3%82%A4%E3%83%8E%E3%83%99%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC" class="c-button-a c-button-a--red c-button-a--arrow c-button-a--map c-button-a--iconWhite icon-hidden" target="_blank">
+      <a href="__RH_BASE__/" class="c-button-a c-button-a--red c-button-a--arrow c-button-a--map c-button-a--iconWhite icon-hidden" target="_blank">
         <span class="c-button-a__text">Google Map</span>
       </a>
     </div>
@@ -978,7 +978,7 @@ rh_start_output_rewrite();
 <div class="c-text-a">
   <div class="c-linkCard__item u-mt-32">
     <div class="c-linkCard__inner">
-      <a href="https://maps.app.goo.gl/eYkxni2ibHMAuc3F9" class="c-button-a c-button-a--red c-button-a--arrow c-button-a--map c-button-a--iconWhite icon-hidden" target="_blank">
+      <a href="__RH_BASE__/" class="c-button-a c-button-a--red c-button-a--arrow c-button-a--map c-button-a--iconWhite icon-hidden" target="_blank">
         <span class="c-button-a__text">Google Map</span>
       </a>
     </div>
@@ -1017,7 +1017,7 @@ rh_start_output_rewrite();
                         <div class="c-accordion-b__cell" data-accordion="inner" id="01">
 <div class="c-link-a-list">
   <div class="c-link-a-list__inner">
-    <a href="https://www.ricoh.co.jp" class="c-link-a icon-hidden">
+    <a href="__RH_BASE__/" class="c-link-a icon-hidden">
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
       <span class="c-link-a__text">Ricoh Japan Corporation</span>
     </a>
@@ -1052,7 +1052,7 @@ rh_start_output_rewrite();
                         </div>
                         <div class="c-accordion-b__cell" data-accordion="inner" id="02">
 <div class="c-text-a">
-  <a href="https://www.ricoh-usa.com/en" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh USA, Inc.</span>
   </a>
@@ -1078,7 +1078,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh.ca/en-CA" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh Canada, Inc.</span>
   </a>
@@ -1107,7 +1107,7 @@ rh_start_output_rewrite();
                         </div>
                         <div class="c-accordion-b__cell" data-accordion="inner" id="03">
 <div class="c-text-a">
-  <a href="https://www.ricoh-usa.com/en" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh Latin America, Inc.</span>
   </a>
@@ -1122,7 +1122,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh-americalatina.com/es-ar" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh Argentina S.A.</span>
   </a>
@@ -1134,7 +1134,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh-americalatina.com/pt-br" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh Brasil, S.A.</span>
   </a>
@@ -1146,7 +1146,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh-americalatina.com/es" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh Chile S.A.</span>
   </a>
@@ -1158,7 +1158,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh-americalatina.com/es-co" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh Colombia S.A.</span>
   </a>
@@ -1170,7 +1170,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh-americalatina.com/es-cr" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh Costa Rica S.A.</span>
   </a>
@@ -1182,7 +1182,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh-americalatina.com/es-do" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh Dominicana, S.A.</span>
   </a>
@@ -1194,7 +1194,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh-americalatina.com/es-sv" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh El Salvador, S.A. de C.V.</span>
   </a>
@@ -1206,7 +1206,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh-americalatina.com/es-gt" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh Guatemala S.A.</span>
   </a>
@@ -1218,7 +1218,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh-americalatina.com/en" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh Latin America, Inc.</span>
   </a>
@@ -1230,7 +1230,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh-americalatina.com/es-mx" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh Mexicana, S.A. de C.V.</span>
   </a>
@@ -1242,7 +1242,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh-americalatina.com/es-pa" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh Panamá, S.A.</span>
   </a>
@@ -1254,7 +1254,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh-americalatina.com/es-pe" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh del Perú S.A.C.</span>
   </a>
@@ -1266,7 +1266,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh-americalatina.com/es-pr" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh Puerto Rico, Inc.</span>
   </a>
@@ -1295,7 +1295,7 @@ rh_start_output_rewrite();
                         </div>
                         <div class="c-accordion-b__cell" data-accordion="inner" id="04">
 <div class="c-text-a">
-  <a href="https://www.ricoh-europe.com" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh Europe PLC</span>
   </a>
@@ -1310,7 +1310,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh.at" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh Austria GmbH</span>
   </a>
@@ -1322,7 +1322,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh.be" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh Belgium N.V.</span>
   </a>
@@ -1345,7 +1345,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh.dk" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh Denmark A/S</span>
   </a>
@@ -1357,7 +1357,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh.de" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh Deutschland GmbH</span>
   </a>
@@ -1369,7 +1369,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh.es" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh España S.L.U.</span>
   </a>
@@ -1392,7 +1392,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh.fi" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh Finland Oy</span>
   </a>
@@ -1404,7 +1404,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh.fr" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh France S.A.S.</span>
   </a>
@@ -1416,7 +1416,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh.hu" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh Hungary Kft.</span>
   </a>
@@ -1428,14 +1428,14 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://ricoh-imaging.eu" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh Imaging Europe S.A.S.</span>
   </a>
   <p class="c-text-a__text">7-9, avenue Robert Schuman, 94150 Rungis, France</p>
 </div>
 <div class="c-text-a">
-  <a href="http://www.ricoh-international.com" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh International B.V.</span>
   </a>
@@ -1447,7 +1447,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh.ie" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh Ireland Ltd.</span>
   </a>
@@ -1459,7 +1459,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh.it" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh Italia Srl.</span>
   </a>
@@ -1471,7 +1471,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh.lu" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh Luxembourg DSC S.a.r.l.</span>
   </a>
@@ -1483,7 +1483,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh-me.com/en" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh Middle East FZE</span>
   </a>
@@ -1495,7 +1495,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh.nl" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh Nederland B.V.</span>
   </a>
@@ -1507,7 +1507,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh.no" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh Norge A.S.</span>
   </a>
@@ -1519,7 +1519,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh.pl" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh Polska Sp.zo.o.</span>
   </a>
@@ -1531,7 +1531,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh.pt" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh Portugal, Unipessoal, Lda</span>
   </a>
@@ -1543,7 +1543,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh.ru" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh Rus, Ltd.</span>
   </a>
@@ -1555,7 +1555,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh.ch" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh Schweiz AG</span>
   </a>
@@ -1567,7 +1567,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh.sk" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh Slovakia s.r.o.</span>
   </a>
@@ -1579,7 +1579,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh.co.za" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh South Africa (Pty) Ltd.</span>
   </a>
@@ -1591,7 +1591,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh.se" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh Sverige AB.</span>
   </a>
@@ -1603,7 +1603,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh.com.tr" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh Turkey Baski Çözümleri Limited Şirketi</span>
   </a>
@@ -1615,7 +1615,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh.co.uk" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh UK Ltd.</span>
   </a>
@@ -1644,7 +1644,7 @@ rh_start_output_rewrite();
                         </div>
                         <div class="c-accordion-b__cell" data-accordion="inner" id="05">
 <div class="c-text-a">
-  <a href="https://www.ricoh-ap.com" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color" alt="Open new window">
     <span class="c-link-a__text">Ricoh Asia Pacific Pte. Ltd.</span>
   </a>
@@ -1670,7 +1670,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh.com.au" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color" alt="Open new window">
     <span class="c-link-a__text">Ricoh Australia Pty, Ltd.</span>
   </a>
@@ -1682,7 +1682,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh.com.cn" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color" alt="Open new window">
     <span class="c-link-a__text">Ricoh China Co., Ltd.</span>
   </a>
@@ -1694,7 +1694,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh.com.hk" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color" alt="Open new window">
     <span class="c-link-a__text">Ricoh Hong Kong Ltd.</span>
   </a>
@@ -1706,7 +1706,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh-imaging.com.cn/china" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color" alt="Open new window">
     <span class="c-link-a__text">Ricoh Imaging China Co., Ltd.</span>
   </a>
@@ -1718,7 +1718,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="http://www.ricoh-thermal.com.cn/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color" alt="Open new window">
     <span class="c-link-a__text">Ricoh International (Shanghai) Co., Ltd.</span>
   </a>
@@ -1730,7 +1730,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh-korea.co.kr" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color" alt="Open new window">
     <span class="c-link-a__text">Ricoh Korea Co., Ltd.</span>
   </a>
@@ -1742,7 +1742,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh.com.my" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color" alt="Open new window">
     <span class="c-link-a__text">Ricoh (Malaysia) Sdn.Bhd.</span>
   </a>
@@ -1754,7 +1754,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh.co.nz" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color" alt="Open new window">
     <span class="c-link-a__text">Ricoh New Zealand Ltd.</span>
   </a>
@@ -1762,7 +1762,7 @@ rh_start_output_rewrite();
   <p class="c-text-a__text">+64 9-374-0701</p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh.com.ph" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color" alt="Open new window">
     <span class="c-link-a__text">Ricoh (Philippines), Inc.</span>
   </a>
@@ -1770,7 +1770,7 @@ rh_start_output_rewrite();
   <p class="c-text-a__text">+63 2-8865-9500</p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh.sg" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color" alt="Open new window">
     <span class="c-link-a__text">Ricoh (Singapore) Pte Ltd.</span>
   </a>
@@ -1782,7 +1782,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh.com.tw" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color" alt="Open new window">
     <span class="c-link-a__text">Ricoh Taiwan Co., Ltd.</span>
   </a>
@@ -1794,7 +1794,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh.co.th" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color" alt="Open new window">
     <span class="c-link-a__text">Ricoh (Thailand) Ltd.</span>
   </a>
@@ -1806,7 +1806,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh.com.vn" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color" alt="Open new window">
     <span class="c-link-a__text">Ricoh Vietnam Company Limited</span>
   </a>
@@ -1849,7 +1849,7 @@ rh_start_output_rewrite();
                         </div>
                         <div class="c-accordion-b__cell" data-accordion="inner" id="01">
 <div class="c-text-a">
-  <a href="https://etria.global/en" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">ETRIA Co., Ltd.</span>
   </a>
@@ -1866,7 +1866,7 @@ rh_start_output_rewrite();
   <p class="c-text-a__text">+81 50-3814-5442</p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh-imaging.co.jp/english/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh Imaging Company, Ltd.</span>
   </a>
@@ -1886,7 +1886,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricohelemex.co.jp/en" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh Elemex Corporation</span>
   </a>
@@ -1898,7 +1898,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh-digitalpainting.com/en" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh Digital Painting Company, Ltd.</span>
   </a>
@@ -1910,7 +1910,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://rpc.ricoh.com/en/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">RICOH PFU COMPUTING Co., Ltd.</span>
   </a>
@@ -1933,7 +1933,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.pfu.ricoh.com/global" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">PFU Limited</span>
   </a>
@@ -1974,7 +1974,7 @@ rh_start_output_rewrite();
                         </div>
                         <div class="c-accordion-b__cell" data-accordion="inner" id="02">
 <div class="c-text-a">
-  <a href="https://www.rei.ricoh.com" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh Electronics, Inc.</span>
   </a>
@@ -2019,7 +2019,7 @@ rh_start_output_rewrite();
                         </div>
                         <div class="c-accordion-b__cell" data-accordion="inner" id="03">
 <div class="c-text-a">
-  <a href="https://www.ricoh-thermal.com/fr" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh Industrie France S.A.S.</span>
   </a>
@@ -2031,7 +2031,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://ukproducts.ricoh.com" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
     <span class="c-link-a__text">Ricoh UK Products Ltd.</span>
   </a>
@@ -2150,7 +2150,7 @@ rh_start_output_rewrite();
   <p class="c-text-a__text">+62 21-2210-0350</p>
 </div>
 <div class="c-text-a">
-  <a href="http://www.ricoh-thermal.com.cn" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color" alt="Open new window">
     <span class="c-link-a__text">Ricoh Thermal Media (Wuxi) Co., Ltd.</span>
   </a>
@@ -2184,7 +2184,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.ricoh-rits.com" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color" alt="Open new window">
     <span class="c-link-a__text">Ricoh Imaging Technology (Shanghai) Co., Ltd.</span>
   </a>
@@ -2196,7 +2196,7 @@ rh_start_output_rewrite();
   </p>
 </div>
 <div class="c-text-a">
-  <a href="https://www.srcb-ricoh.com" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+  <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
     <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color" alt="Open new window">
     <span class="c-link-a__text">Ricoh Software Research Center (Beijing) Co., Ltd.</span>
   </a>

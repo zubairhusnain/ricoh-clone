@@ -28,10 +28,10 @@ rh_start_output_rewrite();
 <title>Customer Satisfaction | Global | Ricoh</title>
     <meta name="Description" content="[Ricoh Global Official Website] [Ricoh Global Official Website]The Ricoh Group will enhance its sustainable management for achieving a more sustainable society, and strive to make our business model innovative.">
 <meta property="og:title" content="Customer Satisfaction | Global | Ricoh">
-    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Sites/co_jp/products/human-resources-management/img/thumbnail.png?rev=11eef36191b44830a6664c2a995413bc&amp;hash=83D9A50CEBF15C19C0363B725E31FF24">
+    <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Sites/co_jp/products/human-resources-management/img/thumbnail.png?rev=11eef36191b44830a6664c2a995413bc&hash=83D9A50CEBF15C19C0363B725E31FF24">
     <meta property="og:type" content="website">
     <meta property="og:description" content="[Ricoh Global Official Website]The Ricoh Group will enhance its sustainable management for achieving a more sustainable society, and strive to make our business model innovative.">
-<meta property="og:url" content="https://www.ricoh.com/sustainability/society/customer">
+<meta property="og:url" content="__RH_BASE__/sustainability/society/customer">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 
@@ -353,7 +353,7 @@ To be the Value Co-creation Partner, we believe it is necessary to strengthen ou
 <!-- ここから -->
 <div class="c-link-a-list">
   <div class="c-link-a-list__inner">
-    <a href="https://jp.ricoh.com/about/ricoh-bil" class="c-link-a c-link-a---blank" target="_blank">
+    <a href="__RH_BASE__/" class="c-link-a c-link-a---blank" target="_blank">
       <span class="c-link-a__text">RICOH BIL TOKYO(Japanese)</span>
     </a>
   </div>

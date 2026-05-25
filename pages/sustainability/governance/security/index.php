@@ -28,10 +28,10 @@ rh_start_output_rewrite();
 <title>Information Security | Global | Ricoh</title>
     <meta name="Description" content="[Ricoh Global Official Website] the Ricoh Group aims to become a company that continues to be trusted by society by taking measures against increasingly sophisticated cyber attacks, ensuring high-quality security of products, systems, and services through “security by design,” and promoting information security measures throughout the supply chain.">
 <meta property="og:title" content="Information Security | Global | Ricoh">
-    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&amp;hash=9DB561AD22E96D26590C1574F15A7B50">
+    <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&hash=9DB561AD22E96D26590C1574F15A7B50">
     <meta property="og:type" content="website">
     <meta property="og:description" content="the Ricoh Group aims to become a company that continues to be trusted by society by taking measures against increasingly sophisticated cyber attacks, ensuring high-quality security of products, systems, and services through “security by design,” and promoting information security measures throughout the supply chain.">
-<meta property="og:url" content="https://www.ricoh.com/sustainability/governance/security">
+<meta property="og:url" content="__RH_BASE__/sustainability/governance/security">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 

@@ -30,10 +30,10 @@ rh_start_output_rewrite();
 <title>Supply Chain Management | Global | Ricoh</title>
     <meta name="Description" content="[Ricoh Global Official Website] The Ricoh Group will enhance its sustainable management for achieving a more sustainable society, and strive to make our business model innovative.">
 <meta property="og:title" content="Supply Chain Management | Global | Ricoh">
-    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&amp;hash=9DB561AD22E96D26590C1574F15A7B50">
+    <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&hash=9DB561AD22E96D26590C1574F15A7B50">
     <meta property="og:type" content="website">
     <meta property="og:description" content="The Ricoh Group will enhance its sustainable management for achieving a more sustainable society, and strive to make our business model innovative.">
-<meta property="og:url" content="https://www.ricoh.com/sustainability/society/scm">
+<meta property="og:url" content="__RH_BASE__/sustainability/society/scm">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 
@@ -360,11 +360,11 @@ object-fit: cover;
 
 <div class="c-link-a-list c-link-a-list--column">
   <div class="c-link-a-list__inner">
-    <a href="https://www.responsiblebusiness.org/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+    <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="別ウィンドウで開く">
       <span class="c-link-a__text">Responsible Business Alliance (RBA)</span>
     </a>
-    <a href="https://www.responsiblebusiness.org/vap/about-vap/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+    <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="別ウィンドウで開く">
       <span class="c-link-a__text">Validated Assessment Program (VAP)</span>
     </a>
@@ -462,7 +462,7 @@ object-fit: cover;
 
 <div class="c-link-a-list c-link-a-list--column">
   <div class="c-link-a-list__inner">
-    <a href="https://www.responsiblebusiness.org/code-of-conduct/" target="_blank" class="c-link-a c-link-a--pdf icon-hidden">
+    <a href="__RH_BASE__/" target="_blank" class="c-link-a c-link-a--pdf icon-hidden">
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="別ウィンドウで開く">
       <span class="c-link-a__text">The RBA Code of Conduct</span>
     </a>
@@ -1112,7 +1112,7 @@ In fiscal 2018, we conducted two unannounced audits of suppliers with coating pr
       </div>
       <div class="c-text-a">
         <div class="c-text-a">
-          <p class="c-text-a__text"><strong>Miyazawa Machinery Industrial Co., Ltd. (Head office/plant in Omori-honcho, Ota-ku; plant in Jonanjima, Ota-ku; Website: http://www.m-mic.co.jp/)</strong></p>
+          <p class="c-text-a__text"><strong>Miyazawa Machinery Industrial Co., Ltd. (Head office/plant in Omori-honcho, Ota-ku; plant in Jonanjima, Ota-ku; Website: __RH_BASE__/)</strong></p>
         </div>
       </div>
       <div class="c-text-a">
@@ -1160,72 +1160,72 @@ In fiscal 2018, we conducted two unannounced audits of suppliers with coating pr
     <tr>
       <td>IKEDA-KOKI inc.</td>
       <td>
-        <a href="http://www.ikeda-koki.co.jp/" class="c-link-a icon-hidden" target="_blank">
+        <a href="__RH_BASE__/" class="c-link-a icon-hidden" target="_blank">
           <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="別ウィンドウで開く">
-          <span class="c-link-a__text">http://www.ikeda-koki.co.jp/</span>
+          <span class="c-link-a__text">__RH_BASE__/</span>
         </a>
       </td>
     </tr>
     <tr>
       <td>KISHIRO HIKARI KAGAKU CO.,LTD.</td>
       <td>
-        <a href="http://www.kishiro.co.jp/" class="c-link-a icon-hidden" target="_blank">
+        <a href="__RH_BASE__/" class="c-link-a icon-hidden" target="_blank">
           <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="別ウィンドウで開く">
-          <span class="c-link-a__text">http://www.kishiro.co.jp/</span>
+          <span class="c-link-a__text">__RH_BASE__/</span>
         </a>
       </td>
     </tr>
     <tr>
       <td>KOUKIKASEI Co.,Ltd.</td>
       <td>
-        <a href="https://kouki-kasei.jimdo.com/" class="c-link-a icon-hidden" target="_blank">
+        <a href="__RH_BASE__/" class="c-link-a icon-hidden" target="_blank">
           <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="別ウィンドウで開く">
-          <span class="c-link-a__text">https://kouki-kasei.jimdo.com/</span>
+          <span class="c-link-a__text">__RH_BASE__/</span>
         </a>
       </td>
     </tr>
     <tr>
       <td>SHIZUKOH SANGYOH CO.,LTD.</td>
       <td>
-        <a href="http://www.shizukoh.com/" class="c-link-a icon-hidden" target="_blank">
+        <a href="__RH_BASE__/" class="c-link-a icon-hidden" target="_blank">
           <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="別ウィンドウで開く">
-          <span class="c-link-a__text">http://www.shizukoh.com/</span>
+          <span class="c-link-a__text">__RH_BASE__/</span>
         </a>
       </td>
     </tr>
     <tr>
       <td>SEKI-SEISAKUJYO Co.,Ltd.</td>
       <td>
-        <a href="https://www.seki-seisakujyo.com/" class="c-link-a icon-hidden" target="_blank">
+        <a href="__RH_BASE__/" class="c-link-a icon-hidden" target="_blank">
           <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="別ウィンドウで開く">
-          <span class="c-link-a__text">https://www.seki-seisakujyo.com/</span>
+          <span class="c-link-a__text">__RH_BASE__/</span>
         </a>
       </td>
     </tr>
     <tr>
       <td>DAIICHI KOHKI CO.,LTD.</td>
       <td>
-        <a href="http://www.d1k.co.jp/" class="c-link-a icon-hidden" target="_blank">
+        <a href="__RH_BASE__/" class="c-link-a icon-hidden" target="_blank">
           <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="別ウィンドウで開く">
-          <span class="c-link-a__text">http://www.d1k.co.jp/</span>
+          <span class="c-link-a__text">__RH_BASE__/</span>
         </a>
       </td>
     </tr>
     <tr>
       <td>TOKYO PLASTICS INC.</td>
       <td>
-        <a href="http://www.tokyo-plastics.co.jp/" class="c-link-a icon-hidden" target="_blank">
+        <a href="__RH_BASE__/" class="c-link-a icon-hidden" target="_blank">
           <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="別ウィンドウで開く">
-          <span class="c-link-a__text">http://www.tokyo-plastics.co.jp/</span>
+          <span class="c-link-a__text">__RH_BASE__/</span>
         </a>
       </td>
     </tr>
     <tr>
       <td>NISSHIN Co.,Ltd.</td>
       <td>
-        <a href="http://www.nisshin-corp.com/index.php#" class="c-link-a icon-hidden" target="_blank">
+        <a href="__RH_BASE__/" class="c-link-a icon-hidden" target="_blank">
           <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="別ウィンドウで開く">
-          <span class="c-link-a__text">http://www.nisshin-corp.com/index.php#</span>
+          <span class="c-link-a__text">__RH_BASE__/</span>
         </a>
       </td>
     </tr>
@@ -1236,9 +1236,9 @@ In fiscal 2018, we conducted two unannounced audits of suppliers with coating pr
     <tr>
       <td>MIYAZAWA MACHINARY INDUSTRIAL co., ltd</td>
       <td>
-        <a href="http://www.m-mic.co.jp/" class="c-link-a icon-hidden" target="_blank">
+        <a href="__RH_BASE__/" class="c-link-a icon-hidden" target="_blank">
           <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="別ウィンドウで開く">
-          <span class="c-link-a__text">http://www.m-mic.co.jp/</span>
+          <span class="c-link-a__text">__RH_BASE__/</span>
         </a>
       </td>
     </tr>
@@ -1281,7 +1281,7 @@ In fiscal 2018, we conducted two unannounced audits of suppliers with coating pr
 
 <div class="c-link-a-list c-link-a-list--column">
   <div class="c-link-a-list__inner">
-    <a href="https://www.ricoh-europe.com/modern-slavery-act/" class="c-link-a icon-hidden" target="_blank">
+    <a href="__RH_BASE__/" class="c-link-a icon-hidden" target="_blank">
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="別ウィンドウで開く">
       <span class="c-link-a__text">Ricoh Europe Holdings PLC 「Modern Slavery Act Transparency Statement」</span>
     </a>
@@ -1325,7 +1325,7 @@ In fiscal 2018, we conducted two unannounced audits of suppliers with coating pr
 <div class="c-link-a-list">
   <div class="c-link-a-list__inner">
     <p>
-      <a href="https://www.ricoh-usa.com/en/about-us/social/supplier-diversity-program" class="c-link-a icon-hidden" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden" target="_blank">
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="別ウィンドウで開く">
       <span class="c-link-a__text">Supplier Inclusion Program</span></a> Ricoh USA
     </p>
@@ -1477,7 +1477,7 @@ In fiscal 2018, we conducted two unannounced audits of suppliers with coating pr
 
 <div class="c-link-a-list">
   <div class="c-link-a-list__inner">
-    <a href="https://www.responsiblemineralsinitiative.org/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+    <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="別ウィンドウで開く">
       <span class="c-link-a__text">Responsible Minerals Initiative</span>
     </a>
@@ -1498,7 +1498,7 @@ In fiscal 2018, we conducted two unannounced audits of suppliers with coating pr
 
 <div class="c-link-a-list">
   <div class="c-link-a-list__inner">
-    <a href="https://www.jeita.or.jp/english/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+    <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="別ウィンドウで開く">
       <span class="c-link-a__text">Japan Electronics and Information Technology Industries Association</span>
     </a>
@@ -1678,14 +1678,14 @@ In fiscal 2018, we conducted two unannounced audits of suppliers with coating pr
 <div class="u-dsp-f u-fl-dire-col">
   <div>
     RMI:
-    <a href="https://www.responsiblemineralsinitiative.org/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+    <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="別ウィンドウで開く">
       <span class="c-link-a__text">Responsible Minerals Initiatives（RMI）</span>
     </a>
   </div>
   <div>
     JEITA:
-    <a href="https://www.jeita.or.jp/japanese/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+    <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="別ウィンドウで開く">
       <span class="c-link-a__text">Japan Electronics and Information Technology Industries Association（JEITA）</span>
     </a>
@@ -1976,7 +1976,7 @@ In fiscal 2018, we conducted two unannounced audits of suppliers with coating pr
 </div>
 
 <div class="u-mt-24">
-  <a href="https://webform.ricoh.com/form/pub/e00140/supplier-hotline-en" class="c-button-a c-button-a--white c-button-a--mail c-button-a--iconBlack">
+  <a href="__RH_BASE__/" class="c-button-a c-button-a--white c-button-a--mail c-button-a--iconBlack">
     <span class="c-button-a__text">I agree with the above</span>
   </a>
 </div>

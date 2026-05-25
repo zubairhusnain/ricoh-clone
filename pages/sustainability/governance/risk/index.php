@@ -28,10 +28,10 @@ rh_start_output_rewrite();
 <title>Risk Management / Governance / Sustainability | Global | Ricoh</title>
     <meta name="Description" content="[Ricoh Global Official Website] [Ricoh Global Official Website] The Ricoh Group implements risk management in order to accurately respond to risks that may give serious adverse impact on corporate activities of Ricoh.">
 <meta property="og:title" content="Risk Management / Governance / Sustainability | Global | Ricoh">
-    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Sites/co_jp/products/human-resources-management/img/thumbnail.png?rev=11eef36191b44830a6664c2a995413bc&amp;hash=83D9A50CEBF15C19C0363B725E31FF24">
+    <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Sites/co_jp/products/human-resources-management/img/thumbnail.png?rev=11eef36191b44830a6664c2a995413bc&hash=83D9A50CEBF15C19C0363B725E31FF24">
     <meta property="og:type" content="website">
     <meta property="og:description" content="[Ricoh Global Official Website] The Ricoh Group implements risk management in order to accurately respond to risks that may give serious adverse impact on corporate activities of Ricoh.">
-<meta property="og:url" content="https://www.ricoh.com/sustainability/governance/risk">
+<meta property="og:url" content="__RH_BASE__/sustainability/governance/risk">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 

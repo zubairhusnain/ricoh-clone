@@ -30,10 +30,10 @@ rh_start_output_rewrite();
 <title>Ricoh Global Newsroom | Global | Ricoh</title>
     <meta name="Description" content="[Ricoh Global Official Website] View Ricoh's latest news releases and information. ">
 <meta property="og:title" content="Ricoh Global Newsroom | Global | Ricoh">
-    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v2/img/og-image.webp?rev=7e86d18b46a34013aca99a6010169ae6&amp;hash=1EB367AFA6F6492166792EBF174FE7CF">
+    <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/img/og-image.webp?rev=7e86d18b46a34013aca99a6010169ae6&hash=1EB367AFA6F6492166792EBF174FE7CF">
     <meta property="og:type" content="website">
     <meta property="og:description" content="View Ricoh's latest news releases and information. ">
-<meta property="og:url" content="https://www.ricoh.com/news">
+<meta property="og:url" content="__RH_BASE__/news">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 
@@ -228,7 +228,7 @@ rh_start_output_rewrite();
 						</a>
 					</div>
 					<div class="c-linkCard__item">
-						<a href="https://news.ricoh-imaging.co.jp/rim_info2/2026/20260515_041987.html" target="_blank" class="c-linkCard__link icon-hidden">
+						<a href="__RH_BASE__/" target="_blank" class="c-linkCard__link icon-hidden">
 								<div class="c-linkCard__text">
 									<div class="c-h4-a">
 										<div class="c-h4-a__text c-linkCard__hoverRed">【Ricoh Imaging】RICOH GR IV Monochrome wins Camera GP 2026 Editors Choice TECHNOLOGY Award</div>
@@ -285,7 +285,7 @@ rh_start_output_rewrite();
 						</a>
 					</div>
 					<div class="c-linkCard__item">
-						<a href="https://news.ricoh-imaging.co.jp/rim_info2/2026/20260417_041906.html" target="_blank" class="c-linkCard__link icon-hidden">
+						<a href="__RH_BASE__/" target="_blank" class="c-linkCard__link icon-hidden">
 								<div class="c-linkCard__text">
 									<div class="c-h4-a">
 										<div class="c-h4-a__text c-linkCard__hoverRed">【Ricoh Imaging】RICOH GR IV Wins “BEST APS-C COMPACT CAMERA” at 2026 TIPA Photo &amp; Imaging Awards</div>
@@ -304,7 +304,7 @@ rh_start_output_rewrite();
 						</a>
 					</div>
 					<div class="c-linkCard__item">
-						<a href="https://news.ricoh-imaging.co.jp/rim_info2/2026/20260417_041911.html" target="_blank" class="c-linkCard__link icon-hidden">
+						<a href="__RH_BASE__/" target="_blank" class="c-linkCard__link icon-hidden">
 								<div class="c-linkCard__text">
 									<div class="c-h4-a">
 										<div class="c-h4-a__text c-linkCard__hoverRed">【Ricoh Imaging】Announcement Regarding the 30th Anniversary of the RICOH GR Series — Commemorative message and anniversary logo marking the 30th anniversary —</div>
@@ -611,7 +611,7 @@ rh_start_output_rewrite();
       </a>
       <!-- item4 ここまで -->
       <!-- item5 ここから -->
-      <a href="http://blog.ricoh.com/risb-en/" class="c-linkTile__item icon-hidden">
+      <a href="__RH_BASE__/" class="c-linkTile__item icon-hidden">
         <div class="c-linkTile__content">
           <div class="c-linkTile__heading">
             <div class="c-text-a c-text-a--thin">
@@ -654,7 +654,7 @@ rh_start_output_rewrite();
 <div class="c-linkTile c-linkTile--col3">
     <div class="c-linkTile__inner">
       <!-- item1 ここから -->
-      <a href="https://newsroom.ricoh-usa.com/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+      <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
         <div class="c-linkTile__content">
           <div class="c-linkTile__heading">
             <div class="c-text-a c-text-a--thin">
@@ -667,7 +667,7 @@ rh_start_output_rewrite();
       <!-- item1 ここまで -->
    
       <!-- item3 ここから -->
-      <a href="https://www.ricoh-americalatina.com/en/newsroom" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+      <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
         <div class="c-linkTile__content">
           <div class="c-linkTile__heading">
             <div class="c-text-a c-text-a--thin">
@@ -679,7 +679,7 @@ rh_start_output_rewrite();
       </a>
       <!-- item3 ここまで -->
       <!-- item4 ここから -->
-      <a href="https://www.ricoh-europe.com/news-events" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+      <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
         <div class="c-linkTile__content">
           <div class="c-linkTile__heading">
             <div class="c-text-a c-text-a--thin">
@@ -691,7 +691,7 @@ rh_start_output_rewrite();
       </a>
       <!-- item4 ここまで -->
       <!-- item5 ここから -->
-      <a href="https://www.ricoh-ap.com/news" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
+      <a href="__RH_BASE__/" class="c-linkTile__item c-linkTile__item--noImage icon-hidden">
         <div class="c-linkTile__content">
           <div class="c-linkTile__heading">
             <div class="c-text-a c-text-a--thin">
@@ -742,7 +742,7 @@ rh_start_output_rewrite();
     </div>
     <!-- ボタンエリア ここから -->
     <div class="c-conv__button">
-    <a href="https://www.linkedin.com/company/ricohgroup" class="c-button-a c-button-a--red c-button-a--arrow c-button-a--arrow c-button-a--iconWhite icon-hidden">
+    <a href="__RH_BASE__/" class="c-button-a c-button-a--red c-button-a--arrow c-button-a--arrow c-button-a--iconWhite icon-hidden">
         <span class="c-button-a__text">LinkedIn</span>
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg" alt="">
     </a>

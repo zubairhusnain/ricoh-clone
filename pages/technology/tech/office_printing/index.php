@@ -28,10 +28,10 @@ rh_start_output_rewrite();
 <title>Technology by product type - Office Printing | Global | Ricoh</title>
     <meta name="Description" content="[Ricoh Global Official Website] Imaging equipment including MFPs, printers">
 <meta property="og:title" content="Technology by product type - Office Printing | Global | Ricoh">
-    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&amp;hash=9DB561AD22E96D26590C1574F15A7B50">
+    <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&hash=9DB561AD22E96D26590C1574F15A7B50">
     <meta property="og:type" content="website">
     <meta property="og:description" content="Imaging equipment including MFPs, printers">
-<meta property="og:url" content="https://www.ricoh.com/technology/tech/office_printing">
+<meta property="og:url" content="__RH_BASE__/technology/tech/office_printing">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 

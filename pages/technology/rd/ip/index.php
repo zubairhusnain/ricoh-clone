@@ -28,10 +28,10 @@ rh_start_output_rewrite();
 <title>Initiatives in Intellectual Property | Global | Ricoh</title>
     <meta name="Description" content="[Ricoh Global Official Website] The Ricoh Group sees intellectual property, the fruits of technical development, as an important management asset. We work to acquire and exploit intellectual property to develop and protect our business, while encouraging the creation of valuable intellectual property based on a business strategy and a technological strategy.">
 <meta property="og:title" content="Initiatives in Intellectual Property | Global | Ricoh">
-    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&amp;hash=9DB561AD22E96D26590C1574F15A7B50">
+    <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&hash=9DB561AD22E96D26590C1574F15A7B50">
     <meta property="og:type" content="website">
     <meta property="og:description" content="The Ricoh Group sees intellectual property, the fruits of technical development, as an important management asset. We work to acquire and exploit intellectual property to develop and protect our business, while encouraging the creation of valuable intellectual property based on a business strategy and a technological strategy.">
-<meta property="og:url" content="https://www.ricoh.com/technology/rd/ip">
+<meta property="og:url" content="__RH_BASE__/technology/rd/ip">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 

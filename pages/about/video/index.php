@@ -27,9 +27,9 @@ rh_start_output_rewrite();
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>Corporate Videos, Corporate Publications | Global | Ricoh</title>
 <meta property="og:title" content="Corporate Videos, Corporate Publications | Global | Ricoh">
-    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&amp;hash=9DB561AD22E96D26590C1574F15A7B50">
+    <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&hash=9DB561AD22E96D26590C1574F15A7B50">
     <meta property="og:type" content="website">
-<meta property="og:url" content="https://www.ricoh.com/about/video">
+<meta property="og:url" content="__RH_BASE__/about/video">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 
@@ -301,7 +301,7 @@ rh_start_output_rewrite();
                                 
                                     <div class="c-linkCard__image">
                                             <div class="c-linkCard__imageInner c-linkCard__imageInner--noRatio">
-                                                <a href="https://www.youtube.com/watch?v=w7hW8LROhHk" class="c-linkCard__movie youtube_modal_video_temp icon-hidden">
+                                                <a href="__RH_BASE__/" class="c-linkCard__movie youtube_modal_video_temp icon-hidden">
                                                     <img alt="" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/about/video/img/ad-search/w7hW8LROhHk.png">
                                                     <img class="c-linkCard__iconImage" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/icon_play.png" alt="Play Video">
                                                 </a>
@@ -321,7 +321,7 @@ rh_start_output_rewrite();
                                     
                                         <div class="c-linkCard__image">
                                                 <div class="c-linkCard__imageInner c-linkCard__imageInner--noRatio">
-                                                    <a href="https://www.youtube.com/watch?v=VfhrXyAPAko" class="c-linkCard__movie youtube_modal_video_temp icon-hidden">
+                                                    <a href="__RH_BASE__/" class="c-linkCard__movie youtube_modal_video_temp icon-hidden">
                                                         <img alt="" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/about/video/img/ad-search/global-17.png">
                                                         <img class="c-linkCard__iconImage" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/icon_play.png" alt="Play Video">
                                                     </a>
@@ -341,7 +341,7 @@ rh_start_output_rewrite();
                                     
                                         <div class="c-linkCard__image">
                                                 <div class="c-linkCard__imageInner c-linkCard__imageInner--noRatio">
-                                                    <a href="https://www.youtube.com/watch?v=qVN0vLK-WMs" class="c-linkCard__movie youtube_modal_video_temp icon-hidden">
+                                                    <a href="__RH_BASE__/" class="c-linkCard__movie youtube_modal_video_temp icon-hidden">
                                                         <img alt="" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/about/video/img/ad-search/qVN0vLK-WMs.jpg">
                                                         <img class="c-linkCard__iconImage" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/icon_play.png" alt="Play Video">
                                                     </a>
@@ -378,7 +378,7 @@ rh_start_output_rewrite();
                                 
                                     <div class="c-linkCard__image">
                                             <div class="c-linkCard__imageInner c-linkCard__imageInner--noRatio">
-                                                <a href="https://www.youtube.com/watch?v=n-L8WyOk5Jk" class="c-linkCard__movie youtube_modal_video_temp icon-hidden">
+                                                <a href="__RH_BASE__/" class="c-linkCard__movie youtube_modal_video_temp icon-hidden">
                                                     <img alt="" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/about/video/img/ad-search/n-L8WyOk5Jk.jpg">
                                                     <img class="c-linkCard__iconImage" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/icon_play.png" alt="Play Video">
                                                 </a>
@@ -398,7 +398,7 @@ rh_start_output_rewrite();
                                     
                                         <div class="c-linkCard__image">
                                                 <div class="c-linkCard__imageInner c-linkCard__imageInner--noRatio">
-                                                    <a href="https://www.youtube.com/watch?v=TA5i3laQCUA" class="c-linkCard__movie youtube_modal_video_temp icon-hidden">
+                                                    <a href="__RH_BASE__/" class="c-linkCard__movie youtube_modal_video_temp icon-hidden">
                                                         <img alt="" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/about/video/img/ad-search/TA5i3laQCUA.jpg">
                                                         <img class="c-linkCard__iconImage" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/icon_play.png" alt="Play Video">
                                                     </a>
@@ -517,7 +517,7 @@ rh_start_output_rewrite();
 <div class="c-text-a">
   <p class="c-text-a__text">Please request by the application form below.</p>
 </div>
-<a href="https://webform.ricoh.com/form/pub/e00087/report_global" class="c-button-a c-button-a--red c-button-a--arrow c-button-a--iconWhite icon-hidden c-button-a--wide">
+<a href="__RH_BASE__/" class="c-button-a c-button-a--red c-button-a--arrow c-button-a--iconWhite icon-hidden c-button-a--wide">
   <span class="c-button-a__text">Request for Corporate Publications</span>
   <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg" alt="">
 </a>

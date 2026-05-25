@@ -28,10 +28,10 @@ rh_start_output_rewrite();
 <title>Corporate Governance | Global | Ricoh</title>
     <meta name="Description" content="[Ricoh Global Official Website] The Ricoh Group has also introduced a corporate audit system, in which audit and supervisory board members strengthen the effectiveness of audits and the monitoring of top management, while the Board of Directors, including outside directors, maintains strict oversight over the decision-making process to make sure it is always transparent and fair.">
 <meta property="og:title" content="Corporate Governance | Global | Ricoh">
-    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/og-image-ricoh-1300.webp?rev=ff04530da840421690b856489416c335&amp;hash=F5264CBCD0C18162145DC778B9A01D2F">
+    <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/og-image-ricoh-1300.webp?rev=ff04530da840421690b856489416c335&hash=F5264CBCD0C18162145DC778B9A01D2F">
     <meta property="og:type" content="website">
     <meta property="og:description" content="The Ricoh Group has also introduced a corporate audit system, in which audit and supervisory board members strengthen the effectiveness of audits and the monitoring of top management, while the Board of Directors, including outside directors, maintains strict oversight over the decision-making process to make sure it is always transparent and fair.">
-<meta property="og:url" content="https://www.ricoh.com/sustainability/governance/governance">
+<meta property="og:url" content="__RH_BASE__/sustainability/governance/governance">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 

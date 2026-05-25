@@ -29,10 +29,10 @@ rh_start_output_rewrite();
     <meta name="Description" content="[Ricoh Global Official Website] [Ricoh Global Official Website] To effectively communicate its corporate stance and business activities, the Ricoh Group introduces a combined report covering on economy, society, and the environment.">
     <meta name="Keywords" content="ricoh,RICOH,Ricoh,Company Profile,sustainability,IR,Environmental Management,CSR,integrated report,richo">
 <meta property="og:title" content="Report Download | Global | Ricoh">
-    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&amp;hash=9DB561AD22E96D26590C1574F15A7B50">
+    <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&hash=9DB561AD22E96D26590C1574F15A7B50">
     <meta property="og:type" content="website">
     <meta property="og:description" content="[Ricoh Global Official Website] To effectively communicate its corporate stance and business activities, the Ricoh Group introduces a combined report covering on economy, society, and the environment.">
-<meta property="og:url" content="https://www.ricoh.com/about/integrated-report/download">
+<meta property="og:url" content="__RH_BASE__/about/integrated-report/download">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 
@@ -355,12 +355,12 @@ rh_start_output_rewrite();
 
 <div class="report_download__inner">
 	<div>	
-		<a href="https://webform.ricoh.com/form/pub/e00088/integrated-report_en" class="c-link-a" target="_blank">
+		<a href="__RH_BASE__/" class="c-link-a" target="_blank">
 			<span class="c-link-a__text">Ricoh Group Integrated Report Inquiry</span>
 		</a> 
 	</div>
 	<div>
-		<a href="https://webform.ricoh.com/form/pub/e00087/report_global" class="c-link-a" target="_blank">
+		<a href="__RH_BASE__/" class="c-link-a" target="_blank">
 			<span class="c-link-a__text">Request for Corporate Publications</span>
 		</a> 
 	</div>
@@ -368,7 +368,7 @@ rh_start_output_rewrite();
 
 <div class="report_download__inner">
 	<div class="c-link-b-list__inner">
-		<a href="https://webform.ricoh.com/form/pub/e00087/questionnaire_en" class="c-link-b" target="_blank">
+		<a href="__RH_BASE__/" class="c-link-b" target="_blank">
 			<span class="c-link-b__text">Request for response to questionnaire</span>
 		</a>
 	</div>
@@ -2430,7 +2430,7 @@ rh_start_output_rewrite();
 					</a> 
 				</div>
 				<div>	
-			 		<a href="https://jp.ricoh.com/about/integrated-report/download" class="c-link-a   c-link-a--blank">
+			 		<a href="__RH_BASE__/" class="c-link-a   c-link-a--blank">
 			 			<span class="c-link-a__text">Japanese</span>
 			 		</a>
 				</div>
@@ -2450,7 +2450,7 @@ rh_start_output_rewrite();
 					</a> 
 				</div>
 				<div>	
-			 		<a href="https://jp.ricoh.com/about/integrated-report/download#back_number" class="c-link-a   c-link-a--blank">
+			 		<a href="__RH_BASE__/" class="c-link-a   c-link-a--blank">
 			 			<span class="c-link-a__text">Japanese</span>
 			 		</a>
 				</div>
@@ -2470,7 +2470,7 @@ rh_start_output_rewrite();
 					</a> 
 				</div>
 				<div>	
-			 		<a href="https://jp.ricoh.com/about/integrated-report/download#back_number" class="c-link-a   c-link-a--blank">
+			 		<a href="__RH_BASE__/" class="c-link-a   c-link-a--blank">
 			 			<span class="c-link-a__text">Japanese</span>
 			 		</a>
 				</div>
@@ -2491,7 +2491,7 @@ rh_start_output_rewrite();
 					</a> 
 				</div>
 				<div>	
-			 		<a href="https://jp.ricoh.com/about/integrated-report/download#back_number" class="c-link-a   c-link-a--blank">
+			 		<a href="__RH_BASE__/" class="c-link-a   c-link-a--blank">
 			 			<span class="c-link-a__text">Japanese</span>
 			 		</a>
 				</div>
@@ -2512,7 +2512,7 @@ rh_start_output_rewrite();
 					</a> 
 				</div>
 				<div>	
-			 		<a href="https://jp.ricoh.com/about/integrated-report/download#back_number" class="c-link-a   c-link-a--blank">
+			 		<a href="__RH_BASE__/" class="c-link-a   c-link-a--blank">
 			 			<span class="c-link-a__text">Japanese</span>
 			 		</a>
 				</div>
@@ -2533,7 +2533,7 @@ rh_start_output_rewrite();
 					</a> 
 				</div>
 				<div>	
-			 		<a href="https://jp.ricoh.com/about/integrated-report/download#back_number" class="c-link-a   c-link-a--blank">
+			 		<a href="__RH_BASE__/" class="c-link-a   c-link-a--blank">
 			 			<span class="c-link-a__text">Japanese</span>
 			 		</a>
 				</div>
@@ -2554,7 +2554,7 @@ rh_start_output_rewrite();
 					</a> 
 				</div>
 				<div>	
-			 		<a href="https://jp.ricoh.com/about/integrated-report/download#back_number" class="c-link-a   c-link-a--blank">
+			 		<a href="__RH_BASE__/" class="c-link-a   c-link-a--blank">
 			 			<span class="c-link-a__text">Japanese</span>
 			 		</a>
 				</div>

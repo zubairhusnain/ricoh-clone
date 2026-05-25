@@ -28,10 +28,10 @@ rh_start_output_rewrite();
 <title>Governance | Global | Ricoh</title>
     <meta name="Description" content="[Ricoh Global Official Website] The Ricoh Group established The RICOH Way as a set of guiding principles and values that serves as the foundation for all our business activities. Abiding by these principles in corporate ethics and compliance and maintaining transparency in management, we continuously strive to improve our governance, and in doing so ultimately enhance our corporate value.">
 <meta property="og:title" content="Governance | Global | Ricoh">
-    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&amp;hash=9DB561AD22E96D26590C1574F15A7B50">
+    <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&hash=9DB561AD22E96D26590C1574F15A7B50">
     <meta property="og:type" content="website">
     <meta property="og:description" content="The Ricoh Group established The RICOH Way as a set of guiding principles and values that serves as the foundation for all our business activities. Abiding by these principles in corporate ethics and compliance and maintaining transparency in management, we continuously strive to improve our governance, and in doing so ultimately enhance our corporate value.">
-<meta property="og:url" content="https://www.ricoh.com/sustainability/governance">
+<meta property="og:url" content="__RH_BASE__/sustainability/governance">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 

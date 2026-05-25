@@ -29,9 +29,9 @@ rh_start_output_rewrite();
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>Announcement Regarding Share Repurchase and Retirement of Treasury Shares | Global | Ricoh</title>
 <meta property="og:title" content="Announcement Regarding Share Repurchase and Retirement of Treasury Shares | Global | Ricoh">
-    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Sites/jp_ricoh/news/img/shares.webp?rev=e860b79ad502485a90c30d0373fd41c8&amp;hash=C6A470B74432C9F3D87BC1EF7D78ED85">
+    <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Sites/jp_ricoh/news/img/shares.webp?rev=e860b79ad502485a90c30d0373fd41c8&hash=C6A470B74432C9F3D87BC1EF7D78ED85">
     <meta property="og:type" content="website">
-<meta property="og:url" content="https://www.ricoh.com/release/2026/0512_1">
+<meta property="og:url" content="__RH_BASE__/release/2026/0512_1">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 

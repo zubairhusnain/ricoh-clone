@@ -28,10 +28,10 @@ rh_start_output_rewrite();
 <title>Careers | Global | Ricoh</title>
     <meta name="Description" content="[Ricoh Global Official Website] What's it like working at Ricoh? We are helping people work smarter.">
 <meta property="og:title" content="Careers | Global | Ricoh">
-    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&amp;hash=9DB561AD22E96D26590C1574F15A7B50">
+    <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&hash=9DB561AD22E96D26590C1574F15A7B50">
     <meta property="og:type" content="website">
     <meta property="og:description" content="What's it like working at Ricoh? We are helping people work smarter.">
-<meta property="og:url" content="https://www.ricoh.com/about/jobs">
+<meta property="og:url" content="__RH_BASE__/about/jobs">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 
@@ -324,19 +324,19 @@ rh_start_output_rewrite();
                                 <div class="c-linkColumn c-linkColumn--col3"><!-- c-linkColumn--colXの数字を1-5で変更することで、カラム数を1-5カラムで設定することがきます。 -->
   <div class="c-linkColumn__inner">
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh-usa.com/en/about-us/careers" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">USA</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh.ca/en-CA/about-us/careers" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Canada - English</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh.ca/fr-CA/%C3%A0-propos-de-nous/carri%C3%A8res" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Canada - Francais</span>
       </a>
@@ -370,79 +370,79 @@ rh_start_output_rewrite();
                                 <div class="c-linkColumn c-linkColumn--col3"><!-- c-linkColumn--colXの数字を1-5で変更することで、カラム数を1-5カラムで設定することがきます。 -->
   <div class="c-linkColumn__inner">
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh-americalatina.com/es-ar/acerca-de-ricoh/empleos" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Argentina - Español</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh-americalatina.com/pt-br/sobre-a-ricoh/carreiras" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Brasil - Português</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh-americalatina.com/es-cl/acerca-de-ricoh/empleos" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Chile - Español</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh-americalatina.com/es-co/acerca-de-ricoh/empleos" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Colombia - Español</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh-americalatina.com/es-cr/acerca-de-ricoh/empleos" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Costa Rica - Español</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh-americalatina.com/es-do/acerca-de-ricoh/empleos" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Dominican Republic - Español</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh-americalatina.com/es-sv/acerca-de-ricoh/empleos" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">El Salvador - Español</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh-americalatina.com/es-gt/acerca-de-ricoh/empleos" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Guatemala - Español</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh-americalatina.com/es-mx/acerca-de-ricoh/empleos" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Mexico - Español</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh-americalatina.com/es-pa/acerca-de-ricoh/empleos" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Panama - Español</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh-americalatina.com/es-pe/acerca-de-ricoh/empleos" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Peru - Español</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh-americalatina.com/es-pr/acerca-de-ricoh/empleos" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Puerto Rico - Español</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh-americalatina.com/es-uy/acerca-de-ricoh/empleos" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Uruguay - Español</span>
       </a>
@@ -476,157 +476,157 @@ rh_start_output_rewrite();
                                 <div class="c-linkColumn c-linkColumn--col3"><!-- c-linkColumn--colXの数字を1-5で変更することで、カラム数を1-5カラムで設定することがきます。 -->
   <div class="c-linkColumn__inner">
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh.at/ueber-ricoh/karriere" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Austria - Deutsch</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh.be/fr/a-propos-de-nous/carrieres" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Belgium - Français</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh.be/nl/over-ons/carrieres" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Belgium - Nederlands</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh.dk/om-os/karriere" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Denmark - Dansk</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh.fi/tietoja-meista/tyopaikat/uramahdollisuudet" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Finland - Suomi</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh.fr/a-propos-de-nous/carrieres" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">France - Français</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh.de/ueber-ricoh/jobs-karriere" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Germany - Deutsch</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh.hu/rolunk/allaslehetosegek" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Hungary - Magyar</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh.ie/about-us/careers" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Ireland - English</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh.it/chi-siamo/lavora-con-noi" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Italy - Italiano</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh.lu/a-propos-de-nous/carrieres" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Luxembourg - Français</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh-me.com/en" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Middle East - English</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.werkenbijricoh.nl" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Netherlands - Nederlands</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh.no/om-oss/karriere" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Norway - Norsk</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh.pl/o-nas/kariera" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Poland - Polski</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh.pt/quem-somos/carreiras" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Portugal - Português</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh.ru/about-us/careers/index.html" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Russia - Русский язык</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh.co.za/about-us/careers" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">South Africa - English</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh.es/acerca-nosotros/empleo" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Spain - Español</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh.se/om-oss/karriar" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Sweden - Svenska</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh.ch/de/ueber-ricoh/karriere" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Switzerland - Deutsch</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh.ch/fr/a-propos-de-nous/carrieres" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Switzerland - Français</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh.ch/it/chi-siamo/lavoro-con-noi" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Switzerland - Italiano</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh.ch/en/about-us/careers" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Switzerland - English</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh.com.tr/hakkimizda/kariyerler" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Turkey - Türkçe</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh.co.uk/about-us/careers" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">UK - English</span>
       </a>
@@ -649,7 +649,7 @@ rh_start_output_rewrite();
 </div>
 <div class="c-link-a-list u-mt-0">
   <div class="c-link-a-list__inner">
-    <a href="https://www.ricoh-europe.com/about-us/careers" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+    <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
       <span class="c-link-a__text">Ricoh Europe - English</span>
     </a>
@@ -675,73 +675,73 @@ rh_start_output_rewrite();
                                 <div class="c-linkColumn c-linkColumn--col3"><!-- c-linkColumn--colXの数字を1-5で変更することで、カラム数を1-5カラムで設定することがきます。 -->
   <div class="c-linkColumn__inner">
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh.com.au/about-ricoh/careers" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Australia - English</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh.com.cn/about/joinus" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">China - 中文</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh.com.hk/en/about-ricoh/careers" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Hong Kong - English</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh.com.hk/zh-HK/about-ricoh/careers" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Hong Kong - Chinese</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh.com.my/about-ricoh/careers" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Malaysia - English</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh.co.nz/about-ricoh/careers" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">New Zealand - English</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh.com.ph/about-ricoh" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Philippines - English</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh.com.vn/about-ricoh/careers" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Vietnam - tiếng việt</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh.sg/about-ricoh/careers" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Singapore - English</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh-korea.co.kr/about-ricoh/careers" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">South Korea - 한글</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh.com.tw/about-ricoh/careers" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Taiwan - 中文</span>
       </a>
     </div>
     <div class="c-linkColumn__item">
-      <a href="https://www.ricoh.co.th/th-TH/about-ricoh/careers" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Thailand - ภาษาไทย</span>
       </a>
@@ -764,7 +764,7 @@ rh_start_output_rewrite();
 </div>
 <div class="c-link-a-list u-mt-0">
   <div class="c-link-a-list__inner">
-    <a href="https://careers.ricoh-ap.com/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+    <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
       <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
       <span class="c-link-a__text">Ricoh Asia Pacific - English</span>
     </a>
@@ -790,7 +790,7 @@ rh_start_output_rewrite();
                                 <div class="c-linkColumn c-linkColumn--col3"><!-- c-linkColumn--colXの数字を1-5で変更することで、カラム数を1-5カラムで設定することがきます。 -->
   <div class="c-linkColumn__inner">
     <div class="c-linkColumn__item">
-      <a href="https://jp.ricoh.com/jobs" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
+      <a href="__RH_BASE__/" class="c-link-a icon-hidden c-link-a--blank" target="_blank">
         <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
         <span class="c-link-a__text">Japan - 日本語</span>
       </a>

@@ -3,16 +3,16 @@ declare(strict_types=1);
 require_once __DIR__ . '/base-url.php';
 rh_start_output_rewrite();
 ?>
-<!DOCTYPE html><html lang="EN" class="js-on"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+<!DOCTYPE html><html lang="EN" class="js-on"><head>
     <meta charset="utf-8">
     <title>Ricoh Global | Fulfillment through Work</title>
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <meta name="format-detection" content="telephone=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">                    <meta name="description" content="[Ricoh Global Official Website] At Ricoh, we empower individuals to find Fulfillment through Work by understanding and transforming how people work so we can unleash their potential and creativity to realize a sustainable future">
             <meta property="og:title" content="Ricoh Global">
-            <meta property="og:image" content="https://www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/img/og-image.webp">
+            <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/img/og-image.webp">
                 <meta property="og:description" content="[Ricoh Global Official Website] At Ricoh, we empower individuals to find Fulfillment through Work by understanding and transforming how people work so we can unleash their potential and creativity to realize a sustainable future">
-            <meta property="og:url" content="https://www.ricoh.com/">
+            <meta property="og:url" content="__RH_BASE__//">
                 <meta property="og:country-name" content="Global">
                     <link rel="canonical" href="./">
     <!-- START ICONFILE -->
@@ -235,7 +235,7 @@ text-decoration: none;
                                         </a>
                                     </div>
                                     <div class="c-linkCard__item">
-                                        <a href="https://project.nikkeibp.co.jp/ESG/atcl/eng/sdgf/99/" target="_blank" class="c-linkCard__link icon-hidden">
+                                        <a href="__RH_BASE__/" target="_blank" class="c-linkCard__link icon-hidden">
                                                 <div class="c-linkCard__text">
                                                     <div class="c-h4-a">
                                                         <div class="c-h4-a__text c-linkCard__hoverRed">Ricoh Deepens AI Collaborations to Strengthen Individuals, Businesses</div>
@@ -346,7 +346,7 @@ text-decoration: none;
 							</div>
 													<img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
 					</a>
-					<a href="https://news.ricoh-imaging.co.jp/rim_info2/2026/20260515_041987.html" target="_blank" class="c-news__item c-news__item--tag icon-hidden">
+					<a href="__RH_BASE__/" target="_blank" class="c-news__item c-news__item--tag icon-hidden">
 							<div class="c-news__date">
 								<div class="c-text-a">
 									<div class="c-text-a__text u-font-bold">2026.05.15</div>
@@ -394,7 +394,7 @@ text-decoration: none;
 							</div>
 													<img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
 					</a>
-					<a href="https://news.ricoh-imaging.co.jp/rim_info2/2026/20260417_041906.html" target="_blank" class="c-news__item c-news__item--tag icon-hidden">
+					<a href="__RH_BASE__/" target="_blank" class="c-news__item c-news__item--tag icon-hidden">
 							<div class="c-news__date">
 								<div class="c-text-a">
 									<div class="c-text-a__text u-font-bold">2026.04.17</div>

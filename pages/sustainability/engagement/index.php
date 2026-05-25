@@ -28,10 +28,10 @@ rh_start_output_rewrite();
 <title>Stakeholder engagement  | Global | Ricoh</title>
     <meta name="Description" content="[Ricoh Global Official Website] [Ricoh Global Official Website] We also collaborate with NPOs, NGOs and other social sector organizations in planning ways to solve social issues.">
 <meta property="og:title" content="Stakeholder engagement  | Global | Ricoh">
-    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&amp;hash=9DB561AD22E96D26590C1574F15A7B50">
+    <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&hash=9DB561AD22E96D26590C1574F15A7B50">
     <meta property="og:type" content="website">
     <meta property="og:description" content="[Ricoh Global Official Website] We also collaborate with NPOs, NGOs and other social sector organizations in planning ways to solve social issues.">
-<meta property="og:url" content="https://www.ricoh.com/sustainability/engagement">
+<meta property="og:url" content="__RH_BASE__/sustainability/engagement">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 
@@ -756,7 +756,7 @@ rh_start_output_rewrite();
           FY2023
         </th>
         <td>
-          <a class="c-link-a icon-hidden" href="https://blog.ricoh.co.jp/sustainability/2023/0526_031589.html?_ga=2.7347954.1338910997.1711324248-1974776830.1709625434&amp;_gl=1*8xyzq6*_ga*MTk3NDc3NjgzMC4xNzA5NjI1NDM0*_ga_1W7QW96RNV*MTcxMTM1MTUzMy4zMDkuMS4xNzExMzUzMTQ1LjAuMC4w*_ga_NQ01T89XSX*MTcxMTM1MTUzMy4zMzEuMS4xNzExMzUzMTQ1LjAuMC4w"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt=""><span class="c-link-a__text">Digital Support Program for Young People Dialogue with
+          <a class="c-link-a icon-hidden" href="__RH_BASE__/"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt=""><span class="c-link-a__text">Digital Support Program for Young People Dialogue with
               experts(Japanese)</span>
           </a>
         </td>
@@ -764,7 +764,7 @@ rh_start_output_rewrite();
       <tr>
         <td>
           Stakeholder engagement program sponsored by the Caux Roundtable Japan Committee.<br>
-          <a class="c-link-a c-link-a--blank icon-hidden" target="_blank" href="https://crt-japan.jp/en/2024/01/26/2023-human-rights-issues-by-sector/"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window"><span class="c-link-a__text">Final Report ”Human Rights Issues by Sector
+          <a class="c-link-a c-link-a--blank icon-hidden" target="_blank" href="__RH_BASE__/"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window"><span class="c-link-a__text">Final Report ”Human Rights Issues by Sector
               v.12"</span>
           </a>
         </td>
@@ -774,7 +774,7 @@ rh_start_output_rewrite();
           FY2022
         </th>
         <td>
-          <a class="c-link-a icon-hidden" href="https://blog.ricoh.co.jp/sustainability/2022/0517_031443.html"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt=""><span class="c-link-a__text">Digital Support Program for Young People Dialogue with
+          <a class="c-link-a icon-hidden" href="__RH_BASE__/"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt=""><span class="c-link-a__text">Digital Support Program for Young People Dialogue with
               experts(Japanese)</span>
           </a>
         </td>

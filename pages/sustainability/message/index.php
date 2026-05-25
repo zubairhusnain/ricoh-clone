@@ -28,10 +28,10 @@ rh_start_output_rewrite();
 <title>CEO Message for Sustainability | Global | Ricoh</title>
     <meta name="Description" content="[Ricoh Global Official Website] [Ricoh Global Official Website] The Ricoh Group's mission is to pursue excellence, improving the quality of life and driving sustainability based on the Spirit of Three Loves, a dedication to people, one's country, and a passion for work that constituted the founding principles of Kiyoshi Ichimura.">
 <meta property="og:title" content="CEO Message for Sustainability | Global | Ricoh">
-    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&amp;hash=9DB561AD22E96D26590C1574F15A7B50">
+    <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&hash=9DB561AD22E96D26590C1574F15A7B50">
     <meta property="og:type" content="website">
     <meta property="og:description" content="[Ricoh Global Official Website] The Ricoh Group's mission is to pursue excellence, improving the quality of life and driving sustainability based on the Spirit of Three Loves, a dedication to people, one's country, and a passion for work that constituted the founding principles of Kiyoshi Ichimura.">
-<meta property="og:url" content="https://www.ricoh.com/sustainability/message">
+<meta property="og:url" content="__RH_BASE__/sustainability/message">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 

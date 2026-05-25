@@ -3,7 +3,7 @@ declare(strict_types=1);
 require_once __DIR__ . '/../../../../../base-url.php';
 rh_start_output_rewrite();
 ?>
-<!DOCTYPE html><html lang="EN" class="js-on"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+<!DOCTYPE html><html lang="EN" class="js-on"><head>
 
 <link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/css/template-global-addition2024.css">
 
@@ -13,10 +13,10 @@ rh_start_output_rewrite();
 <meta name="format-detection" content="telephone=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">                    <meta name="description" content="[Ricoh Global Official Website] Ricoh promotes resource conservation by collecting and recycling products and effective use of resources. View our reuse and recycling program.">
             <meta property="og:title" content="Reuse and Recycling Program | Global | Ricoh">
-            <meta property="og:image" content="https://www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/img/og-image.webp">
+            <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/img/og-image.webp">
             <meta property="og:type" content="website">
             <meta property="og:description" content="[Ricoh Global Official Website] Ricoh promotes resource conservation by collecting and recycling products and effective use of resources. View our reuse and recycling program.">
-            <meta property="og:url" content="https://www.ricoh.com/sustainability/environment/product/recycle">
+            <meta property="og:url" content="__RH_BASE__/sustainability/environment/product/recycle">
                 <meta property="og:country-name" content="Global">
             <meta property="twitter:card" content="summary_large_image">
             <meta property="twitter:site" content="@ricoh">
@@ -213,9 +213,9 @@ rh_start_output_rewrite();
               <div class="clm">
               	<p class="fs18"><strong>Programs by product</strong></p>
               	<ul class="mt16">
-            	  	<li><a href="https://jp.ricoh.com/sustainability/environment/product/recycle/" class="ico_nml newwindow" target="_blank" rel="noopener noreferrer">Japan: Recycling Program (Japanese)</a></li>
-        	      	<li><a href="https://www.ricoh-usa.com/en/about-us/corporate-responsibility-and-environmental-sustainability/product-stewardship-and-recycling/" class="ico_nml newwindow" target="_blank" rel="noopener noreferrer">US: Product Stewardship and Recycling/ Take Back Program</a></li>
-	              	<li><a href="https://www.ricoh-return.com/eu/" class="ico_nml newwindow" target="_blank" rel="noopener noreferrer">Europe: Resource Return Program</a></li>
+            	  	<li><a href="__RH_BASE__/" class="ico_nml newwindow" target="_blank" rel="noopener noreferrer">Japan: Recycling Program (Japanese)</a></li>
+        	      	<li><a href="__RH_BASE__/" class="ico_nml newwindow" target="_blank" rel="noopener noreferrer">US: Product Stewardship and Recycling/ Take Back Program</a></li>
+	              	<li><a href="__RH_BASE__/" class="ico_nml newwindow" target="_blank" rel="noopener noreferrer">Europe: Resource Return Program</a></li>
               	</ul>
               </div>
               <!--/clm1-->
@@ -223,7 +223,7 @@ rh_start_output_rewrite();
             <div class="clm1">
               <div class="clm">
               	<ul class="mt16">
-              		<li><a href="https://www.ricoh-return.com/" class="ico_nml newwindow" target="_blank" rel="noopener noreferrer">Resource Smart Recycling</a></li>
+              		<li><a href="__RH_BASE__/" class="ico_nml newwindow" target="_blank" rel="noopener noreferrer">Resource Smart Recycling</a></li>
               	</ul>
               </div>
               <!--/clm1-->

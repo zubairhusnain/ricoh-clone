@@ -30,10 +30,10 @@ rh_start_output_rewrite();
 <title>Country/Area Selector | Global | Ricoh</title>
     <meta name="Description" content="[Ricoh Global Official Website] Please select the country you are looking for.">
 <meta property="og:title" content="Country/Area Selector | Global | Ricoh">
-    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&amp;hash=9DB561AD22E96D26590C1574F15A7B50">
+    <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&hash=9DB561AD22E96D26590C1574F15A7B50">
     <meta property="og:type" content="website">
     <meta property="og:description" content="Please select the country you are looking for.">
-<meta property="og:url" content="https://www.ricoh.com/gateway">
+<meta property="og:url" content="__RH_BASE__/gateway">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 
@@ -163,112 +163,112 @@ rh_start_output_rewrite();
     <div class="c-linkColumn__inner">
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh-americalatina.com/es-ar" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Argentina - Español</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh-americalatina.com/pt-br" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Brazil - Português</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh.ca/en" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Canada - English</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh.ca/fr-ca" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Canada - Français</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh-americalatina.com/es-cl" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Chile - Español</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh-americalatina.com/es-co" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Colombia - Español</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh-americalatina.com/es-cr" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Costa Rica - Español</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh-americalatina.com/es-do" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Dominican Republic - Español</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh-americalatina.com/es-sv" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">El Salvador - Español</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh-americalatina.com/es-gt" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Guatemala - Español</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh-americalatina.com/es-mx" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Mexico - Español</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh-americalatina.com/es-pa" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Panama - Español</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh-americalatina.com/es-pe" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Peru - Español</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh-americalatina.com/es-pr" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Puerto Rico - Español</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh-americalatina.com/es-uy" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Uruguay - Español</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh-usa.com/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">USA - English</span>
             </a>
@@ -303,14 +303,14 @@ rh_start_output_rewrite();
     <div class="c-linkColumn__inner">
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh-americalatina.com/en" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Ricoh Latin America - English</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh-americalatina.com/es" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Ricoh Latin America - Español</span>
             </a>
@@ -338,7 +338,7 @@ rh_start_output_rewrite();
                                 <div class="c-linkColumn c-linkColumn--col4">
     <div class="c-linkColumn__inner">
         <div class="c-linkColumn__item">
-            <a href="https://www.rei.ricoh.com/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Ricoh Electronics, Inc. - English</span>
             </a>
@@ -371,189 +371,189 @@ rh_start_output_rewrite();
     <div class="c-linkColumn__inner">
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh.at/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Austria - Deutsch</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh.be/fr/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Belgium - Français</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh.be/nl/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Belgium - Nederlands</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh.cz/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Czech Republic - Czech</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh.dk/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Denmark - Dansk</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh.fi/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Finland - Suomi</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh.fr/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">France - Français</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh.de/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Germany - Deutsch</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh.hu/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Hungary - Magyar</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh.ie/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Ireland - English</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh.it/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Italy - Italiano</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh.lu/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Luxembourg - Français</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh.nl/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Netherlands - Nederlands</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh.no/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Norway - Norsk</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh.pl/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Poland - Polski</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh.pt/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Portugal - Português</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://ricohrussia.ru/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Russia - Русский язык</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh.sk/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Slovakia - Slovak</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh.co.za/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">South Africa - English</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh.es/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Spain - Español</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh.se/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Sweden - Svenska</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh.ch/de/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Switzerland - Deutsch</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh.ch/fr/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Switzerland - Français</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh.ch/it/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Switzerland - Italiano</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh.ch/en/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Switzerland - English</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh.com.tr/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Turkey - Türkçe</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh.co.uk/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">UK - English</span>
             </a>
@@ -587,7 +587,7 @@ rh_start_output_rewrite();
     <div class="c-linkColumn__inner">
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh-europe.com/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Ricoh Europe - English</span>
             </a>
@@ -621,91 +621,91 @@ rh_start_output_rewrite();
     <div class="c-linkColumn__inner">
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh.com.au/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Australia - English</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh.com.cn/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">China - 中文</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh.com.hk/en/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Hong Kong - English</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh.com.hk/zh-HK/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Hong Kong - 中文</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh.co.jp/" id="pg_anc05" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" id="pg_anc05" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Japan - 日本語</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh.com.my/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Malaysia - English</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh.co.nz/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">New Zealand - English</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh.com.ph/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Philippines - English</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh.com.vn/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Vietnam - English</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh.sg/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Singapore - English</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh-korea.co.kr/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">South Korea - 한글</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh.com.tw" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Taiwan - 中文</span>
             </a>
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh.co.th/th-TH/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Thailand - ภาษาไทย</span>
             </a>
@@ -739,7 +739,7 @@ rh_start_output_rewrite();
     <div class="c-linkColumn__inner">
 
         <div class="c-linkColumn__item">
-            <a href="https://www.ricoh-ap.com/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Ricoh Asia Pacific - English</span>
             </a>
@@ -780,7 +780,7 @@ rh_start_output_rewrite();
         </div>
 
         <div class="c-linkColumn__item">
-            <a href="https://jp.ricoh.com/" class="c-link-a icon-hidden">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden">
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
                 <span class="c-link-a__text">Japan - 日本語</span>
             </a>

@@ -28,10 +28,10 @@ rh_start_output_rewrite();
 <title>Optimal Support for Your Work Using AI | Global | Ricoh</title>
     <meta name="Description" content="[Ricoh Global Official Website] Optimal Support for Your Work Using AI">
 <meta property="og:title" content="Optimal Support for Your Work Using AI | Global | Ricoh">
-    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&amp;hash=9DB561AD22E96D26590C1574F15A7B50">
+    <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&hash=9DB561AD22E96D26590C1574F15A7B50">
     <meta property="og:type" content="website">
     <meta property="og:description" content="Optimal Support for Your Work Using AI">
-<meta property="og:url" content="https://www.ricoh.com/technology/ai">
+<meta property="og:url" content="__RH_BASE__/technology/ai">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 
@@ -735,7 +735,7 @@ Provides Support and Digital Services Development</h3>
                                 
                                     <figure class="c-linkCard__image">
                                             <div class="c-linkCard__imageInner c-linkCard__imageInner--noRatio">
-                                                <a href="https://www.youtube.com/watch?v=3D1M-GkF8xw" class="c-linkCard__movie youtube_modal_video_temp icon-hidden">
+                                                <a href="__RH_BASE__/" class="c-linkCard__movie youtube_modal_video_temp icon-hidden">
                                                     <img alt="" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/technology/ai/img/thumb01.webp">
                                                     <img class="c-linkCard__iconImage" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/icon_play.png" alt="Play Video">
                                                 </a>
@@ -755,7 +755,7 @@ Provides Support and Digital Services Development</h3>
                                     
                                         <figure class="c-linkCard__image">
                                                 <div class="c-linkCard__imageInner c-linkCard__imageInner--noRatio">
-                                                    <a href="https://www.youtube.com/watch?v=6u6ncEWemTM" class="c-linkCard__movie youtube_modal_video_temp icon-hidden">
+                                                    <a href="__RH_BASE__/" class="c-linkCard__movie youtube_modal_video_temp icon-hidden">
                                                         <img alt="" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/technology/ai/img/thumb02.webp">
                                                         <img class="c-linkCard__iconImage" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/icon_play.png" alt="Play Video">
                                                     </a>
@@ -793,7 +793,7 @@ Provides Support and Digital Services Development</h3>
               </div>
             </div>
             <div class="c-conv__button">
-              <a href="https://webform.ricoh.com/form/pub/e00114/technology_inq_en" class="c-button-a c-button-a--white c-button-a--textRed c-button-a--mail c-button-a--arrow c-button-a--iconRed c-button-a--inRedArea u-max-w-100p icon-hidden" target="ricoh">
+              <a href="__RH_BASE__/" class="c-button-a c-button-a--white c-button-a--textRed c-button-a--mail c-button-a--arrow c-button-a--iconRed c-button-a--inRedArea u-max-w-100p icon-hidden" target="ricoh">
                 <span class="c-button-a__text">Contact us</span>
                 <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
               </a>

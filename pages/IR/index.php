@@ -30,10 +30,10 @@ rh_start_output_rewrite();
 <title>Investor Relations | Global | Ricoh</title>
     <meta name="Description" content="[Ricoh Global Official Website] You can find contents about investor relations and financial information. Information for investors such as our management strategy, financials, performance information and events are found as well.">
 <meta property="og:title" content="Investor Relations | Global | Ricoh">
-    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&amp;hash=9DB561AD22E96D26590C1574F15A7B50">
+    <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&hash=9DB561AD22E96D26590C1574F15A7B50">
     <meta property="og:type" content="website">
     <meta property="og:description" content="You can find contents about investor relations and financial information. Information for investors such as our management strategy, financials, performance information and events are found as well.">
-<meta property="og:url" content="https://www.ricoh.com/IR">
+<meta property="og:url" content="__RH_BASE__/IR">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 
@@ -555,7 +555,7 @@ and corporate value</span>
                       <p class="c-text-a__text">Inquiries regarding IR or financial information from shareholders and investors</p>
                     </div>
 <!-- 白色アイコン ここから -->
-<a href="https://webform.ricoh.com/form/pub/e00034/ir_inq_en" class="c-button-a c-button-a--red c-button-a--blank c-button-a--iconWhite icon-hidden" target="_blank">
+<a href="__RH_BASE__/" class="c-button-a c-button-a--red c-button-a--blank c-button-a--iconWhite icon-hidden" target="_blank">
   <span class="c-button-a__text">IR Inquiries</span>
   <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-white-color.svg" alt="Open new window">
 </a>

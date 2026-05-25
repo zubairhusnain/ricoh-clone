@@ -3,7 +3,7 @@ declare(strict_types=1);
 require_once __DIR__ . '/../../../../../base-url.php';
 rh_start_output_rewrite();
 ?>
-<!DOCTYPE html><html lang="EN" class="js-on"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+<!DOCTYPE html><html lang="EN" class="js-on"><head>
 
 <link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/css/template-global-addition2024.css">
 
@@ -13,10 +13,10 @@ rh_start_output_rewrite();
 <meta name="format-detection" content="telephone=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">                    <meta name="description" content="[Ricoh Global Official Website] View the major environmental labels, which our products and services have obtained.">
             <meta property="og:title" content="Environmental Labels | Global | Ricoh">
-            <meta property="og:image" content="https://www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/img/og-image.webp">
+            <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/img/og-image.webp">
             <meta property="og:type" content="website">
             <meta property="og:description" content="[Ricoh Global Official Website] View the major environmental labels, which our products and services have obtained.">
-            <meta property="og:url" content="https://www.ricoh.com/sustainability/environment/product/label">
+            <meta property="og:url" content="__RH_BASE__/sustainability/environment/product/label">
                 <meta property="og:country-name" content="Global">
             <meta property="twitter:card" content="summary_large_image">
             <meta property="twitter:site" content="@ricoh">
@@ -230,7 +230,7 @@ rh_start_output_rewrite();
               <div class="dtl">
               <p class="ttl">Eco Mark (Japan)</p>
               <ul class="mt16">
-              <li><a href="https://www.ecomark.jp/" class="ico_nml newwindow" target="_blank" rel="noopener noreferrer">https://www.ecomark.jp/</a></li>
+              <li><a href="__RH_BASE__/" class="ico_nml newwindow" target="_blank" rel="noopener noreferrer">__RH_BASE__/</a></li>
               </ul>
               </div>
               <!--/thumb_txt--></div>
@@ -241,7 +241,7 @@ rh_start_output_rewrite();
               <div class="dtl">
               <p class="ttl">Blue Angel (Germany)</p>
               <ul class="mt16">
-              <li><a href="https://www.blauer-engel.de/en" class="ico_nml newwindow" target="_blank" rel="noopener noreferrer">https://www.blauer-engel.de/en</a></li>
+              <li><a href="__RH_BASE__/" class="ico_nml newwindow" target="_blank" rel="noopener noreferrer">__RH_BASE__/</a></li>
               </ul>
               </div>
               <!--/thumb_txt--></div>
@@ -255,7 +255,7 @@ rh_start_output_rewrite();
               <div class="dtl">
               <p class="ttl">EcoLogo Program (Canada)</p>
               <ul class="mt16">
-              <li><a href="https://www.ul.com/resources/ecologo-certification-program" class="ico_nml newwindow" target="_blank" rel="noopener noreferrer">https://www.ul.com/resources/ecologo-certification-program</a></li>
+              <li><a href="__RH_BASE__/" class="ico_nml newwindow" target="_blank" rel="noopener noreferrer">__RH_BASE__/</a></li>
               </ul>
               </div>
               <!--/thumb_txt--></div>
@@ -266,7 +266,7 @@ rh_start_output_rewrite();
               <div class="dtl">
               <p class="ttl">Thai Green Label (Thailand)</p>
               <ul class="mt16">
-              <li><a href="https://www.tei.or.th/greenlabel/en/" class="ico_nml newwindow" target="_blank" rel="noopener noreferrer">https://www.tei.or.th/greenlabel/en/</a></li>
+              <li><a href="__RH_BASE__/" class="ico_nml newwindow" target="_blank" rel="noopener noreferrer">__RH_BASE__/</a></li>
               </ul>
               </div>
               <!--/thumb_txt--></div>
@@ -280,7 +280,7 @@ rh_start_output_rewrite();
                 <div class="dtl">
                 <p class="ttl">Green Mark (Taiwan)</p>
                 <ul class="mt16">
-                <li><a href="https://greenbuy.epa.gov.tw/Eng/Mark.aspx" class="ico_nml newwindow" target="_blank" rel="noopener noreferrer">https://greenbuy.epa.gov.tw/Eng/Mark.aspx</a></li>
+                <li><a href="__RH_BASE__/" class="ico_nml newwindow" target="_blank" rel="noopener noreferrer">__RH_BASE__/</a></li>
                 </ul>
                 </div>
                 <!--/thumb_txt--></div>
@@ -291,7 +291,7 @@ rh_start_output_rewrite();
               <div class="dtl">
               <p class="ttl">China Environmental Labeling Program (China)</p>
               <ul class="mt16">
-              <li><a href="http://en.meecec.com/certification/environmentallabel/typeienvironmentallabel/index.shtml" class="ico_nml newwindow" target="_blank" rel="noopener noreferrer">http://en.meecec.com/certification/environmentallabel/typeienvironmentallabel/index.shtml</a></li>
+              <li><a href="__RH_BASE__/" class="ico_nml newwindow" target="_blank" rel="noopener noreferrer">__RH_BASE__/</a></li>
               </ul>
               </div>
               <!--/thumb_txt--></div>
@@ -305,7 +305,7 @@ rh_start_output_rewrite();
               <div class="dtl">
               <p class="ttl">Singapore Green Label (Singapore)</p>
               <ul class="mt16">
-              <li><a href="https://sgls.sec.org.sg/" class="ico_nml newwindow" target="_blank" rel="noopener noreferrer">https://sgls.sec.org.sg/</a></li>
+              <li><a href="__RH_BASE__/" class="ico_nml newwindow" target="_blank" rel="noopener noreferrer">__RH_BASE__/</a></li>
               </ul>
               </div>
               <!--/thumb_txt--></div>
@@ -316,7 +316,7 @@ rh_start_output_rewrite();
                 <div class="dtl">
                 <p class="ttl">EPEAT (the US)</p>
                 <ul class="mt16">
-                <li><a href="https://epeat.net/" class="ico_nml newwindow" target="_blank" rel="noopener noreferrer">https://epeat.net/</a></li>
+                <li><a href="__RH_BASE__/" class="ico_nml newwindow" target="_blank" rel="noopener noreferrer">__RH_BASE__/</a></li>
                 </ul>
                 </div>
                 <!--/thumb_txt--></div>
@@ -381,7 +381,7 @@ rh_start_output_rewrite();
               <div class="dtl">
               <p class="ttl">EcoLeaf Environmental Labels</p>
               <ul class="mt16">
-              <li><a href="https://ecoleaf-label.jp/en/" class="ico_nml newwindow" target="_blank" rel="noopener noreferrer">https://ecoleaf-label.jp/en/</a></li>
+              <li><a href="__RH_BASE__/" class="ico_nml newwindow" target="_blank" rel="noopener noreferrer">__RH_BASE__/</a></li>
               </ul>
               </div>
               <!--/thumb_txt--></div>
@@ -392,7 +392,7 @@ rh_start_output_rewrite();
               <div class="dtl">
               <p class="ttl">Carbon Footprint of Products (CFP)</p>
               <ul class="mt16">
-                <li><a href="https://ecoleaf-label.jp/en/" class="ico_nml newwindow" target="_blank" rel="noopener noreferrer">https://ecoleaf-label.jp/en/</a></li>
+                <li><a href="__RH_BASE__/" class="ico_nml newwindow" target="_blank" rel="noopener noreferrer">__RH_BASE__/</a></li>
                 </ul>
               </div>
               <!--/thumb_txt--></div>
@@ -430,7 +430,7 @@ rh_start_output_rewrite();
               <div class="dtl">
               <p class="ttl">International ENERGY STAR Program</p>
               <ul class="mt16">
-              <li><a href="https://www.energystar.gov/" class="ico_nml newwindow" target="_blank" rel="noopener noreferrer">https://www.energystar.gov/</a></li>
+              <li><a href="__RH_BASE__/" class="ico_nml newwindow" target="_blank" rel="noopener noreferrer">__RH_BASE__/</a></li>
               </ul>
               </div>
               <!--/thumb_txt--></div>

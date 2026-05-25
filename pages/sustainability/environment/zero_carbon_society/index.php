@@ -30,10 +30,10 @@ rh_start_output_rewrite();
 <title>Climate Action​ | Global | Ricoh</title>
     <meta name="Description" content="[Ricoh Global Official Website] Introducing basic concept/policy, promotion system, initiatives, targets, and performance for realizing the Zero Carbon Society.">
 <meta property="og:title" content="Climate Action​ | Global | Ricoh">
-    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&amp;hash=9DB561AD22E96D26590C1574F15A7B50">
+    <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&hash=9DB561AD22E96D26590C1574F15A7B50">
     <meta property="og:type" content="website">
     <meta property="og:description" content="Introducing basic concept/policy, promotion system, initiatives, targets, and performance for realizing the Zero Carbon Society.">
-<meta property="og:url" content="https://www.ricoh.com/sustainability/environment/zero_carbon_society">
+<meta property="og:url" content="__RH_BASE__/sustainability/environment/zero_carbon_society">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 
@@ -890,7 +890,7 @@ max-width: 100% !important;
         <ul class="c-list-disc-a u-pl-24">
           <li class="c-list-disc-a__item c-list-disc-a__item--black">Products contributing to society’s decarbonization</li>
           <li class="c-list-disc-a__item c-list-disc-a__item--black">
-            <a href="https://www.ricoh.co.jp/about/business-unit/smart-energy?_ga=2.188948136.2033662833.1736138798-818869608.1734064328&amp;_gl=1*752v3o*_ga*ODE4ODY5NjA4LjE3MzQwNjQzMjg.*_ga_NQ01T89XSX*MTczNjEzODc5Ny4yOS4xLjE3MzYxNDA4NzguMC4wLjA.*_ga_1W7QW96RNV*MTczNjEzODc5Ny4yOS4xLjE3MzYxNDA4NzguMC4wLjA." class="c-link-a icon-hidden" style="padding-left: 46px;">
+            <a href="__RH_BASE__/" class="c-link-a icon-hidden" style="padding-left: 46px;">
               <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
               <span class="c-link-a__text">Energy saving and energy creation businesses (Japanese)</span>
             </a>

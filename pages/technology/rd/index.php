@@ -27,9 +27,9 @@ rh_start_output_rewrite();
 <meta name="viewport" content="width=device-width,initial-scale=1.0">
 <title>Development | Global | Ricoh</title>
 <meta property="og:title" content="Development | Global | Ricoh">
-    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/og-image-ricoh-1300.webp?rev=ff04530da840421690b856489416c335&amp;hash=F5264CBCD0C18162145DC778B9A01D2F">
+    <meta property="og:image" content="__RH_BASE__/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/og-image-ricoh-1300.webp?rev=ff04530da840421690b856489416c335&hash=F5264CBCD0C18162145DC778B9A01D2F">
     <meta property="og:type" content="website">
-<meta property="og:url" content="https://www.ricoh.com/technology/rd">
+<meta property="og:url" content="__RH_BASE__/technology/rd">
     <meta property="og:site_name" content="Ricoh Global Website">
     <meta property="og:country-name" content="Global">
 
