@@ -1,0 +1,427 @@
+﻿
+.c-container h1 {
+  color: #ffffff !important;
+}
+.c-mv {
+  position: relative !important;
+}
+
+@media (min-width: 1101px) {
+  .c-mv__inner {
+    margin-top: -100px !important;
+  }
+  .fxb-section {
+    margin-top: 450px !important;
+    transform: translateY(-450px) !important;
+    margin-bottom: -450px;
+  }
+}
+@media (max-width: 1100px) {
+  .c-mv {
+    margin-bottom: 121px;
+  }
+  .c-mv__inner {
+    position: absolute;
+    bottom: -104px;
+    z-index: 1;
+    padding: 0 !important;
+    width: auto !important;
+  }
+  .fxb-section {
+    transform: translateY(-121px);
+    margin-bottom: -121px;
+  }
+}
+
+/* ↓ component css */
+.main_vi_sct.main_vi_hm {
+  background: #f3f3f3;
+  z-index: 1;
+}
+.main_vi_sct.main_vi_hm .main_vi {
+  max-width: 1366px;
+  margin-top: 0;
+  padding: 0;
+}
+.main_vi {
+  max-width: 1008px;
+  margin: 0 auto 8px;
+  padding: 0 8px;
+}
+.main_vi .main_vi_img img {
+  display: block;
+}
+/* ↑ component css */
+
+.mainVisual__inner {
+  position: relative;
+}
+.mainVisual__body__text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #ffffff;
+}
+.mainVisual__body__text__sub {
+  margin-top: 20px;
+  font-size: 24px;
+  line-height: 1;
+}
+.mainVisual__body__text__info {
+  margin-top: 45px;
+  font-size: 16px;
+  line-height: 1;
+}
+.mainVisual__body__text__dep,
+.mainVisual__body__text__cty {
+  width: 480px;
+  height: 50px;
+  text-align: center;
+  position: relative;
+  z-index: 100;
+  border-radius: 5px;
+  overflow: hidden;
+}
+.mainVisual__body__text__dep:before,
+.mainVisual__body__text__cty:before {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 100%;
+  background-color: #ffffff;
+  z-index: -10;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.mainVisual__body__text__dep:after,
+.mainVisual__body__text__cty:after {
+  content: '';
+  display: block;
+  width: 15px;
+  height: 9px;
+  z-index: -1;
+  position: absolute;
+  top: 50%;
+  right: 18px;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  background: url("/-/Media/Ricoh/Sites/com/support/img/icon_arrow.png") no-repeat;
+}
+.mainVisual__body__text__dep:hover p,
+.mainVisual__body__text__cty:hover p {
+  opacity: .5;
+}
+.mainVisual__body__text__dep:hover select,
+.mainVisual__body__text__cty:hover select {
+  cursor: pointer;
+}
+.mainVisual__body__text__dep:hover:after,
+.mainVisual__body__text__cty:hover:after {
+  opacity: .5;
+}
+.mainVisual__body__text__dep {
+  margin-top: 28px;
+}
+.mainVisual__body__text__cty {
+  margin-top: 10px;
+  display: none;
+  /*opacity: 0;*/
+}
+.mainVisual__body__text__cty.is-show {
+  display: block;
+  -webkit-animation: fade-in .25s linear 0s 1 forwards;
+  animation: fade-in .25s linear 0s 1 forwards;
+}
+@-webkit-keyframes fade-in {
+  0% {opacity: 0;}
+  100% {opacity: 1;}
+}
+@keyframes fade-in {
+  0% {opacity: 0;}
+  100% {opacity: 1;}
+}
+.mainVisual__body__text__dep p,
+.mainVisual__body__text__cty p {
+  margin-top: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 20px;
+  color: #333333;
+  z-index: 5;
+  width: 440px;
+  /*transition: all .15s linear;*/
+  /*-webkit-backface-visibility: hidden;*/
+  /*backface-visibility: hidden;*/
+}
+.mainVisual__body__text__dep select,
+.mainVisual__body__text__cty select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  width: 100%;
+  height: 100%;
+  line-height: 60px;
+  box-sizing: border-box;
+  padding: 0 20px;
+  background-color: transparent;
+  color: #333333;
+  font-size: 20px;
+  text-indent: -9999px;
+  position: relative;
+  z-index: 10;
+}
+select::-ms-expand {
+  display: none;
+}
+
+@media screen and (min-width: 0\0) and (min-resolution: +72dpi) { /* IE対応 */
+  .mainVisual__body__text__dep p,
+  .mainVisual__body__text__cty p {
+    display: none;
+  }
+
+  .mainVisual__body__text__dep select,
+  .mainVisual__body__text__cty select {
+    font-size: 20px;
+  }
+  .mainVisual__body__text__dep:hover select,
+  .mainVisual__body__text__cty:hover select {
+    color: #ffffff;
+  }
+}
+@media (min-width: 1101px) {
+  .mainVisual__body {
+    width: fit-content;
+    margin: auto;
+    position: absolute;
+    top: -202px;
+    left: 50%;
+    transform: translateX(-50%);
+    padding: 16px 84px;
+    background-color: rgba(51, 51, 51, .5);
+  }
+}
+
+@media (max-width: 1100px) {
+  .mainVisual__body {
+    position: relative;
+    padding: 121px 20px 36px;
+    background: #666666;
+    box-sizing: border-box;
+  }
+  .mainVisual__body__text {
+    position: relative;
+    top: 0;
+    left: 0;
+    -ms-transform: none;
+    transform: none;
+    width: auto;
+  }
+  .mainVisual__body__text__sub {
+    margin-top: 12px !important;
+    font-size: 24px;
+  }
+  .mainVisual__body__text__info {
+    margin-top: 25px;
+    font-size: 13px;
+  }
+  .mainVisual__body__text__dep,
+  .mainVisual__body__text__cty {
+    margin: 0 auto;
+    width: 400px;
+    height: 40px;
+  }
+  .mainVisual__body__text__dep {
+    margin-top: 18px;
+  }
+  .mainVisual__body__text__cty {
+    margin-top: 10px;
+  }
+  .mainVisual__body__text__dep p,
+  .mainVisual__body__text__cty p {
+    font-size: 16px;
+  }
+  .mainVisual__body__text__dep select,
+  .mainVisual__body__text__cty select {
+    font-size: 16px;
+    line-height: 40px;
+  }
+  .mainVisual__body__text__dep:hover p,
+  .mainVisual__body__text__cty:hover p {
+    color: #333333;
+  }
+  .mainVisual__body__text__dep:hover:before,
+  .mainVisual__body__text__cty:hover:before {
+    background-color: #ffffff;
+  }
+  .mainVisual__body__text__dep:hover:after,
+  .mainVisual__body__text__cty:hover:after {
+    background: url("/-/Media/Ricoh/Sites/com/support/img/icon_arrow.png") no-repeat;
+  }
+}
+
+.mainBox {
+  padding: 80px 0 !important;
+  background-color: #217892 !important;
+  color: #ffffff;
+}
+.mainBox__head {
+  color: #ffffff !important;
+  font-size: 50px;
+  line-height: 1;
+  text-align: center;
+  overflow: visible;
+}
+.mainBox__lead {
+  margin-top: 34px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  font-size: 16px;
+  line-height: 28px;
+  text-align: center;
+  max-width: 1000px;
+  width: 100%;
+}
+.mainBox__body {
+  margin-top: 54px;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+.mainBox__body__item {
+  padding: 18px 40px;
+  width: calc((100% - 20px) / 2);
+  min-height: 100px;
+  box-sizing: border-box;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+  position: relative;
+  z-index: 100;
+  display: -ms-flexbox;
+  display: flex !important;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  transition: all .15s linear;
+}
+.mainBox__body__item:before {
+  position: absolute;
+  top: 0;
+  left: 0;
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  content: "";
+  border: solid 2px transparent;
+  transition: border ease .3s;
+}
+.mainBox__body__item:after {
+  content: '';
+  display: block;
+  width: 12px;
+  height: 12px;
+  background-image: url("/-/Media/Ricoh/Sites/com/support/img/icon_blank.png");
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  z-index: 1;
+}
+.mainBox__body__item.is-show:hover:before {
+  text-decoration: none;
+  border: solid 2px #fff;
+  border-radius: 4px;
+}
+.mainBox__body__item:nth-child(even) {
+  margin-left: 20px;
+}
+.mainBox__body__item:nth-child(n + 3) {
+  margin-top: 20px;
+}
+.mainBox__body__item p {
+  text-align: center;
+  font-size: 20px;
+  line-height: 32px;
+  color: #ffffff;
+}
+
+.accordionBox {
+  padding: 32px 32px 56px;
+  background-color: #fff;
+  margin-top: 80px;
+}
+
+@media (max-width: 640px) {
+  .mainBox__head {
+    font-size: 28px;
+  }
+  .mainBox__body__item {
+    padding: 12px 20px;
+    width: 100%;
+    min-height: 70px;
+  }
+  .mainBox__body__item:nth-child(even) {
+    margin-left: 0;
+  }
+  .mainBox__body__item:nth-child(n + 2) {
+    margin-top: 20px;
+  }
+  .mainVisual__body__text__dep,
+  .mainVisual__body__text__cty {
+    width: 260px;
+  }
+}
+
+/*演出関連*/
+.mainBox {
+  display: none;
+  opacity: 0;
+  transition: opacity .2s linear;
+}
+.mainBox.is-display {
+  display: block;
+}
+.mainBox.is-visible {
+  opacity: 1;
+}
+
+.mainBox__head,
+.mainBox__lead {
+  opacity: 0;
+  -ms-transform: translateY(20px);
+  transform: translateY(20px);
+  transition: all .2s ease-out;
+}
+.mainBox__head.is-show,
+.mainBox__lead.is-show {
+  opacity: 1;
+  -ms-transform: translateY(0px);
+  transform: translateY(0px);
+  transition: all .7s cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+
+.mainBox__body {
+  opacity: 0;
+  transition: all .2s ease-out;
+}
+.mainBox__body.is-show {
+  opacity: 1;
+  transition: none;
+}
+.mainBox__body__item {
+  opacity: 0;
+  transition: all .5s cubic-bezier(0.215, 0.61, 0.355, 1);
+}
+.mainBox__body__item.is-show {
+  opacity: 1;
+}
+

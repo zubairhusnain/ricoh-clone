@@ -1,0 +1,1531 @@
+﻿/**
+
+  Responsive Functions
+
+*/
+/**
+
+  Assets Functions
+  Example:
+
+    background: #000000 image('btn/btn.png') no-repeat 0 0;
+
+*/
+/**
+
+  Test Colors
+
+*/
+/**
+
+  Background Colors
+
+*/
+/**
+
+  Border Colors
+
+*/
+/**
+
+  Blog Category Colors
+
+*/
+/**
+$bp-xxs-min: 359;
+$bp-xs-min: 480;
+$bp-s-min: 640;
+$bp-m-min: 768; // iPad portrait
+$bp-l-min: 1024; // iPad landscape
+$bp-xl-min: 1244; // 1280px screen resolution minus scrollbars
+$bp-xxl-min: 1410; // 1440px screen resolution minus scrollbars
+*/
+/**
+
+  Font Family Settings
+
+  // fonts.com setting //
+  font-family:'Frutiger LT W01_45 Ligh1475730';
+  font-family:'Frutiger LT W01_46 Ligh1475734';
+  font-family:'Frutiger LT W01_55 Roma1475738';
+  font-family:'Frutiger LT W01_56 Italic';
+  font-family:'Frutiger LT W01_65 Bold1475746';
+  font-family:'Frutiger LT W01_66 Bold Italic';
+  font-family:'Frutiger LT W01_75 Black';
+  font-family:'Frutiger LT W01_76 Blac1475758';
+  font-family:'Frutiger LT W01_95 Ultra Black';
+  font-family:'Frutiger LT W01_47 Light Cond';
+  font-family:'Frutiger LT W01_48 Light Cn It';
+  font-family:'Frutiger LT W01_57 Condensed';
+  font-family:'Frutiger LT W01_58 Cond1475774';
+  font-family:'Frutiger LT W01_67 Bold Cond';
+  font-family:'Frutiger LT W01_68 Bold Cn It';
+  font-family:'Frutiger LT W01_77 Black Cond';
+  font-family:'Frutiger LT W01_78 Black Cn It';
+  font-family:'Frutiger LT W01_87 X Black Cn';
+  font-family:'Frutiger LT W01_88 X Blk Cn It';
+  font-family:'AxisStd-UltraLight';
+  font-family:'AxisStd-ExtraLight';
+  font-family:'AxisStd-Light';
+  font-family:'AxisStd-Regular';
+  font-family:'AxisStd-Medium';
+  font-family:'AxisStd-Bold';
+  font-family:'AxisStd-Heavy';
+  font-family:'AxisCondStd-UltraLight';
+  font-family:'AxisCondStd-ExtraLight';
+  font-family:'AxisCondStd-Light';
+  font-family:'AxisCondStd-Regular';
+  font-family:'AxisCondStd-Medium';
+  font-family:'AxisCondStd-Bold';
+  font-family:'AxisCompStd-UltraLight';
+  font-family:'HGNewGothicM04';
+  font-family:'HGPNewGothicM04';
+  font-family:'HGPNewGothicB';
+  font-family:'HGSNewGothicM04';
+
+*/
+/**
+
+  Font Size Settings
+
+*/
+/**
+
+  Responsiveness Settings
+
+*/
+/**
+
+  Size Settings
+
+*/
+/**
+
+  Transition Common Mixins
+
+  Example:
+
+    @include transition-common;
+    @include transition-property(opacity);
+    @include transition-duration(0.4s);
+    @include transition-timing-function($ease-out-quart);
+
+*/
+/**
+
+  Animation Common Mixins
+
+  Example:
+
+    @include keyframes(some-animation-name) {
+
+    }
+
+    @include set-animation($name: some-animation-name, $duration: 0.75s ,$easing: $ease-in-out-quad);
+*/
+/**
+
+  Common Mixins
+
+*/
+/**
+
+  mediaquery Mixins
+
+*/
+/* global */
+#history {
+  width: 1008px;
+  margin: 0 auto; }
+  @media screen and (max-width: 480px) {
+    #history {
+      width: 100%; } }
+  #history * {
+    box-sizing: border-box; }
+  #history img {
+    max-width: 100%; }
+  #history .br {
+    display: block; }
+    @media screen and (max-width: 480px) {
+      #history .br {
+        display: inline; } }
+
+#history h2 {
+  overflow: visible;
+}
+
+.c-timeline {
+  width: 1008px;
+  margin: 0 auto; }
+  @media screen and (max-width: 480px) {
+    .c-timeline {
+      width: 100%; } }
+  .c-timeline__parent {
+    padding: 15px 30px;
+    background: #ffffff;
+    display: table;
+    width: 100%;
+    border: 1px solid #111111;
+    border-radius: 60px;
+    position: relative;
+    cursor: pointer;
+    margin-bottom: 40px;
+    transition: all 0.2s ease-in-out; }
+    @media screen and (max-width: 480px) {
+      .c-timeline__parent {
+        width: calc(100% - 20px);
+        display: -ms-flexbox;
+        display: flex;
+        -ms-flex-direction: column-reverse;
+        flex-direction: column-reverse;
+        border-radius: 15px;
+        padding: 10px 15px;
+        margin: 0 auto 20px; } }
+    .c-timeline__parent a {
+      color: #0000CC;
+      text-decoration: none; }
+      .c-timeline__parent a:visited {
+        color: #0000CC; }
+    .c-timeline__parent:hover {
+      background: #666666; }
+      .c-timeline__parent:hover .c-timeline__parent__period {
+        color: #ffffff; }
+      .c-timeline__parent:hover .c-timeline__parent__title a {
+        color: #ffffff; }
+      .c-timeline__parent:hover::after {
+        background: url("/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-down-w.svg") no-repeat left top; }
+    .c-timeline__parent::before {
+      content: "";
+      width: 1px;
+      height: 40px;
+      position: absolute;
+      left: 50%;
+      bottom: -41px;
+      background: #111; }
+      @media screen and (max-width: 480px) {
+        .c-timeline__parent::before {
+          left: inherit;
+          right: 34px;
+          height: 20px;
+          bottom: -21px; } }
+    .c-timeline__parent::after {
+      content: "";
+      background: url("/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-down.svg") no-repeat left top;
+      width: 25px;
+      height: 25px;
+      position: absolute;
+      right: 30px;
+      top: 50%;
+      margin-top: -12px; }
+      @media screen and (max-width: 480px) {
+        .c-timeline__parent::after {
+          margin-top: 0;
+          right: 24px;
+          top: inherit;
+          bottom: 10px;
+          width: 20px;
+          height: 20px; } }
+    .c-timeline__parent__period {
+      width: 30%;
+      display: table-cell;
+      vertical-align: middle;
+      text-align: center;
+      font-size: 20px;
+      font-family: "Frutiger LT W01_65 Bold1475746"; }
+      @media screen and (max-width: 480px) {
+        .c-timeline__parent__period {
+          width: 100%;
+          font-size: 18px;
+          display: inline-block; } }
+    .c-timeline__parent__title {
+      display: table-cell;
+      width: 70%;
+      font-size: 32px;
+      font-family: "Frutiger LT W01_55 Roma1475738";
+      vertical-align: middle;
+      text-align: left; }
+      @media screen and (max-width: 480px) {
+        .c-timeline__parent__title {
+          width: 100%;
+          display: inline-block;
+          text-align: center;
+          font-size: 24px; } }
+    .c-timeline__parent.active {
+      background: #111; }
+      .c-timeline__parent.active::after {
+        background: url("/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-up-w.svg") no-repeat left top; }
+      .c-timeline__parent.active .c-timeline__parent__period {
+        color: #ffffff; }
+      .c-timeline__parent.active .c-timeline__parent__title a {
+        color: #ffffff; }
+  .c-timeline__child {
+    width: 1008px;
+    margin: 0 auto;
+    display: -ms-flexbox;
+    display: flex;
+    -js-display: flex;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    -ms-flex-direction: column;
+    flex-direction: column; }
+    @media screen and (max-width: 480px) {
+      .c-timeline__child {
+        width: 100%; } }
+    .c-timeline__child.init {
+      overflow: hidden;
+      height: 0; }
+    .c-timeline__child__header {
+      width: 920px;
+      margin: 0 auto;
+      display: table; }
+      @media screen and (max-width: 480px) {
+        .c-timeline__child__header {
+          display: none; } }
+      .c-timeline__child__header__label {
+        display: table-cell;
+        width: 50%;
+        position: relative;
+        text-align: center; }
+        .c-timeline__child__header__label::after {
+          content: "";
+          width: 1px;
+          height: 100%;
+          position: absolute;
+          left: 0;
+          top: 0;
+          background: #111; }
+        .c-timeline__child__header__label span {
+          font-family: "Frutiger LT W01_65 Bold1475746";
+          width: 100%;
+          padding: 8px 20px;
+          border-radius: 30px;
+          display: inline-block;
+          background: #C9C9C9;
+          position: relative; }
+        .c-timeline__child__header__label--left {
+          padding: 20px 60px 40px 0; }
+          .c-timeline__child__header__label--left::after {
+            content: none; }
+          .c-timeline__child__header__label--left span::after {
+            content: "";
+            background: url("/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-left.svg") no-repeat left top;
+            background-size: cover;
+            width: 9px;
+            height: 12px;
+            position: absolute;
+            right: 20px;
+            top: 12px; }
+        .c-timeline__child__header__label--right {
+          padding: 20px 0 40px 60px; }
+          .c-timeline__child__header__label--right span::before {
+            content: "";
+            background: url("/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-right.svg") no-repeat left top;
+            background-size: cover;
+            width: 9px;
+            height: 12px;
+            position: absolute;
+            left: 20px;
+            top: 12px; }
+    .c-timeline__child__footer {
+      width: 100%;
+      position: relative; }
+      @media screen and (max-width: 480px) {
+        .c-timeline__child__footer {
+          padding: 0 10px 70px; } }
+      @media screen and (max-width: 480px) {
+        .c-timeline__child__footer:before {
+          content: "";
+          width: 1px;
+          height: 70px;
+          position: absolute;
+          right: 45px;
+          bottom: 0;
+          z-index: 0;
+          background: #111; } }
+      .c-timeline__child__footer .btn--detail {
+        width: 200px;
+        height: 200px;
+        margin: 0 auto;
+        background: #111;
+        color: #ffffff;
+        border-radius: 200px;
+        text-align: center;
+        display: table; }
+        @media screen and (max-width: 480px) {
+          .c-timeline__child__footer .btn--detail {
+            width: 100%;
+            height: auto;
+            border-radius: 10px;
+            text-align: left; } }
+        .c-timeline__child__footer .btn--detail a {
+          font-size: 20px;
+          font-family: "Frutiger LT W01_65 Bold1475746";
+          display: table-cell;
+          width: 100%;
+          height: 100%;
+          vertical-align: middle;
+          position: relative;
+          top: -10px;
+          color: #ffffff; }
+          @media screen and (max-width: 480px) {
+            .c-timeline__child__footer .btn--detail a {
+              top: inherit;
+              font-size: 18px;
+              padding: 15px 20px; } }
+          .c-timeline__child__footer .btn--detail a:before {
+            content: "";
+            width: 1px;
+            height: 250px;
+            position: absolute;
+            left: 50%;
+            top: 210px;
+            z-index: 0;
+            background: #111; }
+            @media screen and (max-width: 480px) {
+              .c-timeline__child__footer .btn--detail a:before {
+                display: none; } }
+          .c-timeline__child__footer .btn--detail a::after {
+            content: "";
+            background: url("/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-link-w.svg") no-repeat left top;
+            width: 25px;
+            height: 25px;
+            position: absolute;
+            left: 50%;
+            bottom: 10px;
+            margin-left: -12px; }
+            @media screen and (max-width: 480px) {
+              .c-timeline__child__footer .btn--detail a::after {
+                width: 20px;
+                height: 20px;
+                left: inherit;
+                right: 25px;
+                bottom: 50%;
+                margin-bottom: -10px; } }
+          .c-timeline__child__footer .btn--detail a small {
+            font-size: 16px;
+            padding: 5px 0;
+            display: block;
+            font-family: "Frutiger LT W01_65 Bold1475746"; }
+            @media screen and (max-width: 480px) {
+              .c-timeline__child__footer .btn--detail a small {
+                display: none; } }
+      .c-timeline__child__footer .btn--close {
+        font-family: "Frutiger LT W01_55 Roma1475738";
+        background: url("/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-close-window.svg") no-repeat left top;
+        width: 25px;
+        height: 25px;
+        display: block;
+        position: relative;
+        margin: 40px auto;
+        cursor: pointer; }
+        @media screen and (max-width: 480px) {
+          .c-timeline__child__footer .btn--close {
+            right: 33px;
+            margin: 20px 0;
+            position: absolute; } }
+        .c-timeline__child__footer .btn--close span {
+          width: 100px;
+          display: block;
+          position: absolute;
+          left: 35px;
+          top: 1px; }
+          @media screen and (max-width: 480px) {
+            .c-timeline__child__footer .btn--close span {
+              left: inherit;
+              right: -20px; } }
+      .c-timeline__child__footer .btn--pagetop {
+        font-family: "Frutiger LT W01_55 Roma1475738";
+        text-align: right;
+        padding: 20px 0; }
+        @media screen and (max-width: 480px) {
+          .c-timeline__child__footer .btn--pagetop {
+            display: none; } }
+        .c-timeline__child__footer .btn--pagetop::before {
+          content: "";
+          display: inline-block;
+          background: url("/-/Media/Ricoh/Common/cmn_v1/img/icon_s_up_01.png") 0 50% no-repeat;
+          width: 25px;
+          vertical-align: middle;
+          height: 25px; }
+  .c-timeline-item {
+    width: 50%;
+    padding: 0 0 20px 0;
+    position: relative; }
+    @media screen and (max-width: 480px) {
+      .c-timeline-item {
+        width: calc(100% - 20px);
+        padding: 10px 0 10px 0; } }
+    .c-timeline-item--diff {
+      padding: 0 0 0 0; }
+      .c-timeline-item--diff.c-timeline-item--topics {
+        padding: 0 0 20px 0; }
+      .c-timeline-item--diff.c-timeline-item dl dt {
+        padding: 0 5px 10px; }
+      @media screen and (max-width: 480px) {
+        .c-timeline-item--diff {
+          padding: 0 0 20px 0; }
+          .c-timeline-item--diff.c-timeline-item dl dt {
+            padding: 10px 5px; } }
+    .c-timeline-item--wrapper {
+      width: 920px;
+      margin: 0 auto; }
+      @media screen and (max-width: 480px) {
+        .c-timeline-item--wrapper {
+          width: 100%;
+          margin: 0; } }
+    .c-timeline-item--text.c-timeline-item dl dt {
+      font-size: 14px;
+      font-family: "Frutiger LT W01_55 Roma1475738"; }
+    .c-timeline-item--text.c-timeline-item--left dd {
+      padding: 10px 60px 0 5px; }
+    .c-timeline-item--text.c-timeline-item--right dd {
+      padding: 10px 5px 0 60px; }
+    @media screen and (max-width: 480px) {
+      .c-timeline-item--text.c-timeline-item--left dd {
+        padding: 10px 75px 0 5px; }
+      .c-timeline-item--text.c-timeline-item--right dd {
+        padding: 10px 75px 0 5px; } }
+    .c-timeline-item--right {
+      margin: auto 0 0 auto; }
+      @media screen and (max-width: 480px) {
+        .c-timeline-item--right {
+          margin: 0 auto; } }
+      .c-timeline-item--right dt {
+        text-align: right; }
+        @media screen and (max-width: 480px) {
+          .c-timeline-item--right dt {
+            text-align: left; } }
+      .c-timeline-item--right dd {
+        padding: 10px 5px 0 100px; }
+        @media screen and (max-width: 480px) {
+          .c-timeline-item--right dd {
+            padding: 10px 75px 0 5px; } }
+      .c-timeline-item--right::after {
+        content: "";
+        width: 1px;
+        height: calc(100% + 10px);
+        position: absolute;
+        left: 0;
+        top: 0;
+        background: #111; }
+        @media screen and (max-width: 480px) {
+          .c-timeline-item--right::after {
+            left: inherit;
+            right: 35px;
+            top: 0; } }
+      .c-timeline-item--right .circle {
+        left: -50px; }
+        @media screen and (max-width: 480px) {
+          .c-timeline-item--right .circle {
+            left: inherit;
+            right: 0px; } }
+    .c-timeline-item--left {
+      margin: 0 auto auto 0; }
+      @media screen and (max-width: 480px) {
+        .c-timeline-item--left {
+          margin: 0 auto; } }
+      .c-timeline-item--left dt {
+        text-align: left; }
+      .c-timeline-item--left dd {
+        padding: 10px 100px 0 5px; }
+        @media screen and (max-width: 480px) {
+          .c-timeline-item--left dd {
+            padding: 10px 75px 0 5px; } }
+      .c-timeline-item--left::after {
+        content: "";
+        width: 1px;
+        height: calc(100% + 10px);
+        position: absolute;
+        right: -1px;
+        top: 0;
+        background: #111; }
+        @media screen and (max-width: 480px) {
+          .c-timeline-item--left::after {
+            left: inherit;
+            right: 35px;
+            top: 0; } }
+      .c-timeline-item--left .circle {
+        right: -50px; }
+        @media screen and (max-width: 480px) {
+          .c-timeline-item--left .circle {
+            left: inherit;
+            right: 0px; } }
+    .c-timeline-item dl {
+      position: relative; }
+      .c-timeline-item dl dt {
+        font-size: 18px;
+        font-family: "Frutiger LT W01_65 Bold1475746";
+        position: relative;
+        padding: 10px 5px; }
+        .c-timeline-item dl dt::after {
+          content: "";
+          width: 100%;
+          height: 1px;
+          position: absolute;
+          right: 0;
+          bottom: 0;
+          background: #111; }
+          @media screen and (max-width: 480px) {
+            .c-timeline-item dl dt::after {
+              width: calc(100% - 35px);
+              left: 0; } }
+        .c-timeline-item dl dt .circle {
+          width: 100px;
+          height: 100px;
+          text-align: center;
+          position: absolute;
+          bottom: -50px;
+          z-index: 100;
+          transition: all 0.2s ease-in-out;
+          border-radius: 50px;
+          background: #ffffff; }
+          @media screen and (max-width: 480px) {
+            .c-timeline-item dl dt .circle {
+              width: 70px;
+              height: 70px;
+              bottom: -35px; } }
+          .c-timeline-item dl dt .circle img {
+            max-width: 100px;
+            border: 1px solid #111;
+            border-radius: 50px;
+            cursor: pointer; }
+          .c-timeline-item dl dt .circle:hover {
+            transform: scale(1.6);
+            z-index: 101; }
+            @media screen and (max-width: 480px) {
+              .c-timeline-item dl dt .circle:hover {
+                transform: scale(1); } }
+            .c-timeline-item dl dt .circle:hover img {
+              border: 5px solid #CF142B; }
+      .c-timeline-item dl dd {
+        font-size: 16px;
+        font-family: "Frutiger LT W01_55 Roma1475738";
+        line-height: 1.5; }
+        @media screen and (max-width: 480px) {
+          .c-timeline-item dl dd {
+            font-size: 14px; } }
+        .c-timeline-item dl dd p {
+          margin-bottom: 10px; }
+        .c-timeline-item dl dd small {
+          font-size: 13px; }
+        .c-timeline-item dl dd .more {
+          font-size: 14px;
+          color: #0000CC;
+          display: block;
+          padding: 0 0 0 24px;
+          background: url("/-/Media/Ricoh/Common/cmn_v1/img/icon_s_right_01.png") no-repeat left center; }
+  .c-timeline-window--wrapper.init {
+    overflow: hidden;
+    height: 0; }
+  .c-timeline-window {
+    width: 1008px;
+    margin: 0 auto 40px auto;
+    background: #F3F3F3;
+    border: 1px solid #111;
+    border-radius: 40px;
+    padding: 70px 40px 30px 40px;
+    position: relative; }
+    @media screen and (max-width: 480px) {
+      .c-timeline-window {
+        width: calc(100% + 10px);
+        position: relative;
+        left: 0;
+        padding: 40px 20px 20px 10px;
+        margin: 0 auto 20px auto;
+        border-radius: 0;
+        border-left: none;
+        border-right: none;
+        border-bottom: 1px solid #111;
+        border-top: 1px solid #111; } }
+    .c-timeline-window::after {
+      content: "";
+      position: absolute;
+      background: #111;
+      width: 1px;
+      height: 40px;
+      right: calc(50% + -1px);
+      bottom: -41px; }
+      @media screen and (max-width: 480px) {
+        .c-timeline-window::after {
+          height: 40px;
+          right: 55px;
+          bottom: -41px; } }
+    .c-timeline-window__header .window-option {
+      display: -ms-flexbox;
+      display: flex;
+      -js-display: flex;
+      -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+      margin-bottom: 10px;
+      font-family: "Frutiger LT W01_55 Roma1475738"; }
+      .c-timeline-window__header .window-option__date {
+        width: 50%;
+        text-align: left; }
+      .c-timeline-window__header .window-option__cat {
+        width: 50%;
+        text-align: right; }
+        @media screen and (max-width: 480px) {
+          .c-timeline-window__header .window-option__cat {
+            display: none; } }
+    .c-timeline-window__header .window-title {
+      font-size: 28px;
+      font-family: "Frutiger LT W01_65 Bold1475746";
+      text-align: center;
+      border-top: 3px solid #111;
+      border-bottom: 3px solid #111;
+      padding: 20px 20px;
+      margin-bottom: 40px; }
+      .c-timeline-window__header .window-title small {
+        font-size: 20px; }
+      @media screen and (max-width: 480px) {
+        .c-timeline-window__header .window-title {
+          font-size: 20px;
+          padding: 20px 10px;
+          margin-bottom: 20px; } }
+    .c-timeline-window__content {
+      width: 100%;
+      display: -ms-flexbox;
+      display: flex;
+      -js-display: flex;
+      -ms-flex-pack: start;
+      justify-content: flex-start; }
+      @media screen and (max-width: 480px) {
+        .c-timeline-window__content {
+          -ms-flex-direction: column-reverse;
+          flex-direction: column-reverse; } }
+      .c-timeline-window__content .window-content__imgs {
+        width: 450px; }
+        @media screen and (max-width: 480px) {
+          .c-timeline-window__content .window-content__imgs {
+            width: 100%; } }
+        .c-timeline-window__content .window-content__imgs dl {
+          margin-bottom: 30px; }
+          .c-timeline-window__content .window-content__imgs dl dt {
+            margin-bottom: 5px; }
+          .c-timeline-window__content .window-content__imgs dl dd {
+            font-family: "Frutiger LT W01_55 Roma1475738";
+            font-size: 12px; }
+      .c-timeline-window__content .window-content__txt {
+        width: 420px;
+        margin-left: auto;
+        margin-bottom: 40px; }
+        @media screen and (max-width: 480px) {
+          .c-timeline-window__content .window-content__txt {
+            width: 100%; } }
+        .c-timeline-window__content .window-content__txt h4 {
+          font-family: "Frutiger LT W01_65 Bold1475746";
+          font-size: 28px;
+          margin-bottom: 10px; }
+          .c-timeline-window__content .window-content__txt h4 small {
+            font-size: 20px; }
+          @media screen and (max-width: 480px) {
+            .c-timeline-window__content .window-content__txt h4 {
+              font-size: 22px; }
+              .c-timeline-window__content .window-content__txt h4 small {
+                font-size: 14px; } }
+        .c-timeline-window__content .window-content__txt p {
+          font-family: "Frutiger LT W01_55 Roma1475738";
+          margin-bottom: 20px; }
+          @media screen and (max-width: 480px) {
+            .c-timeline-window__content .window-content__txt p {
+              margin-bottom: 10px; } }
+          .c-timeline-window__content .window-content__txt p small {
+            font-size: 12px;
+            line-height: 1.1; }
+          .c-timeline-window__content .window-content__txt p .more {
+            font-size: 14px;
+            color: #0000CC;
+            display: block;
+            padding: 0 0 0 24px;
+            background: url("/-/Media/Ricoh/Common/cmn_v1/img/icon_s_right_01.png") no-repeat left center; }
+        .c-timeline-window__content .window-content__txt__pdfs {
+          font-family: "Frutiger LT W01_55 Roma1475738";
+          border-top: 3px solid #111;
+          border-bottom: 3px solid #111;
+          display: table;
+          width: 100%;
+          text-align: center; }
+          .c-timeline-window__content .window-content__txt__pdfs a {
+            padding: 20px 10px;
+            display: table-cell;
+            width: 50%;
+            text-align: center; }
+          .c-timeline-window__content .window-content__txt__pdfs .pdf-single {
+            border-right: 3px solid #111; }
+            .c-timeline-window__content .window-content__txt__pdfs .pdf-single::before {
+              content: "";
+              background: url("/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-pdf-single.svg") no-repeat left top;
+              background-size: cover;
+              display: inline-block;
+              vertical-align: middle;
+              width: 28px;
+              height: 40px;
+              margin: 0 10px; }
+          .c-timeline-window__content .window-content__txt__pdfs .pdf-all::before {
+            content: "";
+            background: url("/-/Media/Ricoh/Common/cmn_v1/img/icon_m_right_01.png") no-repeat left top;
+            background-size: cover;
+            display: inline-block;
+            vertical-align: middle;
+            width: 24px;
+            height: 30px;
+            margin: 0 5px 0 0; }
+    .c-timeline-window__footer {
+      text-align: right; }
+      .c-timeline-window__footer .window-close {
+        color: #0000CC;
+        display: inline-block;
+        padding: 10px 0 10px 10px;
+        cursor: pointer; }
+        @media screen and (max-width: 480px) {
+          .c-timeline-window__footer .window-close {
+            padding: 10px 12px 10px 10px; } }
+        .c-timeline-window__footer .window-close::after {
+          content: "";
+          background: url("/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-close-window.svg") no-repeat top left;
+          background-size: cover;
+          display: inline-block;
+          vertical-align: middle;
+          width: 25px;
+          height: 25px;
+          margin: 0 10px;
+          position: relative;
+          top: -2px; }
+
+.c-footnav {
+  width: 100%;
+  position: relative; }
+  @media screen and (max-width: 480px) {
+    .c-footnav {
+      padding: 0 10px; } }
+  .c-footnav__btn--allhistory {
+    width: 130px;
+    height: 130px;
+    margin: 0 auto;
+    border: 1px solid #111;
+    border-radius: 80px;
+    text-align: center;
+    display: table;
+    font-family: "Frutiger LT W01_55 Roma1475738";
+    color: #0000CC;
+    background: #ffffff; }
+    @media screen and (max-width: 480px) {
+      .c-footnav__btn--allhistory {
+        width: 100%;
+        height: auto;
+        margin-bottom: 10px;
+        border-radius: 10px; } }
+    .c-footnav__btn--allhistory a {
+      display: table-cell;
+      width: 100%;
+      height: 100%;
+      vertical-align: middle;
+      position: relative;
+      top: -10px;
+      text-decoration: none; }
+      @media screen and (max-width: 480px) {
+        .c-footnav__btn--allhistory a {
+          top: inherit;
+          padding: 10px 30px; } }
+      .c-footnav__btn--allhistory a::after {
+        content: "";
+        background: url("/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-down.svg") no-repeat left top;
+        width: 25px;
+        height: 25px;
+        position: absolute;
+        left: 50%;
+        bottom: 10px;
+        margin-left: -12px; }
+        @media screen and (max-width: 480px) {
+          .c-footnav__btn--allhistory a::after {
+            width: 20px;
+            height: 20px;
+            left: inherit;
+            right: 24px;
+            bottom: inherit; } }
+      .c-footnav__btn--allhistory a.active {
+        top: 10px; }
+        .c-footnav__btn--allhistory a.active::after {
+          top: 10px;
+          background: url("/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-up.svg") no-repeat left top; }
+        .c-footnav__btn--allhistory a.active:hover a::after {
+          background: url("/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-up-w.svg") no-repeat left top; }
+    .c-footnav__btn--allhistory:hover {
+      background: #666666; }
+      .c-footnav__btn--allhistory:hover a {
+        color: #ffffff; }
+        .c-footnav__btn--allhistory:hover a::after {
+          background: url("/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-down-w.svg") no-repeat left top; }
+  .c-footnav__btn--logo, .c-footnav__btn--topics {
+    width: 320px;
+    position: absolute;
+    font-family: "Frutiger LT W01_55 Roma1475738";
+    right: 0; }
+    @media screen and (max-width: 480px) {
+      .c-footnav__btn--logo, .c-footnav__btn--topics {
+        width: 100%;
+        position: relative;
+        margin-bottom: 10px; } }
+    .c-footnav__btn--logo a, .c-footnav__btn--topics a {
+      width: 320px;
+      border: 1px solid #111;
+      border-radius: 80px;
+      padding: 18px 60px 18px 40px;
+      display: block;
+      text-align: right;
+      text-decoration: none;
+      position: relative; }
+      @media screen and (max-width: 480px) {
+        .c-footnav__btn--logo a, .c-footnav__btn--topics a {
+          width: 100%;
+          position: relative;
+          text-align: center;
+          padding: 10px 30px; } }
+      .c-footnav__btn--logo a:hover, .c-footnav__btn--topics a:hover {
+        color: #ffffff;
+        background: #666666; }
+      .c-footnav__btn--logo a::after, .c-footnav__btn--topics a::after {
+        content: "";
+        background: url("/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-right.svg") no-repeat left top;
+        background-size: cover;
+        width: 9px;
+        height: 12px;
+        position: absolute;
+        right: 30px;
+        top: 50%;
+        margin-top: -6px; }
+  .c-footnav__btn--logo {
+    top: 0; }
+  .c-footnav__btn--topics {
+    bottom: 0; }
+
+.c-links {
+  width: 100%;
+  text-align: center;
+  margin: 60px 0;
+  font-family: "Frutiger LT W01_55 Roma1475738"; }
+  @media screen and (max-width: 480px) {
+    .c-links {
+      margin: 30px 0; } }
+  .c-links a {
+    display: inline-block; }
+    .c-links a:first-child::before {
+      content: "";
+      display: inline-block;
+      background: #111;
+      background-size: cover;
+      width: 1px;
+      height: 15px;
+      margin: 0 15px;
+      position: relative;
+      top: 2px; }
+    .c-links a::after {
+      content: "";
+      display: inline-block;
+      background: #111;
+      background-size: cover;
+      width: 1px;
+      height: 15px;
+      margin: 0 15px;
+      position: relative;
+      top: 2px; }
+
+.c-topiclist {
+  width: 1008px;
+  margin: 0 auto; }
+  @media screen and (max-width: 480px) {
+    .c-topiclist {
+      width: 100%;
+      padding: 0 10px; } }
+  .c-topiclist__hgroup {
+    padding: 15px 30px;
+    background: #FFF;
+    display: table;
+    width: 100%;
+    border: 1px solid #111111;
+    border-radius: 60px;
+    position: relative;
+    cursor: pointer;
+    margin-bottom: 10px;
+    transition: all 0.2s ease-in-out; }
+    @media screen and (max-width: 480px) {
+      .c-topiclist__hgroup {
+        width: 100%;
+        border-radius: 15px 15px 0 0;
+        padding: 0;
+        margin-bottom: 0; } }
+    .c-topiclist__hgroup__period {
+      display: table-cell;
+      width: 25%;
+      vertical-align: middle;
+      text-align: center;
+      font-family: "Frutiger LT W01_65 Bold1475746";
+      font-size: 20px; }
+      @media screen and (max-width: 480px) {
+        .c-topiclist__hgroup__period {
+          width: 100%;
+          font-size: 18px;
+          padding: 5px;
+          display: inline-block; } }
+    .c-topiclist__hgroup__title {
+      display: table-cell;
+      width: 50%;
+      font-family: "Frutiger LT W01_55 Roma1475738";
+      font-size: 32px;
+      vertical-align: middle;
+      text-align: left; }
+      @media screen and (max-width: 480px) {
+        .c-topiclist__hgroup__title {
+          width: 100%;
+          display: inline-block;
+          text-align: center;
+          font-size: 24px;
+          padding: 0 5px 5px 5px; } }
+    .c-topiclist__hgroup__download {
+      display: table-cell;
+      width: 25%;
+      font-family: "Frutiger LT W01_55 Roma1475738";
+      font-size: 13px;
+      vertical-align: middle;
+      text-align: right;
+      position: relative; }
+      .c-topiclist__hgroup__download a {
+        display: inline-block;
+        padding-right: 60px; }
+        .c-topiclist__hgroup__download a::after {
+          content: "";
+          width: 48px;
+          height: 30px;
+          background: url("/-/Media/Ricoh/Common/cmn_v1/img/icon_m_pdf_01.png") no-repeat right center;
+          position: absolute;
+          top: 50%;
+          right: 0;
+          margin-top: -15px; }
+      @media screen and (max-width: 480px) {
+        .c-topiclist__hgroup__download {
+          width: 100%;
+          display: inline-block;
+          border-top: 1px solid #111111;
+          text-align: left;
+          font-size: 16px; }
+          .c-topiclist__hgroup__download a {
+            width: 100%;
+            display: inline-block;
+            padding: 10px 30px 10px 10px; }
+            .c-topiclist__hgroup__download a::after {
+              top: 50%;
+              right: 10px;
+              width: 20px;
+              height: 20px;
+              background: url("/-/Media/Ricoh/Common/cmn_v1/img/icon_s_pdf_01.png") no-repeat right center;
+              margin-top: -10px; } }
+    .c-topiclist__hgroup.active {
+      background: #111; }
+      .c-topiclist__hgroup.active::after {
+        background: url("/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-up-w.svg") no-repeat left top; }
+      .c-topiclist__hgroup.active .c-timeline__parent__period {
+        color: #FFF; }
+      .c-topiclist__hgroup.active .c-timeline__parent__title a {
+        color: #FFF; }
+  .c-topiclist__list {
+    width: 920px;
+    margin: 0 auto;
+    position: relative;
+    font-size: 16px; }
+    @media screen and (max-width: 480px) {
+      .c-topiclist__list {
+        width: 100%; } }
+    .c-topiclist__list a {
+      display: block;
+      padding: 20px 0;
+      border-bottom: 1px solid #999999;
+      color: #333333; }
+      .c-topiclist__list a a {
+        display: inline;
+        padding: inherit;
+        border-bottom: none; }
+      .c-topiclist__list a:hover {
+        text-decoration: none;
+        opacity: 0.8; }
+      .c-topiclist__list a:last-child {
+        border-bottom: 1px solid #111111; }
+      @media screen and (max-width: 480px) {
+        .c-topiclist__list a {
+          padding: 10px;
+          border-left: 1px solid #111111;
+          border-right: 1px solid #111111;
+          border-bottom: 1px solid #111111; }
+          .c-topiclist__list a:last-child {
+            border-radius: 0 0 15px 15px; } }
+    .c-topiclist__list dl {
+      display: -ms-flexbox;
+      display: flex;
+      -js-display: flex;
+      -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+      font-family: "Frutiger LT W01_55 Roma1475738"; }
+      .c-topiclist__list dl dt {
+        width: 20%; }
+      .c-topiclist__list dl dd {
+        width: 80%;
+        padding-right: 60px;
+        position: relative;
+        line-height: 1.6; }
+        .c-topiclist__list dl dd::after {
+          content: "";
+          width: 48px;
+          height: 30px;
+          background: url("/-/Media/Ricoh/Common/cmn_v1/img/icon_m_pdf_01.png") no-repeat right center;
+          position: absolute;
+          top: 50%;
+          right: 0;
+          margin-top: -15px; }
+      @media screen and (max-width: 480px) {
+        .c-topiclist__list dl {
+          -ms-flex-wrap: nowrap;
+          flex-wrap: nowrap;
+          -ms-flex-direction: column;
+          flex-direction: column; }
+          .c-topiclist__list dl dt {
+            width: 100%;
+            margin: 0 0 10px 0;
+            position: relative; }
+            .c-topiclist__list dl dt::after {
+              content: "";
+              width: 20px;
+              height: 20px;
+              background: url("/-/Media/Ricoh/Common/cmn_v1/img/icon_s_pdf_01.png") no-repeat right center;
+              position: absolute;
+              top: 50%;
+              right: 0;
+              margin-top: -10px; }
+          .c-topiclist__list dl dd {
+            width: 100%;
+            padding-right: 0; }
+            .c-topiclist__list dl dd::after {
+              content: none; } }
+  .c-topiclist__footer {
+    width: 920px;
+    position: relative;
+    margin: 0 auto;
+    padding: 30px 0; }
+    @media screen and (max-width: 480px) {
+      .c-topiclist__footer {
+        width: 100%; } }
+    .c-topiclist__footer::after {
+      content: "";
+      background: url("/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-topiclist-down.svg") no-repeat left top;
+      display: block;
+      width: 16px;
+      height: 12px;
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      margin-left: -8px;
+      margin-top: -12px; }
+    .c-topiclist__footer .btn--pagetop {
+      font-size: 14px;
+      text-align: right;
+      padding: 20px 0; }
+      @media screen and (max-width: 480px) {
+        .c-topiclist__footer .btn--pagetop {
+          display: none; } }
+      .c-topiclist__footer .btn--pagetop::before {
+        content: "";
+        display: inline-block;
+        background: url("/-/Media/Ricoh/Common/cmn_v1/img/icon_s_up_01.png") 0 50% no-repeat;
+        width: 25px;
+        vertical-align: middle;
+        height: 25px; }
+
+.p-home__main {
+  width: 100%;
+  margin: 20px 0 40px 0; }
+  .p-home__main--pc {
+    display: block; }
+  .p-home__main--sp {
+    display: none; }
+  @media screen and (max-width: 480px) {
+    .p-home__main {
+      margin: 20px 0; }
+      .p-home__main--pc {
+        display: none; }
+      .p-home__main--sp {
+        display: block; } }
+
+.p-home .p-home--hide {
+  display: none; }
+
+.p-under--hgroup {
+  width: 100%;
+  margin: 30px 0 60px 0;
+  padding: 10px; }
+  @media screen and (max-width: 480px) {
+    .p-under--hgroup {
+      margin: 20px 0 30px 0; } }
+  .p-under--hgroup__title {
+    position: relative;
+    font-size: 32px;
+    font-family: "Frutiger LT W01_65 Bold1475746";
+    margin-bottom: 60px;
+    padding-left: 120px; }
+    .p-under--hgroup__title small {
+      font-size: 24px; }
+    .p-under--hgroup__title::before {
+      content: "";
+      background: url("/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-title.svg") no-repeat left top;
+      width: 100px;
+      height: 100px;
+      display: block;
+      position: absolute;
+      left: 0;
+      top: 50%;
+      margin-top: -50px;
+      padding-right: 20px; }
+    @media screen and (max-width: 480px) {
+      .p-under--hgroup__title {
+        font-size: 16px;
+        padding-left: 60px;
+        margin-bottom: 30px; }
+        .p-under--hgroup__title small {
+          display: inline-block;
+          font-size: 13px; }
+        .p-under--hgroup__title::before {
+          width: 50px;
+          height: 50px;
+          margin-top: -20px;
+          padding-right: 10px; } }
+  .p-under--hgroup__text {
+    font-family: "Frutiger LT W01_55 Roma1475738"; }
+    .p-under--hgroup__text small {
+      font-size: 13px; }
+
+.p-topics {
+  width: 100%; }
+  .p-topics__list {
+    margin: 20px 0 90px 0; }
+
+.p-topics .p-topics--hide {
+  display: none; }
+
+.p-logo__main {
+  width: 100%;
+  margin: 20px 0 120px 0; }
+  @media screen and (max-width: 480px) {
+    .p-logo__main {
+      margin: 20px 0 60px 0; } }
+  .p-logo__main__group {
+    width: 100%;
+    display: -ms-flexbox;
+    display: flex;
+    -js-display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -ms-flex-align: center;
+    align-items: center;
+    position: relative; }
+    .p-logo__main__group::after {
+      content: "";
+      background: url("/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-topiclist-down.svg") no-repeat left top;
+      display: block;
+      width: 16px;
+      height: 12px;
+      position: absolute;
+      left: 16%;
+      bottom: 0;
+      margin-left: -8px;
+      z-index: 10; }
+    .p-logo__main__group:last-child::after {
+      content: none; }
+    @media screen and (max-width: 480px) {
+      .p-logo__main__group {
+        -ms-flex-wrap: nowrap;
+        flex-wrap: nowrap;
+        -ms-flex-direction: column;
+        flex-direction: column; }
+        .p-logo__main__group::after {
+          left: 50%;
+          bottom: -20px; } }
+    .p-logo__main__group__logo {
+      width: 320px;
+      height: 200px; }
+      .p-logo__main__group__logo img {
+        width: 320px;
+        height: 200px; }
+      @media screen and (max-width: 480px) {
+        .p-logo__main__group__logo {
+          width: 100%;
+          height: inherit; }
+          .p-logo__main__group__logo img {
+            width: 100%;
+            height: auto; } }
+    .p-logo__main__group__text {
+      width: 670px;
+      margin: 0 0 0 auto; }
+      @media screen and (max-width: 480px) {
+        .p-logo__main__group__text {
+          width: 100%;
+          padding: 10px; } }
+      .p-logo__main__group__text dt {
+        font-family: "Frutiger LT W01_65 Bold1475746";
+        font-size: 18px;
+        position: relative;
+        padding: 0 5px 10px 5px; }
+        .p-logo__main__group__text dt::after {
+          content: "";
+          width: 100%;
+          height: 1px;
+          position: absolute;
+          right: 0;
+          bottom: 0;
+          background: #111; }
+      .p-logo__main__group__text dd {
+        font-family: "Frutiger LT W01_55 Roma1475738";
+        line-height: 1.5;
+        padding-top: 10px; }
+        @media screen and (max-width: 480px) {
+          .p-logo__main__group__text dd {
+            font-size: 14px; } }
+
+.p-detail__header {
+  width: 1008px;
+  margin: 0 auto;
+  display: -ms-flexbox;
+  display: flex;
+  -js-display: flex;
+  -ms-flex-align: center;
+  align-items: center; }
+  @media screen and (max-width: 480px) {
+    .p-detail__header {
+      width: 100%;
+      height: auto;
+      padding: 0 10px; } }
+  .p-detail__header__label {
+    position: relative;
+    text-align: center; }
+    .p-detail__header__label--center {
+      width: 200px;
+      height: 200px;
+      margin: 0 auto 40px auto;
+      background: #111;
+      color: #ffffff;
+      border-radius: 200px;
+      text-align: center;
+      display: table; }
+      @media screen and (max-width: 480px) {
+        .p-detail__header__label--center {
+          width: 100%;
+          height: auto;
+          margin-bottom: 30px;
+          border-radius: 10px;
+          text-align: left; } }
+      .p-detail__header__label--center::after {
+        content: "";
+        position: absolute;
+        background: #111;
+        width: 1px;
+        height: 40px;
+        right: calc(50% + -1px);
+        bottom: -41px; }
+        @media screen and (max-width: 480px) {
+          .p-detail__header__label--center::after {
+            height: 40px;
+            right: 35px;
+            bottom: -41px; } }
+      .p-detail__header__label--center span {
+        width: 100%;
+        height: 100%;
+        font-size: 26px;
+        font-family: "Frutiger LT W01_65 Bold1475746";
+        display: table-cell;
+        vertical-align: middle;
+        text-align: center; }
+        @media screen and (max-width: 480px) {
+          .p-detail__header__label--center span {
+            top: inherit;
+            font-size: 18px;
+            padding: 15px 20px; } }
+    .p-detail__header__label--left {
+      width: 38%; }
+      @media screen and (max-width: 480px) {
+        .p-detail__header__label--left {
+          display: none; } }
+      .p-detail__header__label--left::after {
+        content: none; }
+      .p-detail__header__label--left span {
+        font-family: "Frutiger LT W01_65 Bold1475746";
+        width: 100%;
+        padding: 8px 20px;
+        border-radius: 30px;
+        display: inline-block;
+        background: #C9C9C9;
+        position: relative; }
+        .p-detail__header__label--left span::after {
+          content: "";
+          background: url("/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-left.svg") no-repeat left top;
+          background-size: cover;
+          width: 9px;
+          height: 12px;
+          position: absolute;
+          right: 20px;
+          top: 12px; }
+    .p-detail__header__label--right {
+      width: 38%; }
+      @media screen and (max-width: 480px) {
+        .p-detail__header__label--right {
+          display: none; } }
+      .p-detail__header__label--right span {
+        font-family: "Frutiger LT W01_65 Bold1475746";
+        width: 100%;
+        padding: 8px 20px;
+        border-radius: 30px;
+        display: inline-block;
+        background: #C9C9C9;
+        position: relative; }
+        .p-detail__header__label--right span::before {
+          content: "";
+          background: url("/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-right.svg") no-repeat left top;
+          background-size: cover;
+          width: 9px;
+          height: 12px;
+          position: absolute;
+          left: 20px;
+          top: 12px; }
+
+.p-detail__list .c-timeline-item--wrapper {
+  width: 1008px; }
+  @media screen and (max-width: 480px) {
+    .p-detail__list .c-timeline-item--wrapper {
+      width: 100%;
+      margin: 0; } }
+
+.p-detail__list__footer {
+  width: 100%;
+  position: relative; }
+  @media screen and (max-width: 480px) {
+    .p-detail__list__footer {
+      padding: 0 10px 70px; } }
+  .p-detail__list__footer .btn--detail {
+    width: 180px;
+    height: 180px;
+    margin: 0 auto;
+    background: #111;
+    color: #ffffff;
+    border-radius: 180px;
+    text-align: center;
+    display: table; }
+    @media screen and (max-width: 480px) {
+      .p-detail__list__footer .btn--detail {
+        width: 100%;
+        height: auto;
+        border-radius: 10px;
+        text-align: left; } }
+    .p-detail__list__footer .btn--detail a {
+      font-size: 20px;
+      font-family: "Frutiger LT W01_65 Bold1475746";
+      display: table-cell;
+      width: 100%;
+      height: 100%;
+      vertical-align: middle;
+      position: relative;
+      top: -10px;
+      color: #ffffff; }
+      @media screen and (max-width: 480px) {
+        .p-detail__list__footer .btn--detail a {
+          top: inherit;
+          font-size: 18px;
+          padding: 15px 20px; } }
+      .p-detail__list__footer .btn--detail a::after {
+        content: "";
+        background: url("/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-arrow-link-w.svg") no-repeat left top;
+        width: 25px;
+        height: 25px;
+        position: absolute;
+        left: 50%;
+        bottom: 10px;
+        margin-left: -12px; }
+        @media screen and (max-width: 480px) {
+          .p-detail__list__footer .btn--detail a::after {
+            width: 20px;
+            height: 20px;
+            left: inherit;
+            right: 25px;
+            bottom: 50%;
+            margin-bottom: -10px; } }
+      .p-detail__list__footer .btn--detail a small {
+        font-size: 16px;
+        padding: 5px 0;
+        display: block;
+        font-family: "Frutiger LT W01_65 Bold1475746"; }
+        @media screen and (max-width: 480px) {
+          .p-detail__list__footer .btn--detail a small {
+            display: none; } }
+  .p-detail__list__footer .btn--close {
+    font-family: "Frutiger LT W01_55 Roma1475738";
+    background: url("/-/Media/Ricoh/Sites/com/about/company/history/img/common/ico-close-window.svg") no-repeat left top;
+    width: 25px;
+    height: 25px;
+    display: block;
+    position: relative;
+    margin: 40px auto;
+    cursor: pointer; }
+    @media screen and (max-width: 480px) {
+      .p-detail__list__footer .btn--close {
+        right: 33px;
+        margin: 20px 0;
+        position: absolute; } }
+    .p-detail__list__footer .btn--close span {
+      width: 100px;
+      display: block;
+      position: absolute;
+      left: 35px;
+      top: 1px; }
+      @media screen and (max-width: 480px) {
+        .p-detail__list__footer .btn--close span {
+          left: inherit;
+          right: -20px; } }
+  .p-detail__list__footer .btn--pagetop {
+    font-family: "Frutiger LT W01_55 Roma1475738";
+    text-align: right;
+    padding: 20px 0; }
+    @media screen and (max-width: 480px) {
+      .p-detail__list__footer .btn--pagetop {
+        display: none; } }
+    .p-detail__list__footer .btn--pagetop::before {
+      content: "";
+      display: inline-block;
+      background: url("/-/Media/Ricoh/Common/cmn_v1/img/icon_s_up_01.png") 0 50% no-repeat;
+      width: 25px;
+      vertical-align: middle;
+      height: 25px; }
+
+.p-detail ul {
+  padding-left: 20px;
+  list-style: disc; }
+
+.p-detail ul li {
+  margin-top: 5px; }
+
+.p-detail ol {
+  padding-top: 5px;
+  padding-left: 20px;
+  list-style: decimal; }
+
+.p-detail ol li {
+  margin-top: 5px; }
+
+.p-detail .clm > ul:first-child,
+.p-detail .clm > ol:first-child {
+  padding-top: 0; }
+
+.p-detail .clm > ul:first-child > li:first-child,
+.p-detail .clm > ol:first-child > li:first-child {
+  margin-top: 0; }
+
+@media (max-width: 640px) {
+  .p-detail ul li {
+    background-size: 3px 3px; } }
+
+/*# sourceMappingURL=style.css.map */

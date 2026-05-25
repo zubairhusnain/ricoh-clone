@@ -1,0 +1,76 @@
+@charset "utf-8";
+
+/*************************************************
+CSS
+/cmn_us_v1/css/option.css
+
+15.03.04
+update:16.03.14
+*************************************************/
+
+/* ------------------------- TOC
+Almighty
+ - Width
+ - Padding
+ - Border
+-------------------------- */
+
+
+
+/* ============================================================ Almighty */
+/* ============================== Width */
+.w2em  { width:  2em !important; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+.w4em  { width:  4em !important; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+.w6em  { width:  6em !important; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+.w8em  { width:  8em !important; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+.w10em { width: 10em !important; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+.w12em { width: 12em !important; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+.w14em { width: 14em !important; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+.w16em { width: 16em !important; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+.w18em { width: 18em !important; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+.w20em { width: 20em !important; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+
+.wauto { width: auto !important; }
+
+
+/* ============================== Padding */
+.pl2em  { padding-left:  2em !important; }
+.pl4em  { padding-left:  4em !important; }
+.pl6em  { padding-left:  6em !important; }
+.pl8em  { padding-left:  8em !important; }
+.pl10em { padding-left: 10em !important; }
+.pl12em { padding-left: 12em !important; }
+.pl14em { padding-left: 14em !important; }
+.pl16em { padding-left: 16em !important; }
+.pl18em { padding-left: 18em !important; }
+.pl20em { padding-left: 20em !important; }
+
+
+/* ============================== Border */
+.bd1_de { border: 1px solid #dedede !important;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.bdb1_99 { border-bottom: 1px solid #999999 !important; }
+.bdt1_c9 { border-top: 1px solid #c9c9c9 !important; }
+.bdb4d_c9 { border-bottom: 4px dotted #c9c9c9 !important; }
+
+
+/* ============================== Font */
+.nowrap { white-space: nowrap !important; }
+
+/* ============================== background-image */
+.back_none { background-image: none !important;}
+
+/* ------------------------- TOC
+main visual border
+-------------------------- */
+
+.mv_bd { border: solid 1px #dedede !important;
+	box-sizing: border-box !important;
+}
+
+@media (max-width: 640px) {
+	.mv_bd { border: none !important; }
+}

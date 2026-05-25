@@ -1,0 +1,102 @@
+/* for blog */
+
+
+#gl_header #gl_nv .gl_nv_lst li a.gl_nv_lst_mn:hover:after,
+#gl_header #gl_nv .gl_nv_lst li a.gl_nv_lst_mn.open:after,
+#gl_header #gl_nv .gl_nv_lst li a.gl_nv_lst_mn.act:hover:after {
+	content: '';
+	position: static;
+	top: 0;
+	left: 0;
+	margin-left: 0;
+	line-height: 0;
+	z-index: 0;
+}
+
+
+.jp_news_lst_pager{
+	margin: 30px 0 0 0;
+	text-align: center;
+}
+
+.jp_news_lst_pager p,
+.jp_news_lst_pager ol,
+.jp_news_lst_pager ol li{
+	display: inline-block;
+	font-size: 100%;
+}
+
+.jp_news_lst_pager p{
+	margin: 0 1em;
+}
+
+
+.jp_news_lst_pager ol li:after{
+	content: '|';
+	margin: 0 0.5em;
+}
+
+.jp_news_lst_pager ol li:last-child:after{
+	content: '';
+	margin: 0;
+}
+
+
+.category_link_list{
+	margin: 15px 0 0 0;
+	text-align: left;
+}
+
+.category_link_list ul li{
+	display: inline-block;
+	/zoom: 1;
+	font-size: 100%;
+}
+
+.category_link_list ul li a{
+	display: inline-block;
+	/zoom: 1;
+	min-height: 24px;
+	background: url("//jp.ricoh.com/cmn_v1/img/icon_s_right_01.png") no-repeat left center;
+	padding: 0 0 0 24px;
+}
+
+
+.sct_bg01 .sub_group{
+	overflow: hidden;
+	margin: 8px 0 0;
+}
+.sct_bg01 .sub_group_first{
+	margin: 0;
+}
+.sct_bg01 .sub_group .inner_title{
+	float: left;
+	width: 65px;
+	text-align: left;
+	font-size: 26px;
+	font-weight: bold;
+	
+	padding: 0 20px 0 35px;
+}
+.sct_bg01 .sub_group .inner_title_en{
+	width: 175px;
+	padding: 0 20px 0 25px;
+}
+
+.sct_bg01 .sub_group ul{
+	overflow: hidden;
+	width: auto;
+}
+@media screen and (max-width: 640px){
+.sct_bg01 .sub_group .inner_title{
+	float: none;
+	width: auto;
+	font-size: 22px;
+	text-align: left;
+	padding: 8px;
+}
+.sct_bg01 .sub_group ul{
+	overflow: hidden;
+	width: auto;
+}
+}

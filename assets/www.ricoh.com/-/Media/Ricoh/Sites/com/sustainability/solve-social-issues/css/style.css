@@ -1,0 +1,26 @@
+.coaxialーclm {
+  padding: 32px;
+  margin-top: 40px;
+}
+.coaxialーclm__inner {
+    display: grid;
+  }
+@media screen and (min-width: 640.02px) {
+  .coaxialーclm__inner {
+    grid-template-columns: 1fr 26% 1fr;
+    column-gap: 16px;
+  }
+}
+@media screen and (max-width: 640px) {
+  .coaxialーclm__inner {
+    row-gap: 20px;
+  }
+}
+.coaxialーclm__image {
+  display: flex;
+  justify-content: center;
+  align-self: center;
+}
+.coaxialーclm__image .c-figure {
+  max-width: 160px;
+}

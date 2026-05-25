@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+/*************************************************
+CSS
+/cmn_v1/css/import2021.css
+
+14.10.01
+update:2024.05.28
+*************************************************/
+
+@import "sc_reset.css";
+@import "reset.css";
+@import "common.css";
+@import "column.css";
+@import "icon.css";
+@import "component.css";
+@import "option.css";
+@import "/-/Media/Ricoh/Sites/co_jp/cmn_jp_v1/css/ex_component.css";
+@import "/-/Media/Ricoh/Sites/co_jp/cmn_jp_v1/css/fs_iko.css";
+@import "/-/Media/Ricoh/Sites/co_jp/cmn_jp_v1/css/fs_youtube.css";
+@import "/-/Media/Ricoh/Sites/co_jp/cmn_jp_v1/css/smallImageTrigger.css";
+@import "/-/Media/Ricoh/Sites/co_jp/cmn_jp_v1/css/import-module2015-chase.css";
+@import "/-/Media/Ricoh/Sites/co_jp/cmn_jp_v1/css/option.css";
+@import "/-/Media/Ricoh/Common/modal-for-video/magnific-popup.css";
+@import "v2mix_adj.css";
+@import "/-/Media/Ricoh/Common/cookie-management/css/common.css";

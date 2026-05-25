@@ -1,0 +1,12 @@
+div#gl_footer {
+    padding-bottom: initial;
+    border-bottom: initial;
+}
+
+.gl-footer-sns ul {
+    padding: 16px 0 0;
+}
+
+.gl-footer-pageTop a {
+    padding-top: 24px;
+}

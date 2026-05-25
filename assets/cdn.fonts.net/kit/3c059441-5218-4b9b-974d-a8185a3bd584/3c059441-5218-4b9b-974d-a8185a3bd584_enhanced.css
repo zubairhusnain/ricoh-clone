@@ -1,0 +1,45 @@
+
+
+
+  
+@font-face {
+  font-family: "FrutigerLTPro";
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('Frutiger/FrutigerLTPro_normal_normal_400.woff2') format('woff2'), url('Frutiger/FrutigerLTPro_normal_normal_400.woff') format('woff');
+}
+@font-face {
+  font-family: "FrutigerLTPro";
+  font-style: italic;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('Frutiger/FrutigerLTPro_italic_normal_700.woff2') format('woff2'), url('Frutiger/FrutigerLTPro_italic_normal_700.woff') format('woff');
+}
+@font-face {
+  font-family: "FrutigerLTPro";
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('Frutiger/FrutigerLTPro_normal_normal_700.woff2') format('woff2'), url('Frutiger/FrutigerLTPro_normal_normal_700.woff') format('woff');
+}
+@font-face {
+  font-family: "FrutigerLTPro";
+  font-style: italic;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('Frutiger/FrutigerLTPro_italic_normal_400.woff2') format('woff2'), url('Frutiger/FrutigerLTPro_italic_normal_400.woff') format('woff');
+}
+@font-face {
+  font-family: "FrutigerLTPro";
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: normal;
+  font-display: swap;
+  src: url('Frutiger/FrutigerLTPro_normal_normal_300.woff2') format('woff2'), url('Frutiger/FrutigerLTPro_normal_normal_300.woff') format('woff');
+}
+

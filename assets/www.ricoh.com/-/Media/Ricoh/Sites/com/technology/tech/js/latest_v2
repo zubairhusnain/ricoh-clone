@@ -1,0 +1,59 @@
+$(function(){
+
+  $(document).ready(function () {
+  function ListSet(callback) {
+    // .jsonファイルのパス
+    var local = '/-/Media/Ricoh/Sites/com/technology/tech/';
+    var path = local + 'js/tech.json';
+
+    $.getJSON(path, function (data) {
+      $(data.item).each(function (x) {
+        var contentHtml = '';
+        var page = this.e_url;
+        if((page != '') && (x < 3)){
+          if(page.indexOf('http') != -1 ) {
+            var url = page;
+            var window = 'ricoh';
+          } else if(page.indexOf('/technology/institute/') != -1 ) {
+            var url = page;
+            var window = '_self';
+          } else {
+            var url = '/technology/tech/' + page;
+            var window = '_self';
+          }
+
+          // HTMLコンテンツを作成
+          contentHtml = '<a href="' + url + '" class="c-linkTile__item c-linkTile__item--middle icon-hidden" target="' + window + '">' +
+          '<div class="c-linkTile__content">' +
+            '<div class="c-linkTile__heading">' +
+              '<div class="c-text-a c-text-a--thin">' +
+                  '<span class="c-text-a__text u-font-bold">' + this.e_title + '</span>' +
+              '</div>' +
+            '</div>' +
+            '<div class="c-text-b">' +
+              '<p class="c-text-b__text">' + this.e_lead + '</p>' +
+            '</div>' +
+          '</div>' +
+          '<div class="c-linkTile__image">' +
+            '<img src="/-/Media/Ricoh/Sites/com/technology/tech/img/' +  this.e_img + '" alt="">' +
+          '</div>' + 
+          '<img src="/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">' +
+          '</a>';
+        }
+          // .c-linkTile__innerの中にcontentHtmlを追加
+          $('#content .c-linkTile__inner').append(contentHtml);
+      });
+
+      // データの取得が完了したらコールバックを呼び出す
+      if (callback) {
+        callback();
+      }
+
+    });
+  }
+
+  ListSet();
+
+});
+
+});

@@ -1,0 +1,105 @@
+@charset "utf-8";
+#slider { list-style: none; }
+#shuffleArea { overflow: hidden; }
+.bg_img DIV {
+  width: 100%;
+  height: auto;
+  background-color: transparent;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  padding-bottom: calc(100% * 9/16);
+  position:relative;
+}
+.bg_img DIV:before {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  content: ' ';
+}
+.w20p {
+  width: 20% !important;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+@media (max-width: 640px) {
+  .tab_dtl { padding-top: 16px !important; }
+}
+
+/* ===== 分野別紹介一覧ページ用 */
+.cp-MainVisualTextOverlay .mv_device { border: 1px solid #c9c9c9; }
+.cp-MainVisualTextOverlay .mv_device_wrap { background-color: #ffffff; }
+.cp-MainVisualTextOverlay .mv_device_img {
+  width: auto;
+  height: 100%;
+  left: auto;
+  right: 0;
+  margin-left: 0;
+}
+.cp-MainVisualTextOverlay .mv_device_txt_inner .mv_device_balloon { height: 60px; }
+.cp-MainVisualTextOverlay .mv_device_txt_column { vertical-align: middle; }
+.cp-MainVisualTextOverlay .mv_device_txt_ttl {
+  font-size: 28px;
+  line-height: 1.16;
+}
+.cp-MainVisualTextOverlay .mv_device_txt_btn_box { display: none; }
+@media (max-width:640px) {
+  .cp-MainVisualTextOverlay .mv_device {
+    border-right: none;
+    border-left: none;
+    border-bottom: none;
+  }
+  .cp-MainVisualTextOverlay .mv_device_txt_area { background-color: #666666; }
+  .cp-MainVisualTextOverlay .mv_device_txt_ttl {
+    color: #ffffff;
+    font-size: 20px !important;
+  }
+}
+
+
+/* 260218追加 */
+.tabList {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  padding-top: 0;
+  padding-left: 0;
+}
+
+.tabListDetail {
+  display: block;
+  font-size: 16px;
+  font-weight: bold;
+  color: #cf142b;
+  background-color: #fff;
+  border: 1px solid #cf142b;
+  border-radius: 4px;
+  box-sizing: border-box;
+  padding: 12px 24px;
+}
+
+.tabListDetail.is-active {
+  background-color: #cf142b;
+  color: #fff;
+}
+
+.tabListDetail:hover {
+  opacity: .7;
+}
+
+@media screen and (max-width: 640px) {
+  .tabList {
+    gap: 8px;
+    justify-content: start;
+  }
+
+  .tabListDetail {
+    display: block;
+    font-size: 12px;
+    padding: 8px;
+  }
+}

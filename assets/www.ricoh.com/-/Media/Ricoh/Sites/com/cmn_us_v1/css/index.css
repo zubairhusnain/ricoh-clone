@@ -1,0 +1,52 @@
+@charset "utf-8";
+
+/*************************************************
+CSS
+/css/index.css
+
+15.11.27
+*************************************************/
+
+/* ------------------------- TOC
+Contents Layout
+------------------------- */
+
+/* ============================== NEWS */
+
+.important_news{
+  border: solid 1px #d9d9d9;
+  padding: 18px 20px;
+  margin: 0 0 16px 0;
+}
+.important_news dl{
+  width: 100%;
+  display: table;
+  margin-bottom: 8px;
+  padding-bottom: 8px;
+  border-bottom: solid 1px #d9d9d9;
+}
+.important_news dl:last-child{
+  margin-bottom: 0;
+  padding-bottom: 0;
+  border-bottom: none;
+}
+.important_news dt,
+.important_news dd{
+  display: table-cell;
+  vertical-align: top;
+  text-align: left;
+  word-break:break-all
+}
+.important_news dt{
+  width: 10%;
+  white-space: nowrap;
+  padding-right: 1em;
+}
+@media (max-width: 640px) {
+  .important_news dt,
+  .important_news dd{
+    display: block;
+  }
+}
+
+}

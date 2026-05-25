@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+/*************************************************
+CSS
+/cmn_v1/css/import.css
+
+14.10.01
+update:2024.05.28
+*************************************************/
+
+@import "sc_reset.css";
+@import "reset.css";
+@import "common.css";
+@import "column.css";
+@import "gl_header.css";
+@import "gl_footer.css";
+@import "icon.css";
+@import "component.css";
+@import "option.css";
+@import "/-/Media/Ricoh/Common/cookie-management/css/common.css";

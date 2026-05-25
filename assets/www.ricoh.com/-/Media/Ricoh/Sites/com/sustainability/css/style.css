@@ -1,0 +1,208 @@
+h1 {
+    margin-bottom: 40px !important;
+  }
+  
+  h2.bg_398 {
+    font-size: 22px;
+    font-weight: bold;
+    background-color: #38958e;
+  }
+  
+  h2 .bd_2sl {
+    border: 2px solid #999;
+    border-color: #38958e;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-image: linear-gradient(to right, #38958e 0%, #ffffff 100%);
+    border-image-slice: 1;
+    display: block;
+  }
+  
+  .main_vi.mv_bg {
+    min-height: 256px;
+    background-size: cover;
+    background-position: right center;
+    background-repeat: no-repeat;
+    margin: 0 auto 0;
+    position: relative;
+  }
+  .main_vi.mv_bg h2 {
+    background-color: rgba(0,0,0,0.4);
+    color: #ffffff;
+    font-size: 28px;
+    padding: 16px;
+    display: inline-block;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    position: absolute;
+    top: 24px;
+    left: 24px;
+  }
+  .main_vi.mv_bg h2 img {
+    width: auto;
+    height: 28px;
+    vertical-align: bottom;
+    float: left;
+  }
+  .main_vi.mv_bg .icon-list {
+    position: absolute;
+    right: 24px;
+    bottom: 24px;
+    overflow: hidden;
+  }
+  .main_vi.mv_bg .icon-list li {
+    width: 64px;
+    float: left;
+  }
+  .main_vi.mv_bg .icon-list li img {
+    width: 100%;
+  }
+  .main_vi.mv_bg .icon-list li+li {
+    margin-left: 8px;
+  }
+.bg_green {
+    background-color: #DDEAE8;
+}
+.fl_r{
+  display: flex;
+  flex-direction: row;
+}
+@media screen and (max-width: 640px) {
+    .main_vi.mv_bg {
+      min-height: 40vw;
+    }
+    .main_vi.mv_bg h2 {
+      width: 100%;
+        font-size: 16px;
+        top: 0;
+        left: 0;
+    }
+    .main_vi.mv_bg h2 img {
+      display: none;
+    }
+    .main_vi.mv_bg .icon-list li {
+      width: 10.667vw;
+    }
+}
+  
+.clm_flexbox {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+}
+
+.clm_flexbox {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+}
+
+.cp-HeadingLink h3 {
+  background-image: url("/-/Media/Ricoh/Sites/jp_ricoh/sustainability/common/img/icon_m_right_01_white.png);
+}
+
+.tlSame01 a{
+  color: #333333;
+}
+
+#popup {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.thumb_txt_res{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: flex-start;
+}
+
+@media (max-width: 640px){
+  .dtl{
+    width: auto !important;
+  }
+  .thumb_txt_res {
+      display: block;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .clm1_pc {
+    display: none !important;
+  }
+  .clm1_sp {
+    display: block !important;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+  .clm_flexbox {
+      display: block; 
+      grid-template-columns: none; 
+      gap: 0; 
+  }
+}
+/* 表のCSS */
+.zero_carbon_society_initiative_table {
+  width: 100%;
+  border-top: 1px solid #999999;
+  border-left: 1px solid #999999;
+}
+
+.clm1 .clm table.zero_carbon_society_initiative_table th,
+.clm1 .clm table.zero_carbon_society_initiative_table td {
+  padding: 5px 16px;
+  border-right: 1px solid #999999;
+  border-bottom: 1px solid #999999;
+  vertical-align: top;
+}
+
+.clm1 .clm table.zero_carbon_society_initiative_table thead th,
+.clm1 .clm table.zero_carbon_society_initiative_table thead td {
+  padding: 6px 16px;
+  background: #709766;
+  text-align: center;
+  color: white;
+}
+
+.clm1 .clm table.zero_carbon_society_initiative_table tbody th {
+  padding: 5px 16px;
+  background: #e7eae1;
+  text-align: left;
+  border-right: 1px solid #999999;
+  border-bottom: 1px solid #999999;
+  vertical-align: top;
+  vertical-align: middle;
+}
+
+.clm1 .clm table.zero_carbon_society_initiative_table tbody td {
+  padding: 5px 16px;
+  text-align: left;
+  border-right: 1px solid #999999;
+  border-bottom: 1px solid #999999;
+  vertical-align: top;
+}
+.office_list {
+  list-style: disc;
+  padding: 5px 16px;
+  color: #bbc9ae;
+  display: flex;
+  gap: 25px;
+}
+.office_list_colum {
+  list-style: disc;
+  padding: 5px 16px;
+  color: #bbc9ae;
+  display: flex;
+  flex-direction: column;
+}
+.office_list li span,
+.office_list_colum span{
+  color: #333333;
+}
+.introduction_table td,
+.introduction_table th {
+  display: block;
+}
