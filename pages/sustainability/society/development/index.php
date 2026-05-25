@@ -1,0 +1,934 @@
+<?php
+declare(strict_types=1);
+require_once __DIR__ . '/../../../../base-url.php';
+rh_start_output_rewrite();
+?>
+<!DOCTYPE html><html lang="EN" class="js-on"><head>
+
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/CSS/sc_common.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/CSS/gl_header_localize.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/CSS/sc_common_us.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/css/common.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/css/gl_header.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/css/component.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/css/option.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/css/ex_component.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/css/template.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/css/conflict_clear.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/fancybox-v1.4.3/CSS/jquery.fancybox-1.3.4.css">
+
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/css/template-global-addition2024.css">
+
+
+    
+    
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Human Resource Development | Global | Ricoh</title>
+    <meta name="Description" content="[Ricoh Global Official Website] [Ricoh Global Official Website] Human Development">
+<meta property="og:title" content="Human Resource Development | Global | Ricoh">
+    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Sites/co_jp/products/human-resources-management/img/thumbnail.png?rev=11eef36191b44830a6664c2a995413bc&amp;hash=83D9A50CEBF15C19C0363B725E31FF24">
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="[Ricoh Global Official Website] Human Development">
+<meta property="og:url" content="https://www.ricoh.com/sustainability/society/development">
+    <meta property="og:site_name" content="Ricoh Global Website">
+    <meta property="og:country-name" content="Global">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@ricoh">
+
+<link rel="canonical" href="">
+
+
+<link rel="icon" type="image/vnd.microsoft.icon" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/ScAssets/System/Images/favicon.ico">
+<link rel="apple-touch-icon" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/ScAssets/System/Images/apple_icon.png">
+
+
+
+
+<script type="text/javascript" src="/ricoh-clone/ricoh_offline/assets/cdn.fonts.net/kit/3c059441-5218-4b9b-974d-a8185a3bd584/3c059441-5218-4b9b-974d-a8185a3bd584_enhanced.js" async=""></script>
+<link rel="stylesheet" type="text/css" href="/ricoh-clone/ricoh_offline/assets/cdn.fonts.net/kit/3c059441-5218-4b9b-974d-a8185a3bd584/3c059441-5218-4b9b-974d-a8185a3bd584_enhanced.css">
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/jquery.min.js"></script>
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/jquery.bxslider.min.js" defer=""></script>
+
+
+
+
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/bxslider/jquery.bxslider.css">
+
+
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/js/jquery-match-height.js" defer=""></script>
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/js/solution-product-template.js" defer=""></script>
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/Scripts/dist/lib/vendor.js"></script>
+
+
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/JS/common.js" defer=""></script>
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/css/import.css">
+
+
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/css/solution-product-template.css">
+
+
+
+
+
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/js/globalnavi.js" defer=""></script>
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/jquery.tile.js" defer=""></script>
+
+
+<script type="text/javascript" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/modal-for-video/jquery.magnific-popup.min.js" defer=""></script>
+<script type="text/javascript" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/modal-for-video/jquery.modal-for-video.js" defer=""></script>
+<script type="text/javascript" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/modal-for-video/youtube_modal_setting.js" defer=""></script>
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/modal-for-video/magnific-popup.css" charset="UTF-8">
+
+
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/js/common.vanilla.js" defer=""></script>
+
+
+
+</head>
+<body>
+    <div id="wrapper">
+        
+        
+        <header class="gl-header -horizontal">
+    <span class="hide"></span>
+    <div class="gl-header_inner">
+        <div class="gl-header_logo">
+            <a href="../../../"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/img/logo/logo.svg" alt="RICOH imagine. change." width="125" height="43"></a>
+        </div>
+
+        <div class="gl-header_menu">
+            <nav class="gl-menu js-global-menu" data-label="Menu" aria-label="Main navigation">
+                <div class="gl-menu_content fn-menu_hamburger-menu">
+                        <div class="gi-menu-globe">
+                            <a href="../../../gateway/" class="gi-menu_globe-btn">
+                                <span class="gi-menu_globe-txt">Country/Area Selector</span>
+                                <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/img/icon/globe.svg" class="gi-menu_globe-icon" alt="Change Country/Area">
+                            </a>
+                        </div>
+                                                            <a class="hide" href="#contents">Skip to main content</a>
+                    <span class="hide">First level navigation</span>
+                    <ul class="gl-menu_main">
+<li>
+<a href="../../../about/" class="{37791300-1D98-4601-A34E-687E71DCCA2E} gl-menu_link  fn-menu_main fn-current" aria-current="page"><span>About RICOH</span></a>
+
+</li>
+<li>
+<a href="../../../IR/" class="{419FD399-BE45-4B6F-A170-DDF4C563F180} gl-menu_link  fn-menu_main"><span>Investor Relations</span></a>
+
+</li>
+<li>
+<a href="../../" class="{1B1686A6-FFF5-472A-A359-7E48900444A1} gl-menu_link  fn-menu_main"><span>Sustainability</span></a>
+
+</li>
+<li>
+<a href="../../../products/" class="{C5764788-D65B-4D47-84F6-9EED5B48E30E} gl-menu_link  fn-menu_main"><span>Products</span></a>
+</li><li>
+<a href="../../../technology/" class="{269944AA-F9F1-450F-808A-5A0A25693389} gl-menu_link  fn-menu_main"><span>Technology</span></a>
+
+</li>
+<li>
+<a href="../../../support/" class="{CD078A07-1565-4DCA-8688-B247492DCA7B} gl-menu_link  fn-menu_main"><span>Support &amp; Downloads</span></a>
+</li><li>
+<a href="../../../news/" class="{0D2ED999-CA97-40DF-A541-17D96E4A0DF5} gl-menu_link  fn-menu_main"><span>News</span></a>
+
+</li>
+                    </ul>
+                </div>
+
+                <template class="fn-menu_tpl-hamburger">
+                    <button class="gl-menu_toggle-btn" data-alt-open="Open" data-alt-close="Close"><span class="hide">Menu</span></button>
+                </template>
+                <template class="fn-menu_tpl-back">
+                    <button class="gl-menu_back-btn">Home</button>
+                </template>
+                <template class="fn-menu_tpl-close">
+                    <button class="gl-menu_close-btn" data-alt-close="Close"></button>
+                </template>
+            </nav>
+        </div>
+
+        <div class="gl-header_utilities">
+                                                                            </div>
+    </div>
+</header>
+
+        <div id="contents" class="">
+            <div id="Main">
+                
+    <div class="breadcrumb breadcrumb--borderBottom">
+        <div class="breadcrumb__container">
+            <div class="breadcrumb__inner">
+                <ul class="breadcrumb__list">
+<li>
+<a href="../../../">Home</a>
+</li>
+<li>
+  <a href="../../">Sustainability</a>
+</li>
+<li>
+  <a href="../">Society</a>
+</li>
+                                <li class="act">
+                                    <span>Human Resource Development</span>
+                                </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+                
+                
+<div class="c-container">
+        <div class="c-h1-b" id="freepagetitle">
+        <div class="c-margin-b">
+            <div class="c-margin-b__inner">
+                    <h1 class="c-h1-b__text">
+                        Human Resource Development
+                    </h1>
+            </div>
+        </div>
+    </div>
+
+    <div class="fxb-section">
+<section class="c-ancLink-a">
+  <div class="c-margin-a">
+    <div class="c-margin-a__inner">
+      <ul class="c-ancLink-a__list">
+        <li class="c-ancLink-a__item">
+          <a href="#section01" class="c-ancLink-a__link">Policy and Basic Concept</a>
+        </li>
+          <li class="c-ancLink-a__item">
+          <a href="#section02" class="c-ancLink-a__link">Structures and Systems</a>
+        </li>
+        <li class="c-ancLink-a__item">
+          <a href="#section03" class="c-ancLink-a__link">Targets and Performance</a>
+        </li>
+        <li class="c-ancLink-a__item">
+          <a href="#section04" class="c-ancLink-a__link">Initiatives</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</section><section class="c-section " id="section01">
+    <div class="f-child">
+        <div class="c-margin-b">
+            <div class="c-margin-b__inner">
+                    <div class="c-h2-a">
+                        <h2 class="c-h2-a__text">Policy and Basic Concept</h2>
+                    </div>
+                    <div class="c-multiCol">
+        <div class="c-linkCard c-linkCard--col1 c-linkCard--col1-wide">
+            
+                <div class="c-linkCard__item c-linkCard__item--layout1">
+                    <div class="c-linkCard__inner">
+                                                    <div class="c-linkCard__textwrap">
+                                <div class="c-text-a">
+  <p class="c-text-a__text">Ricoh is entering a period of major changes that include transitioning from a manufacturer of office automation equipment to a digital services company and introducing a business unit structure. In line with these changes, it is essential for all employees to grow into "autonomous human resources" who think for themselves and move on their own following the guidelines of the "Ricoh Way", which is the basic philosophy of the Ricoh Group. At Ricoh, we are promoting the fostering of a corporate culture that makes the most of the work and career autonomy of each employee, individual and organization in the Group—even those that are resistant to change and diversity—through diverse training, multifaceted personnel evaluation systems, and a fulfilling career support system.</p><!-- テキストはここを編集 -->
+</div>
+
+                        <div class="c-article__lead u-mb-24">
+                          <!-- 背景色 -->
+                          <!-- グレー背景 ここから -->
+                          <div class="c-article__box c-article__box--sub">
+                            <div class="c-article__box__contents">
+                              <h3 class="c-article__box__title">Basic Policy on Human Resource Management by Function</h3>
+                              <div class="c-article__box__lead">
+                                <p>The development of an employee's abilities is based on the concept of self-improvement, and each employee is assisted in gaining useful expertise.<br>
+In order to achieve this, we have established the "Ricoh Group Education Policy" as follows.</p>
+                                <p class="u-mt-24">Ricoh Group Education Policy<br>
+Ricoh is committed to:</p>
+<ol>
+<li>Providing opportunities for all employees to grow to their fullest potential.</li>
+<li>Developing role model leaders with high performance who exemplify The RICOH Way.</li>
+<li>Cultivating executives and business/technical professionals who can contribute to the business performance in a global market.</li>
+</ol>
+                                <p>(Cited from Ricoh Group Standard Ricoh Group Human Resource Management Regulations Article 7. (updated on 2023.11.01)</p>
+                              </div>
+                            </div>
+                          </div>
+                          <!-- グレー背景 ここまで -->
+                        </div>
+                            </div>
+                                                    <div class="c-linkCard__imagewrap">
+                                
+                                    <div class="c-linkCard__image">
+                                            <div class="c-linkCard__imageInner c-linkCard__imageInner--noRatio">
+                                                <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/sustainability/society/development/img/img01_en.png" alt="The diagram illustrates the three pillars of the Ricoh Group's development policy: 1, Independence; 2, Growth; and 3, Joy at Work.">
+                                            </div>
+                                    </div>
+                            </div>
+                    </div>
+                </div>
+                                                        </div>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</section><section class="c-section " id="section02">
+    <div class="f-child">
+        <div class="c-margin-b">
+            <div class="c-margin-b__inner">
+                    <div class="c-h2-a">
+                        <h2 class="c-h2-a__text">Structures and Systems</h2>
+                    </div>
+                    <div class="c-multiCol">
+        <div class="c-linkCard c-linkCard--col1 c-linkCard--col1-wide">
+            
+                <div class="c-linkCard__item c-linkCard__item--layout2">
+                    <div class="c-linkCard__inner">
+                            <div class="c-linkCard__titlewrap">
+                                <div class="c-h3-a">
+                                    <h3 class="c-h3-a__text">Training system</h3>
+                                </div>
+                            </div>
+                                                    <div class="c-linkCard__textwrap">
+                                <div class="c-text-a">
+  <p class="c-text-a__text">The Ricoh Group has established a human resource development system based on the following two points to promote autonomous learning in the workplace and to develop human resources in line with management strategies. The system consists of "training by job title" and "training by purpose", so that employees can take the training programs necessary for their positions and job categories (Refer to the training system diagram below).<br>
+All employees, regardless of their positions or job titles, regularly attend programs designed to instill in them the values that they as Ricoh Group employees should possess. These programs cover topics such as "Ricoh Way" and "Customer Satisfaction" as well as the "digital human resources development" necessary in the process for Ricoh's transformation into a digital service company.</p><!-- テキストはここを編集 -->
+</div>
+
+<div class="c-h4-a u-align-center">
+  <h4 class="c-h4-a__text">The Ricoh Group training system</h4>
+</div>
+
+<div class="c-figure">
+  <div class="c-figure__inner">
+    <div class="c-figure__item">
+      <img alt="Training system diagram" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/sustainability/society/development/img/img02_en.png">
+    </div>
+  </div>
+</div>
+
+<div class="c-h4-a">
+  <h4 class="c-h4-a__text">Training programs by purpose</h4>
+</div>
+
+<div class="c-text-a">
+  <p class="c-text-a__text">We have established original training programs in line with Ricoh leadership, such as manager capability improvement and global executive selection education, together with external educational institutions. In addition, we provide programs for newly appointed managers and experts to acquire basic knowledge and management skills at the same time as their arrival at their new positions in order to ensure that they improve their capability from the time they start their new positions.</p><!-- テキストはここを編集 -->
+</div>
+
+<div class="c-h4-a">
+  <h4 class="c-h4-a__text">Digital talent development</h4>
+</div>
+
+<div class="c-text-a">
+  <p class="c-text-a__text">We opened the Ricoh Digital Academy in 2022. We designed the curriculum to encourage all Group employees to enhance their digital proficiencies and help create and accelerate digital services.  Ricoh Group has set a target in its 21st Mid-Term Management Plan (FY2023–FY2025) to increase the ratio of digital services sales to over 60%. In FY2023, the ratio stood at 48%, and it is on an upward trend, reaching 49% in FY2024. This growth is being driven by digital talent.<br>
+Referring to the “Digital Skill Standards” established by Japan’s Ministry of Economy, Trade and Industry and the Information-technology Promotion Agency (IPA), Ricoh Group has identified four key areas—Business Architects, Software Engineers, Data Scientists, and Cybersecurity Professionals—as priority talent categories. As part of its ESG goals under the 21st Mid-Term Plan, the Group set a target to develop 4,000 such professionals by FY2025. As of FY2024, the number of trained personnel reached 4,658, achieving the target ahead of schedule.</p><!-- テキストはここを編集 -->
+</div>
+                            </div>
+                                            </div>
+                </div>
+                                                        </div>
+    </div>
+
+    <div class="c-multiCol">
+        <div class="c-linkCard c-linkCard--col1 c-linkCard--col1-wide">
+            
+                <div class="c-linkCard__item c-linkCard__item--layout2">
+                    <div class="c-linkCard__inner">
+                            <div class="c-linkCard__titlewrap">
+                                <div class="c-h3-a">
+                                    <h3 class="c-h3-a__text">Personnel evaluation system</h3>
+                                </div>
+                            </div>
+                                                    <div class="c-linkCard__textwrap">
+                                <div class="c-text-a">
+  <p class="c-text-a__text">At the Ricoh Group, we aim to achieve both performance targets and ESG (Environmental, Social, and Governance) targets as management indicators. These indicators are linked to the daily activities and achievements of our employees. In our performance evaluation system, the Ricoh Group has adopted a goal management-type personnel evaluation system to provide appropriate treatment and personal distribution according to the achievements and abilities of employees, and to improve the growth of individual employees and the achievements of the organization.<br>
+In the six-month evaluation cycle, all permanent employees set goals at the beginning of the term then make efforts to achieve the goals through their daily work for their professional development. Finally, they look back on their achievements at the end of the term to receive an evaluation. The evaluation system incorporates not only individual performance objectives, but also self-directed actions and contributions to team achievements, aligning with the behavioral expectations set by the company. During this evaluation process, managers provide feedback and advice at work to their subordinates appropriately so that employees can achieve their goals and grow more accurately. In fiscal year 2024, 89.7% of global employees were covered by the evaluation system.</p><!-- テキストはここを編集 -->
+</div>
+                            </div>
+                                            </div>
+                </div>
+                                                        </div>
+    </div>
+
+    <div class="c-multiCol">
+        <div class="c-linkCard c-linkCard--col1 c-linkCard--col1-wide">
+            
+                <div class="c-linkCard__item c-linkCard__item--layout2">
+                    <div class="c-linkCard__inner">
+                            <div class="c-linkCard__titlewrap">
+                                <div class="c-h3-a">
+                                    <h3 class="c-h3-a__text">Long-term Incentive for Employees</h3>
+                                </div>
+                            </div>
+                                                    <div class="c-linkCard__textwrap">
+                                <div class="c-text-a">
+  <p class="c-text-a__text">At Ricoh, we provide the following long-term incentive systems to support the medium- to long-term development of our employees.</p><!-- テキストはここを編集 -->
+</div>
+
+<div class="c-h4-a">
+  <h4 class="c-h4-a__text">1. Retirement Benefits System</h4>
+</div>
+<div class="c-text-a">
+  <p class="c-text-a__text">At Ricoh, to support a more fulfilling post-retirement life for our employees, we have established a retirement benefits system utilizing defined benefit pension plans and defined contribution pension plans. This system allocates points based on the role and achievements of employees during their tenure, adopting a merit-based approach that fairly evaluates each individual's contributions. </p><!-- テキストはここを編集 -->
+</div>
+
+<div class="c-h4-a">
+  <h4 class="c-h4-a__text">2. Employee Stock Ownership Plan</h4>
+</div>
+<div class="c-text-a">
+  <p class="c-text-a__text">The Ricoh Employee Stock Ownership Plan assists employees in wealth formation by purchasing Ricoh shares with contributions deducted from their salaries and bonuses. Participation is voluntary, and an incentive of 15% of the contribution amount is provided by the company. This enables employees to aim for long-term asset formation.</p><!-- テキストはここを編集 -->
+</div>
+                            </div>
+                                            </div>
+                </div>
+                                                        </div>
+    </div>
+
+    <div class="c-multiCol">
+        <div class="c-linkCard c-linkCard--col1 c-linkCard--col1-wide">
+            
+                <div class="c-linkCard__item c-linkCard__item--layout2">
+                    <div class="c-linkCard__inner">
+                            <div class="c-linkCard__titlewrap">
+                                <div class="c-h3-a">
+                                    <h3 class="c-h3-a__text">Career support system</h3>
+                                </div>
+                            </div>
+                                                    <div class="c-linkCard__textwrap">
+                                <div class="c-text-a">
+  <p class="c-text-a__text">At the Ricoh Group, we support employees in autonomously shaping their career paths through regular one-on-one meetings with supervisors, goal-setting discussions, feedback sessions, and various career development initiatives. These efforts enable employees to understand the company’s direction, consider their own growth potential as well as opportunities to contribute to the Company, and pursue further success and skill enhancement within their current departments. When individual aspirations align with organizational needs, transfers to other departments may also be realized, thereby boosting their career development.<br>
+  Additionally, Ricoh Company, Ltd., as part of its commitment to autonomous career development, has established a system to support employees who choose to leave the company and pursue new career paths. Under certain conditions, eligible employees may receive a special retirement allowance and, upon request, access to reemployment support services.
+</p><!-- テキストはここを編集 -->
+</div>
+
+<div class="c-h4-a">
+  <h4 class="c-h4-a__text">Career design training</h4>
+</div>
+
+<div class="c-text-a">
+  <p class="c-text-a__text">The Ricoh Group offers two types of career design training programs: one tailored to age-specific challenges, with the other based on individual career needs and goals, regardless of age. This approach enables employees to select programs that best suit their personal career development objectives. We also distribute e-learning programs related to career design that all employees can use. It helps them easily experience the concept of career design.</p><!-- テキストはここを編集 -->
+</div>
+
+<div class="c-h4-a">
+  <h4 class="c-h4-a__text">In-house recruitment / in-house side business system</h4>
+</div>
+
+<div class="c-text-a">
+  <p class="c-text-a__text">Ricoh Co., Ltd. has introduced a system called "in-house recruitment" and "in-house side business" in order to foster a culture in which employees autonomously form their careers and strive to realize their career goals. "In-house recruitment" is a system that allows employees to apply for recruitment of departments looking for human resources on their own initiative. "In-house side business" is a system in which employees can use part of their working hours to take up the challenge of creating work, themes, activities, etc. that they want to try in the company in parallel with their main business. These systems encourage employees to take on challenges and provide opportunities for them to play an active role. They also contribute to the growth of both employees and the company because they lead to the mobilization of human resources across departments and the expansion of contribution areas of employees' talents.</p><!-- テキストはここを編集 -->
+</div>
+
+<div class="c-attention-a">
+  <ul class="c-attention-a__list">
+    <!-- item1 ここから -->
+    <li class="c-attention-a__item">
+      <div class="c-attention-a__marker">
+        <span>※</span>
+      </div>
+      <div class="c-attention-a__text">"In-house counseling" is an initiative only of Ricoh Co., Ltd.</div>
+    </li>
+    <!-- item1 ここまで -->
+  </ul>
+</div>
+                            </div>
+                                            </div>
+                </div>
+                                                        </div>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</section><section class="c-section " id="section03">
+    <div class="f-child">
+        <div class="c-margin-b">
+            <div class="c-margin-b__inner">
+                    <div class="c-h2-a">
+                        <h2 class="c-h2-a__text">Performance of human resource development</h2>
+                    </div>
+                    <div class="c-multiCol">
+        <div class="c-linkCard c-linkCard--col1 c-linkCard--col1-wide">
+            
+                <div class="c-linkCard__item c-linkCard__item--layout2">
+                    <div class="c-linkCard__inner">
+                                                    <div class="c-linkCard__textwrap">
+                                <div class="c-table c-table--scrollX">
+  <table>
+    <colgroup><!-- 各列の横幅を%で設定します(5%刻み) -->
+      <col class="c-table__col--w20p">
+      <col class="c-table__col--w20p">
+      <col class="c-table__col--w12p">
+      <col class="c-table__col--w12p">
+      <col class="c-table__col--w12p">
+      <col class="c-table__col--w12p">
+      <col class="c-table__col--w12p">
+      <col class="c-table__col--w12p">
+    </colgroup>
+    <!-- タイトル行 ここから -->
+    <thead>
+      <tr>
+        <th></th>
+        <th>Scope of Survey</th>
+        <th>unit</th>
+        <th>FY2021</th>
+        <th>FY2022</th>
+        <th>FY2023</th>
+        <th>FY2024</th>
+      </tr>
+    </thead>
+    <!-- タイトル行 ここまで -->
+    <tbody>
+      <!-- 行1 ここから -->
+      <tr>
+        <th>Total Training Hours</th>
+        <td class="u-align-center">Ricoh Group total<br>(Data coverage 100%)</td>
+        <td class="u-align-center">ten thousand hours</td>
+        <td class="u-align-right">-</td>
+        <td class="u-align-right">340.1</td>
+        <td class="u-align-right">410.5</td>
+        <td class="u-align-right">243.9</td>
+      </tr>
+      <!-- 行1 ここまで -->
+      <!-- 行2 ここから -->
+      <tr>
+        <th>Average hours of training &amp; development per employee</th>
+        <td class="u-align-center">Ricoh Group total<br>(Data coverage 100%)</td>
+        <td class="u-align-center">hour</td>
+        <td class="u-align-right">38.0</td>
+        <td class="u-align-right">25.6</td>
+        <td class="u-align-right">31.2</td>
+        <td class="u-align-right">33.0</td>
+      </tr>
+      <!-- 行2 ここまで -->
+      <!-- 行3 ここから -->
+      <tr>
+        <th>Average number of days per Employee<sup>*1</sup></th>
+        <td class="u-align-center">Ricoh Group total<br>(Data coverage 100%)</td>
+        <td class="u-align-center">day</td>
+        <td class="u-align-right">5.1</td>
+        <td class="u-align-right">3.4</td>
+        <td class="u-align-right">4.2</td>
+        <td class="u-align-right">4.4</td>
+      </tr>
+      <!-- 行3 ここまで -->
+      <!-- 行4 ここから -->
+      <tr>
+        <th>Average amount spent on training &amp; development per employee</th>
+        <td class="u-align-center">Ricoh Group total<br>(Data coverage 100%)</td>
+        <td class="u-align-center">JPY</td>
+        <td class="u-align-right">90,712</td>
+        <td class="u-align-right">91,943</td>
+        <td class="u-align-right">95,594</td>
+        <td class="u-align-right">102,994</td>
+      </tr>
+      <!-- 行4 ここまで -->
+    </tbody>
+  </table>
+</div>
+
+<div class="c-attention-a">
+  <ul class="c-attention-a__list">
+    <!-- item1 ここから -->
+    <li class="c-attention-a__item">
+      <div class="c-attention-a__marker">
+        <span>※1</span>
+      </div>
+      <div class="c-attention-a__text">Figures are calculated by dividing the average training hours per employee by the standard working hours of 7.5 hours at the Tokyo head office.</div>
+    </li>
+    <!-- item1 ここまで -->
+  </ul>
+</div>
+                            </div>
+                                            </div>
+                </div>
+                                                        </div>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</section><section class="c-section " id="section04">
+    <div class="f-child">
+        <div class="c-margin-b">
+            <div class="c-margin-b__inner">
+                    <div class="c-h2-a">
+                        <h2 class="c-h2-a__text">Initiatives</h2>
+                    </div>
+                    <div class="c-multiCol">
+        <div class="c-linkCard c-linkCard--col1 c-linkCard--col1-wide">
+            
+                <div class="c-linkCard__item c-linkCard__item--layout2">
+                    <div class="c-linkCard__inner">
+                            <div class="c-linkCard__titlewrap">
+                                <div class="c-h3-a">
+                                    <h3 class="c-h3-a__text">Manager training (Management Basic/Management College)</h3>
+                                </div>
+                            </div>
+                                                    <div class="c-linkCard__textwrap">
+                                <div class="c-text-a">
+  <p class="c-text-a__text">The Ricoh Group in Japan provides Management Basic training program to newly appointed managers and experts to encourage them to acquire the necessary knowledge and skills within one month of assuming their new positions. To achieve ongoing organizational goals, we aim to maximize the capabilities of the organization managers are entrusted with. To improve practical skills, we provide training in accounting, appropriate disclosure of corporate information, basic business management, and fundamental CS knowledge. To create a psychologically safe work environment for their members, we provide personnel and labor management training, daily management to prevent overwork, and mental health education, offering more practical content alongside management skills training.To support members' self-motivated growth, we also provide education on people management and 1-on-1 meetings to ensure the acquisition of basic knowledge and skills as a manager.<br>
+After acquiring the basic knowledge and skills through management basics, all managers participate in the Management College program, where they learn about the roles of managers, interview skills (1-on-1), performance evaluation and feedback, and management skills that leverage psychological safety and individual strengths.<br>
+This deepens trust with subordinates, enhances their motivation, and supports their growth, aiming for management transformation and organizational strength enhancement. By putting it into practice in the workplace, we aim to elevate the entire team and realize a highly productive work environment. Additionally, to connect the employee experience with the fulfillment of work, managers continuously participate in DEI (Diversity, Equity, and Inclusion) training and awareness activities.</p><!-- テキストはここを編集 -->
+</div>
+
+<div class="c-h4-a">
+  <h4 class="c-h4-a__text">Effects and Achievements </h4>
+</div>
+<div class="c-text-a">
+  <p class="c-text-a__text">In fiscal year 2024, approximately 2,200 employees, accounting for 8% of the workforce in group company's in Japan , participated in and completed the Management College program.<br>
+These initiatives have yielded positive results in the 2024 fiscal year's 360-degree feedback evaluations, with a 1% improvement in empowerment towards subordinates, a 1% improvement in Human Resource development skill and a 1.3% improvement in Basic attitude. Additionally, based on the results of the engagement survey, the percentage of respondents indicating "fully engaged" has increased by 1% compared to the previous year. This indicates that the enhancement of managerial skills is consistently leading to improved employee satisfaction.</p><!-- テキストはここを編集 -->
+</div>
+
+<div class="c-h4-a">
+  <h4 class="c-h4-a__text">Process DX Human Resource Development</h4>
+</div>
+<div class="c-text-a">
+  <p class="c-text-a__text">The Ricoh Group is collectively working on "Process DX," which involves defining a "model" that uses digital technology and data to reform business processes in a standardized and efficient manner, and implementing reforms based on this model. We have developed a Process DX human resource development program that equips employees with the skills needed to practice Process DX.<br>
+This program is designed to certify skills at four levels, with each level's certification being visualized according to skill. As of March 2025, approximately 16,700 employees in the domestic Ricoh Group have completed basic level training, and around 2,700 employees have contributed to process transformation achievements.<br>
+By autonomously utilizing this program, each employee not only improves their own work productivity but also enhances their motivation towards their tasks.<br>
+Customer value through examples of process improvements practiced within the Ricoh Group, we offer opportunities for business expansion and contribution.</p><!-- テキストはここを編集 -->
+</div>
+
+<div class="c-h4-a">
+  <h4 class="c-h4-a__text">Effects and Achievements</h4>
+</div>
+<div class="c-text-a">
+  <p class="c-text-a__text">As a result of implementing process DX, we have generated approximately 1,300,000 hours per year (equivalent to the annual working hours of about 720 people) and shifted resources to growth areas. Since fiscal year 2022, based on our experience and know-how in practicing process DX internally, we have been providing services to solve customers' issues together with them, and have achieved numerous results. As of March 2025, approximately 16,700 employees, 56% of employees in Japan (98% excluding sales companies), have participated in this program and completed basic level training.</p><!-- テキストはここを編集 -->
+</div>
+                            </div>
+                                            </div>
+                </div>
+                                                        </div>
+    </div>
+
+    <div class="c-multiCol">
+        <div class="c-linkCard c-linkCard--col1 c-linkCard--col1-wide">
+            
+                <div class="c-linkCard__item c-linkCard__item--layout1">
+                    <div class="c-linkCard__inner">
+                            <div class="c-linkCard__titlewrap">
+                                <div class="c-h3-a">
+                                    <h3 class="c-h3-a__text">New employee training</h3>
+                                </div>
+                            </div>
+                                                    <div class="c-linkCard__textwrap">
+                                <div class="c-text-a">
+  <p class="c-text-a__text">According to a survey by the Ministry of Health, Labour and Welfare, there is data showing that 38.4% of new employees leave their jobs within three years. (As of October 2024)<br>
+The Ricoh Group provides training for new employees both during the prospective employee period and after joining the company so that they can engage in their duties with confidence, embody Ricoh's corporate philosophy, 'The Ricoh Way,' and play their roles actively.<br>
+During the prospective employee period, with e-learning they learn the "work etiquette" that they should acquire as a businessperson and the "logical thinking" that is the basis of how to proceed with work. After joining the company, new employee training focuses on fostering "autonomous thinking and action" ,“Self-awareness” and “Communication skills” and through more practical training, cultivates the skills and confidence needed to be successful in the fields. In fiscal year 2025, the Ricoh Group in Japan provided training to all 523 new hires, achieving a 100% implementation rate.<br>
+In addition, Ricoh Co., Ltd. supports the growth of new employees by conducting follow-up training every year for up to three years after joining the company.<br>
+As a result, the retention rate at the three-year mark has remained above 90%, and the engagement survey results among employees in their 20s show a high level of "fully engaged" individuals at 36%, compared to the overall average of 25%.</p><!-- テキストはここを編集 -->
+</div>
+
+<div class="c-attention-a">
+  <ul class="c-attention-a__list">
+    <!-- item1 ここから -->
+    <li class="c-attention-a__item">
+      <div class="c-attention-a__marker">
+        <span>※</span>
+      </div>
+      <div class="c-attention-a__text"> Specific training content and schedule depends on the company to which they are assigned.</div>
+    </li>
+    <!-- item1 ここまで -->
+  </ul>
+</div>
+                            </div>
+                                            </div>
+                </div>
+                                                        </div>
+    </div>
+
+    <div class="c-multiCol">
+        <div class="c-linkCard c-linkCard--col1 c-linkCard--col1-wide">
+            
+                <div class="c-linkCard__item c-linkCard__item--layout2">
+                    <div class="c-linkCard__inner">
+                            <div class="c-linkCard__titlewrap">
+                                <div class="c-h3-a">
+                                    <h3 class="c-h3-a__text">Employee degree / certification acquisition support system</h3>
+                                </div>
+                            </div>
+                                                    <div class="c-linkCard__textwrap">
+                                <div class="c-text-a">
+  <p class="c-text-a__text">To help employees grow into "autonomous human resources", the Ricoh Group has systems to support the learning of employees.<br>
+For example, we provide training throughout the year to improve employees' business skills and strengthen their global responsiveness, such as carrying out lectures to pass the PMP® exam, which is a qualification for project management.<br>
+In addition, Ricoh Co., Ltd. also operates a "skill-up support special long-term leave system" that allows all permanent employees* to take long-term leave to acquire business qualifications like degrees from graduate schools, MBAs, and MOTs in Japan and overseas.</p><!-- テキストはここを編集 -->
+</div>
+
+<div class="c-attention-a">
+  <ul class="c-attention-a__list">
+    <!-- item1 ここから -->
+    <li class="c-attention-a__item">
+      <div class="c-attention-a__marker">
+        <span>※</span>
+      </div>
+      <div class="c-attention-a__text">Excludes part-time and contract employees, as well as those known to be leaving the company within one year.</div>
+    </li>
+    <!-- item1 ここまで -->
+  </ul>
+</div>
+                            </div>
+                                            </div>
+                </div>
+                                                        </div>
+    </div>
+
+    <div class="c-multiCol">
+        <div class="c-linkCard c-linkCard--col1 c-linkCard--col1-wide">
+            
+                <div class="c-linkCard__item c-linkCard__item--layout2">
+                    <div class="c-linkCard__inner">
+                            <div class="c-linkCard__titlewrap">
+                                <div class="c-h3-a">
+                                    <h3 class="c-h3-a__text">Talent management </h3>
+                                </div>
+                            </div>
+                                                    <div class="c-linkCard__textwrap">
+                                <div class="c-text-a">
+  <p class="c-text-a__text">Ricoh Co., Ltd. is promoting a system in which employees register their skills, careers, and tasks they want to challenge as well as their hobbies and interests in the human resources database. By centrally visualizing and analyzing the collected in-house human resources data, the company can grasp what kind of human resources are in the company and utilize them for personnel strategy. We also utilize collected information for in-house job offers taking skills and backgrounds of employees into account, training support to further develop individual strengths, and promotion of communication between employees based on each other's skills and backgrounds. In addition, by linking with the above-mentioned in-house recruitment and side business system, the data is also utilized for matching works that employees want to challenge with the in-house posts.</p><!-- テキストはここを編集 -->
+</div>
+                            </div>
+                                            </div>
+                </div>
+                                                        </div>
+    </div>
+
+    <div class="c-multiCol">
+        <div class="c-linkCard c-linkCard--col1 c-linkCard--col1-wide">
+            
+                <div class="c-linkCard__item c-linkCard__item--layout2">
+                    <div class="c-linkCard__inner">
+                            <div class="c-linkCard__titlewrap">
+                                <div class="c-h3-a">
+                                    <h3 class="c-h3-a__text">Industry-government-academia collaboration</h3>
+                                </div>
+                            </div>
+                                                    <div class="c-linkCard__textwrap">
+                                <div class="c-text-a">
+  <p class="c-text-a__text">Ricoh Co., Ltd. strengthens industry-academia collaboration activities by participating in government R &amp; D projects and concluding comprehensive collaboration with research institutes such as universities. Through these activities, we aim to return our knowledge to society, develop new technologies and provide employees with opportunities to learn.The development of joint training programs based on these partnerships deepens employee learning.<br>
+For example, Ricoh Co., Ltd. started our next-generation digital printing technology joint research course with Tokyo Institute of Technology in 2019. We carry out basic research specializing in elemental technologies that are the core of next-generation digital printing technology. We also conduct research activities focusing on inkjet technology that leads to high-speed and high-resolution image formation technology.<br>
+Ricoh Co., Ltd. is also actively engaged in public-private partnerships, and regularly seconds employees who want to ecperience working in public institutions. It is a great career advantage for an employee to experience work that is not available within our company and interacting with the people in government offices contributes to the expansion in an employee's range of knowledge and insight.</p><!-- テキストはここを編集 -->
+</div>
+                            </div>
+                                            </div>
+                </div>
+                                                        </div>
+    </div>
+
+    <div class="c-multiCol">
+        <div class="c-linkCard c-linkCard--col1 c-linkCard--col1-wide">
+            
+                <div class="c-linkCard__item c-linkCard__item--layout2">
+                    <div class="c-linkCard__inner">
+                            <div class="c-linkCard__titlewrap">
+                                <div class="c-h3-a">
+                                    <h3 class="c-h3-a__text">Cross-Company Mentoring Program</h3>
+                                </div>
+                            </div>
+                                                    <div class="c-linkCard__textwrap">
+                                <div class="c-text-a">
+  <p class="c-text-a__text">Ricoh Company, Ltd. has been participating in a cross-industry “Cross-Mentoring Program” since FY2024, with the aim of closing the gender gap. In this program, mentors and mentees from different companies and industries interact, enabling female managers and executives to learn from one another beyond corporate boundaries. This initiative not only promotes gender equality but also contributes to cultural transformation within companies and revitalization of organizations.<br>
+For more details:<br></p><!-- テキストはここを編集 -->
+</div>
+
+<a href="https://jp.ricoh.com/info/2025/0529_2" class="c-link-a icon-hidden">
+    <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
+    <span class="c-link-a__text">” Ricoh Group has implemented a cross-industry cross-mentoring program for two consecutive years to support autonomous career development and promote the elimination of the gender gap.”</span>
+</a>
+                            </div>
+                                            </div>
+                </div>
+                                                        </div>
+    </div>
+
+    <div class="c-multiCol">
+        <div class="c-linkCard c-linkCard--col1 c-linkCard--col1-wide">
+            
+                <div class="c-linkCard__item c-linkCard__item--layout2">
+                    <div class="c-linkCard__inner">
+                            <div class="c-linkCard__titlewrap">
+                                <div class="c-h3-a">
+                                    <h3 class="c-h3-a__text">Promoting Understanding of DEI</h3>
+                                </div>
+                            </div>
+                                                    <div class="c-linkCard__textwrap">
+                                <div class="c-text-a">
+  <p class="c-text-a__text">The Ricoh Group holds the “Ricoh Global SDGs Action Month” every June. In FY2024, the theme was understanding and practicing DEI (Diversity, Equity, and Inclusion), and a wide range of programs were implemented across the globe to support this action month.<br>
+During this period, various internal events, workshops, and case studies were conducted to deepen employees’ understanding of different cultural backgrounds and values. These initiatives aimed to raise awareness of DEI and contributed to building a corporate culture that respects diversity across countries and regions.<br>
+For more details:</p><!-- テキストはここを編集 -->
+</div>
+
+<a href="../../../info/2024/0531_2/" class="c-link-a icon-hidden">
+    <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
+    <span class="c-link-a__text">“Ricoh declares June as Global SDGs Action Month<br>
+Raising employee awareness towards diversity, equity, inclusion and undertaking DEI initiatives to accelerate SDGs Action-business alignment”</span>
+</a>
+                            </div>
+                                            </div>
+                </div>
+                                                        </div>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</section><section class="c-section c-section--gray" id="section05">
+    <div class="f-child">
+        <div class="c-margin-b">
+            <div class="c-margin-b__inner">
+                    <div class="c-h2-a">
+                        <h2 class="c-h2-a__text">Related Content</h2>
+                    </div>
+                    <div class="c-text-a">
+        <div class="c-linkTile c-linkTile--col2">
+  <div class="c-linkTile__inner">
+    <!-- item1 ここから -->
+    <a href="../labor/" class="c-linkTile__item c-linkTile__item--noImage">
+      <div class="c-linkTile__content">
+        <div class="c-linkTile__heading">
+          <div class="c-text-a c-text-a--thin">
+            <span class="c-text-a__text u-font-bold">Ricoh Way and Human Resource Management</span>
+          </div>
+        </div>
+      </div>
+    </a>
+    <!-- item1 ここまで -->
+  </div>
+</div>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</section></div>
+    
+</div>
+
+            </div>
+        </div>
+        
+            <div class="breadcrumb breadcrumb--borderTop">
+                <div class="breadcrumb__container">
+                    <div class="breadcrumb__inner">
+                        <ul class="breadcrumb__list">
+<li>
+<a href="../../../">Home</a>
+</li>
+<li>
+  <a href="../../">Sustainability</a>
+</li>
+<li>
+  <a href="../">Society</a>
+</li>
+                            <li class="act">
+                                <span>Human Resource Development</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+        <footer class="gl-footer">
+  <div class="gl-footer-link-area">
+    <div class="gl-footer-link-area_inner">
+      <div class="gl-footer-link-area-pc">
+        <div class="gl-footer-link-area-pc_list">
+          <div class="gl-footer-link-area-pc_item">
+            <a href="../../../about/" class="gl-footer-link-area-pc_link-hdg">About RICOH</a>
+            <ul class="gl-footer-link-area-pc_link-list">
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../about/">Vision</a></li>
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../about/">Company Overview</a></li>
+              </ul>
+          </div>
+          <div class="gl-footer-link-area-pc_item">
+            <a href="../../../IR/" class="gl-footer-link-area-pc_link-hdg">Investor Relations</a>
+            <ul class="gl-footer-link-area-pc_link-list">
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../IR/news/">IR News</a></li>
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../IR/events/investors-meeting/">Corporate Strategy Meeting</a></li>
+              </ul>
+          </div>
+          <div class="gl-footer-link-area-pc_item">
+            <a href="../../" class="gl-footer-link-area-pc_link-hdg">Sustainability</a>
+            <ul class="gl-footer-link-area-pc_link-list">
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../environment/">Environment</a></li>
+              <li class="gl-footer-link-area-pc_link-item"><a href="../">Society</a></li>
+              </ul>
+            </div>
+          <div class="gl-footer-link-area-pc_item">
+            <a href="../../../technology/" class="gl-footer-link-area-pc_link-hdg">Technology</a>
+            <ul class="gl-footer-link-area-pc_link-list">
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../technology/rd/">Development</a></li>
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../technology/tech/">Ricoh's Technology</a></li>
+              </ul>
+            </div>
+          <div class="gl-footer-link-area-pc_item">
+            <a href="../../../news/" class="gl-footer-link-area-pc_link-hdg">News</a>
+            <ul class="gl-footer-link-area-pc_link-list">
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../release/">News Release</a></li>
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../info/">Information</a></li>
+              </ul>
+          </div>
+        </div>
+      </div>
+      <div class="gl-footer-link-area-sp">
+        <ul class="gl-footer-link-area-sp_list">
+          <li class="gl-footer-link-area-sp_item"><a href="../../../about/">About RICOH</a></li>
+          <li class="gl-footer-link-area-sp_item"><a href="../../../IR/">Investor Relations</a></li>
+          <li class="gl-footer-link-area-sp_item"><a href="../../">Sustainability</a></li>
+          <li class="gl-footer-link-area-sp_item"><a href="../../../technology/">Technology</a></li>
+          <li class="gl-footer-link-area-sp_item"><a href="../../../news/">News</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="gl-footer-area-01">
+    <div class="gl-footer-area-01_inner">
+      <div class="gl-footer-pageTop">
+        <a href="#top" class="gl-footer-pageTop_link js-top-button">Page Top</a>
+      </div>
+    </div><!-- /.gl-footer-area-01_inner -->
+  </div><!-- /.gl-footer-area-01 -->
+  <div class="gl-footer-area-02">
+    <div class="gl-footer-area-02_inner">
+      <div class="gl-footer-area-02_wrap">
+        <span class="hide">ここからこのサイトのサブメニュー</span>
+        <div class="gl-footer-utility">
+          <ul class="gl-footer-utility_inner">
+            <li class="gl-footer-utility_item"><a href="../../../contact/" class="gl-footer-utility_link">Contact</a></li>
+            <li class="gl-footer-utility_item"><a href="../../../privacy/" class="gl-footer-utility_link">Privacy policy</a></li>
+            <li class="gl-footer-utility_item"><a href="../../../terms-of-use/" class="gl-footer-utility_link">Terms of use</a></li>
+            <li class="gl-footer-utility_item"><a href="../../../terms-of-use/accessibility/" class="gl-footer-utility_link">Accessibility</a></li>
+            <li class="gl-footer-utility_item"><a href="../../../sitemap/" class="gl-footer-utility_link">Sitemap</a></li>
+            <li class="gl-footer-utility_item">
+            </ul>
+        </div><!-- /.gl-footer-utility -->
+        <div class="gl-footer-copyright">
+          <div class="gl-footer-copyright_inner">
+            <small class="gl-footer-copyright_text">©&nbsp;Ricoh</small>
+          </div>
+        </div><!-- /.gl-footer-copyright -->
+      </div><!-- /.gl-footer-area-02_wrap -->
+    </div><!-- /.gl-footer-area-02_inner -->
+  </div><!-- /.gl-footer-area-02 -->
+</footer><!-- /.gl-footer -->
+        <div class="cp-PageTop smoothScroll" style="display: none;">
+            <a class="ver" href="#wrapper" aria-label="Page Top">PAGE TOP</a>
+        </div>
+        
+
+    
+
+<script type="text/javascript">
+!(function () {
+var G = (GALFSRAM = window.GALFSRAM || {});
+G.mfx = G.mfx || {};
+G.mfx.router_mode = "history";
+})();
+</script>
+</div>
+
+
+        
+
+<!-- RICOH_PAGE_SCRIPTS -->
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/jquery.min.js"></script>
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/JS/common.js"></script>
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/js/init.js"></script>
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/js/template.js"></script>
+</body></html>

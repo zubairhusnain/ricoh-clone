@@ -1,0 +1,1300 @@
+<?php
+declare(strict_types=1);
+require_once __DIR__ . '/../../../../../base-url.php';
+rh_start_output_rewrite();
+?>
+<!DOCTYPE html><html lang="EN" class="js-on"><head>
+
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/CSS/sc_common.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/CSS/gl_header_localize.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/CSS/sc_common_us.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/css/common.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/css/gl_header.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/css/component.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/css/option.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/css/ex_component.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/css/template.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/css/conflict_clear.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/fancybox-v1.4.3/CSS/jquery.fancybox-1.3.4.css">
+
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/css/template-global-addition2024.css">
+
+
+    
+    
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Commitment and Recognition | Global | Ricoh</title>
+    <meta name="Description" content="[Ricoh Global Official Website] To effectively communicate its corporate stance and business activities, the Ricoh Group introduces a combined report covering on economy, society, and the environment.">
+<meta property="og:title" content="Commitment and Recognition | Global | Ricoh">
+    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&amp;hash=9DB561AD22E96D26590C1574F15A7B50">
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="To effectively communicate its corporate stance and business activities, the Ricoh Group introduces a combined report covering on economy, society, and the environment.">
+<meta property="og:url" content="https://www.ricoh.com/about/integrated-report/data/commitment">
+    <meta property="og:site_name" content="Ricoh Global Website">
+    <meta property="og:country-name" content="Global">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@ricoh">
+
+<link rel="canonical" href="">
+
+
+<link rel="icon" type="image/vnd.microsoft.icon" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/ScAssets/System/Images/favicon.ico">
+<link rel="apple-touch-icon" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/ScAssets/System/Images/apple_icon.png">
+
+
+
+
+<script type="text/javascript" src="/ricoh-clone/ricoh_offline/assets/cdn.fonts.net/kit/3c059441-5218-4b9b-974d-a8185a3bd584/3c059441-5218-4b9b-974d-a8185a3bd584_enhanced.js" async=""></script>
+<link rel="stylesheet" type="text/css" href="/ricoh-clone/ricoh_offline/assets/cdn.fonts.net/kit/3c059441-5218-4b9b-974d-a8185a3bd584/3c059441-5218-4b9b-974d-a8185a3bd584_enhanced.css">
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/jquery.min.js"></script>
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/jquery.bxslider.min.js" defer=""></script>
+
+
+
+
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/bxslider/jquery.bxslider.css">
+
+
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/js/jquery-match-height.js" defer=""></script>
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/js/solution-product-template.js" defer=""></script>
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/Scripts/dist/lib/vendor.js"></script>
+
+
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/JS/common.js" defer=""></script>
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/css/import.css">
+
+
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/css/solution-product-template.css">
+
+
+
+
+
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/js/globalnavi.js" defer=""></script>
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/jquery.tile.js" defer=""></script>
+
+
+<script type="text/javascript" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/modal-for-video/jquery.magnific-popup.min.js" defer=""></script>
+<script type="text/javascript" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/modal-for-video/jquery.modal-for-video.js" defer=""></script>
+<script type="text/javascript" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/modal-for-video/youtube_modal_setting.js" defer=""></script>
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/modal-for-video/magnific-popup.css" charset="UTF-8">
+
+
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/js/common.vanilla.js" defer=""></script>
+
+
+
+</head>
+<body style="">
+    <div id="wrapper">
+        
+        
+        <header class="gl-header -horizontal">
+    <span class="hide"></span>
+    <div class="gl-header_inner">
+        <div class="gl-header_logo">
+            <a href="../../../../"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/img/logo/logo.svg" alt="RICOH imagine. change." width="125" height="43"></a>
+        </div>
+
+        <div class="gl-header_menu">
+            <nav class="gl-menu js-global-menu" data-label="Menu" aria-label="Main navigation">
+                <div class="gl-menu_content fn-menu_hamburger-menu">
+                        <div class="gi-menu-globe">
+                            <a href="../../../../gateway/" class="gi-menu_globe-btn">
+                                <span class="gi-menu_globe-txt">Country/Area Selector</span>
+                                <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/img/icon/globe.svg" class="gi-menu_globe-icon" alt="Change Country/Area">
+                            </a>
+                        </div>
+                                                            <a class="hide" href="#contents">Skip to main content</a>
+                    <span class="hide">First level navigation</span>
+                    <ul class="gl-menu_main">
+<li>
+<a href="../../../" class="{37791300-1D98-4601-A34E-687E71DCCA2E} gl-menu_link  fn-menu_main fn-current" aria-current="page"><span>About RICOH</span></a>
+
+</li>
+<li>
+<a href="../../../../IR/" class="{419FD399-BE45-4B6F-A170-DDF4C563F180} gl-menu_link  fn-menu_main"><span>Investor Relations</span></a>
+
+</li>
+<li>
+<a href="../../../../sustainability/" class="{1B1686A6-FFF5-472A-A359-7E48900444A1} gl-menu_link  fn-menu_main"><span>Sustainability</span></a>
+
+</li>
+<li>
+<a href="../../../../products/" class="{C5764788-D65B-4D47-84F6-9EED5B48E30E} gl-menu_link  fn-menu_main"><span>Products</span></a>
+</li><li>
+<a href="../../../../technology/" class="{269944AA-F9F1-450F-808A-5A0A25693389} gl-menu_link  fn-menu_main"><span>Technology</span></a>
+
+</li>
+<li>
+<a href="../../../../support/" class="{CD078A07-1565-4DCA-8688-B247492DCA7B} gl-menu_link  fn-menu_main"><span>Support &amp; Downloads</span></a>
+</li><li>
+<a href="../../../../news/" class="{0D2ED999-CA97-40DF-A541-17D96E4A0DF5} gl-menu_link  fn-menu_main"><span>News</span></a>
+
+</li>
+                    </ul>
+                </div>
+
+                <template class="fn-menu_tpl-hamburger">
+                    <button class="gl-menu_toggle-btn" data-alt-open="Open" data-alt-close="Close"><span class="hide">Menu</span></button>
+                </template>
+                <template class="fn-menu_tpl-back">
+                    <button class="gl-menu_back-btn">Home</button>
+                </template>
+                <template class="fn-menu_tpl-close">
+                    <button class="gl-menu_close-btn" data-alt-close="Close"></button>
+                </template>
+            </nav>
+        </div>
+
+        <div class="gl-header_utilities">
+                                                                            </div>
+    </div>
+</header>
+
+        <div id="contents" class="">
+            <div id="Main">
+                
+    <div class="breadcrumb breadcrumb--borderBottom">
+        <div class="breadcrumb__container">
+            <div class="breadcrumb__inner">
+                <ul class="breadcrumb__list">
+                                    <li>
+                                        <a href="../../../../">Home</a>
+                                    </li>
+                                    <li>
+                                        <a href="../../../">About Ricoh</a>
+                                    </li>
+                                    <li>
+                                        <a href="../../2024/">Integrated Report</a>
+                                    </li>
+                            <li class="act">
+                                <span>Commitment and Recognition</span>
+                            </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+                
+                
+<div class="c-container">
+        <div class="c-h1-b" id="freepagetitle">
+        <div class="c-margin-b">
+            <div class="c-margin-b__inner">
+                    <h1 class="c-h1-b__text">
+                        Commitment and Recognition
+                    </h1>
+            </div>
+        </div>
+    </div>
+
+    <div class="fxb-section">
+<section class="c-ancLink-a">
+  <div class="c-margin-a">
+    <div class="c-margin-a__inner">
+      <ul class="c-ancLink-a__list">
+        <li class="c-ancLink-a__item"><a href="#society" class="c-ancLink-a__link">Commitment to Society</a></li>
+        <li class="c-ancLink-a__item"><a href="#esg-index" class="c-ancLink-a__link">ESG Index Inclusion and Recognition</a></li>
+        <li class="c-ancLink-a__item"><a href="#awards" class="c-ancLink-a__link">Major Awards</a></li>
+      </ul>
+    </div>
+  </div>
+</section><section class="c-section " id="society">
+    <div class="f-child">
+        <div class="c-margin-b">
+            <div class="c-margin-b__inner">
+                    <div class="c-h2-a">
+                        <h2 class="c-h2-a__text">Commitment to Society</h2>
+                    </div>
+                    <div class="c-multiCol">
+        <div class="c-linkCard c-linkCard--col1 c-linkCard--col1-wide">
+            
+                <div class="c-linkCard__item c-linkCard__item--layout1">
+                    <div class="c-linkCard__inner">
+                                                    <div class="c-linkCard__textwrap">
+                                <div class="c-text-a">
+  <p class="c-text-a__text">A signatory to international agreements and policy guidelines, the Ricoh Group is fully committed to achieving a sustainable society.</p>
+</div>
+<div class="c-table c-table--sell-thin c-table--scrollX-sp">
+  <table data-sp-table-width="640">
+    <colgroup>
+      <col class="c-table__col--w20p">
+      <col class="c-table__col--w80p">
+    </colgroup>
+    <tbody>
+      <tr>
+        <th>April 2002</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Becomes the second Japanese company to sign the UN Global Compact</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>June 2007</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Signs Caring for Climate: The Business Leadership Platform of the UN Global Compact</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>May 2008</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Signs the Japan Business Initiative for Biodiversity</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>December 2008</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Signs the CEO Statement for the 60th Anniversary of the Universal Declaration of Human Rights by the UN (Ricoh)</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>July 2009</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Participates in the Japan Climate Leaders' Partnership as a founding member</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>December 2010</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Announces its support for The Cancun Communiqué on Climate Change</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>February 2011</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Signs a statement of support for the Women's Empowerment Principles by the UN Global Compact</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>November 2012</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Announces its support for The Carbon Price Communiqué to counter climate change</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>September 2014</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Announces its endorsement of the Initiative to Support the World Bank Group's Carbon Pricing</li>
+            <li class="c-list-disc-a__item c-list-disc-a__item--black u-mt-8">Announces its support for The Trillion Tonne Communiqué, a call to keep cumulative CO<sub>2</sub> emissions below a trillion tonnes</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>February 2017</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Joins Ikuboss Alliance (Ricoh Japan)</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>April 2017</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Becomes the first Japanese company to join the RE100, a collaborative, global initiative of influential businesses</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>August 2018</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Commits to recommendations of Task Force on Climate-Related Financial Disclosures</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>October 2018</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Signs Japan Climate Action Summit declaration</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>November 2018</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Joins Ikuboss Alliance (Ricoh Industrial Solutions)</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>August 2019</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">The first Japanese company to participate in the Business for Inclusive Growth initiative (Ricoh)</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>November 2019</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Joins the Responsible Business Alliance, the world's largest industry coalition dedicated to CSR in global supply chains</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>December 2019</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Registered as ZEB (Net Zero Energy Building) leading owner (Ricoh Japan)</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>January 2020</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Joins Ikuboss Alliance (Ricoh)<br>2017: Ricoh Japan/2018: Ricoh Industrial Solutions</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>March 2020</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Science Based Targets Initiative approves Ricoh's new environmental goals which align with their 1.5°C criteria</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>June 2020</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Endorsed uniting businesses and governments to better recover from COVID-19</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>November 2020</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Joins 30% Club Japan aiming to increase the ratio of woman executives in Japan</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>March 2021</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">joins World Intellectual Property Organization (WIPO) GREEN of the United Nations as a contributing partner</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>April 2022</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Participates in the 30 by 30 Alliance for Biodiversity</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>June 2024</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Endorsed the Taskforce on Nature-related Financial Disclosures (TNFD) and registered as TNFD Adopter</li>
+          </ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+                            </div>
+                                            </div>
+                </div>
+                                                        </div>
+    </div>
+
+    <div class="c-multiCol">
+        <div class="c-linkCard c-linkCard--col1 c-linkCard--col1-wide">
+            
+                <div class="c-linkCard__item c-linkCard__item--layout1">
+                    <div class="c-linkCard__inner">
+                                                    <div class="c-linkCard__textwrap">
+                                <div class="c-linkCard c-linkCard--col3 c-linkCard--gray">
+  <div class="c-linkCard__item">
+    <div class="c-linkCard__inner">
+      <div class="c-h3-a" data-matchheight="" style="height: 77px;">
+        <h3 class="c-h3-a__text">RE100</h3>
+      </div>
+      <div class="f-richText">
+        <div class="c-text-a">
+          <p class="c-text-a__text">The Climate Group launched this global corporate initiative in 2014 to bring together companies committed to 100% renewable energy. That U.K.-based international environmental nongovernment organization had 443 corporate members worldwide as of July 2025.</p>
+        </div>
+      </div>
+      <div class="c-linkCard__image u-pl-32 u-pr-32 u-bgc-ffffff">
+        <div class="c-figure__inner c-linkCard__imageInner--noRatio">
+          <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/integrated-report/data/commitment/commitment-RE100" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="c-linkCard__item">
+    <div class="c-linkCard__inner">
+      <div class="c-h3-a" data-matchheight="" style="height: 77px;">
+        <h3 class="c-h3-a__text">United Nations Global Compact</h3>
+      </div>
+      <div class="f-richText">
+        <div class="c-text-a">
+          <p class="c-text-a__text">This voluntary worldwide initiative encourages companies and organizations to act as good members of society by being responsible and creative leaders and help materialize achieve sustainable growth. Companies are encouraged to implement and comply with this initiative's Ten Principles, covering such areas as human rights, labor, the environment, and anti-corruption.</p>
+        </div>
+      </div>
+      <div class="c-linkCard__image u-pt-16 u-pb-16 u-pl-16 u-pr-16 u-bgc-ffffff">
+        <div class="c-figure__inner c-linkCard__imageInner--noRatio">
+          <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/integrated-report/data/commitment/commitment-UNGC" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+                            </div>
+                                            </div>
+                </div>
+                                                        </div>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</section><section class="c-section " id="esg-index">
+    <div class="f-child">
+        <div class="c-margin-b">
+            <div class="c-margin-b__inner">
+                    <div class="c-h2-a">
+                        <h2 class="c-h2-a__text">ESG Index Inclusion and Recognition</h2>
+                    </div>
+                    <div class="c-multiCol">
+        <div class="c-linkCard c-linkCard--col1 c-linkCard--col1-wide">
+            
+                <div class="c-linkCard__item c-linkCard__item--layout1">
+                    <div class="c-linkCard__inner">
+                                                    <div class="c-linkCard__textwrap">
+                                <div class="c-text-a">
+  <p class="c-text-a__text">The Ricoh Group has earned regard externally for its environmental, social, and governance (ESG) initiatives. ESG indexes in Japan and abroad have included Ricoh's stock.</p>
+</div>
+<div class="c-text-a u-mt-8">
+  <p class="c-text-a__text u-align-right u-fz-14">as of May 2026</p>
+</div>
+<div class="c-linkCard c-linkCard--col3 c-linkCard--gray">
+  <div class="c-linkCard__item">
+    <div class="c-linkCard__inner">
+      <div class="c-h3-a" data-matchheight="" style="height: 77px;">
+        <h3 class="c-h3-a__text">Dow Jones Best-in-Class Indices</h3>
+      </div>
+      <div class="f-richText">
+        <div class="c-text-a">
+          <p class="c-text-a__text">Ricoh has been selected for inclusion in the Dow Jones Best-in-Class Indices Asia Pacific Index for the eighth consecutive year.<br>The DJBIC Indices<sup>*</sup> are sustainability-related stock indices developed by S&amp;P Global, an American company and one of the world's leaders in corporate ratings, which assess a company's corporate sustainability from the economic, environmental, and social development perspectives.</p>
+        </div>
+        <div class="c-attention-a u-mt-8">
+          <ul class="c-attention-a__list">
+            <li class="c-attention-a__item">
+              <div class="c-attention-a__marker">
+                <span>*</span>
+              </div>
+              <div class="c-attention-a__text">The name was changed from the Dow Jones Sustainability Indices (DJSI) to the Dow Jones Best-in-Class Indices in February 2025.</div>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="c-linkCard__item">
+    <div class="c-linkCard__inner">
+      <div class="c-h3-a" data-matchheight="" style="height: 77px;">
+        <h3 class="c-h3-a__text">Sustainability Yearbook</h3>
+      </div>
+      <div class="f-richText">
+        <div class="c-text-a">
+          <p class="c-text-a__text">Ricoh has been selected as a member of the Sustainability Yearbook 2026, with a score within the top 10%<sup>*</sup> in its industry, by S&amp;P Global, an American company and one of the world's leaders in corporate ratings. Ricoh has been continuously selected as a member of the Sustainability Yearbook since 2019, marking its eighth consecutive year of selection.</p>
+        </div>
+        <div class="c-attention-a u-mt-8">
+          <ul class="c-attention-a__list">
+            <li class="c-attention-a__item">
+              <div class="c-attention-a__marker">
+                <span>*</span>
+              </div>
+              <div class="c-attention-a__text">As of February 11, 2026</div>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="c-linkCard__image u-pt-8 u-pb-8 u-bgc-ffffff">
+        <div class="c-figure__inner c-linkCard__imageInner--noRatio">
+          <img class="w50p u-ml-auto u-mr-auto" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/about/integrated-report/data/commitment/recognition-SustainabilityYearbook.webp" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="c-linkCard__item">
+    <div class="c-linkCard__inner">
+      <div class="c-h3-a" data-matchheight="" style="height: 77px;">
+        <h3 class="c-h3-a__text">FTSE4Good Index Series</h3>
+      </div>
+      <div class="f-richText">
+        <div class="c-text-a">
+          <p class="c-text-a__text">Created by the global index provider FTSE Russell, the FTSE4Good Index Series is designed to measure the performance of companies demonstrating strong Environmental, Social and Governance (ESG) practices.<br>The FTSE4Good indices are used by a wide variety of market participants to create and assess responsible investment funds and other products.</p>
+        </div>
+      </div>
+      <div class="c-link-a-list u-mt-8">
+        <div class="c-link-a-list__inner">
+          <a href="https://www.lseg.com/en/ftse-russell/indices/ftse4good" target="ricoh" class="c-link-a c-link-a--blank icon-hidden">
+            <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
+            <span class="c-link-a__text">FTSE4Good Index Series</span>
+          </a>
+        </div>
+      </div>
+      <div class="c-linkCard__image u-pt-8 u-pb-8 u-pl-16 u-pr-16 u-bgc-ffffff">
+        <div class="c-figure__inner c-linkCard__imageInner--noRatio">
+          <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/integrated-report/data/commitment/recognition-FTSE4Good" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="c-linkCard__item">
+    <div class="c-linkCard__inner">
+      <div class="c-h3-a" data-matchheight="" style="height: 77px;">
+        <h3 class="c-h3-a__text">FTSE JPX Blossom Japan Index</h3>
+      </div>
+      <div class="f-richText">
+        <div class="c-text-a">
+          <p class="c-text-a__text">Created by the global index and data provider FTSE Russell, the FTSE JPX Blossom Japan Index is designed to measure the performance of companies demonstrating strong Environmental, Social and Governance (ESG) practices.<br>The FTSE JPX Blossom Japan Index is used by a wide variety of market participants to create and assess responsible investment funds and other products.</p>
+        </div>
+      </div>
+      <div class="c-link-a-list u-mt-8">
+        <div class="c-link-a-list__inner">
+          <a href="https://www.lseg.com/en/ftse-russell/indices/blossom-japan" target="ricoh" class="c-link-a c-link-a--blank icon-hidden">
+            <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
+            <span class="c-link-a__text">FTSE JPX Blossom Japan Index</span>
+          </a>
+        </div>
+      </div>
+      <div class="c-linkCard__image u-pt-40 u-pb-40 u-pl-24 u-pr-24 u-bgc-ffffff">
+        <div class="c-figure__inner c-linkCard__imageInner--noRatio">
+          <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/about/integrated-report/data/commitment/recognition-FTSE-JPX-BlossomJapanIndex.webp" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="c-linkCard__item">
+    <div class="c-linkCard__inner">
+      <div class="c-h3-a" data-matchheight="" style="height: 77px;">
+        <h3 class="c-h3-a__text">FTSE JPX Blossom Japan Sector Relative Index</h3>
+      </div>
+      <div class="f-richText">
+        <div class="c-text-a">
+          <p class="c-text-a__text">The FTSE JPX Blossom Japan Sector Relative Index is used by a wide variety of market participants to create and assess responsible investment funds and other products.</p>
+        </div>
+      </div>
+      <div class="c-link-a-list u-mt-8">
+        <div class="c-link-a-list__inner">
+          <a href="https://www.lseg.com/en/ftse-russell/indices/blossom-japan" target="ricoh" class="c-link-a c-link-a--blank icon-hidden">
+            <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
+            <span class="c-link-a__text">FTSE JPX Blossom Japan Sector Relative Index</span>
+          </a>
+        </div>
+      </div>
+      <div class="c-linkCard__image u-pt-40 u-pb-40 u-pl-24 u-pr-24 u-bgc-ffffff">
+        <div class="c-figure__inner c-linkCard__imageInner--noRatio">
+          <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/about/integrated-report/data/commitment/recognition-FTSE-JPX-BlossomJapanSectorRelativeIndex.webp" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="c-linkCard__item">
+    <div class="c-linkCard__inner">
+      <div class="c-h3-a" data-matchheight="" style="height: 77px;">
+        <h3 class="c-h3-a__text">MSCI ESG Ratings</h3>
+      </div>
+      <div class="f-richText">
+        <div class="c-text-a">
+          <p class="c-text-a__text">The MSCI ESG Ratings, conducted by Morgan Stanley Capital International (MSCI), assess how well companies manage ESG risks and rate them on a seven-point scale of AAA to CCC according to their exposure to ESG risks and how well they manage those risks relative to peers.<br>Ricoh has maintained the highest AAA rating since February 2024.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="c-linkCard__item">
+    <div class="c-linkCard__inner">
+      <div class="c-h3-a" data-matchheight="" style="height: 77px;">
+        <h3 class="c-h3-a__text">MSCI Japan Empowering Women Index (WIN)</h3>
+      </div>
+      <div class="f-richText">
+        <div class="c-text-a">
+          <p class="c-text-a__text">This index calculates scores for companies based on disclosure relating to the proportions of women hired and managerial positions held by women and diversity initiatives. It includes companies with long-term sustainable growth prospects. Japan's Government Pension Investment Fund uses this benchmark in selecting equities for investment.</p>
+        </div>
+      </div>
+      <div class="c-linkCard__image u-pt-40 u-pb-40 u-pl-16 u-pr-16 u-bgc-ffffff">
+        <div class="c-figure__inner c-linkCard__imageInner--noRatio">
+          <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/integrated-report/data/commitment/recognition-MSCI-JapanEmpoweringWomenIndex" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="c-linkCard__item">
+    <div class="c-linkCard__inner">
+      <div class="c-h3-a" data-matchheight="" style="height: 77px;">
+        <h3 class="c-h3-a__text">MSCI Nihonkabu ESG Select Leaders Index</h3>
+      </div>
+      <div class="f-richText">
+        <div class="c-text-a">
+          <p class="c-text-a__text">MSCI selects companies with high ESG ratings from the constituents of the MSCI Nihonkabu IMI Index and includes those companies in the index until 50% of the companies in each industry are covered. This index has been adopted as the ESG investment index by GPIF.</p>
+        </div>
+      </div>
+      <div class="c-linkCard__image u-pt-40 u-pb-40 u-pl-16 u-pr-16 u-bgc-ffffff">
+        <div class="c-figure__inner c-linkCard__imageInner--noRatio">
+          <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/integrated-report/data/commitment/recognition-MSCI-NihonkabuESG-SelectLeadersIndex" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="c-linkCard__item">
+    <div class="c-linkCard__inner">
+      <div class="c-h3-a" data-matchheight="" style="height: 77px;">
+        <h3 class="c-h3-a__text">MSCI ESG Leaders Indexes</h3>
+      </div>
+      <div class="f-richText">
+        <div class="c-text-a">
+          <p class="c-text-a__text">This is a representative global index that selects companies with high ESG ratings based on MSCI ESG Ratings, compared to their peers within each sector of the parent index.</p>
+        </div>
+      </div>
+      <figure class="c-linkCard__image u-pt-16 u-pb-16 u-pl-16 u-pr-16 u-bgc-ffffff">
+        <div class="c-figure__inner c-linkCard__imageInner--noRatio">
+          <img class="w55p u-ml-auto u-mr-auto" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/integrated-report/data/commitment/recognition-MSCI-ESG-LeadersIndexes" alt="">
+        </div>
+        <figcaption class="c-caption">
+          <div class="c-text-a c-text-a--thin">
+            <p class="c-text-a__text u-fz-10">THE INCLUSION OF RICOH IN ANY MSCI INDEX, AND THE USE OF MSCI LOGOS, TRADEMARKS, SERVICE MARKS OR INDEX NAMES HEREIN, DO NOT CONSTITUTE A SPONSORSHIP, ENDORSEMENT OR PROMOTION OF RICOH BY MSCI OR ANY OF ITS AFFILIATES. THE MSCI INDEXES ARE THE EXCLUSIVE PROPERTY OF MSCI. MSCI AND THE MSCI INDEX NAMES AND LOGOS ARE TRADEMARKS OR SERVICE MARKS OF MSCI OR ITS AFFILIATES.</p>
+          </div>
+        </figcaption>
+      </figure>
+    </div>
+  </div>
+  <div class="c-linkCard__item">
+    <div class="c-linkCard__inner">
+      <div class="c-h3-a" data-matchheight="" style="height: 77px;">
+        <h3 class="c-h3-a__text">S&amp;P/JPX Carbon Efficient Index</h3>
+      </div>
+      <div class="f-richText">
+        <div class="c-text-a">
+          <p class="c-text-a__text">S&amp;P Dow Jones Indices, one of the world's largest independent index companies, builds the index based on the Trucost carbon emissions data. This index targets TOPIX constituent companies that have a high carbon efficiency within the same industry based on market capitalization, and increases the investment weight of companies disclose information on greenhouse gas emissions. It is also a global environmental stock index adopted by GPIF in 2018, and Ricoh has been continuously included in the index since then.</p>
+        </div>
+      </div>
+      <div class="c-linkCard__image u-pl-16 u-pr-16 u-bgc-ffffff">
+        <div class="c-figure__inner c-linkCard__imageInner--noRatio">
+          <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/integrated-report/data/commitment/recognition-SP-JPX" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="c-linkCard__item">
+    <div class="c-linkCard__inner">
+      <div class="c-h3-a" data-matchheight="" style="height: 77px;">
+        <h3 class="c-h3-a__text">ISS ESG Corporate Rating</h3>
+      </div>
+      <div class="f-richText">
+        <div class="c-text-a">
+          <p class="c-text-a__text">One of the world's leading rating agencies for sustainable investments, ISS ESG has given the Ricoh Group a Prime sustainability rating.<br>The Ricoh Group received a Prime rating on the ISS ESG Corporate Rating consecutively.</p>
+        </div>
+      </div>
+      <div class="c-linkCard__image u-pl-24 u-pr-24 u-bgc-ffffff">
+        <div class="c-figure__inner c-linkCard__imageInner--noRatio">
+          <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/integrated-report/data/commitment/recognition-ISS-ESG" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="c-linkCard__item">
+    <div class="c-linkCard__inner">
+      <div class="c-h3-a" data-matchheight="" style="height: 77px;">
+        <h3 class="c-h3-a__text">EcoVadis</h3>
+      </div>
+      <div class="f-richText">
+        <div class="c-text-a">
+          <p class="c-text-a__text">EcoVadis is the world's most trusted provider of business sustainability ratings. The assessment evaluates more than 150,000 companies worldwide across four core themes: Environment, Labor &amp; Human Rights, Ethics, and Sustainable Procurement. Many global companies rely on EcoVadis insights when selecting suppliers.<br>Ricoh has been awarded the highest Platinum rating. Placing Ricoh among the top 1% of companies assessed, this is Ricoh's second consecutive Platinum rating.</p>
+        </div>
+      </div>
+      <div class="c-link-a-list u-mt-8">
+        <div class="c-link-a-list__inner">
+          <a href="https://recognition.ecovadis.com/eCUosG8gaEONnfUvLWBcSg" target="ricoh" class="c-link-a c-link-a--blank icon-hidden">
+            <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
+            <span class="c-link-a__text">EcoVadis recognition page</span>
+          </a>
+        </div>
+      </div>
+      <div class="c-linkCard__image  u-pt-16 u-pb-16 u-pl-16 u-pr-16 u-bgc-ffffff">
+        <div class="c-figure__inner c-linkCard__imageInner--noRatio">
+          <img class="w50p u-ml-auto u-mr-auto" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/about/integrated-report/data/commitment/recognition-EcoVadis.webp" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="c-linkCard__item">
+    <div class="c-linkCard__inner">
+      <div class="c-h3-a" data-matchheight="" style="height: 77px;">
+        <h3 class="c-h3-a__text">CDP CLIMATE and WATER</h3>
+      </div>
+      <div class="f-richText">
+        <div class="c-text-a">
+          <p class="c-text-a__text">Ricoh's global leadership in corporate transparency and performance on climate change and water security disclosure have been recognized by global environmental non-profit CDP, securing a place on its 2025 A list. This double A score marks Ricoh's third consecutive year selection on the water security A list and sixth consecutive year on the climate change A list since 2020.</p>
+        </div>
+      </div>
+      <div class="c-linkCard__image u-pt-16 u-pb-16 u-bgc-ffffff">
+        <div class="c-figure__inner c-linkCard__imageInner--noRatio">
+          <img class="w45p u-ml-auto u-mr-auto" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/about/integrated-report/data/commitment/recognition-CDP.webp" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="c-linkCard__item">
+    <div class="c-linkCard__inner">
+      <div class="c-h3-a" data-matchheight="" style="height: 77px;">
+        <h3 class="c-h3-a__text">Supplier Engagement Leader</h3>
+      </div>
+      <div class="f-richText">
+        <div class="c-text-a">
+          <p class="c-text-a__text">Ricoh has been recognized as a 2025 Supplier Engagement Leader by CDP, a global non-profit that operates an independent environmental disclosure system. This marks the sixth consecutive year Ricoh has earned the organization's highest rating.</p>
+        </div>
+      </div>
+      <div class="c-linkCard__image u-pt-16 u-pb-16 u-bgc-ffffff">
+        <div class="c-figure__inner c-linkCard__imageInner--noRatio">
+          <img class="w45p u-ml-auto u-mr-auto" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/about/integrated-report/data/commitment/recognition-CDP-SupplierEngagementLeader.webp" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="c-linkCard__item">
+    <div class="c-linkCard__inner">
+      <div class="c-h3-a" data-matchheight="" style="height: 77px;">
+        <h3 class="c-h3-a__text">Global 100 Most Sustainable Corporations</h3>
+      </div>
+      <div class="f-richText">
+        <div class="c-text-a">
+          <p class="c-text-a__text">The Global 100 is an annual ranking published by Corporate Knights Inc., a leading sustainable-economy media and research organization. Based on publicly disclosed data from 8,231 companies with annual revenues of more than US$1 billion, the ranking evaluates companies using three equally weighted performance indicators — sustainable revenue, sustainable investment and sustainable revenue growth — with additional adjustments for penalties and executive compensation linked to sustainability performance.<br>Ricoh has once again been named one of the 2026 Global 100 Most Sustainable Corporations — marking the 14th time the company has received this recognition.</p>
+        </div>
+      </div>
+      <div class="c-linkCard__image u-pt-60 u-pb-60 u-pl-24 u-pr-24 u-bgc-ffffff">
+        <div class="c-figure__inner c-linkCard__imageInner--noRatio">
+          <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/about/integrated-report/data/commitment/recognition-Global100.webp" alt="">
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="c-linkCard__item">
+    <div class="c-linkCard__inner">
+      <div class="c-h3-a" data-matchheight="" style="">
+        <h3 class="c-h3-a__text">Morningstar Japan ex-REIT Gender Diversity Tilt Index</h3>
+      </div>
+      <div class="f-richText">
+        <div class="c-text-a">
+          <p class="c-text-a__text">This is an index selected by Morningstar, which emphasizes companies where Gender Diversity Policy has become ingrained as a corporate culture, and companies that promise equal opportunities to their employees regardless of gender. It has been adopted as the ESG investment index by GPIF.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+                            </div>
+                                            </div>
+                </div>
+                                                        </div>
+    </div>
+
+    <div class="c-multiCol">
+        <div class="c-linkCard c-linkCard--col1 c-linkCard--col1-wide">
+            
+                <div class="c-linkCard__item c-linkCard__item--layout1">
+                    <div class="c-linkCard__inner">
+                                                    <div class="c-linkCard__textwrap">
+                                <div class="c-table c-table--sell-thin c-table--scrollX-sp">
+  <table data-sp-table-width="640">
+    <colgroup>
+      <col class="c-table__col--w20p">
+      <col class="c-table__col--w80p">
+    </colgroup>
+    <tbody>
+      <tr>
+        <th>December 2021</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Recognized as “Prime” on the ISS ESG Corporate Rating consecutively</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>March 2024</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Received the highest rating of AAA in the MSCI ESG Ratings</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>December 2024</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Included in the Dow Jones Sustainability World Index and Asia Pacific Index consecutively</li>
+            <li class="c-list-disc-a__item c-list-disc-a__item--black u-mt-8">Included in the Morningstar Japan ex-REIT Gender Diversity Tilt Index  since 2023</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>July 2025</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Selected for the FTSE4Good Index Series, a socially responsible investment index since 2004</li>
+            <li class="c-list-disc-a__item c-list-disc-a__item--black u-mt-8">Included in the FTSE Blossom Japan Index, which measures the ESG practices of Japanese companies since 2017</li>
+            <li class="c-list-disc-a__item c-list-disc-a__item--black u-mt-8">Included in the FTSE Blossom Japan Sector Relative Index since 2022</li>
+            <li class="c-list-disc-a__item c-list-disc-a__item--black u-mt-8">Included in the MSCI Japan Empowering Women Index since 2017</li>
+            <li class="c-list-disc-a__item c-list-disc-a__item--black u-mt-8">Included in the MSCI Nihonkabu ESG Select Leaders Index since 2024</li>
+            <li class="c-list-disc-a__item c-list-disc-a__item--black u-mt-8">S&amp;P/JPX Carbon Efficient Index continues to be included since 2018</li>
+            <li class="c-list-disc-a__item c-list-disc-a__item--black u-mt-8">Selected for inclusion in six major ESG Indices for Japanese equities adopted by Japan's Government Pension Investment Fund</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>January 2026</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Named to CDP's double A list for climate action and water security leadership for the third consecutive year</li>
+            <li class="c-list-disc-a__item c-list-disc-a__item--black u-mt-8">Named in the 2026 Global 100 Most Sustainable Corporations by Corporate Knights</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>February 2026</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Selected as a member of the Sustainability Yearbook 2026 by S&amp;P Global</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>March 2026</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Awarded EcoVadis Platinum Rating for sustainability performance for second consecutive year</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>April 2026</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Included in the Dow Jones Best-in-Class Asia Pacific Index for eighth consecutive year</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>May 2026</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Recognized as a CDP 2025 Supplier Engagement Leader for sixth consecutive year</li>
+          </ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+                            </div>
+                                            </div>
+                </div>
+                                                        </div>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</section><section class="c-section " id="awards">
+    <div class="f-child">
+        <div class="c-margin-b">
+            <div class="c-margin-b__inner">
+                    <div class="c-h2-a">
+                        <h2 class="c-h2-a__text">Major Awards</h2>
+                    </div>
+                    <div class="c-multiCol">
+        <div class="c-linkCard c-linkCard--col1 c-linkCard--col1-wide">
+            
+                <div class="c-linkCard__item c-linkCard__item--layout1">
+                    <div class="c-linkCard__inner">
+                                                    <div class="c-linkCard__textwrap">
+                                <div class="c-text-a">
+  <p class="c-text-a__text">Many international awards attest to the excellence of Ricoh Group products and business operations.</p>
+</div>
+<div class="c-table c-table--sell-thin c-table--scrollX-sp">
+  <table data-sp-table-width="640">
+    <colgroup>
+      <col class="c-table__col--w20p">
+      <col class="c-table__col--w80p">
+    </colgroup>
+    <tbody>
+      <tr>
+        <th>February 2022</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Receives Minister of State for Regional Revitalization's Telework Award for Regional Revitalization, sponsored by Cabinet Office</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>December 2022</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Wins Award of Minister for Internal Affairs and Communications in the top one hundred telework pioneers</li>
+            <li class="c-list-disc-a__item c-list-disc-a__item--black u-mt-8">Earns the highest rating in the 11<sup>th</sup> Quality Management Level Research by the Union of Japanese Scientists and Engineers</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>February 2023</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Wins the Innovation Prize at the NIKKEI Smart Work Awards 2023</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>September 2023</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Received the METI (Ministry of Economy, Trade and Industry) Minister's Award at the sixth EcoPro Awards</li>
+            <li class="c-list-disc-a__item c-list-disc-a__item--black u-mt-8">Positioned as a Leader in 2023 IDC MarketScape for Worldwide Print Transformation</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>October 2023</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Ricoh Ena Forest certified as Other Effective area-based Conservation Measures by Ministry of Environment, Japan</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>December 2023</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Places first in J.D. Power 2023 Corporate Technical Support Call Center Satisfaction Survey (Copier/Printer Category)</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>January 2024</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Named a Leader in 2023 IDC MarketScape for Worldwide Sustainability Programs and Services</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>February 2024</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Japan's Government Pension Investment Fund chooses Ricoh Group Integrated Report 2023 as excellent integrated report</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>March 2024</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Received the Award for Excellence at the NIKKEI Integrated Report Award for two consecutive years</li>
+            <li class="c-list-disc-a__item c-list-disc-a__item--black u-mt-8">Received Bronze award in Asia's Best Integrated Report (Value Creation) category at the 9<sup>th</sup> Asia Integrated Reporting Awards</li>
+            <li class="c-list-disc-a__item c-list-disc-a__item--black u-mt-8">Positioned by Gartner<sup>®</sup> in its 2024 Magic Quadrant™ for Outsourced Digital Workplace Services for fourth consecutive year</li>
+            <li class="c-list-disc-a__item c-list-disc-a__item--black u-mt-8">Received the Minister of Economy, Trade and Industry Award at the 32nd Global Environment Award</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>September 2024</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">J.D. Power rates Ricoh No. 1 in customer satisfaction study for 2024 in the color laser printer segment</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>November 2024</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Earns a perfect five-star rating in the fiscal 2024 Nikkei Sustainable Comprehensive Survey Smart Work Management Edition</li>
+            <li class="c-list-disc-a__item c-list-disc-a__item--black u-mt-8">Achieves first-place ranking for tenth consecutive year in J.D. Power Server Equipment Maintenance Service</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>December 2024</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Selected amongst the Financial Times' “Best Employers Asia-Pacific 2025” list compiled by the Financial Times and research provider Statista</li>
+            <li class="c-list-disc-a__item c-list-disc-a__item--black u-mt-8">Ricoh Science Caravan wins the Award of Excellence in the large company category at the MITI Career Education Awards</li>
+            <li class="c-list-disc-a__item c-list-disc-a__item--black u-mt-8">Named third largest in audio visual integrator list by SCN for two consecutive years</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>January 2025</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Named a Leader in 2024 IDC MarketScape for Worldwide Cloud Managed Print and Document Services Hardcopy</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>February 2025</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Recognized by Gartner<sup>®</sup> in its first 2024 Magic Quadrant™ for Document Management</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>March 2025</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Received iF DESIGN AWARD 2025 for two digital products in the “Product” category</li>
+            <li class="c-list-disc-a__item c-list-disc-a__item--black u-mt-8">Recognized among TIME Asia-Pacific's Best Companies of 2025</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>May 2025</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Named as a Leader in IDC MarketScape Worldwide Hardcopy Remanufacturing 2025 Vendor Assessment</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>June 2025</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Ricoh named in Asia-Pacific Climate Leaders list for the fourth consecutive year compiled by the Financial Times and research provider Statista</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>July 2025</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Named in TIME World's Most Sustainable Companies of 2025</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>September 2025</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Named in the World's Best Companies 2025&nbsp;list, compiled by TIME and Statista</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>October 2025</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Named to Forbes' World's Best Employers 2025 list</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>November 2025</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Earns a perfect five-star rating and a prime sheet company in the fiscal 2025 Nikkei Sustainable Comprehensive Survey SDGs Edition</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>January 2026</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Named a Clarivate Top 100 Global Innovator 2026</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>February 2026</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Named a Leader for the third time in Worldwide High-Speed Inkjet by IDC MarketScape</li>
+          </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>March 2026</th>
+        <td>
+          <ul class="c-list-disc-a">
+            <li class="c-list-disc-a__item c-list-disc-a__item--black">Ranked among the top 50 companies in Carbon Clean200™ 2026 list for eight consecutive years</li>
+          </ul>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+                            </div>
+                                            </div>
+                </div>
+                                                        </div>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</section></div>
+    
+</div>
+
+            </div>
+        </div>
+        
+            <div class="breadcrumb breadcrumb--borderTop">
+                <div class="breadcrumb__container">
+                    <div class="breadcrumb__inner">
+                        <ul class="breadcrumb__list">
+                                        <li>
+                                            <a href="../../../../">Home</a>
+                                        </li>
+                                        <li>
+                                            <a href="../../../">About Ricoh</a>
+                                        </li>
+                                        <li>
+                                            <a href="../../2024/">Integrated Report</a>
+                                        </li>
+                            <li class="act">
+                                <span>Commitment and Recognition</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+        <footer class="gl-footer">
+  <div class="gl-footer-link-area">
+    <div class="gl-footer-link-area_inner">
+      <div class="gl-footer-link-area-pc">
+        <div class="gl-footer-link-area-pc_list">
+          <div class="gl-footer-link-area-pc_item">
+            <a href="../../../" class="gl-footer-link-area-pc_link-hdg">About RICOH</a>
+            <ul class="gl-footer-link-area-pc_link-list">
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../">Vision</a></li>
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../">Company Overview</a></li>
+              </ul>
+          </div>
+          <div class="gl-footer-link-area-pc_item">
+            <a href="../../../../IR/" class="gl-footer-link-area-pc_link-hdg">Investor Relations</a>
+            <ul class="gl-footer-link-area-pc_link-list">
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../../IR/news/">IR News</a></li>
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../../IR/events/investors-meeting/">Corporate Strategy Meeting</a></li>
+              </ul>
+          </div>
+          <div class="gl-footer-link-area-pc_item">
+            <a href="../../../../sustainability/" class="gl-footer-link-area-pc_link-hdg">Sustainability</a>
+            <ul class="gl-footer-link-area-pc_link-list">
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../../sustainability/environment/">Environment</a></li>
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../../sustainability/society/">Society</a></li>
+              </ul>
+            </div>
+          <div class="gl-footer-link-area-pc_item">
+            <a href="../../../../technology/" class="gl-footer-link-area-pc_link-hdg">Technology</a>
+            <ul class="gl-footer-link-area-pc_link-list">
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../../technology/rd/">Development</a></li>
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../../technology/tech/">Ricoh's Technology</a></li>
+              </ul>
+            </div>
+          <div class="gl-footer-link-area-pc_item">
+            <a href="../../../../news/" class="gl-footer-link-area-pc_link-hdg">News</a>
+            <ul class="gl-footer-link-area-pc_link-list">
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../../release/">News Release</a></li>
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../../info/">Information</a></li>
+              </ul>
+          </div>
+        </div>
+      </div>
+      <div class="gl-footer-link-area-sp">
+        <ul class="gl-footer-link-area-sp_list">
+          <li class="gl-footer-link-area-sp_item"><a href="../../../">About RICOH</a></li>
+          <li class="gl-footer-link-area-sp_item"><a href="../../../../IR/">Investor Relations</a></li>
+          <li class="gl-footer-link-area-sp_item"><a href="../../../../sustainability/">Sustainability</a></li>
+          <li class="gl-footer-link-area-sp_item"><a href="../../../../technology/">Technology</a></li>
+          <li class="gl-footer-link-area-sp_item"><a href="../../../../news/">News</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="gl-footer-area-01">
+    <div class="gl-footer-area-01_inner">
+      <div class="gl-footer-pageTop">
+        <a href="#top" class="gl-footer-pageTop_link js-top-button">Page Top</a>
+      </div>
+    </div><!-- /.gl-footer-area-01_inner -->
+  </div><!-- /.gl-footer-area-01 -->
+  <div class="gl-footer-area-02">
+    <div class="gl-footer-area-02_inner">
+      <div class="gl-footer-area-02_wrap">
+        <span class="hide">ここからこのサイトのサブメニュー</span>
+        <div class="gl-footer-utility">
+          <ul class="gl-footer-utility_inner">
+            <li class="gl-footer-utility_item"><a href="../../../../contact/" class="gl-footer-utility_link">Contact</a></li>
+            <li class="gl-footer-utility_item"><a href="../../../../privacy/" class="gl-footer-utility_link">Privacy policy</a></li>
+            <li class="gl-footer-utility_item"><a href="../../../../terms-of-use/" class="gl-footer-utility_link">Terms of use</a></li>
+            <li class="gl-footer-utility_item"><a href="../../../../terms-of-use/accessibility/" class="gl-footer-utility_link">Accessibility</a></li>
+            <li class="gl-footer-utility_item"><a href="../../../../sitemap/" class="gl-footer-utility_link">Sitemap</a></li>
+            <li class="gl-footer-utility_item">
+            </ul>
+        </div><!-- /.gl-footer-utility -->
+        <div class="gl-footer-copyright">
+          <div class="gl-footer-copyright_inner">
+            <small class="gl-footer-copyright_text">©&nbsp;Ricoh</small>
+          </div>
+        </div><!-- /.gl-footer-copyright -->
+      </div><!-- /.gl-footer-area-02_wrap -->
+    </div><!-- /.gl-footer-area-02_inner -->
+  </div><!-- /.gl-footer-area-02 -->
+</footer><!-- /.gl-footer -->
+        <div class="cp-PageTop smoothScroll" style="display: none;">
+            <a class="ver" href="#wrapper" aria-label="Page Top">PAGE TOP</a>
+        </div>
+        
+
+    
+
+<script type="text/javascript">
+!(function () {
+var G = (GALFSRAM = window.GALFSRAM || {});
+G.mfx = G.mfx || {};
+G.mfx.router_mode = "history";
+})();
+</script>
+</div>
+
+
+        
+
+<!-- RICOH_PAGE_SCRIPTS -->
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/jquery.min.js"></script>
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/JS/common.js"></script>
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/js/init.js"></script>
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/js/template.js"></script>
+</body></html>

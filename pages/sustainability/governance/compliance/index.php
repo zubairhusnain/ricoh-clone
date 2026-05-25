@@ -1,0 +1,1412 @@
+<?php
+declare(strict_types=1);
+require_once __DIR__ . '/../../../../base-url.php';
+rh_start_output_rewrite();
+?>
+<!DOCTYPE html><html lang="EN" class="js-on"><head>
+
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/CSS/sc_common.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/CSS/gl_header_localize.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/CSS/sc_common_us.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/css/common.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/css/gl_header.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/css/component.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/css/option.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/css/ex_component.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/css/template.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/css/conflict_clear.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/fancybox-v1.4.3/CSS/jquery.fancybox-1.3.4.css">
+
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/css/template-global-addition2024.css">
+
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/jquery.min.js"></script>
+
+
+    
+    
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Compliance | Global | Ricoh</title>
+    <meta name="Description" content="[Ricoh Global Official Website] [Ricoh Global Official Website] The Ricoh Group considers that “compliance” includes observance of not only laws and regulations, but also company rules and social ethics. Therefore, the Ricoh Group provides thorough instruction of “Ricoh Group Code of Conduct”, which indicates behavioral principle of directors and employees of the Ricoh Group. Every member of the Group is concerned to ensure all employees observe the principles in their daily activities.">
+<meta property="og:title" content="Compliance | Global | Ricoh">
+    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&amp;hash=9DB561AD22E96D26590C1574F15A7B50">
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="[Ricoh Global Official Website] The Ricoh Group considers that “compliance” includes observance of not only laws and regulations, but also company rules and social ethics. Therefore, the Ricoh Group provides thorough instruction of “Ricoh Group Code of Conduct”, which indicates behavioral principle of directors and employees of the Ricoh Group. Every member of the Group is concerned to ensure all employees observe the principles in their daily activities.">
+<meta property="og:url" content="https://www.ricoh.com/sustainability/governance/compliance">
+    <meta property="og:site_name" content="Ricoh Global Website">
+    <meta property="og:country-name" content="Global">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@ricoh">
+
+<link rel="canonical" href="">
+
+
+<link rel="icon" type="image/vnd.microsoft.icon" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/ScAssets/System/Images/favicon.ico">
+<link rel="apple-touch-icon" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/ScAssets/System/Images/apple_icon.png">
+
+
+
+
+<script type="text/javascript" src="/ricoh-clone/ricoh_offline/assets/cdn.fonts.net/kit/3c059441-5218-4b9b-974d-a8185a3bd584/3c059441-5218-4b9b-974d-a8185a3bd584_enhanced.js" async=""></script>
+<link rel="stylesheet" type="text/css" href="/ricoh-clone/ricoh_offline/assets/cdn.fonts.net/kit/3c059441-5218-4b9b-974d-a8185a3bd584/3c059441-5218-4b9b-974d-a8185a3bd584_enhanced.css">
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/Scripts/dist/lib/vendor.js"></script>
+
+
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/css/import.css">
+
+
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/css/solution-product-template.css">
+<link rel="stylesheet" href="/ricoh-clone/ricoh_offline/assets/ricoh.static.fontplus.jp/css/fonts.css">
+
+
+
+
+
+
+
+
+
+
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/js/common.vanilla.js" defer=""></script>
+
+
+
+<style>
+  .c-text-a {
+    max-width: 100% !important;
+  }
+
+  .c-figure img {
+    height: auto;
+  }
+
+  .c-h3-a ul.c-list-disc-a {
+    margin-top: 1em;
+  }
+
+  .c-h4-a {
+    margin-top: 1em !important;
+  }
+
+  .c-text-a__text+.c-link-a {
+    margin-top: 1em;
+  }
+
+  .c-table caption {
+    text-align: left;
+  }
+</style>
+    
+    
+    </head>
+<body>
+    <div id="wrapper">
+        
+        
+        <header class="gl-header -horizontal">
+    <span class="hide"></span>
+    <div class="gl-header_inner">
+        <div class="gl-header_logo">
+            <a href="../../../"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/img/logo/logo.svg" alt="RICOH imagine. change." width="125" height="43"></a>
+        </div>
+
+        <div class="gl-header_menu">
+            <nav class="gl-menu js-global-menu" data-label="Menu" aria-label="Main navigation">
+                <div class="gl-menu_content fn-menu_hamburger-menu">
+                        <div class="gi-menu-globe">
+                            <a href="../../../gateway/" class="gi-menu_globe-btn">
+                                <span class="gi-menu_globe-txt">Country/Area Selector</span>
+                                <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/img/icon/globe.svg" class="gi-menu_globe-icon" alt="Change Country/Area">
+                            </a>
+                        </div>
+                                                            <a class="hide" href="#contents">Skip to main content</a>
+                    <span class="hide">First level navigation</span>
+                    <ul class="gl-menu_main">
+<li>
+<a href="../../../about/" class="{37791300-1D98-4601-A34E-687E71DCCA2E} gl-menu_link  fn-menu_main"><span>About RICOH</span></a>
+
+</li>
+<li>
+<a href="../../../IR/" class="{419FD399-BE45-4B6F-A170-DDF4C563F180} gl-menu_link  fn-menu_main"><span>Investor Relations</span></a>
+
+</li>
+<li>
+<a href="../../" class="{1B1686A6-FFF5-472A-A359-7E48900444A1} gl-menu_link  fn-menu_main fn-current" aria-current="page"><span>Sustainability</span></a>
+
+</li>
+<li>
+<a href="../../../products/" class="{C5764788-D65B-4D47-84F6-9EED5B48E30E} gl-menu_link  fn-menu_main"><span>Products</span></a>
+</li><li>
+<a href="../../../technology/" class="{269944AA-F9F1-450F-808A-5A0A25693389} gl-menu_link  fn-menu_main"><span>Technology</span></a>
+
+</li>
+<li>
+<a href="../../../support/" class="{CD078A07-1565-4DCA-8688-B247492DCA7B} gl-menu_link  fn-menu_main"><span>Support &amp; Downloads</span></a>
+</li><li>
+<a href="../../../news/" class="{0D2ED999-CA97-40DF-A541-17D96E4A0DF5} gl-menu_link  fn-menu_main"><span>News</span></a>
+
+</li>
+                    </ul>
+                </div>
+
+                <template class="fn-menu_tpl-hamburger">
+                    <button class="gl-menu_toggle-btn" data-alt-open="Open" data-alt-close="Close"><span class="hide">Menu</span></button>
+                </template>
+                <template class="fn-menu_tpl-back">
+                    <button class="gl-menu_back-btn">Home</button>
+                </template>
+                <template class="fn-menu_tpl-close">
+                    <button class="gl-menu_close-btn" data-alt-close="Close"></button>
+                </template>
+            </nav>
+        </div>
+
+        <div class="gl-header_utilities">
+                                                                            </div>
+    </div>
+</header>
+
+        <div id="contents" class="">
+            <div id="Main">
+                
+    <div class="breadcrumb breadcrumb--borderBottom">
+        <div class="breadcrumb__container">
+            <div class="breadcrumb__inner">
+                <ul class="breadcrumb__list">
+                                    <li>
+                                        <a href="../../../">Home</a>
+                                    </li>
+                                    <li>
+                                        <a href="../../">Sustainability</a>
+                                    </li>
+                                    <li>
+                                        <a href="../">Governance</a>
+                                    </li>
+                            <li class="act">
+                                <span>Compliance</span>
+                            </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+                
+                
+<div class="c-container">
+        <div class="c-h1-b" id="freepagetitle">
+        <div class="c-margin-b">
+            <div class="c-margin-b__inner">
+                    <h1 class="c-h1-b__text">
+                        Compliance
+                    </h1>
+            </div>
+        </div>
+    </div>
+
+    <div class="fxb-section">
+<section class="c-ancLink-a">
+  <div class="c-margin-a">
+    <div class="c-margin-a__inner">
+      <ul class="c-ancLink-a__list">
+        <li class="c-ancLink-a__item">
+          <a href="#section01" class="c-ancLink-a__link">
+            Policy and Basic Concept
+          </a>
+        </li>
+        <li class="c-ancLink-a__item">
+          <a href="#section02" class="c-ancLink-a__link">
+            Ricoh Group Code of Conduct
+          </a>
+        </li>
+        <li class="c-ancLink-a__item">
+          <a href="#section03" class="c-ancLink-a__link">
+            Code of Conduct education and training
+          </a>
+        </li>
+        <li class="c-ancLink-a__item">
+          <a href="#section04" class="c-ancLink-a__link">
+            Internal Controls
+          </a>
+        </li>
+        <li class="c-ancLink-a__item">
+          <a href="#section05" class="c-ancLink-a__link">
+            Internal Audit
+          </a>
+        </li>
+        <li class="c-ancLink-a__item">
+          <a href="#section06" class="c-ancLink-a__link">
+            Whistle-blowing system
+          </a>
+        </li>
+        <li class="c-ancLink-a__item">
+          <a href="#section07" class="c-ancLink-a__link">
+            Enhancing Compliance Awareness
+          </a>
+        </li>
+        <li class="c-ancLink-a__item">
+          <a href="#section08" class="c-ancLink-a__link">
+            Response to Compliance Related Risks
+          </a>
+        </li>
+        <li class="c-ancLink-a__item">
+          <a href="#section09" class="c-ancLink-a__link">
+            Tax Governance
+          </a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</section><section class="c-section " id="section01">
+    <div class="f-child">
+        <div class="c-margin-b">
+            <div class="c-margin-b__inner">
+                    <div class="c-h2-a">
+        <h2 class="c-h2-a__text">Policy and Basic Concept</h2>
+    </div>
+    <div class="c-text-a">
+        <div class="c-text-a">
+  <p class="c-text-a__text">
+    Ricoh has established seven values in its corporate philosophy, “Ricoh Way”, as guidelines for employee behavior to
+    fulfill its mission and achieve its vision. One of these values, “ETHICS AND INTEGRITY”, emphasizes acting with
+    honesty
+    and accountability. In the employee evaluation system, in addition to the value provided to customers, employees who
+    embody “Ricoh Way” and demonstrate high performance are highly regarded.
+  </p>
+  <p class="c-text-a__text">
+    Additionally, the Ricoh Group considers that “compliance” includes observance of not only laws and regulations, but
+    also company rules and social ethics. Therefore, the Ricoh Group provides thorough instruction of each company's
+    action principle, which provides the principles of Ricoh Group's corporate behaviors, and “Ricoh Group Code of
+    Conduct”, which indicates behavioral principle of directors and employees of the Ricoh Group. Every member of the
+    Group is concerned to ensure all employees observe the principles in their daily activities.
+  </p>
+</div>
+<a href="#" class="c-link-a c-link-a--in-page icon-hidden" style="display: block;margin-left: auto;">
+  <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-bottom-primary-color.svg" alt="" style="rotate: 180deg;">
+  <span class="c-link-a__text">Page Top</span>
+</a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</section><section class="c-section " id="section02">
+    <div class="f-child">
+        <div class="c-margin-b">
+            <div class="c-margin-b__inner">
+                    <div class="c-h2-a">
+        <h2 class="c-h2-a__text">Ricoh Group Code of Conduct</h2>
+    </div>
+    <div class="c-text-a">
+        <div class="c-text-a">
+  <p class="c-text-a__text">
+    In 2003, we formulated the Ricoh Group Code of Conduct to fulfill our social responsibilities in developing our
+    corporate activities.
+  </p>
+  <p class="c-text-a__text">
+    In 2018, we integrated it with the “Ricoh Group CSR Charter” and revised it as the “Ricoh Group Corporate Code of
+    Conduct,” and in 2023 the latest version, which takes into account recent social trends, came into effect.
+  </p>
+  <p class="c-text-a__text">
+    The Code establishes the principles of conduct for each company in the Ricoh Group and the basic code of conduct for
+    its officers and employees (including contract employees, part-timers, and part-time workers）, from the perspective
+    of preventing corruption, complying with laws and company rules, and acting with high ethical standards.
+  </p>
+  <p class="c-text-a__text">
+    The heads of management at each Ricoh Group company are responsible for compliance with the Ricoh Group Code of
+    Conduct. Each Ricoh Group company endeavors to ensure that all officers and employees strictly adhere to the Ricoh
+    Group Code of Conduct.
+  </p>
+  <p class="c-text-a__text">
+    Chapter 7 of the Ricoh Group Code of Conduct advocates for “Ensuring fair corporate activities”, stating that all
+    officers and employees of the Ricoh Group must comply with legal regulations and socially respected rules and act
+    with sincerity, honesty, and responsibility.
+  </p>
+  <p class="c-text-a__text">
+    If any violations of the Code of Conduct by Ricoh personnel are discovered, these may be taken into consideration
+    during performance evaluations or those guilty of the violations may be subject to disciplinary action based on
+    employment regulations.
+  </p>
+  <a class="c-link-a icon-hidden" href="code_of_conduct/"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt=""><span class="c-link-a__text">Ricoh Group Code of Conduct</span>
+  </a>
+</div>
+<a href="#" class="c-link-a c-link-a--in-page icon-hidden" style="display: block;margin-left: auto;">
+  <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-bottom-primary-color.svg" alt="" style="rotate: 180deg;">
+  <span class="c-link-a__text">Page Top</span>
+</a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</section><section class="c-section " id="section03">
+    <div class="f-child">
+        <div class="c-margin-b">
+            <div class="c-margin-b__inner">
+                    <div class="c-h2-a">
+        <h2 class="c-h2-a__text">Code of Conduct education and training</h2>
+    </div>
+    <div class="c-text-a">
+        <div class="c-text-a">
+  <p class="c-text-a__text">
+    The Ricoh Group revised the Ricoh Group Code of Conduct in fiscal 2018 and developed Code of Conduct education for
+    all
+    global employees in fiscal 2019. New employees to the Ricoh Group are required to undergo the Code of Conduct
+    training
+    at the time of their entry to ensure that all employees understand and can act in accordance with the standards.
+  </p>
+  <p class="c-text-a__text">
+    In addition, since fiscal 2019, we have designated Compliance Month every year, and are planning and implementing
+    compliance-specific education and training globally. To date, we have addressed topics such as anti-corruption and
+    harassment, and have sent out messages from top management and provided comprehensive web-based education and
+    training to directors and employees (including contract employees, part-timers, and part-time workers) to raise each
+    and every employee's awareness of compliance.
+  </p>
+  <p class="c-text-a__text">
+    In Japan, the Ricoh Group provides all its directors and employees (including contract employees, part-timers, and
+    part-time workers) with education on the Code of Conduct via regular e-learning programs. The content of the
+    education
+    includes confirmation of each provision of the Code of Conduct as well as other topics relating to the enforcement
+    of
+    laws and regulations as priority issues with actual case example. After finishing the courses, the participants are
+    tested to check their level of understanding.
+  </p>
+</div>
+<a href="#" class="c-link-a c-link-a--in-page icon-hidden" style="display: block;margin-left: auto;">
+  <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-bottom-primary-color.svg" alt="" style="rotate: 180deg;">
+  <span class="c-link-a__text">Page Top</span>
+</a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</section><section class="c-section " id="section04">
+    <div class="f-child">
+        <div class="c-margin-b">
+            <div class="c-margin-b__inner">
+                    <div class="c-h2-a">
+        <h2 class="c-h2-a__text">Internal Controls</h2>
+    </div>
+    <div class="c-text-a">
+        <figure class="c-figure">
+  <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/governance/img/compliance_internalcontrol_EN_251010.png" alt="image:internal_control_structure" width="696" height="508" loading="lazy" style="max-width:696px; width:100%; margin-inline: auto;">
+</figure>
+<div class="c-text-a">
+  <p class="c-text-a__text">
+    The Ricoh Group aims for continuous improvement based on the values embodied in The RICOH Way.
+  </p>
+  <p class="c-text-a__text">
+    That includes operating an internal control system designed to strengthen competitiveness while maintaining
+    transparency based on principles of corporate ethics and legal compliance. Ricoh has established the Ricoh Group
+    Corporate Management Principles as a set of guidelines for corporate activities, and follows the Internal Control
+    Principles included therein.
+  </p>
+  <ul class="c-list-disc-a">
+    <li class="c-list-disc-a__item c-list-disc-a__item--black">
+      The Group Management Committee (GMC) was established to oversee the Group's overall business operations and to
+      enable quick analysis and decision making to ensure the best result for the Group as a whole.
+    </li>
+    <li class="c-list-disc-a__item c-list-disc-a__item--black">
+      The Internal Control Committee was established within the GMC to determine action policies, report incidents, and
+      evaluate and correct the control system regarding internal controls, risk management and compliance in particular.
+    </li>
+    <li class="c-list-disc-a__item c-list-disc-a__item--black">
+      Corporate Management Regulations for Ricoh Affiliates stipulate the establishment of a supervising organization to
+      oversee risk at all Ricoh Group companies.
+    </li>
+    <li class="c-list-disc-a__item c-list-disc-a__item--black">
+      The Ricoh Group Standards (RGS) have been established as a set of common rules for all Ricoh Group employees to
+      follow, and adherence to these rules across the Group is ensured.
+    </li>
+    <li class="c-list-disc-a__item c-list-disc-a__item--black">
+      A disclosure policy has been established to ensure that corporate information released by the Group is accurate,
+      timely and comprehensive. A Disclosure Committee has also been set up, with the CFO (who is the chief officer
+      responsible for information disclosure) as its chairperson. The Committee is charged with determining and judging
+      the importance of information to be disclosed, necessity of disclosure and adequacy of content being disclosed.
+    </li>
+    <li class="c-list-disc-a__item c-list-disc-a__item--black">
+      Internal audits are conducted to ensure the reliability of our financial reports, improve operational efficiency,
+      confirm compliance to laws and regulations, and to confirm that risk management measures are being implemented
+      properly.
+    </li>
+    <li class="c-list-disc-a__item c-list-disc-a__item--black">
+      The Fraud Risk Management (FRM) program of the Ricoh Group has been deployed to prevent fraud risk and adopts a
+      check
+      sheet and tools to detect anomalies within large volumes of data in the internal audit.
+    </li>
+  </ul>
+</div>
+<a href="#" class="c-link-a c-link-a--in-page icon-hidden" style="display: block;margin-left: auto;">
+  <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-bottom-primary-color.svg" alt="" style="rotate: 180deg;">
+  <span class="c-link-a__text">Page Top</span>
+</a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</section><section class="c-section " id="section05">
+    <div class="f-child">
+        <div class="c-margin-b">
+            <div class="c-margin-b__inner">
+                    <div class="c-h2-a">
+        <h2 class="c-h2-a__text">Internal Audit</h2>
+    </div>
+    <div class="c-text-a">
+        <div class="c-text-a">
+  <p class="c-text-a__text">
+    Based on “the Internal Audit Standard” and “the Annual Auditing Plan”, the Internal Auditing Office of an
+    independent dedicated organization annually conducts internal audits of the status of the Group's business execution
+    using a risk approach from the viewpoints of legal compliance, effectiveness and efficiency of operations,
+    reliability of financial reporting, and safeguarding of assets, and it provides advice and recommendations for
+    improvement from a fair and objective standpoint. The audit targets are selected annually from our various
+    organizations and all subsidiaries based on risk assessments, effectiveness, and efficiency. Audits are conducted
+    according to the plan. In addition to financial audits, the audit includes operational audits of each Ricoh Group
+    company, including compliance promotion systems (anti-corruption and compliance with the Ricoh Group Code of
+    Conduct, etc.) and their information security management system (compliance with privacy policies, etc.). The
+    results are reported quarterly to the "Internal Control Committee" established under the president's executive
+    officer and half-yearly to the Board of Directors.
+  </p>
+  <p class="c-text-a__text" style="margin-top: 1em;">
+    The Internal Audit Office holds regular information exchange meetings with Audit &amp; Supervisory Board Members and
+    reports on the audit results and internal control status of the Group. Moreover, we utilize a common database to
+    enable information to be viewed by the Internal Audit Office and Audit &amp; Supervisory Board Members, and we carry out
+    audits in close cooperation with these two bodies.
+  </p>
+  <p class="c-text-a__text">
+    In addition, the Audit &amp; Supervisory Board Members, the Board of Corporate Auditors, and the Internal Audit Office
+    hold
+    regular and irregular information exchange meetings with the 3rd party Accounting Auditor to discuss the details of
+    audits. Through these meetings, the four maintain close cooperation with each other by exchanging opinions on the
+    status
+    of internal control and risk assessment which is grasped by the auditors.
+  </p>
+  <p class="c-text-a__text" style="margin-top: 1em;">
+    Issues identified in these audits undergo a cycle of consideration for improvement within each department and
+    consolidated subsidiaries. Through periodic reassessment, it is ensured that necessary improvements are implemented,
+    contributing to the enhancement of internal controls within our company group and the improvement of the quality of
+    business operations.
+  </p>
+</div>
+<a href="#" class="c-link-a c-link-a--in-page icon-hidden" style="display: block;margin-left: auto;">
+  <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-bottom-primary-color.svg" alt="" style="rotate: 180deg;">
+  <span class="c-link-a__text">Page Top</span>
+</a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</section><section class="c-section " id="section06">
+    <div class="f-child">
+        <div class="c-margin-b">
+            <div class="c-margin-b__inner">
+                    <div class="c-h2-a">
+        <h2 class="c-h2-a__text">Whistle-blowing system</h2>
+    </div>
+    <div class="c-text-a">
+        <section class="c-h3-a">
+  <h3 class="c-h3-a__text">
+    Policy and Basic Concept
+  </h3>
+  <div class="c-text-a">
+    <p class="c-text-a__text">
+      The Ricoh Group recognizes the importance of establishing mechanisms to promptly identify and appropriately
+      address
+      compliance violations such as legal infractions, human rights violations, harassment, bribery, fraudulent
+      transactions, comprehensive corruption, and information leaks. To this end, we have set up whistleblowing and
+      consultation channels accessible to various stakeholders, including employees, suppliers, partners and external
+      parties.
+    </p>
+    <p class="c-text-a__text">
+      The Risk Management support division and ESG division are managing the Whistle-blowing system and promoting the
+      designation, operation and improvement of the system. In establishing the system, we have stipulated the
+      fundamental principles that must be upheld by the whistleblowing system in our Code of Conduct and related
+      regulations, such as the prohibition of retaliatory measures against whistleblowers, ensuring anonymity and
+      maintaining confidentiality of reports. Ricoh and all group companies strictly adhere to these principles. We have
+      prepared the environment on the whistleblowing system for other external stakeholders, for whistleblowers to
+      report in confidence, by entrusting to the external specialist and establishing a management system by an
+      independent third party.
+    </p>
+    <p class="c-text-a__text">
+      The whistleblowing system is compliant with the laws and regulations of each country or region, supports the
+      primary local languages, and prepared reporting methods such as telephone and web platforms.
+    </p>
+    <p class="c-text-a__text">
+      Upon receiving a report, an initial assessment will be promptly conducted to determine whether an investigation is
+      necessary. Investigations will be carried out by the relevant departments, and the entire process—from
+      fact-finding to the implementation of corrective actions—will be consistently tracked and managed. Feedback on the
+      investigation results will be provided to whistleblowers to the extent possible. In addition, we will report the
+      status to the Audit &amp; Supervisory Board on a monthly basis and to the Board of Directors as necessary. Group
+      companies regularly report to management, taking sufficient care to protect whistleblowers and those cooperating
+      in investigations. This enables the Ricoh Group to improve identified overall issues and make effort to share
+      preventive measures across the organization.
+    </p>
+  </div>
+</section>
+<section class="c-h3-a">
+  <h3 class="c-h3-a__text">
+    Protection of Whistleblowers
+  </h3>
+  <ul class="c-list-disc-a">
+    <li class="c-list-disc-a__item c-list-disc-a__item--black">
+      Ensuring Anonymity<br>In all whistleblowing systems listed below, anonymous reporting is supported.
+    </li>
+    <li class="c-list-disc-a__item c-list-disc-a__item--black">
+      Maintaining confidentiality of reports<br>The information on the report will not disclose except the related
+      parties, and strictly treat as confidential.
+    </li>
+    <li class="c-list-disc-a__item c-list-disc-a__item--black">
+      Prohibition of Retaliation(Zero Tolerance Policy)<br>The Ricoh Group complies with the laws of each country, and
+      does not engage in any actions that disadvantage individuals for making sincere reports or cooperating in
+      investigations. The Ricoh Group is committed to providing whistleblowers with a safe, healthy, and productive
+      workplace.
+    </li>
+  </ul>
+</section>
+<section class="c-h3-a">
+  <h3 class="c-h3-a__text">
+    Details of Each Whistleblowing System
+  </h3>
+  <div class="c-text-a">
+    <p class="c-text-a__text">
+      [Employee internal reporting system]<br>"Ricoh Group Hotline" and "Ricoh Group Global Whistleblowing
+      System"<br>The "Ricoh Group Hotline" is an internal whistleblowing system designed for officers and employees
+      (including part-time workers, temporary staff, and retirees within one year of leaving the company) of Ricoh Group
+      companies in Japan. This system supports 23 languages, enabling officers and employees of each company to report
+      in their primary working languages. The initial reception desk for the hotline is managed externally, and reports
+      can be submitted 24/7 via the web. Telephone support is also available in more than 50 countries. The "Ricoh Group
+      Global Whistleblowing System" is an internal reporting system for officers, employees, part-time workers,
+      temporary staff, contract employees, expatriates, and retirees within one year of leaving the Ricoh Group, both
+      domestically and internationally. This system allows direct reporting to Ricoh's full-time corporate auditors.
+      These reporting channels are promoted to officers, employees, and other stakeholders through intranet
+      announcements, the annual Compliance Month, and training programs, encouraging awareness and active use of the
+      channels. In fiscal year 2024, a total of 1,135 internal reports were received, and no cases led to significant
+      incidents. Corrective actions were taken for these cases.
+    </p>
+  </div>
+</section>
+<div class="c-table c-table--scrollX-sp">
+  <table data-sp-table-width="640">
+    <caption style="font-weight: bold;">
+      Number of whistleblowing
+    </caption>
+    <thead>
+      <tr>
+        <td class="u-bgc-333333">&nbsp;</td>
+        <th>
+          FY2022
+        </th>
+        <th>
+          FY2023
+        </th>
+        <th>
+          FY2024
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>
+          Number of whistleblowing cases
+        </th>
+        <td>
+          1,143
+        </td>
+        <td>
+          1,255
+        </td>
+        <td>
+          1,135
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<figure class="c-figure">
+  <figcaption>
+    Operating flow for “Ricoh Group Hotline” and “Ricoh Group Global Whistleblowing System”
+  </figcaption>
+  <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/governance/img/compliance_2506_01.jpg" alt="image:internal_control_structure" width="1008" height="315" loading="lazy" style="width:100%; max-width: 1008px; margin-inline: auto;">
+</figure>
+<p class="c-text-a">
+  [Reporting system for other external stakeholders]<br>[Reporting system for suppliers and partners]
+</p>
+<a class="c-link-a icon-hidden" href="../../society/scm/"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt=""><span class="c-link-a__text">Supplier and partner hotline</span>
+</a>
+<p class="c-text-a">
+  In May 2020, we established and have been operating a hotline for suppliers and partners related to the Ricoh Group,
+  both domestically and overseas, to report to the executives and employees of Ricoh Group companies.
+</p>
+<figure class="c-figure">
+  <figcaption>
+    Operating flow for “Supplier and partner hotline”
+  </figcaption>
+  <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/governance/img/compliance_2506_02.jpg" alt="image:internal_control_structure" width="1008" height="314" loading="lazy" style="width:100%; max-width: 1008px; margin-inline: auto;">
+</figure>
+<p>
+  <a class="c-link-a icon-hidden" target="_blank" href="https://jacer-bhr.org/en/application/index.html"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window"><span class="c-link-a__text">Japan Center for Engagement and Remedy on Business and Human
+      Rights (JaCER) “Engagement and Remedy Platform</span>
+  </a>(Multilingual support)
+</p>
+<p class="c-text-a">
+  : Complaints regarding Human Rights
+</p>
+<p class="c-text-a">
+  JaCER is an organization that provides a non-judicial "Engagement and Remedy Platform" in compliance with the United
+  Nations' Guiding Principles on Business and Human Rights, and it supports and promotes the redress of grievances for
+  member companies from a professional standpoint. Since joining the organization in October 2024, the Ricoh group has
+  been receiving support from experts and has been responding to human rights complaints while ensuring legitimacy and
+  enhancing equitability.
+</p>
+<figure class="c-figure">
+  <figcaption>
+    Operating flow for “Engagement and Remedy Platform Contact Desk”
+  </figcaption>
+  <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/governance/img/compliance_2506_03.jpg" alt="image:internal_control_structure" width="1008" height="211" loading="lazy" style="width:100%; max-width: 1008px; margin-inline: auto;">
+</figure>
+<p class="c-text-a">
+  With support and guidance from JaCER, Ricoh takes appropriate actions tailored to each case, including fact-finding,
+  investigations, and the consideration and implementation of necessary measures. Ricoh also reports progress and
+  outcomes to JaCER. Dialogue with the person seeking consultation is conducted by Ricoh or the relevant department in
+  charge.
+</p>
+<div class="c-text-a">
+  <p class="c-text-a__text">
+    [Responsible Business Conduct (RBC) Hotline]
+  </p>
+  <p>
+    <a class="c-link-a icon-hidden" target="_blank" href="https://secure.ethicspoint.eu/domain/media/ja/gui/113060/index.html"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window"><span class="c-link-a__text">Responsible Business Conduct Hotline</span>
+    </a>(Multilingual
+    support)
+  </p>
+  <p class="c-text-a__text">
+    : Petition regarding Responsible Business Conduct
+  </p>
+  <p class="c-text-a__text">
+    Since 2025, we have operated a reporting channel for allegations related to violations of codes and ethics,
+    including human rights, in the course of our business activities. Reports can be submitted via our website in 23
+    languages, and by phone from over 50 countries.
+  </p>
+</div>
+<figure class="c-figure">
+  <figcaption>
+    Operating flow for “Responsible Business Conduct (RBC) Hotline”
+  </figcaption>
+  <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/governance/img/compliance_2506_04.jpg" alt="image:internal_control_structure" width="1008" height="292" loading="lazy" style="width:100%; max-width: 1008px; margin-inline: auto;">
+</figure>
+<a href="https://jp.ricoh.com/csr/fair" class="c-link-a c-link-a--in-page icon-hidden" style="display: block;margin-left: auto;">
+  <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-bottom-primary-color.svg" alt="" style="rotate: 180deg;">
+  <span class="c-link-a__text">Page Top</span>
+</a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</section><section class="c-section " id="section07">
+    <div class="f-child">
+        <div class="c-margin-b">
+            <div class="c-margin-b__inner">
+                    <div class="c-h2-a">
+        <h2 class="c-h2-a__text">Enhancing Compliance Awareness</h2>
+    </div>
+    <div class="c-text-a">
+        <div class="c-text-a">
+  <p class="c-text-a__text">
+    Among the seven core values of the Ricoh Way that all Ricoh Group employees are expected to uphold, one key value
+    comprises "Ethics and Integrity"—acting with honesty and accountability. To ensure this compliance mindset is deeply
+    embedded across the entire Group, we actively promote awareness initiatives. Through these efforts, we aim to
+    motivate all employees to maintain a strong sense of ethics and legal compliance, and to consistently engage in
+    sincere and responsible behavior in their work.
+  </p>
+  <p class="c-text-a__text" style="margin-top: 1em;">
+    Actual cases of misconduct that occur within the Group and are reported to top management are translated into
+    English and shared internally to promote information transparency and learning.
+  </p>
+  <p class="c-text-a__text" style="margin-top: 1em;">
+    In addition to these awareness activities and information sharing, the Ricoh Group regularly conducts a compliance
+    survey targeting all employees. This survey quantitatively assesses each organization’s compliance risk sensitivity,
+    the effectiveness of internal controls, and the degree to which ethical values have been embedded. It is not merely
+    a survey of awareness, but is positioned as a key risk management indicator, contributing to early risk detection
+    and preventive action.
+  </p>
+  <p class="c-text-a__text" style="margin-top: 1em;">
+    Furthermore, the results of this survey are incorporated as one of the indicators for ESG goals and are linked to
+    future financial KPIs, influencing executive evaluations and the executive compensation system. By taking the lead
+    in promoting the importance of compliance and the practice of risk management, the management team supports the
+    development of a sound and highly transparent corporate culture.
+  </p>
+</div>
+<a href="#" class="c-link-a c-link-a--in-page icon-hidden" style="display: block;margin-left: auto;">
+  <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-bottom-primary-color.svg" alt="" style="rotate: 180deg;">
+  <span class="c-link-a__text">Page Top</span>
+</a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</section><section class="c-section " id="section08">
+    <div class="f-child">
+        <div class="c-margin-b">
+            <div class="c-margin-b__inner">
+                    <div class="c-h2-a">
+        <h2 class="c-h2-a__text">Response to Compliance Related Risks</h2>
+    </div>
+    <div class="c-text-a">
+        <div class="c-text-a">
+  <p class="c-text-a__text">
+    As outlined in our Risk Management page, we identify compliance violations as one of the key risk factors that could
+    significantly impact business operations. We implement risk management practices aimed at preventing such violations
+    and ensuring swift responses when they occur.
+  </p>
+  <p class="c-text-a__text" style="margin-top: 1em;">
+    Our global basic policies and specific actions are defined in the Ricoh Group Code of Conduct. For areas requiring
+    further measures, we have established common rules, individual policies, and guidelines across the Ricoh Group.
+  </p>
+  <p class="c-text-a__text" style="margin-top: 1em;">
+    Below are some examples of how we address specific compliance-related risks.
+  </p>
+</div>
+<section class="c-h3-a">
+  <h3 class="c-h3-a__text">
+    Anti-Corruption and Anti-Bribery Measures
+  </h3>
+  <div class="c-text-a">
+    <p class="c-text-a__text">
+      In accordance with “7. Commitment to Fair Business Practices” as stipulated in the Ricoh Group Code of Conduct,
+      the Ricoh Group has established the Ricoh Group Anti-Bribery Regulations as a group-wide standard. These
+      regulations clearly state our fundamental stance of not permitting the offering or acceptance of anything of
+      value—including gifts, entertainment, or favors—under any circumstances.
+    </p>
+    <p class="c-text-a__text">
+      In cases where providing or accepting entertainment or gifts are legally permitted and culturally acceptable—as in
+      certain countries—this must be conducted under appropriate supervision, in accordance with each company’s approval
+      authority, and with strict record-keeping.
+    </p>
+    <a class="c-link-a icon-hidden" href="code_of_conduct/"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt=""><span class="c-link-a__text">Ricoh Group Code of Conduct</span>
+    </a>
+  </div>
+  <section class="c-h4-a">
+    <h4 class="c-h4-a__text">
+      Ricoh Group Anti-Bribery Regulations
+    </h4>
+    <div class="c-text-a">
+      <p class="c-text-a__text">
+        These regulations outline the Ricoh Group’s approach to preventing bribery and corruption. They require
+        compliance
+        with anti-bribery laws that may apply in all countries and regions where the Group operates, including the U.S.
+        Foreign Corrupt Practices Act (FCPA) and the UK Bribery Act 2010. The regulations are designed to ensure that
+        all
+        Ricoh Group companies, as well as all officers and employees, are committed to preventing bribery. In addition,
+        taking into account regional risks and the nature of specific transactions, we provide anti-bribery education
+        and
+        training, particularly for organizations identified as having higher risk exposure.
+      </p>
+      <p class="c-text-a__text" style="margin-top: 1em;">
+        To prevent bribery by Ricoh Group business partners, we have also established the Ricoh Group Anti-Bribery
+        Guidelines for Third Parties, issued under the name of the Representative Director. These guidelines are
+        intended to ensure that our anti-bribery policy is thoroughly communicated and enforced among our third parties.
+      </p>
+      <p class="c-text-a__text" style="margin-top: 1em;">
+        In addition, if an actual case or suspected case of bribery or corruption occurs, the matter is shared and
+        discussed at appropriate forums—including the Internal Control Committee and the Board of Directors—depending on
+        its significance and potential impact.
+      </p>
+      <p class="c-text-a u-fz-14" style="margin-top: 1em;">
+        <sup>*</sup>“Third Parties” refers to organizations and individuals outside of the Ricoh Group, who provide
+        services “for the
+        benefit of each Ricoh Group company” or “on behalf of each Ricoh Group company”.
+      </p>
+      <p class="c-text-a__text" style="margin-top: 1em;">
+        Prohibition of Donations for the Purpose of
+        Bribery<br>The provision of money or goods—including donations and political contributions—for the purpose of
+        obtaining, maintaining, or inducing improper business advantages is strictly prohibited. Donations and support
+        activities conducted by the Ricoh Group are carried out in compliance with applicable laws and are intended to
+        serve the public interest. These activities undergo appropriate review and approval processes based on internal
+        regulations. Going forward, we will continue to strengthen internal controls aimed at eradicating bribery and
+        promote corporate activities that earn the trust of our stakeholders.
+      </p>
+      <a class="c-link-a icon-hidden" target="_blank" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/governance/trm/pdf/bribery3rd.pdf/"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/icon_pdf.png" alt="Pdf download"><span class="c-link-a__text">Ricoh Group Bribery Prevention Guidelines for Third
+          parties</span>
+      </a>
+    </div>
+  </section>
+  <section class="c-h4-a">
+    <h4 class="c-h4-a__text">
+      Political contributions, donations and sponsorship expenses
+    </h4>
+    <div class="c-text-a">
+      <p class="c-text-a__text">
+        Political contributions in FY2024: JPY 0
+      </p>
+      <p class="c-text-a__text">
+        Donations in FY2024: All donations were properly processed with the approval of executive of each division.
+      </p>
+      <a class="c-link-a icon-hidden" href="../../society/performance.html/"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt=""><span class="c-link-a__text">Results in FY2023</span>
+      </a>
+    </div>
+  </section>
+  <section class="c-h4-a">
+    <h4 class="c-h4-a__text">
+      Prevention of bribery
+    </h4>
+    <div class="c-text-a">
+      <p class="c-text-a__text">
+        In addition to the education of the Code of Conduct, the Ricoh Group has been conducting education about bribery
+        prevention in accordance with the necessity of each region, attempting to familiarize the problems and taking
+        preventive measures. In the United States and United Kingdom, in order to address the US Foreign Corrupt
+        Practices Act (FCPA) and the UK Bribery Act 2010, the policy on bribery prevention and entertainment and gifts
+        was established and the education is being provided as well.
+      </p>
+      <p class="c-text-a__text" style="margin-top: 1em;">
+        Furthermore, in order to respond appropriately to the laws for the prevention of illegal transactions by
+        corporations, we have been cooperating with subject matter experts such as lawyers in order to prevent any in
+        appropriate behavior.
+      </p>
+      <a href="#section03" class="c-link-a c-link-a--in-page icon-hidden" style="display: block;margin-right: auto;">
+        <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-bottom-primary-color.svg" alt="" style="rotate: 180deg;">
+        <span class="c-link-a__text">Code of Conduct education</span>
+      </a>
+    </div>
+  </section>
+</section>
+<section class="c-h3-a">
+  <h3 class="c-h3-a__text">
+    Prevention of participation in anti-social actions
+  </h3>
+  <div class="c-text-a">
+    <p class="c-text-a__text">
+      Preventive measures are being taken, for instance, guidebooks that provide the roles of responsible departments
+      and daily behavioral norms are established in the RGS, and articles regarding the exclusion of organized crime are
+      incorporated in various agreements with the third parties, etc.
+    </p>
+    <p class="c-text-a__text">
+      As a company, in cooperation with the police, corporate lawyers and other external organizations, the Ricoh Group
+      has established a framework to response timely and appropriately towards the contact from anti-social forces.
+    </p>
+  </div>
+</section>
+<section class="c-h3-a">
+  <h3 class="c-h3-a__text">
+    Preventing insider trading
+  </h3>
+  <div class="c-text-a">
+    <p class="c-text-a__text">
+      Because of the fact that the Group Headquarters is located in Japan, the possibility of insider trading is higher
+      than in other regions. Thus, in Japan, education by e-learning program is provided and specific rules are
+      established in the RGS.
+    </p>
+    <p class="c-text-a__text" style="margin-top: 1em;">
+      In the RGS, as one of the measures to prevent insider trading with respect to the trading of stocks of listed
+      companies of the Ricoh Group, the rule for in-advance application is established. For instance, the periods prior
+      to stockholders' meetings or before the release of the business results, insider information is most likely to
+      rises. Thus, these periods are designated as lock-up i.e. a closed period, for the concerned parties of the Ricoh
+      Group, such as directors, employees, part-timers and temporary staff.
+    </p>
+  </div>
+</section>
+<section class="c-h3-a">
+  <h3 class="c-h3-a__text">
+    Political contributions and other spending
+  </h3>
+  <div class="c-text-a">
+    <p class="c-text-a__text">
+      The Ricoh Group's Corporate Code of Conduct stipulates that we comply with the relevant laws and regulations
+      regarding
+      transactions with public institutions and political contributions, and that we will practice (1) strict
+      impartiality,
+      neither making (2) improper political contributions nor participating in election activities.
+    </p>
+    <p class="c-text-a__text">
+      Every year, we review the significance and necessity of joining each organization and confirm that the payment of
+      contributions is appropriate.
+    </p>
+    <p class="c-text-a__text">
+      Ricoh's political contributions and other expenditures over the last four years are as follows:
+    </p>
+  </div>
+  <div class="c-table c-table--scrollX-sp">
+    <table data-sp-table-width="640">
+      <caption>
+        <dl style="display: flex; justify-content: space-between;">
+          <dt style="font-weight: bold;">
+            Political contributions and other spending
+          </dt>
+          <dd class="u-fz-14">
+            (Millions of yen)
+          </dd>
+        </dl>
+      </caption>
+      <thead>
+        <tr>
+          <th>Breakdown</th>
+          <th class="u-align-center">FY2021</th>
+          <th class="u-align-center">FY2022</th>
+          <th class="u-align-center">FY2023</th>
+          <th class="u-align-center">FY2024</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
+            Lobbying, interest representation or similar
+          </td>
+          <td class="u-align-right">
+            0
+          </td>
+          <td class="u-align-right">
+            0
+          </td>
+          <td class="u-align-right">
+            0
+          </td>
+          <td class="u-align-right">
+            0
+          </td>
+        </tr>
+        <tr>
+          <td>
+            Local, regional or national political campaigns / organizations / candidates
+          </td>
+          <td class="u-align-right">
+            0
+          </td>
+          <td class="u-align-right">
+            0
+          </td>
+          <td class="u-align-right">
+            0
+          </td>
+          <td class="u-align-right">
+            0
+          </td>
+        </tr>
+        <tr>
+          <td>
+            Trade associations or tax-exempt groups (ex. Think tanks)
+          </td>
+          <td class="u-align-right">
+            75.4
+          </td>
+          <td class="u-align-right">
+            84.1
+          </td>
+          <td class="u-align-right">
+            79.7
+          </td>
+          <td class="u-align-right">
+            85.9
+          </td>
+        </tr>
+        <tr>
+          <td>
+            Other (ex. Spending related to ballot measures or referendums)
+          </td>
+          <td class="u-align-right">
+            0
+          </td>
+          <td class="u-align-right">
+            0
+          </td>
+          <td class="u-align-right">
+            0
+          </td>
+          <td class="u-align-right">
+            0
+          </td>
+        </tr>
+        <tr>
+          <td>
+            Total contributions and other spending
+          </td>
+          <td class="u-align-right">
+            75.4
+          </td>
+          <td class="u-align-right">
+            84.1
+          </td>
+          <td class="u-align-right">
+            79.7
+          </td>
+          <td class="u-align-right">
+            85.9
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="c-table c-table--scrollX-sp">
+    <table data-sp-table-width="640">
+      <caption style="font-weight: bold;">
+        Major contributions / expenditures and Ricoh’s engagement
+      </caption>
+      <colgroup>
+        <col class="c-table__col--w50p">
+        <col class="c-table__col--w50p">
+      </colgroup>
+      <thead>
+        <tr>
+          <th>
+            Name of organization<br>(Expentidures)
+          </th>
+          <th>
+            Type of organization and Ricoh’s position / engagement
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
+            <a class="c-link-a icon-hidden" target="_blank" href="https://www.jbmia.or.jp/english/index.php"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window"><span class="c-link-a__text">
+                Japan Business Machine and Information System Industries Association<br>
+                ＜JBMIA＞
+              </span>
+            </a>
+          </td>
+          <td>
+            The Japan Business Machine and Information System Industries Association (JBMIA) is an organization aimed at
+            contributing to the development of the Japanese economy and the realization of comfortable office
+            environments through the advancement of the business machine and information system industries. Yoshinori
+            Yamashita, Ricoh Chairperson, led the association’s activities as its president for two years from 2018 to
+            2019.<br>More than 100 staff members from Ricoh, including those in research and development and business
+            strategy, participate in a wide range of activities under the principles advocated by JBMIA, which propose
+            new work styles and aim to create a vibrant global society. These activities include pursuing product safety
+            and security, achieving a decarbonized and circular society, and promoting international cooperation,
+            standardization, and trade policies.
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a class="c-link-a icon-hidden" target="_blank" href="https://www.jeita.or.jp/english/"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window"><span class="c-link-a__text">
+                Japan Electronics and Information Technology Industries Association<br>＜JEITA＞
+              </span>
+            </a>
+          </td>
+          <td>
+            The Japan Electronics and Information Technology Industries Association (JEITA) is an organization aimed at
+            contributing to the comprehensive development of the electronics and information technology
+            industries—including the electronic equipment industry, electronic component industry, IT solution service
+            industry, and all industries utilizing these technologies—so they can create new products and expand new
+            added value. JEITA is committed to the development of the national economy and the prosperity of culture by
+            supporting the overall development of the electronic information technology
+            industry.<br>Ricoh is a corporate member of this organization and actively participates in JEITA's
+            "Responsible Mineral Procurement Study Group." Working closely with other members, Ricoh examines strategies
+            to minimize risks related to various issues such as human rights associated with conflict minerals. Through
+            these efforts, Ricoh ensures transparency in the supply chain and leads the industry in the practice of
+            responsible mineral procurement.
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a class="c-link-a icon-hidden" target="_blank" href="https://www.keidanren.or.jp/en/"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window"><span class="c-link-a__text">
+                Japan Business Federation<br>＜KEIDANREN＞
+              </span>
+            </a>
+          </td>
+          <td>
+            Japan Business Federation (KEIDANREN) comprises over 1,600 companies and organizations, including leading
+            enterprises in Japan, national associations representing major industries, and regional economic
+            organizations. Keidanren works towards the steady and swift realization of critical issues facing the
+            economic sector. Additionally, it engages in dialogues with stakeholders such as political entities,
+            government bodies, labor unions, and citizens. It also encourages corporate members to adhere to the
+            "Corporate Behavior Charter" to establish trust and foster dialogue with governments, economic organizations
+            of various countries, and international institutions to resolve international issues and enhance economic
+            relations with other
+            nations.<br>Ricoh is a member of the Executive Committee and the Standing Board, both of which deliberate
+            policy recommendations and reports on all activities of Keidanren.
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a class="c-link-a icon-hidden" target="_blank" href="https://www.doyukai.or.jp/en/"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window"><span class="c-link-a__text">
+                Japan Association of Corporate Executives<br>＜KEIZAI DOYUKAI＞
+              </span>
+            </a>
+          </td>
+          <td>
+            Japan Association of Corporate Executives (KEIZAI DOYUKAI) is a private, nonprofit, nonpartisan organization
+            founded in 1946, whose mission is to improve the Japanese economic community and seek solutions for numerous
+            domestic issues to ensure the overall well-being of Japanese society. KEIZAI DOYUKAI membership comprises
+            approximately 1,500 top executives, and all members discuss various issues and make policy proposals, with
+            the common belief that corporate managers should be key players in formulating solutions for a broad range
+            of political, economic, and social
+            issues.<br>There are four senior management members from Ricoh, each of whom has been actively serving as a
+            chair or vice-chair of various policy-making committees. Yoshinori Yamashita, Ricoh Chairperson, served as
+            Vice Chairperson of KEIZAI DOYUKAI from 2021 to 2024, and former Ricoh Chairperson Masamitsu Sakurai, served
+            as Chairperson from 2007 to 2010.
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a class="c-link-a icon-hidden" target="_blank" href="http://www.jmcti.org/jmchomepage/english/index.htm"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window"><span class="c-link-a__text">
+                Japan Machinery for Center for Trade and Investment<br>
+                ＜JMC＞
+              </span>
+            </a>
+          </td>
+          <td>
+            The Japan Machinery Center for Trade and Investment (JMC) is a non-profit organization established in
+            December 1952 under the approval of the Minister of Economy, Trade, and Industry, based on the Export and
+            Import Trade Law. Its main objective is to promote the sound development of machinery export trade.<br>
+            The main activities of JMC include providing member companies with the latest information and trends related
+            to trade, offering support through seminars and training sessions, and aggregating industry opinions to make
+            recommendations to the government.<br>
+            Ricoh is a member of the committee association for security trade and commerce and actively participates in
+            activities
+            such as improving export management and engaging in discussions on trade issues in collaboration with member
+            companies.
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+  <p class="c-text-a__text" style="margin-top: 1em;">
+    For more information about compliance categories (incidents and accidents),please see the link below.
+  </p>
+  <a class="c-link-a icon-hidden" href="../risk/"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt=""><span class="c-link-a__text">Incident and Accident Management</span>
+  </a>
+</section>
+<a href="#" class="c-link-a c-link-a--in-page icon-hidden" style="display: block;margin-left: auto;">
+  <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-bottom-primary-color.svg" alt="" style="rotate: 180deg;">
+  <span class="c-link-a__text">Page Top</span>
+</a>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</section><section class="c-section " id="section09">
+    <div class="f-child">
+        <div class="c-margin-b">
+            <div class="c-margin-b__inner">
+                    <div class="c-h2-a">
+        <h2 class="c-h2-a__text">Tax Governance</h2>
+    </div>
+    <div class="c-text-a">
+        <div class="c-text-a">
+  <p class="c-text-a__text">
+    The Ricoh Group's tax governance is based on a tax policy approved and established by the President and CEO
+    (hereafter CEO), the representative director of the Board behind the introduction of Ricoh’s tax transparency
+    system.
+  </p>
+  <p class="c-text-a__text">
+    The Chief Financial Officer (hereafter CFO), who has been delegated authority by the CEO, is responsible for the
+    Group's specific tax policies and procedures and implements them in accordance with internal rules and regulations.
+  </p>
+  <p class="c-text-a__text">
+    In addition, the CFO reports tax-related issues to the Audit and Supervisory Board members. The Audit and
+    Supervisory
+    Board members request the Accounting Auditor explanations of tax issues as necessary and confirm the status of such
+    issues. At the same time, important business decisions are made by the Board of Directors, or the GMC (Group
+    Management Committee) based on internal regulations regarding the existence of relevant tax issues and responses to
+    identified tax issues.
+  </p>
+  <p class="c-text-a__text">
+    The Ricoh Group fulfills corporate social responsibility by constantly updating these internal rules and regulations
+    in accordance with the tax-related laws and regulations as well as the international regulations covering the rules
+    of each country and region, and striving to maintain and improve tax compliance while paying appropriate taxes.
+  </p>
+  <a class="c-link-a icon-hidden" target="_blank" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/governance/pdf/tax_policy.pdf/"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/icon_pdf.png" alt="Pdf download"><span class="c-link-a__text">Ricoh Group Tax Policy</span>
+  </a>
+</div>
+<section class="c-h3-a">
+  <h3 class="c-h3-a__text">
+    Country-by-Country Reporting
+  </h3>
+  <div class="c-text-a">
+    <p class="c-text-a__text">
+      Please refer to the attached file (RICOH_FY2023 CbCR_en) for the RICOH Group's FY2023 CbCR, including revenues,
+      profit (loss) before income tax, income taxes accrued, income taxes paid, and number of employees.
+    </p>
+  </div>
+  <a href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/governance/RICOH_FY2023%20CbCR_en.xlsx/" class="c-link-a c-link-a--download icon-hidden">
+    <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/download-primary-color.svg" alt="Download">
+    <span class="c-link-a__text">RICOH_FY2023 CbCR_en.xlsx</span>
+  </a>
+</section>
+<a href="#" class="c-link-a c-link-a--in-page icon-hidden" style="display: block;margin-left: auto;">
+  <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-bottom-primary-color.svg" alt="" style="rotate: 180deg;">
+  <span class="c-link-a__text">Page Top</span>
+</a>
+
+
+<div class="c-linkColumn c-linkColumn--col4">
+  <div class="c-linkColumn__inner">
+    <div class="c-linkColumn__item">
+      <a href="../governance/" class="c-link-a icon-hidden">
+        <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
+        <span class="c-link-a__text">Corporate Governance</span>
+      </a>
+    </div>
+    <div class="c-linkColumn__item">
+      <a href="../risk/" class="c-link-a icon-hidden">
+        <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
+        <span class="c-link-a__text">Risk Management</span>
+      </a>
+    </div>
+    <div class="c-linkColumn__item">
+      <a href="../outside_director/" class="c-link-a icon-hidden">
+        <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
+        <span class="c-link-a__text">Directors</span>
+      </a>
+    </div>
+    <div class="c-linkColumn__item">
+      <a href="../audit_and_supervisory/" class="c-link-a icon-hidden">
+        <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
+        <span class="c-link-a__text">Audit and Supervisory Board</span>
+      </a>
+    </div>
+    <div class="c-linkColumn__item">
+      <a href="../trade_control/" class="c-link-a icon-hidden">
+        <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
+        <span class="c-link-a__text">Trade Control</span>
+      </a>
+    </div>
+  </div>
+</div>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</section></div>
+    
+</div>
+
+            </div>
+        </div>
+        
+            <div class="breadcrumb breadcrumb--borderTop">
+                <div class="breadcrumb__container">
+                    <div class="breadcrumb__inner">
+                        <ul class="breadcrumb__list">
+                                        <li>
+                                            <a href="../../../">Home</a>
+                                        </li>
+                                        <li>
+                                            <a href="../../">Sustainability</a>
+                                        </li>
+                                        <li>
+                                            <a href="../">Governance</a>
+                                        </li>
+                            <li class="act">
+                                <span>Compliance</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+        <footer class="gl-footer">
+  <div class="gl-footer-link-area">
+    <div class="gl-footer-link-area_inner">
+      <div class="gl-footer-link-area-pc">
+        <div class="gl-footer-link-area-pc_list">
+          <div class="gl-footer-link-area-pc_item">
+            <a href="../../../about/" class="gl-footer-link-area-pc_link-hdg">About RICOH</a>
+            <ul class="gl-footer-link-area-pc_link-list">
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../about/">Vision</a></li>
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../about/">Company Overview</a></li>
+              </ul>
+          </div>
+          <div class="gl-footer-link-area-pc_item">
+            <a href="../../../IR/" class="gl-footer-link-area-pc_link-hdg">Investor Relations</a>
+            <ul class="gl-footer-link-area-pc_link-list">
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../IR/news/">IR News</a></li>
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../IR/events/investors-meeting/">Corporate Strategy Meeting</a></li>
+              </ul>
+          </div>
+          <div class="gl-footer-link-area-pc_item">
+            <a href="../../" class="gl-footer-link-area-pc_link-hdg">Sustainability</a>
+            <ul class="gl-footer-link-area-pc_link-list">
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../environment/">Environment</a></li>
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../society/">Society</a></li>
+              </ul>
+            </div>
+          <div class="gl-footer-link-area-pc_item">
+            <a href="../../../technology/" class="gl-footer-link-area-pc_link-hdg">Technology</a>
+            <ul class="gl-footer-link-area-pc_link-list">
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../technology/rd/">Development</a></li>
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../technology/tech/">Ricoh's Technology</a></li>
+              </ul>
+            </div>
+          <div class="gl-footer-link-area-pc_item">
+            <a href="../../../news/" class="gl-footer-link-area-pc_link-hdg">News</a>
+            <ul class="gl-footer-link-area-pc_link-list">
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../release/">News Release</a></li>
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../info/">Information</a></li>
+              </ul>
+          </div>
+        </div>
+      </div>
+      <div class="gl-footer-link-area-sp">
+        <ul class="gl-footer-link-area-sp_list">
+          <li class="gl-footer-link-area-sp_item"><a href="../../../about/">About RICOH</a></li>
+          <li class="gl-footer-link-area-sp_item"><a href="../../../IR/">Investor Relations</a></li>
+          <li class="gl-footer-link-area-sp_item"><a href="../../">Sustainability</a></li>
+          <li class="gl-footer-link-area-sp_item"><a href="../../../technology/">Technology</a></li>
+          <li class="gl-footer-link-area-sp_item"><a href="../../../news/">News</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="gl-footer-area-01">
+    <div class="gl-footer-area-01_inner">
+      <div class="gl-footer-pageTop">
+        <a href="#top" class="gl-footer-pageTop_link js-top-button">Page Top</a>
+      </div>
+    </div><!-- /.gl-footer-area-01_inner -->
+  </div><!-- /.gl-footer-area-01 -->
+  <div class="gl-footer-area-02">
+    <div class="gl-footer-area-02_inner">
+      <div class="gl-footer-area-02_wrap">
+        <span class="hide">ここからこのサイトのサブメニュー</span>
+        <div class="gl-footer-utility">
+          <ul class="gl-footer-utility_inner">
+            <li class="gl-footer-utility_item"><a href="../../../contact/" class="gl-footer-utility_link">Contact</a></li>
+            <li class="gl-footer-utility_item"><a href="../../../privacy/" class="gl-footer-utility_link">Privacy policy</a></li>
+            <li class="gl-footer-utility_item"><a href="../../../terms-of-use/" class="gl-footer-utility_link">Terms of use</a></li>
+            <li class="gl-footer-utility_item"><a href="../../../terms-of-use/accessibility/" class="gl-footer-utility_link">Accessibility</a></li>
+            <li class="gl-footer-utility_item"><a href="../../../sitemap/" class="gl-footer-utility_link">Sitemap</a></li>
+            <li class="gl-footer-utility_item">
+            </ul>
+        </div><!-- /.gl-footer-utility -->
+        <div class="gl-footer-copyright">
+          <div class="gl-footer-copyright_inner">
+            <small class="gl-footer-copyright_text">©&nbsp;Ricoh</small>
+          </div>
+        </div><!-- /.gl-footer-copyright -->
+      </div><!-- /.gl-footer-area-02_wrap -->
+    </div><!-- /.gl-footer-area-02_inner -->
+  </div><!-- /.gl-footer-area-02 -->
+</footer><!-- /.gl-footer -->
+        <div class="cp-PageTop smoothScroll">
+            <a class="ver" href="#wrapper" aria-label="Page Top">PAGE TOP</a>
+        </div>
+        
+
+    
+
+<script type="text/javascript">
+!(function () {
+var G = (GALFSRAM = window.GALFSRAM || {});
+G.mfx = G.mfx || {};
+G.mfx.router_mode = "history";
+})();
+</script>
+</div>
+
+
+        
+
+<!-- RICOH_PAGE_SCRIPTS -->
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/jquery.min.js"></script>
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/JS/common.js"></script>
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/js/init.js"></script>
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/js/template.js"></script>
+</body></html>

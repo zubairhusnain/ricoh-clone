@@ -1,0 +1,938 @@
+<?php
+declare(strict_types=1);
+require_once __DIR__ . '/../../../base-url.php';
+rh_start_output_rewrite();
+?>
+<!DOCTYPE html><html lang="EN" class="js-on"><head>
+
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/CSS/sc_common.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/CSS/gl_header_localize.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/CSS/sc_common_us.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/css/common.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/css/gl_header.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/css/component.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/css/option.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/css/ex_component.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/css/template.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/css/conflict_clear.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/fancybox-v1.4.3/CSS/jquery.fancybox-1.3.4.css">
+
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/css/template-global-addition2024.css">
+
+
+    
+    
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Optimal Support for Your Work Using AI | Global | Ricoh</title>
+    <meta name="Description" content="[Ricoh Global Official Website] Optimal Support for Your Work Using AI">
+<meta property="og:title" content="Optimal Support for Your Work Using AI | Global | Ricoh">
+    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&amp;hash=9DB561AD22E96D26590C1574F15A7B50">
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="Optimal Support for Your Work Using AI">
+<meta property="og:url" content="https://www.ricoh.com/technology/ai">
+    <meta property="og:site_name" content="Ricoh Global Website">
+    <meta property="og:country-name" content="Global">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@ricoh">
+
+<link rel="canonical" href="">
+
+
+<link rel="icon" type="image/vnd.microsoft.icon" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/ScAssets/System/Images/favicon.ico">
+<link rel="apple-touch-icon" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/ScAssets/System/Images/apple_icon.png">
+
+
+
+
+<script type="text/javascript" src="/ricoh-clone/ricoh_offline/assets/cdn.fonts.net/kit/3c059441-5218-4b9b-974d-a8185a3bd584/3c059441-5218-4b9b-974d-a8185a3bd584_enhanced.js" async=""></script>
+<link rel="stylesheet" type="text/css" href="/ricoh-clone/ricoh_offline/assets/cdn.fonts.net/kit/3c059441-5218-4b9b-974d-a8185a3bd584/3c059441-5218-4b9b-974d-a8185a3bd584_enhanced.css">
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/jquery.min.js"></script>
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/jquery.bxslider.min.js" defer=""></script>
+
+
+
+
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/bxslider/jquery.bxslider.css">
+
+
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/js/jquery-match-height.js" defer=""></script>
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/js/solution-product-template.js" defer=""></script>
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/Scripts/dist/lib/vendor.js"></script>
+
+
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/JS/common.js" defer=""></script>
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/css/import.css">
+
+
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/css/solution-product-template.css">
+
+
+
+
+
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/js/globalnavi.js" defer=""></script>
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/jquery.tile.js" defer=""></script>
+
+
+<script type="text/javascript" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/modal-for-video/jquery.magnific-popup.min.js" defer=""></script>
+<script type="text/javascript" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/modal-for-video/jquery.modal-for-video.js" defer=""></script>
+<script type="text/javascript" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/modal-for-video/youtube_modal_setting.js" defer=""></script>
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/modal-for-video/magnific-popup.css" charset="UTF-8">
+
+
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/js/common.vanilla.js" defer=""></script>
+
+
+
+</head>
+<body>
+    <div id="wrapper">
+        
+        
+        <header class="gl-header -horizontal">
+    <span class="hide"></span>
+    <div class="gl-header_inner">
+        <div class="gl-header_logo">
+            <a href="../../"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/img/logo/logo.svg" alt="RICOH imagine. change." width="125" height="43"></a>
+        </div>
+
+        <div class="gl-header_menu">
+            <nav class="gl-menu js-global-menu" data-label="Menu" aria-label="Main navigation">
+                <div class="gl-menu_content fn-menu_hamburger-menu">
+                        <div class="gi-menu-globe">
+                            <a href="../../gateway/" class="gi-menu_globe-btn">
+                                <span class="gi-menu_globe-txt">Country/Area Selector</span>
+                                <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/img/icon/globe.svg" class="gi-menu_globe-icon" alt="Change Country/Area">
+                            </a>
+                        </div>
+                                                            <a class="hide" href="#contents">Skip to main content</a>
+                    <span class="hide">First level navigation</span>
+                    <ul class="gl-menu_main">
+<li>
+<a href="../../about/" class="{37791300-1D98-4601-A34E-687E71DCCA2E} gl-menu_link  fn-menu_main"><span>About RICOH</span></a>
+
+</li>
+<li>
+<a href="../../IR/" class="{419FD399-BE45-4B6F-A170-DDF4C563F180} gl-menu_link  fn-menu_main"><span>Investor Relations</span></a>
+
+</li>
+<li>
+<a href="../../sustainability/" class="{1B1686A6-FFF5-472A-A359-7E48900444A1} gl-menu_link  fn-menu_main"><span>Sustainability</span></a>
+
+</li>
+<li>
+<a href="../../products/" class="{C5764788-D65B-4D47-84F6-9EED5B48E30E} gl-menu_link  fn-menu_main"><span>Products</span></a>
+</li><li>
+<a href="../" class="{269944AA-F9F1-450F-808A-5A0A25693389} gl-menu_link  fn-menu_main fn-current" aria-current="page"><span>Technology</span></a>
+
+</li>
+<li>
+<a href="../../support/" class="{CD078A07-1565-4DCA-8688-B247492DCA7B} gl-menu_link  fn-menu_main"><span>Support &amp; Downloads</span></a>
+</li><li>
+<a href="../../news/" class="{0D2ED999-CA97-40DF-A541-17D96E4A0DF5} gl-menu_link  fn-menu_main"><span>News</span></a>
+
+</li>
+                    </ul>
+                </div>
+
+                <template class="fn-menu_tpl-hamburger">
+                    <button class="gl-menu_toggle-btn" data-alt-open="Open" data-alt-close="Close"><span class="hide">Menu</span></button>
+                </template>
+                <template class="fn-menu_tpl-back">
+                    <button class="gl-menu_back-btn">Home</button>
+                </template>
+                <template class="fn-menu_tpl-close">
+                    <button class="gl-menu_close-btn" data-alt-close="Close"></button>
+                </template>
+            </nav>
+        </div>
+
+        <div class="gl-header_utilities">
+                                                                            </div>
+    </div>
+</header>
+
+        <div id="contents" class="">
+            <div id="Main">
+                
+    <div class="breadcrumb breadcrumb--borderBottom">
+        <div class="breadcrumb__container">
+            <div class="breadcrumb__inner">
+                <ul class="breadcrumb__list">
+                                    <li>
+                                        <a href="../../">Home</a>
+                                    </li>
+                                    <li>
+                                        <a href="../">Technology</a>
+                                    </li>
+                            <li class="act">
+                                <span>Optimal Support for Your Work Using AI</span>
+                            </li>
+                </ul>
+                    <div class="cp-ButtonArea u-sp-hidden">
+                        <ul class="c-navButton c-navButton--breadcrumb">
+                                                            <li class="c-navButton__item">
+                                    <a href="#contact" target="_self" class="c-navButton__link c-navButton__link--red">
+                                        <span class="c-navButton__text">Contact us</span>
+                                    </a>
+                                </li>
+                        </ul>
+                    </div>
+            </div>
+        </div>
+    </div>
+
+
+                
+                
+<div class="c-container">
+        <section class="c-mv" data-mv="area" id="freepagetitle">
+        <div class="c-margin-b c-margin-b--large">
+                <div class="c-mv__image" data-sec-bg="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/technology/ai/img/mv_v2.webp" style="background-image: url(&quot;/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/technology/ai/img/mv_v2.webp&quot;);"></div>
+            <div class="c-margin-b__inner">
+                <div class="c-mv__inner">
+                    <div class="c-mv__balloon">
+                        <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/image-balloon.png" alt="">
+                    </div>
+                        <h1 class="c-h1-a">
+                            Optimal Support for Your Work Using AI
+                        </h1>
+                                    </div>
+            </div>
+        </div>
+    </section>
+
+    <div class="fxb-section">
+<section class="c-ancLink-a">
+  <div class="c-margin-a">
+    <div class="c-margin-a__inner">
+      <ul class="c-ancLink-a__list">
+        <li class="c-ancLink-a__item">
+          <a href="#section01" class="c-ancLink-a__link">Introduction</a>
+        </li>
+        <li class="c-ancLink-a__item">
+          <a href="#section02" class="c-ancLink-a__link">Digital service development</a>
+        </li>
+        <li class="c-ancLink-a__item">
+          <a href="#section03" class="c-ancLink-a__link">Human resource management</a>
+        </li>
+        <li class="c-ancLink-a__item">
+          <a href="#section04" class="c-ancLink-a__link">AI initiatives in the Ricoh Group</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</section><section class="c-section " id="section01">
+    <div class="f-child">
+        <div class="c-margin-b">
+            <div class="c-margin-b__inner">
+                    <div class="c-h2-a">
+                        <h2 class="c-h2-a__text">Introduction</h2>
+                    </div>
+                    <div class="c-multiCol">
+        <div class="c-linkCard c-linkCard--col1 c-linkCard--col1-wide">
+            
+                <div class="c-linkCard__item c-linkCard__item--layout1">
+                    <div class="c-linkCard__inner">
+                                                    <div class="c-linkCard__textwrap">
+                                <div class="c-h3-a">
+<h3 class="c-h3-a__text u-align-center">Ricoh offers digital services<br>
+that support creativity and transforms the workplace.</h3>
+</div>
+
+<div class="c-text-a">
+<p class="c-text-a__text">AI is digital brainpower. It utilizes sensors to acquire the necessary data from images and sound in the same way humans would using eyes and ears and processes that all that bulk data swiftly to make your work easier. It can also help you in your work because it can reveal previously unseen areas and process that input in ways that would have been impossible until now.
+Ricoh explores workplace challenges in depth so that we are integrated into various aspects of your work and deliver high-quality support. We will develop optimal AI to find the very best solutions and deliver value to the workplace.</p>
+ </div>
+                            </div>
+                                            </div>
+                </div>
+                                                        </div>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</section><section class="c-section " id="section02">
+    <div class="f-child">
+        <div class="c-margin-b">
+            <div class="c-margin-b__inner">
+                    <div class="c-h2-a">
+                        <h2 class="c-h2-a__text">Digital Service Development</h2>
+                    </div>
+                    <div class="c-text-a">
+        <div class="c-text-a">
+<p class="c-text-a__text u-align-center">AI tools themselves are open and evolve very swiftly, making this a technological field where world records for speed and performance are continually being rewritten.<br>
+AI’s performance itself is not the sole factor in getting the most out of this resource to create solutions.
+Collecting large amounts of high quality, relevant data for the AI to learn from is critical.</p>
+</div>
+    </div>
+    <div class="c-multiCol">
+        <div class="c-linkCard c-linkCard--col1 c-linkCard--col1-wide">
+            
+                <div class="c-linkCard__item c-linkCard__item--layout1">
+                    <div class="c-linkCard__inner">
+                            <div class="c-linkCard__titlewrap">
+                                <div class="c-h3-a">
+                                    <h3 class="c-h3-a__text">AI Areas of Focus for Ricoh</h3>
+                                </div>
+                            </div>
+                                                    <div class="c-linkCard__textwrap">
+                                <div class="c-multiCol">
+  <div class="c-linkCard c-linkCard--col3">
+    <!-- c-linkCard--colXクラスの数値を変更することで1-5カラムまで変更することができます。 -->
+    <!-- item1 ここから -->
+    <div class="c-linkCard__item">
+      <div class="c-linkCard__inner">
+        <!-- 画像 ここから -->
+        <div class="c-linkCard__image">
+          <div class="c-linkCard__imageInner">
+            <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/technology/ai/img/img01.webp" alt="">
+          </div>
+        </div>
+        <!-- 画像 ここまで -->
+        <!-- タイトルテキスト ここから -->
+        <div class="c-h4-a c-h4-a--narrow">
+          <h4 class="c-h4-a__text">Data</h4>
+        </div>
+        <!-- タイトルテキスト ここまで -->
+        <div class="f-richText">
+          <!-- テキスト ここから -->
+          <div class="c-text-a">
+            <p class="c-text-a__text">Ricoh’s original sensing technologies (images, vibrations, etc.) now make it possible to acquire data that was once inaccessible. The quality of the data has also improved. For example, special cameras that leverage our optical technology can gather information beyond just flat images.</p>
+          </div>
+          <!-- テキスト ここまで -->
+        </div>
+      </div>
+    </div>
+    <!-- item1 ここまで -->
+    <!-- item2 画像エリアを動画にする ここから -->
+    <div class="c-linkCard__item">
+      <div class="c-linkCard__inner">
+        <!-- 画像 ここから -->
+        <div class="c-linkCard__image">
+          <div class="c-linkCard__imageInner">
+            <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/technology/ai/img/img02.webp" alt="">
+          </div>
+        </div>
+        <!-- 画像 ここまで -->
+        <!-- タイトルテキスト ここから -->
+        <div class="c-h4-a c-h4-a--narrow">
+          <h4 class="c-h4-a__text">Workflow</h4>
+        </div>
+        <!-- タイトルテキスト ここまで -->
+        <div class="f-richText">
+          <!-- テキスト ここから -->
+          <div class="c-text-a">
+            <p class="c-text-a__text">We explore workflows in-depth and identify important workplace challenges that are not obvious or have gone unnoticed, or where data has never been collected. We implement AI into our internal processes to test out the viability and make those solutions most practical.</p>
+          </div>
+          <!-- テキスト ここまで -->
+        </div>
+      </div>
+    </div>
+    <!-- item2 ここまで -->
+    <!-- item3 ここから -->
+    <div class="c-linkCard__item">
+      <div class="c-linkCard__inner">
+        <!-- 画像 ここから -->
+        <div class="c-linkCard__image">
+          <div class="c-linkCard__imageInner">
+            <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/technology/ai/img/img03.webp" alt="">
+          </div>
+        </div>
+        <!-- 画像 ここまで -->
+        <!-- タイトルテキスト ここから -->
+        <div class="c-h4-a c-h4-a--narrow">
+          <h4 class="c-h4-a__text">Technologies x Business Models</h4>
+        </div>
+        <!-- タイトルテキスト ここまで -->
+        <div class="f-richText">
+          <!-- テキスト ここから -->
+          <div class="c-text-a">
+            <p class="c-text-a__text">We develop AI and sensing technologies in tandem with business models. We leverage the continually accumulated data with the optimal AI technologies to deliver value to your workplace.</p>
+          </div>
+          <!-- テキスト ここまで -->
+        </div>
+      </div>
+    </div>
+    <!-- item3 ここまで -->
+  </div>
+</div>
+
+<div class="c-multiCol">
+  <div class="c-linkCard c-linkCard--col4">
+    <!-- c-linkCard--colXクラスの数値を変更することで1-5カラムまで変更することができます。 -->
+    <!-- item1 ここから -->
+    <div class="c-linkCard__item">
+      <div class="c-linkCard__inner">
+        <!-- タイトルテキスト ここから -->
+        <div class="c-h4-a c-h4-a--narrow">
+          <h4 class="c-h4-a__text">Image Recognition and Analysis</h4>
+        </div>
+        <!-- タイトルテキスト ここまで -->
+      </div>
+    </div>
+    <!-- item1 ここまで -->
+    <!-- item2 ここから -->
+    <div class="c-linkCard__item">
+      <div class="c-linkCard__inner">
+        <!-- タイトルテキスト ここから -->
+        <div class="c-h4-a c-h4-a--narrow">
+          <h4 class="c-h4-a__text">Natural Language Processing</h4>
+        </div>
+        <!-- タイトルテキスト ここまで -->
+      </div>
+    </div>
+    <!-- item2 ここまで -->
+    <!-- item3 ここから -->
+    <div class="c-linkCard__item">
+      <div class="c-linkCard__inner">
+        <!-- タイトルテキスト ここから -->
+        <div class="c-h4-a c-h4-a--narrow">
+          <h4 class="c-h4-a__text">Voice and Vibration Recognition</h4>
+        </div>
+        <!-- タイトルテキスト ここまで -->
+      </div>
+    </div>
+    <!-- item3 ここまで -->
+    <!-- item4 ここから -->
+    <div class="c-linkCard__item">
+      <div class="c-linkCard__inner">
+        <!-- タイトルテキスト ここから -->
+        <div class="c-h4-a c-h4-a--narrow">
+          <h4 class="c-h4-a__text">Structured Data Analysis</h4>
+        </div>
+        <!-- タイトルテキスト ここまで -->
+      </div>
+    </div>
+    <!-- item4 ここまで -->
+  </div>
+</div>
+
+<div class="c-multiCol">
+  <div class="c-linkCard c-linkCard--col1">
+    <div class="c-linkCard__item">
+      <div class="c-linkCard__inner">
+        <a href="../tech/software/" class="c-button-a c-button-a--red c-button-a--arrow c-button-a--iconWhite icon-hidden u-mw-700 u-mt-0 u-mb-32 u-mr-auto u-ml-auto">
+          <span class="c-button-a__text">See Ricoh’s R&amp;D projects that utilize AI technologies</span>
+          <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg" alt="">
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+                            </div>
+                                            </div>
+                </div>
+                                                        </div>
+    </div>
+
+    <div class="c-multiCol">
+        <div class="c-linkCard c-linkCard--col1 c-linkCard--col1-wide">
+            
+                <div class="c-linkCard__item c-linkCard__item--layout1">
+                    <div class="c-linkCard__inner">
+                            <div class="c-linkCard__titlewrap">
+                                <div class="c-h3-a">
+                                    <h3 class="c-h3-a__text">Digital Services Offered by Ricoh</h3>
+                                </div>
+                            </div>
+                                                    <div class="c-linkCard__textwrap">
+                                <div class="c-text-a">
+<p class="c-text-a__text">We offer value to people working in vaious places.</p>
+ </div>
+
+<div class="c-multiCol">
+  <div class="c-linkCard c-linkCard--col2">
+    <!-- c-linkCard--colXクラスの数値を変更することで1-5カラムまで変更することができます。 -->
+    <!-- item1 ここから -->
+    <div class="c-linkCard__item">
+      <div class="c-linkCard__inner">
+        <!-- タイトルテキスト ここから -->
+        <div class="c-h4-a c-h4-a--narrow">
+          <h4 class="c-h4-a__text">Using AI To Compare and Align Two Documents Contents<br>that Are Organized Differently</h4>
+        </div>
+        <!-- タイトルテキスト ここまで -->
+        <div class="f-richText">
+          <!-- テキスト ここから -->
+          <div class="c-text-a">
+            <p class="c-text-a__text">We have developed “Deep Alignment” a natural language processing technology that automatically aligns the sentences and paragraphs of two documents to identify where they overlap or differ clearly. Based on the meaning of words obtained through deep learning, it takes into account not only the word’s definition but also the similarities in meaning between the sentences and paragraphs to which those words belong. We have succeeded in creating an algorithm that works independently of the sentence order to align sentences and paragraphs and is capable of aligning documents, such as contracts.</p>
+          </div>
+          <!-- テキスト ここまで -->
+        </div>
+        <!-- テキストリンクエリア デザインパターンa ここから -->
+        <div class="c-link-a-list">
+          <div class="c-link-a-list__inner">
+            <a href="../tech/115_deep_alignment/" class="c-link-a icon-hidden">
+              <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
+              <span class="c-link-a__text">Natural language processing for document solutions</span>
+            </a>
+          </div>
+        </div>
+        <!-- テキストリンクエリア デザインパターンa ここまで -->
+      </div>
+    </div>
+    <!-- item1 ここまで -->
+    <!-- item2 画像エリアを動画にする ここから -->
+    <div class="c-linkCard__item">
+      <div class="c-linkCard__inner">
+        <!-- 画像 ここから -->
+        <figure class="c-linkCard__image">
+          <div class="c-linkCard__imageInner">
+            <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/technology/ai/img/img04.webp" alt="">
+          </div>
+        </figure>
+        <!-- 画像 ここまで -->
+      </div>
+    </div>
+    <!-- item2 ここまで -->
+  </div>
+</div>
+
+<div class="c-multiCol">
+  <div class="c-linkCard c-linkCard--col2">
+    <!-- c-linkCard--colXクラスの数値を変更することで1-5カラムまで変更することができます。 -->
+    <!-- item1 ここから -->
+    <div class="c-linkCard__item">
+      <div class="c-linkCard__inner">
+        <!-- タイトルテキスト ここから -->
+        <div class="c-h4-a c-h4-a--narrow">
+          <h4 class="c-h4-a__text">Factory (IoT) x Vibration Sensing to Detect Equipment and Machine<br>Abnormality Using AI</h4>
+        </div>
+        <!-- タイトルテキスト ここまで -->
+        <div class="f-richText">
+          <!-- テキスト ここから -->
+          <div class="c-text-a">
+            <p class="c-text-a__text">The combination of our proprietary sensors and data analysis technology makes it possible to extract the data needed to detect any equipment or machine abnormality. This system is a combination of Ricoh Group’s vibration analysis technology, AI-based algorithms, and industrial device controller technology.</p>
+          </div>
+          <!-- テキスト ここまで -->
+        </div>
+      </div>
+    </div>
+    <!-- item1 ここまで -->
+    <!-- item2 画像エリアを動画にする ここから -->
+    <div class="c-linkCard__item">
+      <div class="c-linkCard__inner">
+        <!-- 画像 ここから -->
+        <figure class="c-linkCard__image">
+          <div class="c-linkCard__imageInner">
+            <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/technology/ai/img/img05.webp" alt="">
+          </div>
+        </figure>
+        <!-- 画像 ここまで -->
+      </div>
+    </div>
+    <!-- item2 ここまで -->
+  </div>
+</div>
+
+<div class="c-multiCol">
+  <div class="c-linkCard c-linkCard--col2">
+    <!-- c-linkCard--colXクラスの数値を変更することで1-5カラムまで変更することができます。 -->
+    <!-- item1 ここから -->
+    <div class="c-linkCard__item">
+      <div class="c-linkCard__inner">
+        <!-- タイトルテキスト ここから -->
+        <div class="c-h4-a c-h4-a--narrow">
+          <h4 class="c-h4-a__text">Inspection of Infrastructure x <br>Machine Vision Monitoring Using AI Technology</h4>
+        </div>
+        <!-- タイトルテキスト ここまで -->
+        <div class="f-richText">
+          <!-- テキスト ここから -->
+          <div class="c-text-a">
+            <p class="c-text-a__text">Most inspection work on infrastructure is currently done by specialist vehicles or carried out with the naked eye. However, there is a limit to the extent and frequency of such inspection work due to issues like cost, and the inability of the specialist vehicles to enter narrow roads. Our road surface inspection system and tunnel monitoring system have greatly boosted the efficiency and accuracy of the measurement and assessment work. It replaces the previously used visual evaluation process with the acquisition of images via machine vision combined with an AI machine learning-based model.</p>
+          </div>
+          <!-- テキスト ここまで -->
+        </div>
+        <!-- テキストリンクエリア デザインパターンa ここから -->
+        <div class="c-link-a-list c-link-a-list--column">
+          <div class="c-link-a-list__inner">
+            <a href="../tech/104_road_surface_monitoring/" class="c-link-a icon-hidden">
+              <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
+              <span class="c-link-a__text">Road Surface Inspection System</span>
+            </a>
+            <a href="../tech/087_tunnel_monitoring/" class="c-link-a icon-hidden">
+              <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
+              <span class="c-link-a__text">Tunnel Monitoring System</span>
+            </a>
+          </div>
+        </div>
+        <!-- テキストリンクエリア デザインパターンa ここまで -->
+      </div>
+    </div>
+    <!-- item1 ここまで -->
+    <!-- item2 画像エリアを動画にする ここから -->
+    <div class="c-linkCard__item">
+      <div class="c-linkCard__inner">
+        <!-- 画像 ここから -->
+        <figure class="c-linkCard__image">
+          <div class="c-linkCard__imageInner">
+            <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/technology/ai/img/img06.webp" alt="">
+          </div>
+        </figure>
+        <!-- 画像 ここまで -->
+      </div>
+    </div>
+    <!-- item2 ここまで -->
+  </div>
+</div>
+                            </div>
+                                            </div>
+                </div>
+                                                        </div>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</section><section class="c-section " id="section03">
+    <div class="f-child">
+        <div class="c-margin-b">
+            <div class="c-margin-b__inner">
+                    <div class="c-h2-a">
+                        <h2 class="c-h2-a__text">Human Resource Management</h2>
+                    </div>
+                    <div class="c-text-a">
+        <div class="c-text-a">
+<p class="c-text-a__text u-align-center">We are aiming to be an AI-native company where all employees can propose innovative AI applications that will help to resolve our customers’ challenges.</p>
+</div>
+    </div>
+    <div class="c-multiCol">
+        <div class="c-linkCard c-linkCard--col1 c-linkCard--col1-wide">
+            
+                <div class="c-linkCard__item c-linkCard__item--layout1">
+                    <div class="c-linkCard__inner">
+                            <div class="c-linkCard__titlewrap">
+                                <div class="c-h3-a">
+                                    <h3 class="c-h3-a__text">Specialized Organization that
+<br>
+Provides Support and Digital Services Development</h3>
+                                </div>
+                            </div>
+                                                    <div class="c-linkCard__textwrap">
+                                <div class="c-multiCol">
+  <div class="c-linkCard c-linkCard--col2">
+    <!-- c-linkCard--colXクラスの数値を変更することで1-5カラムまで変更することができます。 -->
+    <!-- item1 ここから -->
+    <div class="c-linkCard__item">
+      <div class="c-linkCard__inner">
+        <!-- 画像 ここから -->
+        <figure class="c-linkCard__image">
+          <div class="c-linkCard__imageInner">
+            <img alt="サンプル" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/technology/ai/img/img07.webp">
+          </div>
+        </figure>
+        <!-- 画像 ここまで -->
+      </div>
+    </div>
+    <!-- item1 ここまで -->
+    <!-- item2 ここから -->
+    <div class="c-linkCard__item">
+      <div class="c-linkCard__inner">
+        <div class="f-richText">
+          <!-- テキスト ここから -->
+          <div class="c-text-a">
+            <p class="c-text-a__text">Personnel skilled in AI are trained throughout the Ricoh. Our AI reps incorporate AI into work processes, and support is provided by specialized AI organizations when necessary. We run initiatives to boost work efficiency and product quality by making practical use of AI in-house. For example, we utilize our proprietary algorithms to run visual inspections of components and using cloud-based OCR and chatbots. We leverage our experience from those initiatives to construct systems using AI that resolve our customers’ challenges.</p>
+          </div>
+          <!-- テキスト ここまで -->
+        </div>
+        <!-- テキストリンクエリア デザインパターンa ここから -->
+        <div class="c-link-a-list">
+          <div class="c-link-a-list__inner">
+            <a href="../tech/073_imagerecognition/" class="c-link-a icon-hidden">
+              <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
+              <span class="c-link-a__text">Image Recognition and Analysis Technology for Visual Inspection</span>
+            </a>
+          </div>
+        </div>
+        <!-- テキストリンクエリア デザインパターンa ここまで -->
+      </div>
+    </div>
+    <!-- item2 ここまで -->
+  </div>
+</div>
+                            </div>
+                                                    <div class="c-linkCard__imagewrap">
+                                
+                                    <div class="c-linkCard__image">
+                                            <div class="c-linkCard__imageInner c-linkCard__imageInner--noRatio">
+                                                <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/technology/ai/img/img08.webp" alt="">
+                                            </div>
+                                    </div>
+                            </div>
+                    </div>
+                </div>
+                                                        </div>
+    </div>
+
+    <div class="c-multiCol">
+        <div class="c-linkCard c-linkCard--col1 c-linkCard--col1-wide">
+            
+                <div class="c-linkCard__item c-linkCard__item--layout1">
+                    <div class="c-linkCard__inner">
+                            <div class="c-linkCard__titlewrap">
+                                <div class="c-h3-a">
+                                    <h3 class="c-h3-a__text">Cutting-edge AI Research</h3>
+                                </div>
+                            </div>
+                                                    <div class="c-linkCard__textwrap">
+                                <div class="c-multiCol">
+  <div class="c-linkCard c-linkCard--col2">
+    <!-- c-linkCard--colXクラスの数値を変更することで1-5カラムまで変更することができます。 -->
+    <!-- item1 ここから -->
+    <div class="c-linkCard__item">
+      <div class="c-linkCard__inner">
+        <div class="f-richText">
+          <!-- テキスト ここから -->
+          <div class="c-text-a">
+            <p class="c-text-a__text">In addition to assisting our customers to make the change to AI, researchers in our specialized AI organizations are contributors to the advancement of AI technologies by participating in international symposia and publishing research papers. Ricoh also provides optional company-wide training for those who wish to improve their skills; participants are achieving excellent results worldwide—some have entered external competitions, such as Kaggle and SIGNATE, and won medals.</p>
+          </div>
+          <!-- テキスト ここまで -->
+        </div>
+      </div>
+    </div>
+    <!-- item1 ここまで -->
+    <!-- item2 ここから -->
+    <div class="c-linkCard__item">
+      <div class="c-linkCard__inner">
+        <!-- 画像 ここから -->
+        <figure class="c-linkCard__image">
+          <div class="c-linkCard__imageInner">
+            <img alt="サンプル" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/technology/ai/img/img09.webp">
+          </div>
+        </figure>
+        <!-- 画像 ここまで -->
+      </div>
+    </div>
+    <!-- item2 ここまで -->
+  </div>
+</div>
+                            </div>
+                                            </div>
+                </div>
+                                                        </div>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</section><section class="c-section " id="section04">
+    <div class="f-child">
+        <div class="c-margin-b">
+            <div class="c-margin-b__inner">
+                    <div class="c-h2-a">
+                        <h2 class="c-h2-a__text">AI Initiatives in the Ricoh Group</h2>
+                    </div>
+                    <div class="c-multiCol">
+        <div class="c-linkCard c-linkCard--col3">
+            
+                <div class="c-linkCard__item c-linkCard__item--layout2">
+                    <div class="c-linkCard__inner">
+                                                                            <div class="c-linkCard__imagewrap">
+                                
+                                    <figure class="c-linkCard__image">
+                                            <div class="c-linkCard__imageInner c-linkCard__imageInner--noRatio">
+                                                <a href="https://www.youtube.com/watch?v=3D1M-GkF8xw" class="c-linkCard__movie youtube_modal_video_temp icon-hidden">
+                                                    <img alt="" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/technology/ai/img/thumb01.webp">
+                                                    <img class="c-linkCard__iconImage" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/icon_play.png" alt="Play Video">
+                                                </a>
+                                            </div>
+                                        <figcaption class="c-caption">
+                                            <div class="c-text-a c-text-a--thin">
+                                                <p class="c-text-a__text">Viceo: Road Surface Inspection System [3:18]</p>
+                                            </div>
+                                        </figcaption>
+                                    </figure>
+                            </div>
+                    </div>
+                </div>
+                                <div class="c-linkCard__item c-linkCard__item--layout2">
+                        <div class="c-linkCard__inner">
+                                                                                        <div class="c-linkCard__imagewrap">
+                                    
+                                        <figure class="c-linkCard__image">
+                                                <div class="c-linkCard__imageInner c-linkCard__imageInner--noRatio">
+                                                    <a href="https://www.youtube.com/watch?v=6u6ncEWemTM" class="c-linkCard__movie youtube_modal_video_temp icon-hidden">
+                                                        <img alt="" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/technology/ai/img/thumb02.webp">
+                                                        <img class="c-linkCard__iconImage" src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/icon_play.png" alt="Play Video">
+                                                    </a>
+                                                </div>
+                                            <figcaption class="c-caption">
+                                                <div class="c-text-a c-text-a--thin">
+                                                    <p class="c-text-a__text">Video: Tunnel Monitoring System [2:43]</p>
+                                                </div>
+                                            </figcaption>
+                                        </figure>
+                                </div>
+                        </div>
+                    </div>
+                                            </div>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</section><section id="contact" class="c-section c-section--red">
+  <div class="f-child">
+    <div class="c-margin-e">
+      <div class="c-margin-e__inner">
+        <div class="c-conv c-conv--single">
+          <div class="c-conv__item">
+            <div class="c-conv__icon">
+              <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/icon_mail_white.svg" alt="" class="c-conv__iconImage">
+            </div>
+            <div class="c-conv__textArea">
+              <div class="c-h2-a c-h2-a--narrow c-h2-a--white">
+                <h2 class="c-h2-a__text u-pc-align-left">Contact Us About Ricoh Technologies</h2>
+              </div>
+              <div class="c-text-a c-text-a--thin c-text-a--white">
+                <p class="c-text-a__text u-sp-align-center">For inquiries about Ricoh technologies, including requests for more information about the technologies introduced on this page, please contact us.</p>
+              </div>
+            </div>
+            <div class="c-conv__button">
+              <a href="https://webform.ricoh.com/form/pub/e00114/technology_inq_en" class="c-button-a c-button-a--white c-button-a--textRed c-button-a--mail c-button-a--arrow c-button-a--iconRed c-button-a--inRedArea u-max-w-100p icon-hidden" target="ricoh">
+                <span class="c-button-a__text">Contact us</span>
+                <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section></div>
+    
+</div>
+
+            </div>
+        </div>
+        
+            <div class="breadcrumb breadcrumb--borderTop">
+                <div class="breadcrumb__container">
+                    <div class="breadcrumb__inner">
+                        <ul class="breadcrumb__list">
+                                        <li>
+                                            <a href="../../">Home</a>
+                                        </li>
+                                        <li>
+                                            <a href="../">Technology</a>
+                                        </li>
+                            <li class="act">
+                                <span>Optimal Support for Your Work Using AI</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+        <footer class="gl-footer">
+  <div class="gl-footer-link-area">
+    <div class="gl-footer-link-area_inner">
+      <div class="gl-footer-link-area-pc">
+        <div class="gl-footer-link-area-pc_list">
+          <div class="gl-footer-link-area-pc_item">
+            <a href="../../about/" class="gl-footer-link-area-pc_link-hdg">About RICOH</a>
+            <ul class="gl-footer-link-area-pc_link-list">
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../about/">Vision</a></li>
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../about/">Company Overview</a></li>
+              </ul>
+          </div>
+          <div class="gl-footer-link-area-pc_item">
+            <a href="../../IR/" class="gl-footer-link-area-pc_link-hdg">Investor Relations</a>
+            <ul class="gl-footer-link-area-pc_link-list">
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../IR/news/">IR News</a></li>
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../IR/events/investors-meeting/">Corporate Strategy Meeting</a></li>
+              </ul>
+          </div>
+          <div class="gl-footer-link-area-pc_item">
+            <a href="../../sustainability/" class="gl-footer-link-area-pc_link-hdg">Sustainability</a>
+            <ul class="gl-footer-link-area-pc_link-list">
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../sustainability/environment/">Environment</a></li>
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../sustainability/society/">Society</a></li>
+              </ul>
+            </div>
+          <div class="gl-footer-link-area-pc_item">
+            <a href="../" class="gl-footer-link-area-pc_link-hdg">Technology</a>
+            <ul class="gl-footer-link-area-pc_link-list">
+              <li class="gl-footer-link-area-pc_link-item"><a href="../rd/">Development</a></li>
+              <li class="gl-footer-link-area-pc_link-item"><a href="../tech/">Ricoh's Technology</a></li>
+              </ul>
+            </div>
+          <div class="gl-footer-link-area-pc_item">
+            <a href="../../news/" class="gl-footer-link-area-pc_link-hdg">News</a>
+            <ul class="gl-footer-link-area-pc_link-list">
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../release/">News Release</a></li>
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../info/">Information</a></li>
+              </ul>
+          </div>
+        </div>
+      </div>
+      <div class="gl-footer-link-area-sp">
+        <ul class="gl-footer-link-area-sp_list">
+          <li class="gl-footer-link-area-sp_item"><a href="../../about/">About RICOH</a></li>
+          <li class="gl-footer-link-area-sp_item"><a href="../../IR/">Investor Relations</a></li>
+          <li class="gl-footer-link-area-sp_item"><a href="../../sustainability/">Sustainability</a></li>
+          <li class="gl-footer-link-area-sp_item"><a href="../">Technology</a></li>
+          <li class="gl-footer-link-area-sp_item"><a href="../../news/">News</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="gl-footer-area-01">
+    <div class="gl-footer-area-01_inner">
+      <div class="gl-footer-pageTop">
+        <a href="#top" class="gl-footer-pageTop_link js-top-button">Page Top</a>
+      </div>
+    </div><!-- /.gl-footer-area-01_inner -->
+  </div><!-- /.gl-footer-area-01 -->
+  <div class="gl-footer-area-02">
+    <div class="gl-footer-area-02_inner">
+      <div class="gl-footer-area-02_wrap">
+        <span class="hide">ここからこのサイトのサブメニュー</span>
+        <div class="gl-footer-utility">
+          <ul class="gl-footer-utility_inner">
+            <li class="gl-footer-utility_item"><a href="../../contact/" class="gl-footer-utility_link">Contact</a></li>
+            <li class="gl-footer-utility_item"><a href="../../privacy/" class="gl-footer-utility_link">Privacy policy</a></li>
+            <li class="gl-footer-utility_item"><a href="../../terms-of-use/" class="gl-footer-utility_link">Terms of use</a></li>
+            <li class="gl-footer-utility_item"><a href="../../terms-of-use/accessibility/" class="gl-footer-utility_link">Accessibility</a></li>
+            <li class="gl-footer-utility_item"><a href="../../sitemap/" class="gl-footer-utility_link">Sitemap</a></li>
+            <li class="gl-footer-utility_item">
+            </ul>
+        </div><!-- /.gl-footer-utility -->
+        <div class="gl-footer-copyright">
+          <div class="gl-footer-copyright_inner">
+            <small class="gl-footer-copyright_text">©&nbsp;Ricoh</small>
+          </div>
+        </div><!-- /.gl-footer-copyright -->
+      </div><!-- /.gl-footer-area-02_wrap -->
+    </div><!-- /.gl-footer-area-02_inner -->
+  </div><!-- /.gl-footer-area-02 -->
+</footer><!-- /.gl-footer -->
+        <div class="cp-PageTop smoothScroll" style="display: none;">
+            <a class="ver" href="#wrapper" aria-label="Page Top">PAGE TOP</a>
+        </div>
+        
+
+    
+
+<script type="text/javascript">
+!(function () {
+var G = (GALFSRAM = window.GALFSRAM || {});
+G.mfx = G.mfx || {};
+G.mfx.router_mode = "history";
+})();
+</script>
+</div>
+
+
+        
+
+<!-- RICOH_PAGE_SCRIPTS -->
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/jquery.min.js"></script>
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/JS/common.js"></script>
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/js/init.js"></script>
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/js/template.js"></script>
+</body></html>

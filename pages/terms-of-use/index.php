@@ -1,0 +1,636 @@
+<?php
+declare(strict_types=1);
+require_once __DIR__ . '/../../base-url.php';
+rh_start_output_rewrite();
+?>
+<!DOCTYPE html><html lang="EN" class="js-on"><head>
+
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/CSS/sc_common.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/CSS/gl_header_localize.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/CSS/sc_common_us.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/css/common.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/css/gl_header.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/css/component.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/css/option.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/css/ex_component.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/css/template.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/css/conflict_clear.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/fancybox-v1.4.3/CSS/jquery.fancybox-1.3.4.css">
+
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/css/template-global-addition2024.css">
+
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/jquery.min.js"></script>
+
+
+    
+    
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Terms of Use | Global | Ricoh</title>
+<meta property="og:title" content="Terms of Use | Global | Ricoh">
+    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/og-image.webp?rev=549e30934785489fbd556ee2e4c3b238&amp;hash=9DB561AD22E96D26590C1574F15A7B50">
+    <meta property="og:type" content="website">
+<meta property="og:url" content="https://www.ricoh.com/terms-of-use">
+    <meta property="og:site_name" content="Ricoh Global Website">
+    <meta property="og:country-name" content="Global">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@ricoh">
+
+<link rel="canonical" href="">
+
+
+<link rel="icon" type="image/vnd.microsoft.icon" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/ScAssets/System/Images/favicon.ico">
+<link rel="apple-touch-icon" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/ScAssets/System/Images/apple_icon.png">
+
+
+
+
+<script type="text/javascript" src="/ricoh-clone/ricoh_offline/assets/cdn.fonts.net/kit/3c059441-5218-4b9b-974d-a8185a3bd584/3c059441-5218-4b9b-974d-a8185a3bd584_enhanced.js" async=""></script>
+<link rel="stylesheet" type="text/css" href="/ricoh-clone/ricoh_offline/assets/cdn.fonts.net/kit/3c059441-5218-4b9b-974d-a8185a3bd584/3c059441-5218-4b9b-974d-a8185a3bd584_enhanced.css">
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/Scripts/dist/lib/vendor.js"></script>
+
+
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/css/import.css">
+
+
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/css/solution-product-template.css">
+<link rel="stylesheet" href="/ricoh-clone/ricoh_offline/assets/ricoh.static.fontplus.jp/css/fonts.css">
+
+
+
+
+
+
+
+
+
+
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/js/common.vanilla.js" defer=""></script>
+
+
+
+</head>
+<body>
+    <div id="wrapper">
+        
+        
+        <header class="gl-header -horizontal">
+    <span class="hide"></span>
+    <div class="gl-header_inner">
+        <div class="gl-header_logo">
+            <a href="../"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/img/logo/logo.svg" alt="RICOH imagine. change." width="125" height="43"></a>
+        </div>
+
+        <div class="gl-header_menu">
+            <nav class="gl-menu js-global-menu" data-label="Menu" aria-label="Main navigation">
+                <div class="gl-menu_content fn-menu_hamburger-menu">
+                        <div class="gi-menu-globe">
+                            <a href="../gateway/" class="gi-menu_globe-btn">
+                                <span class="gi-menu_globe-txt">Country/Area Selector</span>
+                                <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/img/icon/globe.svg" class="gi-menu_globe-icon" alt="Change Country/Area">
+                            </a>
+                        </div>
+                                                            <a class="hide" href="#contents">Skip to main content</a>
+                    <span class="hide">First level navigation</span>
+                    <ul class="gl-menu_main">
+<li>
+<a href="../about/" class="{37791300-1D98-4601-A34E-687E71DCCA2E} gl-menu_link  fn-menu_main"><span>About RICOH</span></a>
+
+</li>
+<li>
+<a href="../IR/" class="{419FD399-BE45-4B6F-A170-DDF4C563F180} gl-menu_link  fn-menu_main"><span>Investor Relations</span></a>
+
+</li>
+<li>
+<a href="../sustainability/" class="{1B1686A6-FFF5-472A-A359-7E48900444A1} gl-menu_link  fn-menu_main"><span>Sustainability</span></a>
+
+</li>
+<li>
+<a href="../products/" class="{C5764788-D65B-4D47-84F6-9EED5B48E30E} gl-menu_link  fn-menu_main"><span>Products</span></a>
+</li><li>
+<a href="../technology/" class="{269944AA-F9F1-450F-808A-5A0A25693389} gl-menu_link  fn-menu_main"><span>Technology</span></a>
+
+</li>
+<li>
+<a href="../support/" class="{CD078A07-1565-4DCA-8688-B247492DCA7B} gl-menu_link  fn-menu_main"><span>Support &amp; Downloads</span></a>
+</li><li>
+<a href="../news/" class="{0D2ED999-CA97-40DF-A541-17D96E4A0DF5} gl-menu_link  fn-menu_main"><span>News</span></a>
+
+</li>
+                    </ul>
+                </div>
+
+                <template class="fn-menu_tpl-hamburger">
+                    <button class="gl-menu_toggle-btn" data-alt-open="Open" data-alt-close="Close"><span class="hide">Menu</span></button>
+                </template>
+                <template class="fn-menu_tpl-back">
+                    <button class="gl-menu_back-btn">Home</button>
+                </template>
+                <template class="fn-menu_tpl-close">
+                    <button class="gl-menu_close-btn" data-alt-close="Close"></button>
+                </template>
+            </nav>
+        </div>
+
+        <div class="gl-header_utilities">
+                                                                            </div>
+    </div>
+</header>
+
+        <div id="contents" class="">
+            <div id="Main">
+                
+    <div class="breadcrumb breadcrumb--borderBottom">
+        <div class="breadcrumb__container">
+            <div class="breadcrumb__inner">
+                <ul class="breadcrumb__list">
+                                    <li>
+                                        <a href="../">Home</a>
+                                    </li>
+                            <li class="act">
+                                <span>Terms of Use</span>
+                            </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+                
+                
+<div class="c-container">
+        <div class="c-h1-b" id="freepagetitle">
+        <div class="c-margin-b">
+            <div class="c-margin-b__inner">
+                    <h1 class="c-h1-b__text">
+                        Terms of Use
+                    </h1>
+            </div>
+        </div>
+    </div>
+
+    <div class="fxb-section">
+<section class="c-section " id="section01">
+    <div class="f-child">
+        <div class="c-margin-b">
+            <div class="c-margin-b__inner">
+                    <div class="c-text-a">
+        This web site http://www.ricoh.com ("The RICOH Web Site") is created, owned, operated and maintained by or for RICOH Company, Ltd. ("RICOH"). Please read these terms and conditions of use ("Terms of Use") carefully before accessing and navigating The RICOH Web Site. You may use The RICOH Web Site only if you agree to and accept these Terms of Use without limitation or reservation.<br>
+RICOH may, at its sole and exclusive discretion, change, alter, modify, add, and/or remove portions of Terms of Use at any time by updating the contents of this page. You are advised to periodically visit this page and review the current revisions to our Terms of Use. RICOH at its sole and exclusive discretion, reserves the right to alter or discontinue The RICOH Web Site without prior notice.
+    </div>
+
+            </div>
+        </div>
+    </div>
+</section><section class="c-section " id="section02">
+    <div class="f-child">
+        <div class="c-margin-b">
+            <div class="c-margin-b__inner">
+                    <div class="c-h2-a">
+        <h2 class="c-h2-a__text">Legal Notice</h2>
+    </div>
+    <div class="c-multiCol">
+        <div class="c-linkCard c-linkCard--col1 c-linkCard--col1-wide">
+            
+                <div class="c-linkCard__item c-linkCard__item--layout1">
+                    <div class="c-linkCard__inner">
+                                                    <div class="c-linkCard__textwrap">
+                                <div class="c-text-a">
+        The materials on The RICOH Web Site are provided by RICOH as a service to its customers and may be used for informational purposes only. By downloading any materials from The RICOH Web Site, you agree to the Terms of Use. If you do not agree to them, do not use The RICOH Web Site or download any materials from it.
+</div>
+                            </div>
+                                            </div>
+                </div>
+                                                        </div>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</section><section class="c-section " id="section03">
+    <div class="f-child">
+        <div class="c-margin-b">
+            <div class="c-margin-b__inner">
+                    <div class="c-h2-a">
+                        <h2 class="c-h2-a__text">General Disclaimer</h2>
+                    </div>
+                    <div class="c-multiCol">
+        <div class="c-linkCard c-linkCard--col1 c-linkCard--col1-wide">
+            
+                <div class="c-linkCard__item c-linkCard__item--layout1">
+                    <div class="c-linkCard__inner">
+                                                    <div class="c-linkCard__textwrap">
+                                <div class="c-text-a">
+    <p class="c-text-a__text">
+        Although RICOH has attempted to provide accurate information on The RICOH Web Site, RICOH assumes no responsibility for the accuracy of the information. RICOH may change the programs or products mentioned at any time without notice. Mention of non-RICOH products or services is for information purposes only and constitutes neither an endorsement nor a recommendation. <br>
+        ALL INFORMATION PROVIDED ON THE RICOH WEB SITE IS PROVIDED "AS IS" WITH ALL FAULTS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED. RICOH AND ITS SUPPLIERS DISCLAIM ALL WARRANTIES, EXPRESSED OR IMPLIED INCLUDING, WITHOUT LIMITATION, THOSE OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OR ARISING FROM A COURSE OF DEALING, USAGE, OR TRADE PRACTICE. RICOH AND ITS SUPPLIERS SHALL NOT BE LIABLE FOR ANY INDIRECT, SPECIAL, CONSEQUENTIAL, OR INCIDENTAL DAMAGES INCLUDING, WITHOUT LIMITATION, LOST PROFITS OR REVENUES, COSTS OF REPLACEMENT GOODS, LOSS OR DAMAGE TO DATA ARISING OUT OF THE USE OR INABILITY TO USE THE RICOH WEB SITE OR ANY RICOH PRODUCT, DAMAGES RESULTING FROM USE OF OR RELIANCE ON THE INFORMATION PRESENT, EVEN IF RICOH OR ITS SUPPLIERS HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+    </p>
+</div>
+                            </div>
+                                            </div>
+                </div>
+                                                        </div>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</section><section class="c-section " id="section04">
+    <div class="f-child">
+        <div class="c-margin-b">
+            <div class="c-margin-b__inner">
+                    <div class="c-h2-a">
+                        <h2 class="c-h2-a__text">Limitation of Use</h2>
+                    </div>
+                    <div class="c-multiCol">
+        <div class="c-linkCard c-linkCard--col1 c-linkCard--col1-wide">
+            
+                <div class="c-linkCard__item c-linkCard__item--layout1">
+                    <div class="c-linkCard__inner">
+                                                    <div class="c-linkCard__textwrap">
+                                <ol>
+    <li>All materials on The RICOH Web Site are protected by Japanese copyright laws, and other applicable laws and treaty provisions of countries throughout the world. Except for personal or non-commercial internal use, copying, modifying, reproducing in whole or part, uploading, transmitting, distributing, licensing, selling and publishing any of the materials is prohibited without obtaining prior written permission from RICOH.</li>
+    <li>Use of materials on The RICOH Web Site shall NOT be interpreted as a comprehensive or partial grant and / or assignment of RICOH's and / or any third party patent, utility model, trademark, trade name, service mark, copyright, design, trade secret or any other intellectual property right by RICOH or the third parties, even if you are using materials on The RICOH Web Site in accordance with these Terms of Use.</li>
+    <li>RICOH may change and / or alter the contents of The RICOH Web Site, or may suspend or discontinue the services provided through The RICOH Web Site at any time without any prior notice. NEITHER RICOH NOR ANY OF ITS AFFILIATES SHALL BE LIABLE FOR ANY DAMAGES ARISING OUT OF ANY ALTERATION OR CHANGE OF THE CONTENTS OR INABILITY TO USE THE RICOH WEB SITE.</li>
+</ol>
+                            </div>
+                                            </div>
+                </div>
+                                                        </div>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</section><section class="c-section " id="section05">
+    <div class="f-child">
+        <div class="c-margin-b">
+            <div class="c-margin-b__inner">
+                    <div class="c-h2-a">
+                        <h2 class="c-h2-a__text">Software License Agreement</h2>
+                    </div>
+                    <div class="c-multiCol">
+        <div class="c-linkCard c-linkCard--col1 c-linkCard--col1-wide">
+            
+                <div class="c-linkCard__item c-linkCard__item--layout1">
+                    <div class="c-linkCard__inner">
+                                                    <div class="c-linkCard__textwrap">
+                                <div class="c-text-a">
+    <p class="c-text-a__text">
+        All software that is made available on The RICOH Web Site is the copyrighted work of the respective owner(s) and is protected by copyright laws and other applicable laws and treaty provisions for each country throughout the world. Use of this software is subject to the terms and conditions of each end-user license agreement between the owner of such software and end-user thereof, copyright laws and other applicable laws and treaty provisions for each country throughout the world. <br>
+        Any software which you download from The RICOH Web Site is governed in accordance with (i) the license terms accompanying the file or (ii) if no license terms accompany the file, the terms of the license agreement which accompanied the original product licensed by you which you are updating or (iii) the license terms pursuant to this Software License Agreement.
+    </p>
+</div>
+                            </div>
+                                            </div>
+                </div>
+                                                        </div>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</section><section class="c-section " id="section06">
+    <div class="f-child">
+        <div class="c-margin-b">
+            <div class="c-margin-b__inner">
+                    <div class="c-h2-a">
+                        <h2 class="c-h2-a__text">Trademarks</h2>
+                    </div>
+                    <div class="c-multiCol">
+        <div class="c-linkCard c-linkCard--col1 c-linkCard--col1-wide">
+            
+                <div class="c-linkCard__item c-linkCard__item--layout1">
+                    <div class="c-linkCard__inner">
+                                                    <div class="c-linkCard__textwrap">
+                                <div class="c-text-a">
+    <p class="c-text-a__text">
+        The trademark "RICOH" and any RICOH product names used, quoted and/or referenced within The RICOH Web Site are trademarks or registered trademarks of RICOH. Other company names and product names used, quoted and/or referenced in The RICOH Web Site may be protected as their respective trade name, trademarks or registered trademarks.
+    </p>
+</div>
+                            </div>
+                                            </div>
+                </div>
+                                                        </div>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</section><section class="c-section " id="section07">
+    <div class="f-child">
+        <div class="c-margin-b">
+            <div class="c-margin-b__inner">
+                    <div class="c-h2-a">
+                        <h2 class="c-h2-a__text">Prohibited Conduct</h2>
+                    </div>
+                    <div class="c-multiCol">
+        <div class="c-linkCard c-linkCard--col1 c-linkCard--col1-wide">
+            
+                <div class="c-linkCard__item c-linkCard__item--layout1">
+                    <div class="c-linkCard__inner">
+                                                    <div class="c-linkCard__textwrap">
+                                <div class="c-text-a">
+    <p class="c-text-a__text">
+        Please refrain from using The RICOH Web Site for any of the following acts:
+    </p>
+</div>
+
+<ol>
+    <li>Infringing the legal rights (including the rights of privacy and publicity) of RICOH and/or others</li>
+    <li>Causing any damages or disadvantage to RICOH and/or others</li>
+    <li>Disturbing public order</li>
+    <li>Criminal act</li>
+    <li>Uploading false information including, but not limited to, other's IP address and password</li>
+    <li>Using The RICOH Web Site for any commercial purpose</li>
+    <li>Defaming, disgracing or libeling RICOH and/or others</li>
+    <li>Uploading files that contain viruses corrupted files that may cause damages to the operation</li>
+    <li>Any other activities that are unlawful or prohibited by any applicable laws</li>
+    <li>Any other activities that RICOH deems inappropriate</li>
+</ol>
+                            </div>
+                                            </div>
+                </div>
+                                                        </div>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</section><section class="c-section " id="section08">
+    <div class="f-child">
+        <div class="c-margin-b">
+            <div class="c-margin-b__inner">
+                    <div class="c-h2-a">
+                        <h2 class="c-h2-a__text">Third Party Web Sites, Content, Products and Services</h2>
+                    </div>
+                    <div class="c-multiCol">
+        <div class="c-linkCard c-linkCard--col1 c-linkCard--col1-wide">
+            
+                <div class="c-linkCard__item c-linkCard__item--layout1">
+                    <div class="c-linkCard__inner">
+                                                    <div class="c-linkCard__textwrap">
+                                <div class="c-text-a">
+    <p class="c-text-a__text">
+        The RICOH Web Site provides links to Web Sites and access to content, products and services from third parties, including users, advertisers, affiliates and sponsors of the RICOH Web Site. You expressly agree that RICOH is not responsible for the availability of, and content provided on, third party Web sites. You should refer to the policies posted by other Web sites regarding privacy and other topics before you use them. <br>
+        YOU AGREE THAT RICOH IS NOT RESPONSIBLE FOR THIRD PARTY CONTENT ACCESSIBLE THROUGH THE RICOH WEB SITE, INCLUDING OPINIONS, ADVISE, STATEMENTS AND ADVERTISEMENTS, AND UNDERSTAND THAT YOU BEAR ALL RISKS ASSOCIATED WITH THE USE OF SUCH CONTENT.<br>
+        If you choose to purchase any products or services from a third party, your relationship is directly with the third party. YOU AGREE THAT RICOH IS NOT RESPONSIBLE FOR: (a) THE QUALITY OF THIRD PARTY PRODUCTS OR SERVICES; and (b) FULFILLING ANY OF THE TERMS OF YOUR AGREEMENT WITH THE SELLER, INCLUDING DELIVERY OF PRODUCTS OR SERVICES AND WARRANTY OBLIGATIONS RELATED TO PURCHASED PRODUCTS OR SERVICES. YOU AGREE THAT RICOH IS NOT RESPONSIBLE FOR ANY LOSS OR DAMAGE OF ANY SORT THAT YOU MAY INCUR FROM DEALING WITH A THIRD PARTY.<br>
+    </p>
+</div>
+                            </div>
+                                            </div>
+                </div>
+                                                        </div>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</section><section class="c-section " id="section09">
+    <div class="f-child">
+        <div class="c-margin-b">
+            <div class="c-margin-b__inner">
+                    <div class="c-h2-a">
+                        <h2 class="c-h2-a__text">Link to Third Party Sites</h2>
+                    </div>
+                    <div class="c-multiCol">
+        <div class="c-linkCard c-linkCard--col1 c-linkCard--col1-wide">
+            
+                <div class="c-linkCard__item c-linkCard__item--layout1">
+                    <div class="c-linkCard__inner">
+                                                    <div class="c-linkCard__textwrap">
+                                <ol>
+    <li>Third party web sites (other than The RICOH Web Site) linked to or from The RICOH Web Site ("Linked Sites") are independently operated and maintained by such third parties and are not under the control and/or supervision of RICOH. Use of a Linked Site shall be subject to the Terms of Use stipulated by the operator of each Linked Site. RICOH SHALL NOT BE RESPONSIBLE FOR ANY LOSS, EXPENSE OR DAMAGE, HOWEVER CAUSED, IN CONNECTION WITH THE USE OF ANY LINKED SITE AND YOUR ACCESS TO ANY OF THE LINKED SITES SHALL BE AT YOUR OWN RISK.</li>
+    <li>Nothing contained in the RICOH Web Site shall be interpreted as a recommendation and/or endorsement by RICOH of the contents of the Linked Sites and any products and/or services appearing on and / or provided through such Linked Sites. Nothing contained herein shall be deemed to constitute a partnership or the like between the operators of the Linked Sites and RICOH.</li>
+    <li>RICOH's prior permission is not required to link a third party's web site to The RICOH Web Site. Please note that all information, including URL, documents, images and other materials available on The RICOH Web Site will continually be revised without prior notice.</li>
+    <li>Company names and any other product names, service names or logos used, quoted and/or referenced within The RICOH Web Site are trade names, trademarks or registered trademarks of the original author, or other rights holders.</li>
+</ol>
+                            </div>
+                                            </div>
+                </div>
+                                                        </div>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</section><section class="c-section " id="section10">
+    <div class="f-child">
+        <div class="c-margin-b">
+            <div class="c-margin-b__inner">
+                    <div class="c-h2-a">
+                        <h2 class="c-h2-a__text">Proposal and Offer</h2>
+                    </div>
+                    <div class="c-multiCol">
+        <div class="c-linkCard c-linkCard--col1 c-linkCard--col1-wide">
+            
+                <div class="c-linkCard__item c-linkCard__item--layout1">
+                    <div class="c-linkCard__inner">
+                                                    <div class="c-linkCard__textwrap">
+                                <ol>
+    <li>RICOH does not want to receive confidential or proprietary information from you through The RICOH Web Site. Please note that any information or material sent to RICOH will be deemed NOT to be confidential. RICOH shall not be obligated to examine, evaluate, and adopt such information or material.</li>
+    <li>By sending RICOH any information or material, you grant RICOH an unrestricted, irrevocable license to use, reproduce, display, perform, modify, transmit and distribute those information or material, and you also agree that RICOH is free to use any ideas, concepts, know-how or techniques that you send RICOH for any purpose. Therefore, RICOH shall not be responsible for any loss, expense or damage including, but not limited to, payment of compensation, in connection with the RICOH's adoption of the information or material identical or similar to the information or material that you send RICOH.</li>
+    <li>RICOH will not release your name or otherwise publicize the fact that you submitted materials or other information to RICOH unless:
+        <ol>
+            <li>RICOH obtains your permission to use your name.</li>
+            <li>RICOH first notifies you that the materials or other information you submit to a particular part of RICOH Site will be published or otherwise used with your name on it.</li>
+            <li>RICOH is required to do so by law.</li>
+        </ol>
+    </li>
+</ol>
+                            </div>
+                                            </div>
+                </div>
+                                                        </div>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</section><section class="c-section " id="section11">
+    <div class="f-child">
+        <div class="c-margin-b">
+            <div class="c-margin-b__inner">
+                    <div class="c-h2-a">
+                        <h2 class="c-h2-a__text">Disclaimers of Warranties</h2>
+                    </div>
+                    <div class="c-multiCol">
+        <div class="c-linkCard c-linkCard--col1 c-linkCard--col1-wide">
+            
+                <div class="c-linkCard__item c-linkCard__item--layout1">
+                    <div class="c-linkCard__inner">
+                                                    <div class="c-linkCard__textwrap">
+                                <div class="c-text-a">
+    <p class="c-text-a__text">
+        RICOH AND/OR ANY OF ITS AFFILIATES MAKE NO REPRESENTATION OR WARRANTY, EITHER EXPRESSED OR IMPLIED, STATUTORY OR OTHERWISE, INCLUDING WARRANTIES OR REPRESENTATIONS WITH RESPECT TO THE ACCURACY, RELIABILITY, COMPLETENESS, FITNESS FOR PARTICULAR PURPOSE, NON-INFRINGEMENT OF THIRD PARTIES RIGHTS AND/OR SAFETY OF THE CONTENTS OF THE RICOH WEB SITE, AND ANY REPRESENTATIONS AND WARRANTIES RELATING THERETO ARE EXPRESSLY DISCLAIMED. RICOH AND/OR ANY OF ITS AFFILIATES SHALL NOT BE LIABLE FOR ANY LOSS, EXPENSE OR DAMAGE ARISING OUT OF YOUR USE OR ACCESS, OR INABILITY TO USE OR ACCESS, THE RICOH WEB SITE.
+    </p>
+</div>
+                            </div>
+                                            </div>
+                </div>
+                                                        </div>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</section><section class="c-section " id="section12">
+    <div class="f-child">
+        <div class="c-margin-b">
+            <div class="c-margin-b__inner">
+                    <div class="c-h2-a">
+                        <h2 class="c-h2-a__text">Applicable Laws</h2>
+                    </div>
+                    <div class="c-multiCol">
+        <div class="c-linkCard c-linkCard--col1 c-linkCard--col1-wide">
+            
+                <div class="c-linkCard__item c-linkCard__item--layout1">
+                    <div class="c-linkCard__inner">
+                                                    <div class="c-linkCard__textwrap">
+                                <div class="c-text-a">
+    <p class="c-text-a__text">
+        RICOH CONTROLS THIS SITE FROM ITS OFFICES WITHIN JAPAN. RICOH MAKES NO REPRESENTATION THAT MATERIALS IN THE RICOH WEB SITE ARE APPROPRIATE OR AVAILABLE FOR USE IN OTHER LOCATIONS, WHERE THEIR CONTENT IS ILLEGAL OR PROHIBITED.<br>
+        Those who choose to access The RICOH Web Site from other locations do so on their own initiative and are responsible for compliance with applicable local laws. You may not use or export the Materials in violation of Japan export laws and regulations. Any claim relating to the Materials shall be governed by the internal substantive laws of Japan.
+    </p>
+</div>
+                            </div>
+                                            </div>
+                </div>
+                                                        </div>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</section></div>
+    
+</div>
+
+            </div>
+        </div>
+        
+            <div class="breadcrumb breadcrumb--borderTop">
+                <div class="breadcrumb__container">
+                    <div class="breadcrumb__inner">
+                        <ul class="breadcrumb__list">
+                                        <li>
+                                            <a href="../">Home</a>
+                                        </li>
+                            <li class="act">
+                                <span>Terms of Use</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+        <footer class="gl-footer">
+  <div class="gl-footer-link-area">
+    <div class="gl-footer-link-area_inner">
+      <div class="gl-footer-link-area-pc">
+        <div class="gl-footer-link-area-pc_list">
+          <div class="gl-footer-link-area-pc_item">
+            <a href="../about/" class="gl-footer-link-area-pc_link-hdg">About RICOH</a>
+            <ul class="gl-footer-link-area-pc_link-list">
+              <li class="gl-footer-link-area-pc_link-item"><a href="../about/">Vision</a></li>
+              <li class="gl-footer-link-area-pc_link-item"><a href="../about/">Company Overview</a></li>
+              </ul>
+          </div>
+          <div class="gl-footer-link-area-pc_item">
+            <a href="../IR/" class="gl-footer-link-area-pc_link-hdg">Investor Relations</a>
+            <ul class="gl-footer-link-area-pc_link-list">
+              <li class="gl-footer-link-area-pc_link-item"><a href="../IR/news/">IR News</a></li>
+              <li class="gl-footer-link-area-pc_link-item"><a href="../IR/events/investors-meeting/">Corporate Strategy Meeting</a></li>
+              </ul>
+          </div>
+          <div class="gl-footer-link-area-pc_item">
+            <a href="../sustainability/" class="gl-footer-link-area-pc_link-hdg">Sustainability</a>
+            <ul class="gl-footer-link-area-pc_link-list">
+              <li class="gl-footer-link-area-pc_link-item"><a href="../sustainability/environment/">Environment</a></li>
+              <li class="gl-footer-link-area-pc_link-item"><a href="../sustainability/society/">Society</a></li>
+              </ul>
+            </div>
+          <div class="gl-footer-link-area-pc_item">
+            <a href="../technology/" class="gl-footer-link-area-pc_link-hdg">Technology</a>
+            <ul class="gl-footer-link-area-pc_link-list">
+              <li class="gl-footer-link-area-pc_link-item"><a href="../technology/rd/">Development</a></li>
+              <li class="gl-footer-link-area-pc_link-item"><a href="../technology/tech/">Ricoh's Technology</a></li>
+              </ul>
+            </div>
+          <div class="gl-footer-link-area-pc_item">
+            <a href="../news/" class="gl-footer-link-area-pc_link-hdg">News</a>
+            <ul class="gl-footer-link-area-pc_link-list">
+              <li class="gl-footer-link-area-pc_link-item"><a href="../release/">News Release</a></li>
+              <li class="gl-footer-link-area-pc_link-item"><a href="../info/">Information</a></li>
+              </ul>
+          </div>
+        </div>
+      </div>
+      <div class="gl-footer-link-area-sp">
+        <ul class="gl-footer-link-area-sp_list">
+          <li class="gl-footer-link-area-sp_item"><a href="../about/">About RICOH</a></li>
+          <li class="gl-footer-link-area-sp_item"><a href="../IR/">Investor Relations</a></li>
+          <li class="gl-footer-link-area-sp_item"><a href="../sustainability/">Sustainability</a></li>
+          <li class="gl-footer-link-area-sp_item"><a href="../technology/">Technology</a></li>
+          <li class="gl-footer-link-area-sp_item"><a href="../news/">News</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="gl-footer-area-01">
+    <div class="gl-footer-area-01_inner">
+      <div class="gl-footer-pageTop">
+        <a href="#top" class="gl-footer-pageTop_link js-top-button">Page Top</a>
+      </div>
+    </div><!-- /.gl-footer-area-01_inner -->
+  </div><!-- /.gl-footer-area-01 -->
+  <div class="gl-footer-area-02">
+    <div class="gl-footer-area-02_inner">
+      <div class="gl-footer-area-02_wrap">
+        <span class="hide">ここからこのサイトのサブメニュー</span>
+        <div class="gl-footer-utility">
+          <ul class="gl-footer-utility_inner">
+            <li class="gl-footer-utility_item"><a href="../contact/" class="gl-footer-utility_link">Contact</a></li>
+            <li class="gl-footer-utility_item"><a href="../privacy/" class="gl-footer-utility_link">Privacy policy</a></li>
+            <li class="gl-footer-utility_item"><a href="" class="gl-footer-utility_link">Terms of use</a></li>
+            <li class="gl-footer-utility_item"><a href="accessibility/" class="gl-footer-utility_link">Accessibility</a></li>
+            <li class="gl-footer-utility_item"><a href="../sitemap/" class="gl-footer-utility_link">Sitemap</a></li>
+            <li class="gl-footer-utility_item">
+            </ul>
+        </div><!-- /.gl-footer-utility -->
+        <div class="gl-footer-copyright">
+          <div class="gl-footer-copyright_inner">
+            <small class="gl-footer-copyright_text">©&nbsp;Ricoh</small>
+          </div>
+        </div><!-- /.gl-footer-copyright -->
+      </div><!-- /.gl-footer-area-02_wrap -->
+    </div><!-- /.gl-footer-area-02_inner -->
+  </div><!-- /.gl-footer-area-02 -->
+</footer><!-- /.gl-footer -->
+        <div class="cp-PageTop smoothScroll">
+            <a class="ver" href="#wrapper" aria-label="Page Top">PAGE TOP</a>
+        </div>
+        
+
+    
+
+<script type="text/javascript">
+!(function () {
+var G = (GALFSRAM = window.GALFSRAM || {});
+G.mfx = G.mfx || {};
+G.mfx.router_mode = "history";
+})();
+</script>
+</div>
+
+
+        
+
+<!-- RICOH_PAGE_SCRIPTS -->
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/jquery.min.js"></script>
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/JS/common.js"></script>
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/js/init.js"></script>
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/js/template.js"></script>
+</body></html>

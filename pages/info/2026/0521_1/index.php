@@ -1,0 +1,510 @@
+<?php
+declare(strict_types=1);
+require_once __DIR__ . '/../../../../base-url.php';
+rh_start_output_rewrite();
+?>
+<!DOCTYPE html><html lang="EN" class="js-on"><head>
+
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/CSS/sc_common.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/CSS/gl_header_localize.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/CSS/sc_common_us.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/css/common.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/css/gl_header.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/css/component.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/css/option.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/css/ex_component.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/css/template.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/css/conflict_clear.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/fancybox-v1.4.3/CSS/jquery.fancybox-1.3.4.css">
+
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/css/template-global-addition2024.css">
+
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/jquery.min.js"></script>
+
+
+    
+    
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Ricoh recognized as a CDP 2025 Supplier Engagement Leader for sixth consecutive year | Global | Ricoh</title>
+    <meta name="Description" content="[Ricoh Global Official Website] Ricoh today announced it has been recognized as a 2025 Supplier Engagement Leader by CDP, a global non-profit that operates an independent environmental disclosure system. This marks the sixth consecutive year Ricoh has earned the organization’s highest rating.">
+    <meta property="og:title" content="Ricoh recognized as a CDP 2025 Supplier Engagement Leader for sixth consecutive year | Global | Ricoh">
+    <meta property="og:image" content="https://www.ricoh.com/-/media/Ricoh/Sites/com/news/ogp/info/2026/0521_1.webp?rev=ccbc3fdf91e842e1bcc33269805cd791&amp;hash=C2C925ED8D2BD15962D9DCB53998B017">
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="Ricoh today announced it has been recognized as a 2025 Supplier Engagement Leader by CDP, a global non-profit that operates an independent environmental disclosure system. This marks the sixth consecutive year Ricoh has earned the organization’s highest rating.">
+<meta property="og:url" content="https://www.ricoh.com/info/2026/0521_1">
+    <meta property="og:site_name" content="Ricoh Global Website">
+    <meta property="og:country-name" content="Global">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@ricoh">
+
+<link rel="canonical" href="">
+
+
+<link rel="icon" type="image/vnd.microsoft.icon" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/ScAssets/System/Images/favicon.ico">
+<link rel="apple-touch-icon" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/ScAssets/System/Images/apple_icon.png">
+
+
+
+
+<script type="text/javascript" src="/ricoh-clone/ricoh_offline/assets/cdn.fonts.net/kit/3c059441-5218-4b9b-974d-a8185a3bd584/3c059441-5218-4b9b-974d-a8185a3bd584_enhanced.js" async=""></script>
+<link rel="stylesheet" type="text/css" href="/ricoh-clone/ricoh_offline/assets/cdn.fonts.net/kit/3c059441-5218-4b9b-974d-a8185a3bd584/3c059441-5218-4b9b-974d-a8185a3bd584_enhanced.css">
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/Scripts/dist/lib/vendor.js"></script>
+
+
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/css/import.css">
+
+
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/css/solution-product-template.css">
+<link rel="stylesheet" href="/ricoh-clone/ricoh_offline/assets/ricoh.static.fontplus.jp/css/fonts.css">
+
+
+
+
+
+
+
+
+
+
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/js/common.vanilla.js" defer=""></script>
+
+
+
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/jp_ricoh/news/css/news.css">
+<style>
+#lead .c-linkCard__image img {
+  width: 50%;
+  margin: 0 auto;
+}
+</style>
+    
+    
+    
+
+</head>
+<body>
+    <div id="wrapper">
+        
+        
+        <header class="gl-header -horizontal">
+    <span class="hide"></span>
+    <div class="gl-header_inner">
+        <div class="gl-header_logo">
+            <a href="../../../"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/img/logo/logo.svg" alt="RICOH imagine. change." width="125" height="43"></a>
+        </div>
+
+        <div class="gl-header_menu">
+            <nav class="gl-menu js-global-menu" data-label="Menu" aria-label="Main navigation">
+                <div class="gl-menu_content fn-menu_hamburger-menu">
+                        <div class="gi-menu-globe">
+                            <a href="../../../gateway/" class="gi-menu_globe-btn">
+                                <span class="gi-menu_globe-txt">Country/Area Selector</span>
+                                <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/img/icon/globe.svg" class="gi-menu_globe-icon" alt="Change Country/Area">
+                            </a>
+                        </div>
+                                                            <a class="hide" href="#contents">Skip to main content</a>
+                    <span class="hide">First level navigation</span>
+                    <ul class="gl-menu_main">
+<li>
+<a href="../../../about/" class="{37791300-1D98-4601-A34E-687E71DCCA2E} gl-menu_link  fn-menu_main"><span>About RICOH</span></a>
+
+</li>
+<li>
+<a href="../../../IR/" class="{419FD399-BE45-4B6F-A170-DDF4C563F180} gl-menu_link  fn-menu_main"><span>Investor Relations</span></a>
+
+</li>
+<li>
+<a href="../../../sustainability/" class="{1B1686A6-FFF5-472A-A359-7E48900444A1} gl-menu_link  fn-menu_main"><span>Sustainability</span></a>
+
+</li>
+<li>
+<a href="../../../products/" class="{C5764788-D65B-4D47-84F6-9EED5B48E30E} gl-menu_link  fn-menu_main"><span>Products</span></a>
+</li><li>
+<a href="../../../technology/" class="{269944AA-F9F1-450F-808A-5A0A25693389} gl-menu_link  fn-menu_main"><span>Technology</span></a>
+
+</li>
+<li>
+<a href="../../../support/" class="{CD078A07-1565-4DCA-8688-B247492DCA7B} gl-menu_link  fn-menu_main"><span>Support &amp; Downloads</span></a>
+</li><li>
+<a href="../../../news/" class="{0D2ED999-CA97-40DF-A541-17D96E4A0DF5} gl-menu_link  fn-menu_main fn-current" aria-current="page"><span>News</span></a>
+
+</li>
+                    </ul>
+                </div>
+
+                <template class="fn-menu_tpl-hamburger">
+                    <button class="gl-menu_toggle-btn" data-alt-open="Open" data-alt-close="Close"><span class="hide">Menu</span></button>
+                </template>
+                <template class="fn-menu_tpl-back">
+                    <button class="gl-menu_back-btn">Home</button>
+                </template>
+                <template class="fn-menu_tpl-close">
+                    <button class="gl-menu_close-btn" data-alt-close="Close"></button>
+                </template>
+            </nav>
+        </div>
+
+        <div class="gl-header_utilities">
+                                                                            </div>
+    </div>
+</header>
+
+        <div id="contents" class="">
+            <div id="Main">
+                
+    <div class="breadcrumb breadcrumb--borderBottom">
+        <div class="breadcrumb__container">
+            <div class="breadcrumb__inner">
+                <ul class="breadcrumb__list">
+                                    <li>
+                                        <a href="../../../">Home</a>
+                                    </li>
+                                    <li>
+                                        <a href="../../">Information</a>
+                                    </li>
+                            <li class="act">
+                                <span>Ricoh recognized as a CDP 2025 Supplier Engagement Leader for sixth consecutive year</span>
+                            </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+
+                
+                
+<div class="c-container">
+    <section class="c-releaseHeader">
+    <div class="c-margin-b">
+        <div class="c-margin-b__inner">
+            <h1 class="c-releaseHeader__title">
+                    <span class="c-newsIcon">Infomation</span>
+                                    <span class="c-releaseHeader__title__main">Ricoh recognized as a CDP 2025 Supplier Engagement Leader for sixth consecutive year</span>
+                            </h1>
+                                </div>
+    </div>
+</section>
+    <div class="fxb-section">
+<section class="c-section " id="lead">
+    <div class="f-child">
+        <div class="c-margin-b">
+            <div class="c-margin-b__inner">
+                    <div class="c-multiCol">
+        <div class="c-linkCard c-linkCard--col1 c-linkCard--col1-wide">
+            
+                <div class="c-linkCard__item c-linkCard__item--layout1">
+                    <div class="c-linkCard__inner">
+                                                    <div class="c-linkCard__textwrap">
+                                <div class="c-text-a u-pb-40">
+  <p class="c-text-a__text"><strong>TOKYO, May 21, 2026</strong> – Ricoh today announced it has been recognized as a 2025 Supplier Engagement Leader by CDP, a global non-profit that operates an independent environmental disclosure system. This marks the sixth consecutive year Ricoh has earned the organization's highest rating.</p>
+</div>
+                            </div>
+                                                    <div class="c-linkCard__imagewrap">
+                                
+                                    <div class="c-linkCard__image">
+                                            <div class="c-linkCard__imageInner c-linkCard__imageInner--noRatio">
+                                                <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/info/2026/img/0521_1.webp" alt="">
+                                            </div>
+                                    </div>
+                            </div>
+                    </div>
+                </div>
+                                                        </div>
+    </div>
+
+    <div class="c-multiCol">
+        <div class="c-linkCard c-linkCard--col1 c-linkCard--col1-wide">
+            
+                <div class="c-linkCard__item c-linkCard__item--layout1">
+                    <div class="c-linkCard__inner">
+                                                    <div class="c-linkCard__textwrap">
+                                <div class="c-text-a">
+  <p class="c-text-a__text">The Supplier Engagement Assessment evaluates companies' governance, targets, Scope 3 emissions and value chain engagement based on their responses to the climate change section of the CDP questionnaire. Ricoh was also selected by CDP for the 2025 A List in both Climate Change and Water Security in recognition of its high level of transparency and performance in environmental disclosure in those two fields.</p>
+</div>
+                            </div>
+                                            </div>
+                </div>
+                                                        </div>
+    </div>
+
+    <div class="c-multiCol">
+        <div class="c-linkCard c-linkCard--col1 c-linkCard--col1-wide">
+            
+                <div class="c-linkCard__item c-linkCard__item--layout1">
+                    <div class="c-linkCard__inner">
+                                                    <div class="c-linkCard__textwrap">
+                                <div class="c-linkCard c-linkCard--gray">
+  <div class="c-linkCard__item">
+    <div class="c-linkCard__inner">
+      <div class="f-richText">
+        <div class="c-text-a">
+          <p class="c-text-a__text">Mikako Suzuki, chief sustainability and risk management officer at Ricoh Company, Ltd., said, “We are honored to have received the highest rating in CDP's Supplier Engagement Assessment for the sixth consecutive year. This recognition reflects our ongoing collaboration with suppliers who have worked with us toward the shared goal of realizing a decarbonized society, and we sincerely appreciate their support. It is also a testament to our efforts to advance decarbonization across the supply chain through energy-efficient products and solutions, supplier briefing sessions and requests that key suppliers set medium- to long-term greenhouse gas reduction targets. We will continue to strengthen collaboration and accelerate climate action across the entire value chain.”</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+                            </div>
+                                            </div>
+                </div>
+                                                        </div>
+    </div>
+
+    <div class="c-multiCol">
+        <div class="c-linkCard c-linkCard--col1 c-linkCard--col1-wide">
+            
+                <div class="c-linkCard__item c-linkCard__item--layout1">
+                    <div class="c-linkCard__inner">
+                                                    <div class="c-linkCard__textwrap">
+                                <div class="c-text-a">
+  <p class="c-text-a__text">Climate change is one of the most important social issues facing the global community. Ricoh will continue to promote energy conservation and the active use of renewable energy in its own operations while also encouraging business partners and customers to help build a decarbonized society across the entire value chain.</p>
+</div>
+                            </div>
+                                            </div>
+                </div>
+                                                        </div>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</section><section class="c-section " id="related1">
+    <div class="f-child">
+        <div class="c-margin-b">
+            <div class="c-margin-b__inner">
+                    <div class="c-h2-a">
+                        <h2 class="c-h2-a__text">Relevant Information</h2>
+                    </div>
+                    <div class="c-multiCol">
+        <div class="c-linkCard c-linkCard--col1 c-linkCard--col1-wide">
+            
+                <div class="c-linkCard__item c-linkCard__item--layout1">
+                    <div class="c-linkCard__inner">
+                                                    <div class="c-linkCard__textwrap">
+                                <div class="c-link-a-list c-link-a-list--column">
+  <div class="c-link-a-list__inner">
+    <a href="https://www.cdp.net/en/supply-chain/supplier-engagement-assessment?utm_source=Dynamics%20365%20Customer%20Insights%20-%20Journeys&amp;utm_medium=email&amp;utm_term=N%2FA&amp;utm_campaign=Disclosure%202025%20-%20Global%20-%202024%20SEA%20Release%20-%20Disclosers&amp;utm_content=Disclosure%202025%20-%20Global%20-%202024%20SEA%20Release%20-%20A%20List%20-%20Japanese#msdynmkt_trackingcontext=d057fba4-54f0-4141-822c-879543ec0000" class="c-link-a c-link-a--blank icon-hidden" target="_blank">
+      <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/blank-primary-color.svg" alt="Open new window">
+      <span class="c-link-a__text">[CDP] Supplier Engagement Assessment 2025</span>
+    </a>
+  </div>
+</div>
+                            </div>
+                                            </div>
+                </div>
+                                                        </div>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</section><section class="c-section " id="related2">
+    <div class="f-child">
+        <div class="c-margin-b">
+            <div class="c-margin-b__inner">
+                    <div class="c-h2-a">
+                        <h2 class="c-h2-a__text">Related News</h2>
+                    </div>
+                    <div class="c-multiCol">
+        <div class="c-linkCard c-linkCard--col1 c-linkCard--col1-wide">
+            
+                <div class="c-linkCard__item c-linkCard__item--layout1">
+                    <div class="c-linkCard__inner">
+                                                    <div class="c-linkCard__textwrap">
+                                <div class="c-link-a-list c-link-a-list--column">
+  <div class="c-link-a-list__inner">
+    <a href="../0109_1/" class="c-link-a icon-hidden">
+      <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-right-primary-color.svg" alt="">
+      <span class="c-link-a__text">Ricoh selected for CDP A List in both Climate Change and Water Security for the third consecutive year</span>
+    </a>
+  </div>
+</div>
+                            </div>
+                                            </div>
+                </div>
+                                                        </div>
+    </div>
+
+            </div>
+        </div>
+    </div>
+</section></div>
+    <section class="c-section ">
+  <div class="f-child">
+    <div class="c-margin-b">
+      <div class="c-margin-b__inner">
+        <div class="c-h3-a">
+          <h3 class="c-h3-a__text">| About Ricoh |</h3>
+        </div>
+        <div class="c-text-a">
+          <p class="c-text-a__text">Ricoh is a global integrator in workplace transformation, operating in approximately 200 countries and regions and headquartered in Tokyo. Supporting customers' value creation, Ricoh offers workplace services and solutions that empower organizations to work smarter through advanced technologies—including AI— together with long-standing expertise rooted in printing. Ricoh also operates commercial and industrial printing businesses and delivers new solutions leveraging inkjet technology. In the financial year ended March 2026, Ricoh Group had worldwide sales of 2,608 billion yen (approx. 16.4 billion USD).</p>
+        </div>
+        <div class="c-text-a">
+          <p class="c-text-a__text">For 90 years since our founding, Ricoh has upheld its mission and vision of empowering individuals to find Fulfillment through Work—and that commitment continues today. By understanding and transforming how people work, we unleash their potential and creativity to realize a sustainable future.</p>
+        </div>
+        <div class="c-text-a u-mb-0">
+          <p class="c-text-a__text">For further information, please visit</p>
+        </div>
+        <div class="c-link-a-list c-link-a-list--column u-mt-0">
+          <div class="c-link-a-list__inner">
+            <a href="../../../" class="c-link-a">
+              <span class="c-link-a__text">www.ricoh.com</span>
+            </a>
+          </div>
+        </div>
+        <div class="c-text-a">
+          <p class="c-text-a__text u-align-center">###</p>
+          <p class="c-text-a__text u-align-center">© 2026 RICOH COMPANY, LTD. All rights reserved. All referenced product names are the trademarks of their respective companies.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+    <div id="mediaRelatedInfoVue" data-v-app=""><section class="c-section c-section--beige"><div class="f-child"><div class="c-margin-b"><div class="c-margin-b__inner"><div class="c-h2-a"><h2 class="c-h2-a__text">Recommended Information</h2></div><div class="c-multiCol"><div class="c-linkCard c-linkCard--col3"><div class="c-linkCard__item"><a href="../../../release/2026/0408_1/" class="c-linkCard__link icon-hidden"><div class="c-linkCard__text"><div class="c-h4-a"><div class="c-h4-a__text c-linkCard__hoverRed">Ricoh raises decarbonization targets under new ESG strategy in the latest mid-term strategy</div></div></div><div class="c-linkCard__info"><span class="c-linkCard__date c-linkCard__hoverRed">2026.04.08</span><span class="c-newsIcon c-linkCard__hoverRed">News Release</span></div><div class="c-linkCard__image"><div class="c-linkCard__imageInner"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/jp_ricoh/news/img/sustainability.webp" alt=""></div><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg" alt=""></div></a></div><div class="c-linkCard__item"><a href="../0331_1/" class="c-linkCard__link icon-hidden"><div class="c-linkCard__text"><div class="c-h4-a"><div class="c-h4-a__text c-linkCard__hoverRed">Ricoh awarded EcoVadis Platinum Rating for sustainability performance for second consecutive year</div></div></div><div class="c-linkCard__info"><span class="c-linkCard__date c-linkCard__hoverRed">2026.03.31</span><span class="c-newsIcon c-linkCard__hoverRed">Information</span></div><div class="c-linkCard__image"><div class="c-linkCard__imageInner"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/ogp/info/2026/0331_1.webp" alt=""></div><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg" alt=""></div></a></div><div class="c-linkCard__item"><a href="../0306_1/" class="c-linkCard__link icon-hidden"><div class="c-linkCard__text"><div class="c-h4-a"><div class="c-h4-a__text c-linkCard__hoverRed">Ricoh ranked 48th in Carbon Clean200™ 2026 list by Corporate Knights and As You Sow</div></div></div><div class="c-linkCard__info"><span class="c-linkCard__date c-linkCard__hoverRed">2026.03.06</span><span class="c-newsIcon c-linkCard__hoverRed">Information</span></div><div class="c-linkCard__image"><div class="c-linkCard__imageInner"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/ogp/info/2026/0306_1.webp" alt=""></div><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg" alt=""></div></a></div></div></div><div class="c-buttonWrap-b"><div class="c-buttonWrap-b__content u-align-center"><button type="button" class="c-button-a c-button-a--thin c-button-a--white c-button-a--arrow c-button-a--arrowDown c-button-a--iconRed icon-hidden"><span class="c-button-a__text">Read More</span><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/img/svg/arrow-bottom-primary-color.svg" alt=""></button></div></div></div></div></div></section></div>
+    <script>
+        var ricoh = ricoh || {};
+        ricoh.co = ricoh.co || {};
+        ricoh.co.jp = ricoh.co.jp || {};
+        ricoh.co.jp.InitDisplayCount = 3;
+        ricoh.co.jp.ReadMoreText = "Read More";
+        ricoh.co.jp.RecommendTitle = "Recommended Information";
+        ricoh.co.jp.Items = [{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/jp_ricoh/news/img/sustainability.webp","alt":""},"date":"2026.04.08","title":"Ricoh raises decarbonization targets under new ESG strategy in the latest mid-term strategy","categoryname":"News Release","linkdata":{"url":"/release/2026/0408_1","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/ogp/info/2026/0331_1.webp","alt":""},"date":"2026.03.31","title":"Ricoh awarded EcoVadis Platinum Rating for sustainability performance for second consecutive year","categoryname":"Information","linkdata":{"url":"/info/2026/0331_1","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/ogp/info/2026/0306_1.webp","alt":""},"date":"2026.03.06","title":"Ricoh ranked 48th in Carbon Clean200™ 2026 list by Corporate Knights and As You Sow","categoryname":"Information","linkdata":{"url":"/info/2026/0306_1","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/ogp/info/2026/0225_1.webp","alt":""},"date":"2026.02.25","title":"Ricoh selected as a member of the Sustainability Yearbook 2026 by S&P Global","categoryname":"Information","linkdata":{"url":"/info/2026/0225_1","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/stories/articles/pfu-raptor-vision-battery/img/mv.webp","alt":""},"date":"2026.02.18","title":"PFU Taps AI to Prevent Fires from Lithium-Ion Batteries in Household Waste Streams","categoryname":"Stories","linkdata":{"url":"/news/stories/articles/pfu-raptor-vision-battery","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/ogp/info/2026/0206_1.webp","alt":""},"date":"2026.02.06","title":"Ricoh celebrates its 90th anniversary","categoryname":"Information","linkdata":{"url":"/info/2026/0206_1","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/ogp/info/2026/0121_1.webp","alt":""},"date":"2026.01.21","title":"Ricoh named in the 2026 Global 100 Most Sustainable Corporations by Corporate Knights","categoryname":"Information","linkdata":{"url":"/info/2026/0121_1","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/ogp/info/2026/0109_1.webp","alt":""},"date":"2026.01.09","title":"Ricoh named to CDP's double A List for the third consecutive year","categoryname":"Information","linkdata":{"url":"/info/2026/0109_1","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/ogp/info/2025/1215_1.webp","alt":""},"date":"2025.12.15","title":"Ricoh recognized as a sustainability leader in Quocirca's 2025 report","categoryname":"Information","linkdata":{"url":"/info/2025/1215_1","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/ogp/info/2025/1128_1.webp","alt":""},"date":"2025.11.28","title":"Ricoh recognized as a Prime Seat Company in the 2025 Nikkei SDGs Management Grand Prix","categoryname":"Information","linkdata":{"url":"/info/2025/1128_1","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/ogp/info/2025/1031_1.webp","alt":""},"date":"2025.10.31","title":"Ricoh publishes the Ricoh Group's 2025 Integrated Report and Sustainability Report","categoryname":"Information","linkdata":{"url":"/info/2025/1031_1","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/ogp/release/2025/1027_1.webp","alt":""},"date":"2025.10.27","title":"Ricoh perovskite solar cells installed on Japan Aerospace Exploration Agency cargo transfer spacecraft1 HTV-X1","categoryname":"News Release","linkdata":{"url":"/release/2025/1027_1","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/jp_ricoh/news/img/environment.webp","alt":""},"date":"2025.10.17","title":"Ricoh named to the World's Best Employers 2025 by Forbes","categoryname":"Information","linkdata":{"url":"/info/2025/1017_1","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/jp_ricoh/news/img/environment.webp","alt":""},"date":"2025.09.19","title":"Ricoh named in TIME World's Best Companies 2025 for employee engagement, growth and sustainability","categoryname":"Information","linkdata":{"url":"/info/2025/0919_2","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/ogp/info/2025/0919_1.webp","alt":""},"date":"2025.09.19","title":"Ricoh exhibits at METI's Circular Economy Research Lab during Expo 2025 Osaka, Kansai, Japan","categoryname":"Information","linkdata":{"url":"/info/2025/0919_1","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/ogp/release/2025/0910_1.webp","alt":""},"date":"2025.09.10","title":"Consortium of Ricoh, Daiwa House, and NTT Anode Energy selected for NEDO Green Innovation Fund","categoryname":"News Release","linkdata":{"url":"/release/2025/0910_1","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/jp_ricoh/news/img/environment.webp","alt":""},"date":"2025.07.30","title":"Ricoh selected for inclusion in six ESG indices for Japanese equities adopted by the GPIF","categoryname":"Information","linkdata":{"url":"/info/2025/0730_1","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/ogp/info/2025/0728_1.webp","alt":""},"date":"2025.07.28","title":"Ricoh exhibits at Expo 2025 Osaka, Kansai, Japan as a member of Kyoto Beyond SDGs Consortium","categoryname":"Information","linkdata":{"url":"/info/2025/0728_1","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/ogp/info/2025/0718_1.webp","alt":""},"date":"2025.07.18","title":"Ricoh recognized as a CDP Supplier Engagement Leader for the fifth consecutive year","categoryname":"Information","linkdata":{"url":"/info/2025/0718_1","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/ogp/info/2025/0707_1.webp","alt":""},"date":"2025.07.07","title":"Ricoh named in TIME World's Most Sustainable Companies of 2025","categoryname":"Information","linkdata":{"url":"/info/2025/0707_1","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/ogp/info/2025/0623_1.webp","alt":""},"date":"2025.06.23","title":"Ricoh named in Asia-Pacific Climate Leaders list for the fourth consecutive year","categoryname":"Information","linkdata":{"url":"/info/2025/0623_1","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/img/ricoh.webp","alt":"Ricoh Company, Ltd."},"date":"2025.06.03","title":"【Ricoh Futures EMEA】Launch of the RICOH360 THETA A1: The professional, rugged, and connected 360° camera designed for extreme environments","categoryname":"News Release","linkdata":{"url":"/release/2025/0603_2","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/ogp/info/2025/0530_1.webp","alt":"Ricoh Group supports the Sustainable Development Goals"},"date":"2025.05.30","title":"Ricoh launches Global SDGs Action Month 2025","categoryname":"Information","linkdata":{"url":"/info/2025/0530_1","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/img/ricoh.webp","alt":"Ricoh Company, Ltd."},"date":"2025.05.07","title":"Ricoh named as a Leader in IDC MarketScape Worldwide Hardcopy Remanufacturing 2025 Vendor Assessment","categoryname":"Information","linkdata":{"url":"/info/2025/0507_1","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/img/ricoh.webp","alt":"Ricoh Company, Ltd."},"date":"2025.05.01","title":"Ricoh Develops High-Strength, Full-Color 3D Inkjet Printing Technology","categoryname":"News Release","linkdata":{"url":"/release/2025/0501_1","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/jp_ricoh/news/img/sustainability.webp","alt":""},"date":"2025.05.01","title":"Ricoh implements Group's first renewable energy from agrivoltaics offsite Power Purchase Agreement power plant in Japan","categoryname":"Information","linkdata":{"url":"/info/2025/0501_1","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/ogp/info/2025/0331_1.webp","alt":""},"date":"2025.03.31","title":"Ricoh awarded EcoVadis Platinum Rating for sustainability performance","categoryname":"Information","linkdata":{"url":"/info/2025/0331_1","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/jp_ricoh/news/img/sustainability.webp","alt":""},"date":"2025.03.06","title":"Ricoh ranked 39th in Carbon Clean200™ 2025 list","categoryname":"Information","linkdata":{"url":"/info/2025/0306_1","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/ogp/info/2025/0217_1.png","alt":""},"date":"2025.02.17","title":"Ricoh selected as a member of the Sustainability Yearbook 2025 by S&P Global","categoryname":"Information","linkdata":{"url":"/info/2025/0217_1","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/ogp/info/2025/0214_1.png","alt":""},"date":"2025.02.14","title":"Ricoh recognized with double ‘A’ score for climate action and water security leadership in CDP A List","categoryname":"Information","linkdata":{"url":"/info/2025/0214_1","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/ogp/info/2025/0123_1.png","alt":""},"date":"2025.01.23","title":"Ricoh ranked top computers and peripherals manufacturing company and 51st among the 2025 Global 100 Most Sustainable Corporations","categoryname":"Information","linkdata":{"url":"/info/2025/0123_1","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/img/ricoh.webp","alt":"Ricoh Company, Ltd."},"date":"2024.12.24","title":"Ricoh included in the Dow Jones Sustainability World Index for five consecutive years","categoryname":"Information","linkdata":{"url":"/info/2024/1224_1","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/ogp/info/2024/1202_1.png","alt":""},"date":"2024.12.02","title":"Ricoh Group and REACH implements Digital Support Program for Young People in Vietnam for two consecutive years","categoryname":"Information","linkdata":{"url":"/info/2024/1202_1","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/ogp/info/2024/1129_1.png","alt":""},"date":"2024.11.29","title":"Ricoh Chairperson and JCLP Co-chair visit Chief Cabinet Secretary to discuss proposal on accelerating decarbonization","categoryname":"Information","linkdata":{"url":"/info/2024/1129_1","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/ogp/info/2024/1127_1.png","alt":""},"date":"2024.11.27","title":"Ricoh received top five-star rating in the SDGs Management edition of Nikkei Sustainable Comprehensive Survey 2024","categoryname":"Information","linkdata":{"url":"/info/2024/1127_1","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/ogp/info/2024/1119_1.png","alt":"Ricoh completes feasibility study to digitalize work sites in the Philippines lacking electrification"},"date":"2024.11.19","title":"Ricoh completes feasibility study to digitalize work sites in the Philippines lacking electrification","categoryname":"Information","linkdata":{"url":"/info/2024/1119_1","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/ogp/info/2024/1031_1.png","alt":"Ricoh Group Integrated Report 2024"},"date":"2024.10.31","title":"Ricoh publishes Ricoh Group Integrated Report 2024 and Ricoh Group Environmental Report 2024","categoryname":"Information","linkdata":{"url":"/info/2024/1031_1","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/img/ricoh.webp","alt":"Ricoh Company, Ltd."},"date":"2024.10.18","title":"Ricoh joins the Japan Center for Engagement and Remedy on Business and Human Rights as a regular member","categoryname":"Information","linkdata":{"url":"/info/2024/1018_1","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/stories/articles/ricoh-equity/img/ricoh-equity_img_thumb.webp","alt":""},"date":"2024.10.08","title":"Ricoh Integrates Equity into Its Diversity and Inclusion Framework to Build Collaboration and Deliver Fulfillment through Work ","categoryname":"Stories","linkdata":{"url":"/news/stories/articles/ricoh-equity","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/ogp/release/2024/0903_ElixirgenScientific.png","alt":"Elixirgen Scientific Launches Proprietary In Vitro Assay Service Designed for Rett Syndrome"},"date":"2024.09.03","title":"【Elixirgen Scientific】Elixirgen Scientific Launches Proprietary In Vitro Assay Service Designed for Rett Syndrome","categoryname":"News Release","linkdata":{"url":"/news/page-unpublished","target":"_self","iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/stories/articles/external-nikkei-dx/img/external-nikkei-dx_img_thumb.webp","alt":""},"date":"2024.07.08","title":"Ricoh’s Societal Contributions Focus on Productivity Improvement, SDG Activities","categoryname":"Stories","linkdata":{"url":"https://project.nikkeibp.co.jp/ESG/atcl/eng/sdgf/70/","target":"_blank","iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/blank-white-color.svg","iconalt":"Open new window"}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/ogp/release/2024/0326_RNA.png","alt":"Ricoh takes home the 2024 ENERGY STAR Partner of the Year for Sustained Excellence Award"},"date":"2024.03.26","title":"【Ricoh USA】Ricoh takes home the 2024 ENERGY STAR Partner of the Year for Sustained Excellence Award","categoryname":"News Release","linkdata":{"url":"https://www.ricoh-usa.com/en/newsroom/ricoh-takes-home-the-2024-energy-star-partner-of-the-year-for-sustained","target":"_blank","iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/blank-white-color.svg","iconalt":"Open new window"}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/ogp/release/2024/0318_1.png","alt":"Ricoh advances zero greenhouse gas emissions Scope 1 and 2 to 2040 and strengthens Scope 3 reduction measures"},"date":"2024.03.18","title":"Ricoh advances zero greenhouse gas emissions Scope 1 and 2 to 2040 and strengthens Scope 3 reduction measures","categoryname":"News Release","linkdata":{"url":"/release/2024/0318_1","target":"_self","iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/stories/articles/sustainable-world-through-business/img/sustainable-world-through-business_img_thumb.webp","alt":""},"date":"2024.01.23","title":"Ricoh creating a more sustainable world through business","categoryname":"Stories","linkdata":{"url":"/news/stories/articles/sustainable-world-through-business","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/ogp/release/2023/1208_1.png","alt":"Photovoltaic power generation plant for self-consignment"},"date":"2023.12.08","title":"Ricoh launches its first renewable energy self-consignment","categoryname":"News Release","linkdata":{"url":"/release/2023/1208_1","target":"_self","iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/stories/articles/reuters-next-2023/img/reuters-next-2023_img_mv.webp","alt":""},"date":"2023.11.10","title":"Ricoh Chairperson takes the stage at Reuters NEXT 2023 \"Empowering Colleagues to be ESG Advocates\"","categoryname":"Stories","linkdata":{"url":"/news/stories/articles/reuters-next-2023","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/ogp/release/2023/0915_ca.png","alt":"Healthy Workplace® Gold Recipient award mark"},"date":"2023.09.15","title":"【Ricoh Canada】Ricoh Awarded Healthy Workplace Gold Certification by Excellence Canada","categoryname":"News Release","linkdata":{"url":"https://newsroom.ricoh.ca/2023-09-14-Ricoh-Awarded-Healthy-Workplace-Gold-Certification-by-Excellence-Canada","target":"_blank","iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/blank-white-color.svg","iconalt":"Open new window"}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/ogp/release/2023/0912_1.png","alt":"NR-Power Lab"},"date":"2023.09.12","title":"NR-Power Lab Collaborates with CollaboGate Japan and Sassor to Start Building the World's First VPP System Using Decentralized Identifiers","categoryname":"News Release","linkdata":{"url":"/release/2023/0912_1","target":"_self","iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/ogp/release/2023/0713_1.png","alt":"Ricoh enhances GHG emission reduction through a Scope 3 reduction scenario"},"date":"2023.07.13","title":"Ricoh enhances GHG emission reduction through a Scope 3 reduction scenario","categoryname":"News Release","linkdata":{"url":"/release/2023/0713_1","target":"_self","iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/stories/articles/products-handy-plastic-sensor/img/products-handy-plastic-sensor_img_thumb.webp","alt":""},"date":"2023.05.19","title":"Portable Plastic Identification Sensor Embodies Ricoh’s Circular Economy Vision by Helping Resolve Plastic Waste Issue","categoryname":"Stories","linkdata":{"url":"/news/stories/articles/products-handy-plastic-sensor","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/stories/articles/products-mfp-using-recycled-plastic/img/products-mfp-using-recycled-plastic_img_ph00.webp","alt":""},"date":"2023.04.28","title":"How Ricoh Unleashed its Professionals to Innovate an A3 Color MFP Series with 50% Recycled Materials Content that Delivers Top-Notch Environmental Performance","categoryname":"Stories","linkdata":{"url":"/news/stories/articles/products-mfp-using-recycled-plastic","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/ogp/release/2023/0404_1.png","alt":"Ricoh completes study on micro-hydroelectric power generation in utilizing 3D printers"},"date":"2023.04.04","title":"Ricoh completes study on micro-hydroelectric power generation in utilizing 3D printers","categoryname":"News Release","linkdata":{"url":"/release/2023/0404_1","target":"_self","iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/ogp/release/2023/0328_RUS.png","alt":"Ricoh Wins 2023 ENERGY STAR® Partner of the Year Sustained Excellence Award from EPA for 8th Straight Year"},"date":"2023.03.28","title":"【Ricoh USA】Ricoh Wins 2023 ENERGY STAR® Partner of the Year Sustained Excellence Award from EPA for 8th Straight Year","categoryname":"News Release","linkdata":{"url":"https://newsroom.ricoh-usa.com/2023-03-28-Ricoh-Wins-2023-ENERGY-STAR-R-Partner-of-the-Year-Sustained-Excellence-Award-from-EPA-for-8th-Straight-Year","target":"_blank","iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/blank-white-color.svg","iconalt":"Open new window"}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/stories/articles/dialogue-esg-advocates/img/dialogue-esg-advocates_img_thumb.webp","alt":""},"date":"2023.03.24","title":"Empowering Employees to be ESG Advocates","categoryname":"Stories","linkdata":{"url":"/news/stories/articles/dialogue-esg-advocates","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/about/empowering-digital-workplaces/articles/external-climate-control/img/external-climate-control_img_thumb.webp","alt":""},"date":"2023.02.10","title":"Implementation and Disclosure Enhance Corporate Value —Ambitious climate action puts Ricoh ahead globally—","categoryname":"Stories","linkdata":{"url":"/news/stories/articles/external-climate-control","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/news/ogp/release/2023/0201_1.png","alt":"NR-Power Lab"},"date":"2023.02.01","title":"NGK and Ricoh Start Operations at Joint Venture NR-Power Lab Co., Ltd.","categoryname":"News Release","linkdata":{"url":"/release/2023/0201_1","target":"_self","iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/about/empowering-digital-workplaces/articles/reuters-impact-2022/img/reuters-impact-2022_img_thumb.webp","alt":""},"date":"2022.10.05","title":"Ricoh President and CEO takes the stage at Reuters IMPACT 2022 ~“Empowering employees to be ESG Advocates”~","categoryname":"Stories","linkdata":{"url":"/news/stories/articles/reuters-impact-2022","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/jp_ricoh/about/empowering-digital-workplaces/articles/products-solar-cell/img/products-solar-cell_img_thumb.webp","alt":""},"date":"2022.07.25","title":"Ricoh’s contribution towards an Eco-Friendly Future through Energy Harvesting Devices. What does \"A World Without Charging\" created by Ricoh look like?","categoryname":"Stories","linkdata":{"url":"/news/stories/articles/products-solar-cell","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/about/empowering-digital-workplaces/articles/dialogue-big-company-small-organization/img/dialogue-big-company-small-organization_img_thumb.webp","alt":""},"date":"2022.05.10","title":"Why Small Units within Big Companies Must Step Up to the Plate to Resolve Social Issues","categoryname":"Stories","linkdata":{"url":"/news/stories/articles/dialogue-big-company-small-organization","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/about/empowering-digital-workplaces/articles/external-decarbonization/img/external-decarbonization_img_thumb.webp","alt":""},"date":"2022.03.25","title":"The Challenge of Decarbonization Leads to Enhancing Corporate Value —Ricoh’s management strategy for sustainable growth—","categoryname":"Stories","linkdata":{"url":"/news/stories/articles/external-decarbonization","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/about/empowering-digital-workplaces/articles/are-t-shirts-draining-our-world/img/are-t-shirts-draining-our-world_img_thumb.webp","alt":""},"date":"2019.06.20","title":"Are T-shirts draining our world?","categoryname":"Stories","linkdata":{"url":"/news/stories/articles/are-t-shirts-draining-our-world","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/about/empowering-digital-workplaces/articles/ignite-a-revolution-in-manufacturing-with-printing-technology/img/ignite-a-revolution-in-manufacturing-with-printing-technology_img_thumb.webp","alt":""},"date":"2019.06.20","title":"Ignite a revolution in manufacturing with printing technology","categoryname":"Stories","linkdata":{"url":"/news/stories/articles/ignite-a-revolution-in-manufacturing-with-printing-technology","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}},{"image":{"path":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Sites/com/about/empowering-digital-workplaces/articles/ricoh-ignite-group-growth-strategy/img/ricoh-ignite-group-growth-strategy_img_thumb.webp","alt":""},"date":"2019.06.20","title":"RICOH Ignite, group growth strategy","categoryname":"Stories","linkdata":{"url":"/news/stories/articles/ricoh-ignite-group-growth-strategy","target":null,"iconurl":"/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/media/Ricoh/Common/cmn_v3/img/svg/arrow-right-white-color.svg","iconalt":""}}];
+    </script>
+    <script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/Scripts/dist/MediaRelatedInfo/app.js"></script>
+
+</div>
+
+            </div>
+        </div>
+        
+            <div class="breadcrumb breadcrumb--borderTop">
+                <div class="breadcrumb__container">
+                    <div class="breadcrumb__inner">
+                        <ul class="breadcrumb__list">
+                                        <li>
+                                            <a href="../../../">Home</a>
+                                        </li>
+                                        <li>
+                                            <a href="../../">Information</a>
+                                        </li>
+                            <li class="act">
+                                <span>Ricoh recognized as a CDP 2025 Supplier Engagement Leader for sixth consecutive year</span>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+        <footer class="gl-footer">
+  <div class="gl-footer-link-area">
+    <div class="gl-footer-link-area_inner">
+      <div class="gl-footer-link-area-pc">
+        <div class="gl-footer-link-area-pc_list">
+          <div class="gl-footer-link-area-pc_item">
+            <a href="../../../about/" class="gl-footer-link-area-pc_link-hdg">About RICOH</a>
+            <ul class="gl-footer-link-area-pc_link-list">
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../about/">Vision</a></li>
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../about/">Company Overview</a></li>
+              </ul>
+          </div>
+          <div class="gl-footer-link-area-pc_item">
+            <a href="../../../IR/" class="gl-footer-link-area-pc_link-hdg">Investor Relations</a>
+            <ul class="gl-footer-link-area-pc_link-list">
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../IR/news/">IR News</a></li>
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../IR/events/investors-meeting/">Corporate Strategy Meeting</a></li>
+              </ul>
+          </div>
+          <div class="gl-footer-link-area-pc_item">
+            <a href="../../../sustainability/" class="gl-footer-link-area-pc_link-hdg">Sustainability</a>
+            <ul class="gl-footer-link-area-pc_link-list">
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../sustainability/environment/">Environment</a></li>
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../sustainability/society/">Society</a></li>
+              </ul>
+            </div>
+          <div class="gl-footer-link-area-pc_item">
+            <a href="../../../technology/" class="gl-footer-link-area-pc_link-hdg">Technology</a>
+            <ul class="gl-footer-link-area-pc_link-list">
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../technology/rd/">Development</a></li>
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../technology/tech/">Ricoh's Technology</a></li>
+              </ul>
+            </div>
+          <div class="gl-footer-link-area-pc_item">
+            <a href="../../../news/" class="gl-footer-link-area-pc_link-hdg">News</a>
+            <ul class="gl-footer-link-area-pc_link-list">
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../release/">News Release</a></li>
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../">Information</a></li>
+              </ul>
+          </div>
+        </div>
+      </div>
+      <div class="gl-footer-link-area-sp">
+        <ul class="gl-footer-link-area-sp_list">
+          <li class="gl-footer-link-area-sp_item"><a href="../../../about/">About RICOH</a></li>
+          <li class="gl-footer-link-area-sp_item"><a href="../../../IR/">Investor Relations</a></li>
+          <li class="gl-footer-link-area-sp_item"><a href="../../../sustainability/">Sustainability</a></li>
+          <li class="gl-footer-link-area-sp_item"><a href="../../../technology/">Technology</a></li>
+          <li class="gl-footer-link-area-sp_item"><a href="../../../news/">News</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="gl-footer-area-01">
+    <div class="gl-footer-area-01_inner">
+      <div class="gl-footer-pageTop">
+        <a href="#top" class="gl-footer-pageTop_link js-top-button">Page Top</a>
+      </div>
+    </div><!-- /.gl-footer-area-01_inner -->
+  </div><!-- /.gl-footer-area-01 -->
+  <div class="gl-footer-area-02">
+    <div class="gl-footer-area-02_inner">
+      <div class="gl-footer-area-02_wrap">
+        <span class="hide">ここからこのサイトのサブメニュー</span>
+        <div class="gl-footer-utility">
+          <ul class="gl-footer-utility_inner">
+            <li class="gl-footer-utility_item"><a href="../../../contact/" class="gl-footer-utility_link">Contact</a></li>
+            <li class="gl-footer-utility_item"><a href="../../../privacy/" class="gl-footer-utility_link">Privacy policy</a></li>
+            <li class="gl-footer-utility_item"><a href="../../../terms-of-use/" class="gl-footer-utility_link">Terms of use</a></li>
+            <li class="gl-footer-utility_item"><a href="../../../terms-of-use/accessibility/" class="gl-footer-utility_link">Accessibility</a></li>
+            <li class="gl-footer-utility_item"><a href="../../../sitemap/" class="gl-footer-utility_link">Sitemap</a></li>
+            <li class="gl-footer-utility_item">
+            </ul>
+        </div><!-- /.gl-footer-utility -->
+        <div class="gl-footer-copyright">
+          <div class="gl-footer-copyright_inner">
+            <small class="gl-footer-copyright_text">©&nbsp;Ricoh</small>
+          </div>
+        </div><!-- /.gl-footer-copyright -->
+      </div><!-- /.gl-footer-area-02_wrap -->
+    </div><!-- /.gl-footer-area-02_inner -->
+  </div><!-- /.gl-footer-area-02 -->
+</footer><!-- /.gl-footer -->
+        <div class="cp-PageTop smoothScroll">
+            <a class="ver" href="#wrapper" aria-label="Page Top">PAGE TOP</a>
+        </div>
+        
+
+    
+
+<script type="text/javascript">
+!(function () {
+var G = (GALFSRAM = window.GALFSRAM || {});
+G.mfx = G.mfx || {};
+G.mfx.router_mode = "history";
+})();
+</script>
+</div>
+
+
+        
+
+<!-- RICOH_PAGE_SCRIPTS -->
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/jquery.min.js"></script>
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/JS/common.js"></script>
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/js/init.js"></script>
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/js/template.js"></script>
+</body></html>

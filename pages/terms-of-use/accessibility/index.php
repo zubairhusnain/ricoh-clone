@@ -1,0 +1,325 @@
+<?php
+declare(strict_types=1);
+require_once __DIR__ . '/../../../base-url.php';
+rh_start_output_rewrite();
+?>
+<!DOCTYPE html><html lang="EN" class="js-on"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/css/template-global-addition2024.css">
+
+    <meta charset="utf-8">
+    <title>Accessibility Statement for Ricoh Group Websites | Global | Ricoh</title>
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<meta name="format-detection" content="telephone=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">                <meta name="”keywords”" content="Web" accessibility,ricoh”="">
+                                        <meta property="og:country-name" content="Global">
+                    <link rel="canonical" href="">
+    <!-- START ICONFILE -->
+<link rel="icon" type="image/vnd.microsoft.icon" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Images/favicon.ico">
+<link rel="apple-touch-icon" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Images/apple_icon.png">
+<!-- END ICONFILE -->
+<!-- START SITECORE COMMON CSS -->
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/CSS/sc_common.css">
+<!--[if lt IE 9]>
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/css/old_ie.css">
+<![endif]-->
+<!-- END SITECORE COMMON CSS -->
+<!-- START SITECORE LOCALIZE CSS -->
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/CSS/gl_header_localize.css">
+<!-- END SITECORE LOCALIZE CSS -->
+<!-- START LIBRARY CSS AND JS -->
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/jquery.min.js"></script>
+
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/responsiveTabs/jquery.responsiveTabs.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/uniform/jquery.uniform.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/bxslider/jquery.bxslider.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/fancybox-v1.4.3/CSS/jquery.fancybox-1.3.4.css">
+<link rel="stylesheet" type="text/css" media="print" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/css/print.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/CSS/sc_common_us.css">
+
+<!-- START cmn_us_v1 CSS -->
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/css/import.css">
+<!--[if lt IE 9]>
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/css/old_ie.css" />
+<![endif]-->
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/css/module2015-chase-control.css">
+<!-- //////////ssi ex_component//////////// -->
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/css/ex_component.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/css/module2015-chase-add.css">
+<!-- ///////// /ssi ex_component//////////// -->
+<!-- END cmn_us_v1 CSS -->
+
+<!-- サイト共通ヘッダーフッター CSS-->
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/css/template.css">
+<!-- サイト共通ヘッダーフッター CSS-->
+
+<!--OldDesign ConflictClear CSS -->
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/css/conflict_clear.css">
+<!--OldDesign ConflictClear CSS -->    <!-- Monotype -->
+<script type="text/javascript" src="/ricoh-clone/ricoh_offline/assets/cdn.fonts.net/kit/3c059441-5218-4b9b-974d-a8185a3bd584/3c059441-5218-4b9b-974d-a8185a3bd584_enhanced.js" async=""></script>
+<link rel="stylesheet" type="text/css" href="/ricoh-clone/ricoh_offline/assets/cdn.fonts.net/kit/3c059441-5218-4b9b-974d-a8185a3bd584/3c059441-5218-4b9b-974d-a8185a3bd584_enhanced.css">
+
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/jquery.tile.js"></script>
+    <script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/jquery.responsiveTabs.js"></script>
+    <script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/fancybox-v1.4.3/JS/jquery.fancybox-1.3.4.js"></script><script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/fancybox-control.js"></script>
+    <script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/velocity.min.js"></script>
+    <script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/jquery.uniform.js"></script>
+    <script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/jquery.bxslider.min.js"></script>
+    <script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/js/globalnavi.js"></script>
+    <!-- END LIBRARY CSS AND JS -->
+    <!-- START SITECORE COMMON JS -->
+    <!-- END SITECORE COMMON JS -->
+
+<!-- サイト共通ヘッダーフッターJS-->
+<!-- サイト共通ヘッダーフッターJS-->
+
+<!-- START cmn_us_v1 JS -->
+<!--<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/js/naviactive.js"></script>-->
+<!-- END cmn_us_v1 JS -->            
+</head>
+<body style="">
+<div id="wrapper">
+        <!-- START HEADER AREA -->
+        <div class="header-area">
+            
+<!-- START Parts CP077SimpleHeader -->
+    <div class="cp-SimpleHeader">
+        <div class="hd_line" id="gl_header">
+            <div class="gl_hd">
+                <div class="inner">
+                    <p class="hd_lg"><a href="../../"></a></p>
+                    <div class="hd_ut">
+<a href="" class="areaNameLink">                                <span class="hd_ut_country mr0">Change country / language</span>
+</a>                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<!-- END Parts CP077SimpleHeader -->
+
+        </div>
+        <!-- END HEADER AREA -->
+        <!-- START ANY COMPONENTS AREA -->
+        <div id="contents" class="">
+            <span class="hide">Main content</span>
+            
+<!-- START Parts H1Title -->
+    <div class="cp-Heading1 cnt_max">
+            <h1>Accessibility Statement for Ricoh Group Websites</h1>
+    </div>
+<!-- END Parts H1Title -->
+
+<!-- START Parts CP075SingleColumnText -->
+    <div class="cp-Paragraph cnt_max ">
+        <div class="clm1">
+            <div class="clm">
+                <p>Ricoh Group is committed to ensuring digital accessibility for people with disabilities. We are continually improving the user experience for everyone, and applying the relevant accessibility standards.</p>
+            </div>
+        </div>
+    </div>
+<!-- END Parts CP075SingleColumnText -->
+
+<!-- START Parts CP019HeadingTitleWithText -->
+    <div class="cp-HeadingWithText cnt_max">
+        <div class="clm1">
+            <div class="clm">
+                                    <p><strong>Measures to support accessibility</strong></p>
+                                    <p>Ricoh Group takes the following measures to ensure accessibility of Ricoh Group Websites:</p>
+            </div>
+        </div>
+    </div>
+    <!-- /cp-HeadingWithText -->
+<!-- END Parts CP019HeadingTitleWithText -->
+
+<!-- START Parts CP021ItemizeList -->
+    <div class="cp-List  cnt_max">
+        <div class="clm1">
+            <div class="clm">
+                <ul>
+                    <li>Including accessibility throughout our internal policies.</li>
+                    <li>Providing continual accessibility training for our staff.</li>
+                    <li>Assigning clear accessibility targets and responsibilities.</li>
+                    <li>Employing formal accessibility quality assurance methods.</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+<!-- END Parts CP021ItemizeList -->
+
+<!-- START Parts CP019HeadingTitleWithText -->
+    <div class="cp-HeadingWithText cnt_max">
+        <div class="clm1">
+            <div class="clm">
+                                    <p><strong>Conformance status</strong></p>
+                                    <p>The <a href="https://www.w3.org/WAI/standards-guidelines/wcag/" target="_blank">Web Content Accessibility Guidelines (WCAG)</a> defines requirements for designers and developers to improve accessibility for people with disabilities. It defines three levels of conformance: Level A, Level AA, and Level AAA. Ricoh Group Websites are partially conformant with WCAG 2.2 Level AA. Partially conformant means that some parts of the content do not fully conform to the accessibility standard.</p>
+            </div>
+        </div>
+    </div>
+    <!-- /cp-HeadingWithText -->
+<!-- END Parts CP019HeadingTitleWithText -->
+
+<!-- START Parts CP019HeadingTitleWithText -->
+    <div class="cp-HeadingWithText cnt_max">
+        <div class="clm1">
+            <div class="clm">
+                                    <p><strong>Additional accessibility considerations</strong></p>
+                                    <p>Although we are not fully conformant with WCAG 2.2 Level AA at the time of evaluation, our goal is to achieve WCAG 2.2 Level AA conformance.</p>
+            </div>
+        </div>
+    </div>
+    <!-- /cp-HeadingWithText -->
+<!-- END Parts CP019HeadingTitleWithText -->
+
+<!-- START Parts CP019HeadingTitleWithText -->
+    <div class="cp-HeadingWithText cnt_max">
+        <div class="clm1">
+            <div class="clm">
+                                    <p><strong>Technical specifications</strong></p>
+                                    <p>Accessibility of Ricoh Group Websites relies on the following technologies to work with the particular combination of web browser and any assistive technologies or plugins installed on your computer:</p>
+            </div>
+        </div>
+    </div>
+    <!-- /cp-HeadingWithText -->
+<!-- END Parts CP019HeadingTitleWithText -->
+
+<!-- START Parts CP021ItemizeList -->
+    <div class="cp-List  cnt_max">
+        <div class="clm1">
+            <div class="clm">
+                <ul>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>JavaScript</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+<!-- END Parts CP021ItemizeList -->
+
+<!-- START Parts CP075SingleColumnText -->
+    <div class="cp-Paragraph cnt_max ">
+        <div class="clm1">
+            <div class="clm">
+                <p>These technologies are relied upon for conformance with the accessibility standards used.<br>
+&nbsp;</p>
+            </div>
+        </div>
+    </div>
+<!-- END Parts CP075SingleColumnText -->
+
+        </div>
+        <!-- END ANY COMPONENTS AREA -->
+        <!-- START FOOTER AREA -->
+        <div id="footer-area">
+                <div class="l-footer_container cp-CommonFooter" id="gl_footer">
+        
+<!-- START Parts CP033Breadcrumbs -->
+        <div class="cp-BreadcrumbsFooter">
+                <ul>
+                            <li><a href="../../">Home</a></li>
+                            <li class="act"><span>Accessibility Statement for Ricoh Group Websites</span></li>
+                </ul>
+        </div>
+<!-- END Parts CP033Breadcrumbs -->
+
+        
+        <footer class="gl-footer">
+  <div class="gl-footer-link-area">
+    <div class="gl-footer-link-area_inner">
+      <div class="gl-footer-link-area-pc">
+        <div class="gl-footer-link-area-pc_list">
+          <div class="gl-footer-link-area-pc_item">
+            <a href="../../about/" class="gl-footer-link-area-pc_link-hdg">About RICOH</a>
+            <ul class="gl-footer-link-area-pc_link-list">
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../about/">Vision</a></li>
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../about/">Company Overview</a></li>
+              </ul>
+          </div>
+          <div class="gl-footer-link-area-pc_item">
+            <a href="../../IR/" class="gl-footer-link-area-pc_link-hdg">Investor Relations</a>
+            <ul class="gl-footer-link-area-pc_link-list">
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../IR/news/">IR News</a></li>
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../IR/events/investors-meeting/">Corporate Strategy Meeting</a></li>
+              </ul>
+          </div>
+          <div class="gl-footer-link-area-pc_item">
+            <a href="../../sustainability/" class="gl-footer-link-area-pc_link-hdg">Sustainability</a>
+            <ul class="gl-footer-link-area-pc_link-list">
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../sustainability/environment/">Environment</a></li>
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../sustainability/society/">Society</a></li>
+              </ul>
+            </div>
+          <div class="gl-footer-link-area-pc_item">
+            <a href="../../technology/" class="gl-footer-link-area-pc_link-hdg">Technology</a>
+            <ul class="gl-footer-link-area-pc_link-list">
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../technology/rd/">Development</a></li>
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../technology/tech/">Ricoh's Technology</a></li>
+              </ul>
+            </div>
+          <div class="gl-footer-link-area-pc_item">
+            <a href="../../news/" class="gl-footer-link-area-pc_link-hdg">News</a>
+            <ul class="gl-footer-link-area-pc_link-list">
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../release/">News Release</a></li>
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../info/">Information</a></li>
+              </ul>
+          </div>
+        </div>
+      </div>
+      <div class="gl-footer-link-area-sp">
+        <ul class="gl-footer-link-area-sp_list">
+          <li class="gl-footer-link-area-sp_item"><a href="../../about/">About RICOH</a></li>
+          <li class="gl-footer-link-area-sp_item"><a href="../../IR/">Investor Relations</a></li>
+          <li class="gl-footer-link-area-sp_item"><a href="../../sustainability/">Sustainability</a></li>
+          <li class="gl-footer-link-area-sp_item"><a href="../../technology/">Technology</a></li>
+          <li class="gl-footer-link-area-sp_item"><a href="../../news/">News</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="gl-footer-area-01">
+    <div class="gl-footer-area-01_inner">
+      <div class="gl-footer-pageTop">
+        <a href="#top" class="gl-footer-pageTop_link js-top-button">Page Top</a>
+      </div>
+    </div><!-- /.gl-footer-area-01_inner -->
+  </div><!-- /.gl-footer-area-01 -->
+  <div class="gl-footer-area-02">
+    <div class="gl-footer-area-02_inner">
+      <div class="gl-footer-area-02_wrap">
+        <span class="hide">ここからこのサイトのサブメニュー</span>
+        <div class="gl-footer-utility">
+          <ul class="gl-footer-utility_inner">
+            <li class="gl-footer-utility_item"><a href="../../contact/" class="gl-footer-utility_link">Contact</a></li>
+            <li class="gl-footer-utility_item"><a href="../../privacy/" class="gl-footer-utility_link">Privacy policy</a></li>
+            <li class="gl-footer-utility_item"><a href="../" class="gl-footer-utility_link">Terms of use</a></li>
+            <li class="gl-footer-utility_item"><a href="" class="gl-footer-utility_link">Accessibility</a></li>
+            <li class="gl-footer-utility_item"><a href="../../sitemap/" class="gl-footer-utility_link">Sitemap</a></li>
+            <li class="gl-footer-utility_item">
+            </ul>
+        </div><!-- /.gl-footer-utility -->
+        <div class="gl-footer-copyright">
+          <div class="gl-footer-copyright_inner">
+            <small class="gl-footer-copyright_text">©&nbsp;Ricoh</small>
+          </div>
+        </div><!-- /.gl-footer-copyright -->
+      </div><!-- /.gl-footer-area-02_wrap -->
+    </div><!-- /.gl-footer-area-02_inner -->
+  </div><!-- /.gl-footer-area-02 -->
+</footer><!-- /.gl-footer -->
+    </div>
+
+        </div>
+        <!-- END FOOTER AREA -->
+        <!-- START BOTTOM SCRIPT AREA -->
+<!-- END BOTTOM SCRIPT AREA -->
+    </div>
+
+
+
+
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div><!-- RICOH_PAGE_SCRIPTS -->
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/jquery.min.js"></script>
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/JS/common.js"></script>
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/js/init.js"></script>
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/js/template.js"></script>
+</body><!-- START BOTTOM SCRIPT AREA2 --><!-- END BOTTOM SCRIPT AREA2 --></html>

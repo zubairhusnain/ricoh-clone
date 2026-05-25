@@ -1,0 +1,487 @@
+<?php
+declare(strict_types=1);
+require_once __DIR__ . '/../../../../base-url.php';
+rh_start_output_rewrite();
+?>
+<!DOCTYPE html><html lang="EN" class="js-on"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v3/css/template-global-addition2024.css">
+
+    <meta charset="utf-8">
+    <title>Trade Control / Governance | Global | Ricoh</title>
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<meta name="format-detection" content="telephone=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">    <meta charset="utf-8">
+<meta name="copyright" content="Copyright Ricoh Company Ltd.">                <meta name="description" content="[Ricoh Global Official Website] The Ricoh Group does an appropriate security and trade management to prevent terrorists or countries who don't follow international social rules from getting military weapons and general products that can be converted into weapons, or the technology required to develop them.">
+            <meta property="og:title" content="Governance | Global | Ricoh">
+            <meta property="og:image" content="https://www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/img/og-image.webp">
+            <meta property="og:type" content="website">
+            <meta property="og:description" content="[Ricoh Global Official Website] The Ricoh Group does an appropriate security and trade management to prevent terrorists or countries who don't follow international social rules from getting military weapons and general products that can be converted into weapons, or the technology required to develop them.">
+                    <meta property="og:country-name" content="Global">
+                    <link rel="canonical" href="">
+    <!-- START ICONFILE -->
+<link rel="icon" type="image/vnd.microsoft.icon" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Images/favicon.ico">
+<link rel="apple-touch-icon" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Images/apple_icon.png">
+<!-- END ICONFILE -->
+<!-- START SITECORE COMMON CSS -->
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/CSS/sc_common.css">
+<!--[if lt IE 9]>
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/css/old_ie.css">
+<![endif]-->
+<!-- END SITECORE COMMON CSS -->
+<!-- START SITECORE LOCALIZE CSS -->
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/CSS/gl_header_localize.css">
+<!-- END SITECORE LOCALIZE CSS -->
+<!-- START LIBRARY CSS AND JS -->
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/jquery.min.js"></script>
+
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/responsiveTabs/jquery.responsiveTabs.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/uniform/jquery.uniform.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/bxslider/jquery.bxslider.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/fancybox-v1.4.3/CSS/jquery.fancybox-1.3.4.css">
+<link rel="stylesheet" type="text/css" media="print" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/css/print.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/CSS/sc_common_us.css">
+
+<!-- START cmn_us_v1 CSS -->
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/css/import.css">
+<!--[if lt IE 9]>
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/css/old_ie.css" />
+<![endif]-->
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/css/module2015-chase-control.css">
+<!-- //////////ssi ex_component//////////// -->
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/css/ex_component.css">
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/css/module2015-chase-add.css">
+<!-- ///////// /ssi ex_component//////////// -->
+<!-- END cmn_us_v1 CSS -->
+
+<!-- サイト共通ヘッダーフッター CSS-->
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/css/template.css">
+<!-- サイト共通ヘッダーフッター CSS-->
+
+<!--OldDesign ConflictClear CSS -->
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/css/conflict_clear.css">
+<!--OldDesign ConflictClear CSS -->    <!-- Monotype -->
+<script type="text/javascript" src="/ricoh-clone/ricoh_offline/assets/cdn.fonts.net/kit/3c059441-5218-4b9b-974d-a8185a3bd584/3c059441-5218-4b9b-974d-a8185a3bd584_enhanced.js" async=""></script>
+<link rel="stylesheet" type="text/css" href="/ricoh-clone/ricoh_offline/assets/cdn.fonts.net/kit/3c059441-5218-4b9b-974d-a8185a3bd584/3c059441-5218-4b9b-974d-a8185a3bd584_enhanced.css">
+
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/jquery.tile.js"></script>
+    <script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/jquery.responsiveTabs.js"></script>
+    <script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/fancybox-v1.4.3/JS/jquery.fancybox-1.3.4.js"></script>
+    <script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/fancybox-control.js"></script>
+    <script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/velocity.min.js"></script>
+    <script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/jquery.uniform.js"></script>
+    <script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/jquery.bxslider.min.js"></script>
+    <script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v2/js/globalnavi.js"></script>
+    <!-- END LIBRARY CSS AND JS -->
+    <!-- START SITECORE COMMON JS -->
+    <!-- END SITECORE COMMON JS -->
+
+<!-- サイト共通ヘッダーフッターJS-->
+<!-- サイト共通ヘッダーフッターJS-->
+
+<!-- START cmn_us_v1 JS -->
+<!--<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/cmn_us_v1/js/naviactive.js"></script>-->
+<!-- END cmn_us_v1 JS -->    <link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_v1/css/import.css">
+<!-- START unique CSS -->
+<link rel="stylesheet" type="text/css" media="all" href="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/sustainability/cmn/css/cmn.css">
+<!-- END unique CSS -->    <!-- START unique JS -->
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/sustainability/cmn/js/cmn.js"></script><!-- END unique JS -->    
+</head>
+<body style="">
+<div id="wrapper">
+        <!-- START HEADER AREA -->
+        <div class="header-area">
+            <header class="gl-header -horizontal">
+    <span class="hide"></span>
+    <div class="gl-header_inner">
+        <div class="gl-header_logo">
+            <a href="../../../"><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/img/logo/logo.svg" alt="RICOH imagine. change." width="125" height="43"></a>
+        </div>
+
+        <div class="gl-header_menu">
+            <nav class="gl-menu js-global-menu" data-label="Menu" aria-label="Main navigation">
+                <div class="gl-menu_content fn-menu_hamburger-menu">
+                        <div class="gi-menu-globe">
+                            <a href="../../../gateway/" class="gi-menu_globe-btn">
+                                <span class="gi-menu_globe-txt">Country/Area Selector</span>
+                                <img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/img/icon/globe.svg" class="gi-menu_globe-icon" alt="Change Country/Area">
+                            </a>
+                        </div>
+                                                            <a class="hide" href="#contents">Skip to main content</a>
+                    <span class="hide">First level navigation</span>
+                    <ul class="gl-menu_main">
+<li>
+<a href="../../../about/" class="{37791300-1D98-4601-A34E-687E71DCCA2E} gl-menu_link  fn-menu_main"><span>About RICOH</span></a>
+
+</li>
+<li>
+<a href="../../../IR/" class="{419FD399-BE45-4B6F-A170-DDF4C563F180} gl-menu_link  fn-menu_main"><span>Investor Relations</span></a>
+
+</li>
+<li>
+<a href="../../" class="{1B1686A6-FFF5-472A-A359-7E48900444A1} gl-menu_link  fn-menu_main"><span>Sustainability</span></a>
+
+</li>
+<li>
+<a href="../../../products/" class="{C5764788-D65B-4D47-84F6-9EED5B48E30E} gl-menu_link  fn-menu_main"><span>Products</span></a>
+</li><li>
+<a href="../../../technology/" class="{269944AA-F9F1-450F-808A-5A0A25693389} gl-menu_link  fn-menu_main"><span>Technology</span></a>
+
+</li>
+<li>
+<a href="../../../support/" class="{CD078A07-1565-4DCA-8688-B247492DCA7B} gl-menu_link  fn-menu_main"><span>Support &amp; Downloads</span></a>
+</li><li>
+<a href="../../../news/" class="{0D2ED999-CA97-40DF-A541-17D96E4A0DF5} gl-menu_link  fn-menu_main"><span>News</span></a>
+
+</li>
+                    </ul>
+                </div>
+
+                <template class="fn-menu_tpl-hamburger">
+                    <button class="gl-menu_toggle-btn" data-alt-open="Open" data-alt-close="Close"><span class="hide">Menu</span></button>
+                </template>
+                <template class="fn-menu_tpl-back">
+                    <button class="gl-menu_back-btn">Home</button>
+                </template>
+                <template class="fn-menu_tpl-close">
+                    <button class="gl-menu_close-btn" data-alt-close="Close"></button>
+                </template>
+            </nav>
+        </div>
+
+        <div class="gl-header_utilities">
+                                                                            </div>
+    </div>
+</header>
+
+<!-- START Parts CP033Breadcrumbs -->
+        <div class="cp-BreadcrumbsHeader">
+<ul>
+                            <li><a href="../../../">Home</a></li>
+                            <li><a href="../../">Sustainability</a></li>
+<li>
+    <a href="../">Governance</a>
+  </li>
+                            <li class="act"><span>Trade Control</span></li>
+                </ul>            <div class="cp-ButtonArea">
+    
+</div>
+<!-- END Parts TopSocialButtonArea -->
+
+        </div>
+<!-- END Parts CP083BreadcrumbsHeader -->
+
+        </div>
+        <!-- END HEADER AREA -->
+        <!-- START ANY COMPONENTS AREA -->
+        <div id="contents" class="">
+            <span class="hide">Main content</span>
+            
+<!-- START Parts CP084MigrationRichText -->
+    <span class="hide">Main content</span>
+    <h1 class="hd01">Governance</h1>
+    <div class="sct_bg01 pt0">
+      <div class="cnt_max">
+        <div class="clm1">
+          <div class="clm">
+            <div class="contents_nv">
+              <p class="cnt_nv_ttl smallAccordionTitle"><a href="#">Menu</a></p>
+              <ul class="clm1 clm4 cnt_nv_lst rsp_break_clm2 tileSame smallAccordionContent">
+                <li class="clm"><a href="../governance/" class="tlSame01">Corporate Governance</a></li>
+                <li class="clm"><a href="../risk/" class="tlSame01">Risk Management</a></li>
+                <li class="clm"><a href="../compliance/" class="tlSame01">Compliance</a></li>
+                <li class="clm"><a href="../outside_director/" class="tlSame01">Directors</a></li>
+                <li class="clm"><a href="../audit_and_supervisory/" class="tlSame01">Audit and Supervisory Board</a></li>
+                <li class="clm"><a href="" class="tlSame01 act">Trade Control</a></li>
+                <li class="clm rsp_dsp_b"><span class="tlSame01"></span></li>
+                <li class="clm rsp_dsp_b"><span class="tlSame01"></span></li>
+              </ul>
+            <!--/contents_nv--></div>
+          </div>
+          <div class="clm">
+            <ul class="page_anc">
+              <li class="smoothScroll"><a href="#policy">Basic stance for Policy</a></li>
+              <!--/page_anc-->
+            </ul>
+          </div>
+        <!--/clm1--></div>
+      <!--/cnt_max--></div>
+    <!--/sct_bg--></div>
+<div class="sct_bg01">
+
+
+
+
+
+
+
+    <div class="cp-RichText cnt_max">
+      <div class="clm1">
+
+        <div class="clm mt16">
+          <h2 class="hd02" id="policy">Trade Control</h2>
+        </div>
+
+        <div class="clm">
+          <h2 class="hd02" id="policy">Basic stance for Policy</h2>
+        </div>
+
+        <div class="clm">
+          <h3 class="hd03">
+            Toward a sustainable society where people can live securely and in peace
+          </h3>
+        </div>
+
+        <div class="clm">
+          <p class="txt_idt mt16">
+            It is essential to have a social order where people can live peacefully and securely. Military weapons, including those capable of mass destruction, consumer products capable of being converted into weapons, or the technology to develop them, should not fall into the hands of terrorists or countries that disregard international social norms.
+          </p>
+
+          <p class="txt_idt mt16">
+            Therefore, most countries have ratified treaties regulating the use of weapons themselves to safeguard world peace. They have also created international export control frameworks, with each country taking responsibility for its efforts. That is Security Trade Control. 
+          </p>
+
+          <p class="txt_idt mt16">
+            Japan participates in all five international export control regimes, and security trade controls are implemented following the Foreign Exchange and Foreign Trade Law. The Ricoh Group is headquartered in Japan.
+          </p>
+
+          <p class="mt16">
+            <a href="https://www.meti.go.jp/policy/anpo/englishpage.html" target="_blank" class="ico_nml right">（Ministry of Economy, Trade and Industry）Security Export Control System in Japan</a>
+          </p>
+        </div>
+
+        <div class="clm mt16">
+          <p class="fw_b">
+            International Export Management regimes<br>
+            Manage trading of 'conventional weapon' and 'general-purpose products which used the development weapons of mass destruction'.
+          </p>
+          <table class="nml al_c" summary="" style="margin-top:1em;">
+            <thead>
+              <tr>
+                <th class="fw_b al_c">
+                  Regime Name
+                </th>
+                <th class="fw_b al_c">
+                  Targeted Weapons
+                </th>
+                <th class="fw_b al_c">
+                  Japan Participates
+                </th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th>Nuclear&nbsp;Suppliers&nbsp;Group</th>
+                <td class="al_c">Nuclear&nbsp;Weapons&nbsp;related</td>
+                <td class="al_c">〇</td>
+              </tr>
+              <tr>
+                <th>Zangger&nbsp;Committee</th>
+                <td class="al_c">Nuclear&nbsp;Weapons&nbsp;related</td>
+                <td class="al_c">〇</td>
+              </tr>
+              <tr>
+                <th>Australia&nbsp;Group</th>
+                <td class="al_c">Biochemical weapons&nbsp;related</td>
+                <td class="al_c">〇</td>
+              </tr>
+              <tr>
+                <th>Missile Technology Control Regime</th>
+                <td class="al_c">Missile-related materials&nbsp;&amp; Technology Conventional weapons related</td>
+                <td class="al_c">〇</td>
+              </tr>
+              <tr>
+                <th>Wassenaar Arangement</th>
+                <td class="al_c">Conventional weapons related</td>
+                <td class="al_c">〇</td>
+              </tr>
+            </tbody>
+          </table>
+
+          <p class="mt16">
+            <a href="https://www.mofa.go.jp/policy/un/disarmament/arms/index.html" target="_blank" class="ico_nml right">（Ministry of Foreign Affairs）Nuclear Disarmament and Non-Proliferation</a>
+          </p>
+
+        </div>
+      </div>
+
+      <div class="clm mt40">
+        <h3 class="hd03">
+          Security Trade Control for RICOH group
+        </h3>
+      </div>
+
+      <div class="clm1 clm2 rsp_break_clm1 tileSame">
+        <div class="clm mt16">
+          <p class="txt_idt mt8">
+            In order to fulfill our responsibility to create a sustainable society based on “The RICOH Way”, all executives and employees of the Ricoh Group are committed to appropriate security and trade control, including filing the " Import/Export Control Internal Compliance Program (CP)" with the Ministry of Economy, Trade and Industry.
+          </p>
+        </div>
+        
+        <div class="clm mt16">
+          <p><img src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Sites/com/governance/img/trade_figure1_en.jpg" class="w100p"></p>
+        </div>
+      </div>
+
+      <div class="clm1">
+        <div class="clm">
+          <p class="page_top smoothScroll"><a href="#wrapper">Page Top</a></p>
+        </div>
+      </div>
+
+    </div>
+
+
+
+
+
+
+
+<!--/sct_bg--></div>
+
+
+
+
+
+    <div class="sct_bg01">
+      <div class="cnt_max">
+        <div class="clm1">
+          <div class="clm">
+            <div class="contents_nv btm">
+              <p class="cnt_nv_ttl"><a href="#">Menu</a></p>
+              <ul class="clm1 clm4 cnt_nv_lst rsp_break_clm2 tileSame smallAccordionContent">
+                <li class="clm"><a href="../governance/" class="tlSame01 act">Corporate Governance</a></li>
+                <li class="clm"><a href="../risk/" class="tlSame01">Risk Management</a></li>
+                <li class="clm"><a href="../compliance/" class="tlSame01">Compliance</a></li>
+                <li class="clm"><a href="../outside_director/" class="tlSame01">Directors</a></li>
+                <li class="clm"><a href="../audit_and_supervisory/" class="tlSame01">Audit and Supervisory Board</a></li>
+                <li class="clm"><a href="" class="tlSame01 act">Trade Control</a></li>
+                <li class="clm rsp_dsp_b"><span class="tlSame01"></span></li>
+                <li class="clm rsp_dsp_b"><span class="tlSame01"></span></li>
+              </ul>
+            <!--/contents_nv--></div>
+          </div>
+        <!--/clm1--></div>
+      <!--/cnt_max--></div>
+    <!--/sct_bg--></div>
+<!-- END Parts CP084MigrationRichText -->
+
+        </div>
+        <!-- END ANY COMPONENTS AREA -->
+        <!-- START FOOTER AREA -->
+        <div id="footer-area">
+                <div class="l-footer_container cp-CommonFooter" id="gl_footer">
+        
+<!-- START Parts CP033Breadcrumbs -->
+        <div class="cp-BreadcrumbsFooter">
+<ul>
+                            <li><a href="../../../">Home</a></li>
+                            <li><a href="../../">Sustainability</a></li>
+<li>
+    <a href="../">Governance</a>
+  </li>
+                            <li class="act"><span>Trade Control</span></li>
+                </ul>        </div>
+<!-- END Parts CP033Breadcrumbs -->
+
+        
+        <footer class="gl-footer">
+  <div class="gl-footer-link-area">
+    <div class="gl-footer-link-area_inner">
+      <div class="gl-footer-link-area-pc">
+        <div class="gl-footer-link-area-pc_list">
+          <div class="gl-footer-link-area-pc_item">
+            <a href="../../../about/" class="gl-footer-link-area-pc_link-hdg">About RICOH</a>
+            <ul class="gl-footer-link-area-pc_link-list">
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../about/">Vision</a></li>
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../about/">Company Overview</a></li>
+              </ul>
+          </div>
+          <div class="gl-footer-link-area-pc_item">
+            <a href="../../../IR/" class="gl-footer-link-area-pc_link-hdg">Investor Relations</a>
+            <ul class="gl-footer-link-area-pc_link-list">
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../IR/news/">IR News</a></li>
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../IR/events/investors-meeting/">Corporate Strategy Meeting</a></li>
+              </ul>
+          </div>
+          <div class="gl-footer-link-area-pc_item">
+            <a href="../../" class="gl-footer-link-area-pc_link-hdg">Sustainability</a>
+            <ul class="gl-footer-link-area-pc_link-list">
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../environment/">Environment</a></li>
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../society/">Society</a></li>
+              </ul>
+            </div>
+          <div class="gl-footer-link-area-pc_item">
+            <a href="../../../technology/" class="gl-footer-link-area-pc_link-hdg">Technology</a>
+            <ul class="gl-footer-link-area-pc_link-list">
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../technology/rd/">Development</a></li>
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../technology/tech/">Ricoh's Technology</a></li>
+              </ul>
+            </div>
+          <div class="gl-footer-link-area-pc_item">
+            <a href="../../../news/" class="gl-footer-link-area-pc_link-hdg">News</a>
+            <ul class="gl-footer-link-area-pc_link-list">
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../release/">News Release</a></li>
+              <li class="gl-footer-link-area-pc_link-item"><a href="../../../info/">Information</a></li>
+              </ul>
+          </div>
+        </div>
+      </div>
+      <div class="gl-footer-link-area-sp">
+        <ul class="gl-footer-link-area-sp_list">
+          <li class="gl-footer-link-area-sp_item"><a href="../../../about/">About RICOH</a></li>
+          <li class="gl-footer-link-area-sp_item"><a href="../../../IR/">Investor Relations</a></li>
+          <li class="gl-footer-link-area-sp_item"><a href="../../">Sustainability</a></li>
+          <li class="gl-footer-link-area-sp_item"><a href="../../../technology/">Technology</a></li>
+          <li class="gl-footer-link-area-sp_item"><a href="../../../news/">News</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="gl-footer-area-01">
+    <div class="gl-footer-area-01_inner">
+      <div class="gl-footer-pageTop">
+        <a href="#top" class="gl-footer-pageTop_link js-top-button">Page Top</a>
+      </div>
+    </div><!-- /.gl-footer-area-01_inner -->
+  </div><!-- /.gl-footer-area-01 -->
+  <div class="gl-footer-area-02">
+    <div class="gl-footer-area-02_inner">
+      <div class="gl-footer-area-02_wrap">
+        <span class="hide">ここからこのサイトのサブメニュー</span>
+        <div class="gl-footer-utility">
+          <ul class="gl-footer-utility_inner">
+            <li class="gl-footer-utility_item"><a href="../../../contact/" class="gl-footer-utility_link">Contact</a></li>
+            <li class="gl-footer-utility_item"><a href="../../../privacy/" class="gl-footer-utility_link">Privacy policy</a></li>
+            <li class="gl-footer-utility_item"><a href="../../../terms-of-use/" class="gl-footer-utility_link">Terms of use</a></li>
+            <li class="gl-footer-utility_item"><a href="../../../terms-of-use/accessibility/" class="gl-footer-utility_link">Accessibility</a></li>
+            <li class="gl-footer-utility_item"><a href="../../../sitemap/" class="gl-footer-utility_link">Sitemap</a></li>
+            <li class="gl-footer-utility_item">
+            </ul>
+        </div><!-- /.gl-footer-utility -->
+        <div class="gl-footer-copyright">
+          <div class="gl-footer-copyright_inner">
+            <small class="gl-footer-copyright_text">©&nbsp;Ricoh</small>
+          </div>
+        </div><!-- /.gl-footer-copyright -->
+      </div><!-- /.gl-footer-area-02_wrap -->
+    </div><!-- /.gl-footer-area-02_inner -->
+  </div><!-- /.gl-footer-area-02 -->
+</footer><!-- /.gl-footer -->
+    </div>
+
+        </div>
+        <!-- END FOOTER AREA -->
+        <!-- START BOTTOM SCRIPT AREA -->
+<script src="/ricoh-clone/ricoh_offline/assets/s7.addthis.com/js/300/addthis_widget.js" async=""></script>        <!-- END BOTTOM SCRIPT AREA -->
+    </div>
+
+
+
+
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div><!-- RICOH_PAGE_SCRIPTS -->
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/Lib/jquery.min.js"></script>
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/ScAssets/System/JS/common.js"></script>
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/js/init.js"></script>
+<script src="/ricoh-clone/ricoh_offline/assets/www.ricoh.com/-/Media/Ricoh/Common/cmn_g_header_footer/js/template.js"></script>
+</body><!-- START BOTTOM SCRIPT AREA2 --><!-- END BOTTOM SCRIPT AREA2 --></html>
